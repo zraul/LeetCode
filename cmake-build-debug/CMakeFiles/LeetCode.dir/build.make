@@ -43,10 +43,10 @@ RM = /Applications/CLion.app/Contents/bin/cmake/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /Users/zhengwei/CProject/LeetCode
+CMAKE_SOURCE_DIR = /Volumes/ZWHD/github/LeetCode
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /Users/zhengwei/CProject/LeetCode/cmake-build-debug
+CMAKE_BINARY_DIR = /Volumes/ZWHD/github/LeetCode/cmake-build-debug
 
 # Include any dependencies generated for this target.
 include CMakeFiles/LeetCode.dir/depend.make
@@ -59,16 +59,16 @@ include CMakeFiles/LeetCode.dir/flags.make
 
 CMakeFiles/LeetCode.dir/main.cpp.o: CMakeFiles/LeetCode.dir/flags.make
 CMakeFiles/LeetCode.dir/main.cpp.o: ../main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zhengwei/CProject/LeetCode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/LeetCode.dir/main.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/LeetCode.dir/main.cpp.o -c /Users/zhengwei/CProject/LeetCode/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Volumes/ZWHD/github/LeetCode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/LeetCode.dir/main.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/LeetCode.dir/main.cpp.o -c /Volumes/ZWHD/github/LeetCode/main.cpp
 
 CMakeFiles/LeetCode.dir/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/main.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zhengwei/CProject/LeetCode/main.cpp > CMakeFiles/LeetCode.dir/main.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Volumes/ZWHD/github/LeetCode/main.cpp > CMakeFiles/LeetCode.dir/main.cpp.i
 
 CMakeFiles/LeetCode.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/main.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zhengwei/CProject/LeetCode/main.cpp -o CMakeFiles/LeetCode.dir/main.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Volumes/ZWHD/github/LeetCode/main.cpp -o CMakeFiles/LeetCode.dir/main.cpp.s
 
 CMakeFiles/LeetCode.dir/main.cpp.o.requires:
 
@@ -81,17 +81,225 @@ CMakeFiles/LeetCode.dir/main.cpp.o.provides: CMakeFiles/LeetCode.dir/main.cpp.o.
 CMakeFiles/LeetCode.dir/main.cpp.o.provides.build: CMakeFiles/LeetCode.dir/main.cpp.o
 
 
+CMakeFiles/LeetCode.dir/Two-Sum/twosum.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/Two-Sum/twosum.cpp.o: ../Two-Sum/twosum.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Volumes/ZWHD/github/LeetCode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/LeetCode.dir/Two-Sum/twosum.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/LeetCode.dir/Two-Sum/twosum.cpp.o -c /Volumes/ZWHD/github/LeetCode/Two-Sum/twosum.cpp
+
+CMakeFiles/LeetCode.dir/Two-Sum/twosum.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/Two-Sum/twosum.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Volumes/ZWHD/github/LeetCode/Two-Sum/twosum.cpp > CMakeFiles/LeetCode.dir/Two-Sum/twosum.cpp.i
+
+CMakeFiles/LeetCode.dir/Two-Sum/twosum.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Two-Sum/twosum.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Volumes/ZWHD/github/LeetCode/Two-Sum/twosum.cpp -o CMakeFiles/LeetCode.dir/Two-Sum/twosum.cpp.s
+
+CMakeFiles/LeetCode.dir/Two-Sum/twosum.cpp.o.requires:
+
+.PHONY : CMakeFiles/LeetCode.dir/Two-Sum/twosum.cpp.o.requires
+
+CMakeFiles/LeetCode.dir/Two-Sum/twosum.cpp.o.provides: CMakeFiles/LeetCode.dir/Two-Sum/twosum.cpp.o.requires
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Two-Sum/twosum.cpp.o.provides.build
+.PHONY : CMakeFiles/LeetCode.dir/Two-Sum/twosum.cpp.o.provides
+
+CMakeFiles/LeetCode.dir/Two-Sum/twosum.cpp.o.provides.build: CMakeFiles/LeetCode.dir/Two-Sum/twosum.cpp.o
+
+
+CMakeFiles/LeetCode.dir/AddTwoNumbers/AddTwoNumbers.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/AddTwoNumbers/AddTwoNumbers.cpp.o: ../AddTwoNumbers/AddTwoNumbers.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Volumes/ZWHD/github/LeetCode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/LeetCode.dir/AddTwoNumbers/AddTwoNumbers.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/LeetCode.dir/AddTwoNumbers/AddTwoNumbers.cpp.o -c /Volumes/ZWHD/github/LeetCode/AddTwoNumbers/AddTwoNumbers.cpp
+
+CMakeFiles/LeetCode.dir/AddTwoNumbers/AddTwoNumbers.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/AddTwoNumbers/AddTwoNumbers.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Volumes/ZWHD/github/LeetCode/AddTwoNumbers/AddTwoNumbers.cpp > CMakeFiles/LeetCode.dir/AddTwoNumbers/AddTwoNumbers.cpp.i
+
+CMakeFiles/LeetCode.dir/AddTwoNumbers/AddTwoNumbers.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/AddTwoNumbers/AddTwoNumbers.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Volumes/ZWHD/github/LeetCode/AddTwoNumbers/AddTwoNumbers.cpp -o CMakeFiles/LeetCode.dir/AddTwoNumbers/AddTwoNumbers.cpp.s
+
+CMakeFiles/LeetCode.dir/AddTwoNumbers/AddTwoNumbers.cpp.o.requires:
+
+.PHONY : CMakeFiles/LeetCode.dir/AddTwoNumbers/AddTwoNumbers.cpp.o.requires
+
+CMakeFiles/LeetCode.dir/AddTwoNumbers/AddTwoNumbers.cpp.o.provides: CMakeFiles/LeetCode.dir/AddTwoNumbers/AddTwoNumbers.cpp.o.requires
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/AddTwoNumbers/AddTwoNumbers.cpp.o.provides.build
+.PHONY : CMakeFiles/LeetCode.dir/AddTwoNumbers/AddTwoNumbers.cpp.o.provides
+
+CMakeFiles/LeetCode.dir/AddTwoNumbers/AddTwoNumbers.cpp.o.provides.build: CMakeFiles/LeetCode.dir/AddTwoNumbers/AddTwoNumbers.cpp.o
+
+
+CMakeFiles/LeetCode.dir/LongestSubString/LongestSubString.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/LongestSubString/LongestSubString.cpp.o: ../LongestSubString/LongestSubString.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Volumes/ZWHD/github/LeetCode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/LeetCode.dir/LongestSubString/LongestSubString.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/LeetCode.dir/LongestSubString/LongestSubString.cpp.o -c /Volumes/ZWHD/github/LeetCode/LongestSubString/LongestSubString.cpp
+
+CMakeFiles/LeetCode.dir/LongestSubString/LongestSubString.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/LongestSubString/LongestSubString.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Volumes/ZWHD/github/LeetCode/LongestSubString/LongestSubString.cpp > CMakeFiles/LeetCode.dir/LongestSubString/LongestSubString.cpp.i
+
+CMakeFiles/LeetCode.dir/LongestSubString/LongestSubString.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/LongestSubString/LongestSubString.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Volumes/ZWHD/github/LeetCode/LongestSubString/LongestSubString.cpp -o CMakeFiles/LeetCode.dir/LongestSubString/LongestSubString.cpp.s
+
+CMakeFiles/LeetCode.dir/LongestSubString/LongestSubString.cpp.o.requires:
+
+.PHONY : CMakeFiles/LeetCode.dir/LongestSubString/LongestSubString.cpp.o.requires
+
+CMakeFiles/LeetCode.dir/LongestSubString/LongestSubString.cpp.o.provides: CMakeFiles/LeetCode.dir/LongestSubString/LongestSubString.cpp.o.requires
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/LongestSubString/LongestSubString.cpp.o.provides.build
+.PHONY : CMakeFiles/LeetCode.dir/LongestSubString/LongestSubString.cpp.o.provides
+
+CMakeFiles/LeetCode.dir/LongestSubString/LongestSubString.cpp.o.provides.build: CMakeFiles/LeetCode.dir/LongestSubString/LongestSubString.cpp.o
+
+
+CMakeFiles/LeetCode.dir/MedianTwoSortedArrays/MedianTwoSortedArrays.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/MedianTwoSortedArrays/MedianTwoSortedArrays.cpp.o: ../MedianTwoSortedArrays/MedianTwoSortedArrays.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Volumes/ZWHD/github/LeetCode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/LeetCode.dir/MedianTwoSortedArrays/MedianTwoSortedArrays.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/LeetCode.dir/MedianTwoSortedArrays/MedianTwoSortedArrays.cpp.o -c /Volumes/ZWHD/github/LeetCode/MedianTwoSortedArrays/MedianTwoSortedArrays.cpp
+
+CMakeFiles/LeetCode.dir/MedianTwoSortedArrays/MedianTwoSortedArrays.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/MedianTwoSortedArrays/MedianTwoSortedArrays.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Volumes/ZWHD/github/LeetCode/MedianTwoSortedArrays/MedianTwoSortedArrays.cpp > CMakeFiles/LeetCode.dir/MedianTwoSortedArrays/MedianTwoSortedArrays.cpp.i
+
+CMakeFiles/LeetCode.dir/MedianTwoSortedArrays/MedianTwoSortedArrays.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/MedianTwoSortedArrays/MedianTwoSortedArrays.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Volumes/ZWHD/github/LeetCode/MedianTwoSortedArrays/MedianTwoSortedArrays.cpp -o CMakeFiles/LeetCode.dir/MedianTwoSortedArrays/MedianTwoSortedArrays.cpp.s
+
+CMakeFiles/LeetCode.dir/MedianTwoSortedArrays/MedianTwoSortedArrays.cpp.o.requires:
+
+.PHONY : CMakeFiles/LeetCode.dir/MedianTwoSortedArrays/MedianTwoSortedArrays.cpp.o.requires
+
+CMakeFiles/LeetCode.dir/MedianTwoSortedArrays/MedianTwoSortedArrays.cpp.o.provides: CMakeFiles/LeetCode.dir/MedianTwoSortedArrays/MedianTwoSortedArrays.cpp.o.requires
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/MedianTwoSortedArrays/MedianTwoSortedArrays.cpp.o.provides.build
+.PHONY : CMakeFiles/LeetCode.dir/MedianTwoSortedArrays/MedianTwoSortedArrays.cpp.o.provides
+
+CMakeFiles/LeetCode.dir/MedianTwoSortedArrays/MedianTwoSortedArrays.cpp.o.provides.build: CMakeFiles/LeetCode.dir/MedianTwoSortedArrays/MedianTwoSortedArrays.cpp.o
+
+
+CMakeFiles/LeetCode.dir/ZigZag/ZigZag.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/ZigZag/ZigZag.cpp.o: ../ZigZag/ZigZag.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Volumes/ZWHD/github/LeetCode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/LeetCode.dir/ZigZag/ZigZag.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/LeetCode.dir/ZigZag/ZigZag.cpp.o -c /Volumes/ZWHD/github/LeetCode/ZigZag/ZigZag.cpp
+
+CMakeFiles/LeetCode.dir/ZigZag/ZigZag.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/ZigZag/ZigZag.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Volumes/ZWHD/github/LeetCode/ZigZag/ZigZag.cpp > CMakeFiles/LeetCode.dir/ZigZag/ZigZag.cpp.i
+
+CMakeFiles/LeetCode.dir/ZigZag/ZigZag.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/ZigZag/ZigZag.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Volumes/ZWHD/github/LeetCode/ZigZag/ZigZag.cpp -o CMakeFiles/LeetCode.dir/ZigZag/ZigZag.cpp.s
+
+CMakeFiles/LeetCode.dir/ZigZag/ZigZag.cpp.o.requires:
+
+.PHONY : CMakeFiles/LeetCode.dir/ZigZag/ZigZag.cpp.o.requires
+
+CMakeFiles/LeetCode.dir/ZigZag/ZigZag.cpp.o.provides: CMakeFiles/LeetCode.dir/ZigZag/ZigZag.cpp.o.requires
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/ZigZag/ZigZag.cpp.o.provides.build
+.PHONY : CMakeFiles/LeetCode.dir/ZigZag/ZigZag.cpp.o.provides
+
+CMakeFiles/LeetCode.dir/ZigZag/ZigZag.cpp.o.provides.build: CMakeFiles/LeetCode.dir/ZigZag/ZigZag.cpp.o
+
+
+CMakeFiles/LeetCode.dir/ReverseInteger/ReverseInteger.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/ReverseInteger/ReverseInteger.cpp.o: ../ReverseInteger/ReverseInteger.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Volumes/ZWHD/github/LeetCode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/LeetCode.dir/ReverseInteger/ReverseInteger.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/LeetCode.dir/ReverseInteger/ReverseInteger.cpp.o -c /Volumes/ZWHD/github/LeetCode/ReverseInteger/ReverseInteger.cpp
+
+CMakeFiles/LeetCode.dir/ReverseInteger/ReverseInteger.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/ReverseInteger/ReverseInteger.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Volumes/ZWHD/github/LeetCode/ReverseInteger/ReverseInteger.cpp > CMakeFiles/LeetCode.dir/ReverseInteger/ReverseInteger.cpp.i
+
+CMakeFiles/LeetCode.dir/ReverseInteger/ReverseInteger.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/ReverseInteger/ReverseInteger.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Volumes/ZWHD/github/LeetCode/ReverseInteger/ReverseInteger.cpp -o CMakeFiles/LeetCode.dir/ReverseInteger/ReverseInteger.cpp.s
+
+CMakeFiles/LeetCode.dir/ReverseInteger/ReverseInteger.cpp.o.requires:
+
+.PHONY : CMakeFiles/LeetCode.dir/ReverseInteger/ReverseInteger.cpp.o.requires
+
+CMakeFiles/LeetCode.dir/ReverseInteger/ReverseInteger.cpp.o.provides: CMakeFiles/LeetCode.dir/ReverseInteger/ReverseInteger.cpp.o.requires
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/ReverseInteger/ReverseInteger.cpp.o.provides.build
+.PHONY : CMakeFiles/LeetCode.dir/ReverseInteger/ReverseInteger.cpp.o.provides
+
+CMakeFiles/LeetCode.dir/ReverseInteger/ReverseInteger.cpp.o.provides.build: CMakeFiles/LeetCode.dir/ReverseInteger/ReverseInteger.cpp.o
+
+
+CMakeFiles/LeetCode.dir/MyAtoi/MyAtoi.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/MyAtoi/MyAtoi.cpp.o: ../MyAtoi/MyAtoi.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Volumes/ZWHD/github/LeetCode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/LeetCode.dir/MyAtoi/MyAtoi.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/LeetCode.dir/MyAtoi/MyAtoi.cpp.o -c /Volumes/ZWHD/github/LeetCode/MyAtoi/MyAtoi.cpp
+
+CMakeFiles/LeetCode.dir/MyAtoi/MyAtoi.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/MyAtoi/MyAtoi.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Volumes/ZWHD/github/LeetCode/MyAtoi/MyAtoi.cpp > CMakeFiles/LeetCode.dir/MyAtoi/MyAtoi.cpp.i
+
+CMakeFiles/LeetCode.dir/MyAtoi/MyAtoi.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/MyAtoi/MyAtoi.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Volumes/ZWHD/github/LeetCode/MyAtoi/MyAtoi.cpp -o CMakeFiles/LeetCode.dir/MyAtoi/MyAtoi.cpp.s
+
+CMakeFiles/LeetCode.dir/MyAtoi/MyAtoi.cpp.o.requires:
+
+.PHONY : CMakeFiles/LeetCode.dir/MyAtoi/MyAtoi.cpp.o.requires
+
+CMakeFiles/LeetCode.dir/MyAtoi/MyAtoi.cpp.o.provides: CMakeFiles/LeetCode.dir/MyAtoi/MyAtoi.cpp.o.requires
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/MyAtoi/MyAtoi.cpp.o.provides.build
+.PHONY : CMakeFiles/LeetCode.dir/MyAtoi/MyAtoi.cpp.o.provides
+
+CMakeFiles/LeetCode.dir/MyAtoi/MyAtoi.cpp.o.provides.build: CMakeFiles/LeetCode.dir/MyAtoi/MyAtoi.cpp.o
+
+
+CMakeFiles/LeetCode.dir/RemoveDuplicates/RemoveDuplicates.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/RemoveDuplicates/RemoveDuplicates.cpp.o: ../RemoveDuplicates/RemoveDuplicates.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Volumes/ZWHD/github/LeetCode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/LeetCode.dir/RemoveDuplicates/RemoveDuplicates.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/LeetCode.dir/RemoveDuplicates/RemoveDuplicates.cpp.o -c /Volumes/ZWHD/github/LeetCode/RemoveDuplicates/RemoveDuplicates.cpp
+
+CMakeFiles/LeetCode.dir/RemoveDuplicates/RemoveDuplicates.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/RemoveDuplicates/RemoveDuplicates.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Volumes/ZWHD/github/LeetCode/RemoveDuplicates/RemoveDuplicates.cpp > CMakeFiles/LeetCode.dir/RemoveDuplicates/RemoveDuplicates.cpp.i
+
+CMakeFiles/LeetCode.dir/RemoveDuplicates/RemoveDuplicates.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/RemoveDuplicates/RemoveDuplicates.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Volumes/ZWHD/github/LeetCode/RemoveDuplicates/RemoveDuplicates.cpp -o CMakeFiles/LeetCode.dir/RemoveDuplicates/RemoveDuplicates.cpp.s
+
+CMakeFiles/LeetCode.dir/RemoveDuplicates/RemoveDuplicates.cpp.o.requires:
+
+.PHONY : CMakeFiles/LeetCode.dir/RemoveDuplicates/RemoveDuplicates.cpp.o.requires
+
+CMakeFiles/LeetCode.dir/RemoveDuplicates/RemoveDuplicates.cpp.o.provides: CMakeFiles/LeetCode.dir/RemoveDuplicates/RemoveDuplicates.cpp.o.requires
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/RemoveDuplicates/RemoveDuplicates.cpp.o.provides.build
+.PHONY : CMakeFiles/LeetCode.dir/RemoveDuplicates/RemoveDuplicates.cpp.o.provides
+
+CMakeFiles/LeetCode.dir/RemoveDuplicates/RemoveDuplicates.cpp.o.provides.build: CMakeFiles/LeetCode.dir/RemoveDuplicates/RemoveDuplicates.cpp.o
+
+
 # Object files for target LeetCode
 LeetCode_OBJECTS = \
-"CMakeFiles/LeetCode.dir/main.cpp.o"
+"CMakeFiles/LeetCode.dir/main.cpp.o" \
+"CMakeFiles/LeetCode.dir/Two-Sum/twosum.cpp.o" \
+"CMakeFiles/LeetCode.dir/AddTwoNumbers/AddTwoNumbers.cpp.o" \
+"CMakeFiles/LeetCode.dir/LongestSubString/LongestSubString.cpp.o" \
+"CMakeFiles/LeetCode.dir/MedianTwoSortedArrays/MedianTwoSortedArrays.cpp.o" \
+"CMakeFiles/LeetCode.dir/ZigZag/ZigZag.cpp.o" \
+"CMakeFiles/LeetCode.dir/ReverseInteger/ReverseInteger.cpp.o" \
+"CMakeFiles/LeetCode.dir/MyAtoi/MyAtoi.cpp.o" \
+"CMakeFiles/LeetCode.dir/RemoveDuplicates/RemoveDuplicates.cpp.o"
 
 # External object files for target LeetCode
 LeetCode_EXTERNAL_OBJECTS =
 
 LeetCode: CMakeFiles/LeetCode.dir/main.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/Two-Sum/twosum.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/AddTwoNumbers/AddTwoNumbers.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/LongestSubString/LongestSubString.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/MedianTwoSortedArrays/MedianTwoSortedArrays.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/ZigZag/ZigZag.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/ReverseInteger/ReverseInteger.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/MyAtoi/MyAtoi.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/RemoveDuplicates/RemoveDuplicates.cpp.o
 LeetCode: CMakeFiles/LeetCode.dir/build.make
 LeetCode: CMakeFiles/LeetCode.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/zhengwei/CProject/LeetCode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable LeetCode"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Volumes/ZWHD/github/LeetCode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Linking CXX executable LeetCode"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/LeetCode.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -100,6 +308,14 @@ CMakeFiles/LeetCode.dir/build: LeetCode
 .PHONY : CMakeFiles/LeetCode.dir/build
 
 CMakeFiles/LeetCode.dir/requires: CMakeFiles/LeetCode.dir/main.cpp.o.requires
+CMakeFiles/LeetCode.dir/requires: CMakeFiles/LeetCode.dir/Two-Sum/twosum.cpp.o.requires
+CMakeFiles/LeetCode.dir/requires: CMakeFiles/LeetCode.dir/AddTwoNumbers/AddTwoNumbers.cpp.o.requires
+CMakeFiles/LeetCode.dir/requires: CMakeFiles/LeetCode.dir/LongestSubString/LongestSubString.cpp.o.requires
+CMakeFiles/LeetCode.dir/requires: CMakeFiles/LeetCode.dir/MedianTwoSortedArrays/MedianTwoSortedArrays.cpp.o.requires
+CMakeFiles/LeetCode.dir/requires: CMakeFiles/LeetCode.dir/ZigZag/ZigZag.cpp.o.requires
+CMakeFiles/LeetCode.dir/requires: CMakeFiles/LeetCode.dir/ReverseInteger/ReverseInteger.cpp.o.requires
+CMakeFiles/LeetCode.dir/requires: CMakeFiles/LeetCode.dir/MyAtoi/MyAtoi.cpp.o.requires
+CMakeFiles/LeetCode.dir/requires: CMakeFiles/LeetCode.dir/RemoveDuplicates/RemoveDuplicates.cpp.o.requires
 
 .PHONY : CMakeFiles/LeetCode.dir/requires
 
@@ -108,6 +324,6 @@ CMakeFiles/LeetCode.dir/clean:
 .PHONY : CMakeFiles/LeetCode.dir/clean
 
 CMakeFiles/LeetCode.dir/depend:
-	cd /Users/zhengwei/CProject/LeetCode/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /Users/zhengwei/CProject/LeetCode /Users/zhengwei/CProject/LeetCode /Users/zhengwei/CProject/LeetCode/cmake-build-debug /Users/zhengwei/CProject/LeetCode/cmake-build-debug /Users/zhengwei/CProject/LeetCode/cmake-build-debug/CMakeFiles/LeetCode.dir/DependInfo.cmake --color=$(COLOR)
+	cd /Volumes/ZWHD/github/LeetCode/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /Volumes/ZWHD/github/LeetCode /Volumes/ZWHD/github/LeetCode /Volumes/ZWHD/github/LeetCode/cmake-build-debug /Volumes/ZWHD/github/LeetCode/cmake-build-debug /Volumes/ZWHD/github/LeetCode/cmake-build-debug/CMakeFiles/LeetCode.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/LeetCode.dir/depend
 

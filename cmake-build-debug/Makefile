@@ -48,10 +48,10 @@ RM = /Applications/CLion.app/Contents/bin/cmake/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /Users/zhengwei/CProject/LeetCode
+CMAKE_SOURCE_DIR = /Volumes/ZWHD/github/LeetCode
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /Users/zhengwei/CProject/LeetCode/cmake-build-debug
+CMAKE_BINARY_DIR = /Volumes/ZWHD/github/LeetCode/cmake-build-debug
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -80,9 +80,9 @@ edit_cache/fast: edit_cache
 
 # The main all target
 all: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/zhengwei/CProject/LeetCode/cmake-build-debug/CMakeFiles /Users/zhengwei/CProject/LeetCode/cmake-build-debug/CMakeFiles/progress.marks
+	$(CMAKE_COMMAND) -E cmake_progress_start /Volumes/ZWHD/github/LeetCode/cmake-build-debug/CMakeFiles /Volumes/ZWHD/github/LeetCode/cmake-build-debug/CMakeFiles/progress.marks
 	$(MAKE) -f CMakeFiles/Makefile2 all
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/zhengwei/CProject/LeetCode/cmake-build-debug/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /Volumes/ZWHD/github/LeetCode/cmake-build-debug/CMakeFiles 0
 .PHONY : all
 
 # The main clean target
@@ -123,6 +123,222 @@ LeetCode/fast:
 	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/build
 .PHONY : LeetCode/fast
 
+AddTwoNumbers/AddTwoNumbers.o: AddTwoNumbers/AddTwoNumbers.cpp.o
+
+.PHONY : AddTwoNumbers/AddTwoNumbers.o
+
+# target to build an object file
+AddTwoNumbers/AddTwoNumbers.cpp.o:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/AddTwoNumbers/AddTwoNumbers.cpp.o
+.PHONY : AddTwoNumbers/AddTwoNumbers.cpp.o
+
+AddTwoNumbers/AddTwoNumbers.i: AddTwoNumbers/AddTwoNumbers.cpp.i
+
+.PHONY : AddTwoNumbers/AddTwoNumbers.i
+
+# target to preprocess a source file
+AddTwoNumbers/AddTwoNumbers.cpp.i:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/AddTwoNumbers/AddTwoNumbers.cpp.i
+.PHONY : AddTwoNumbers/AddTwoNumbers.cpp.i
+
+AddTwoNumbers/AddTwoNumbers.s: AddTwoNumbers/AddTwoNumbers.cpp.s
+
+.PHONY : AddTwoNumbers/AddTwoNumbers.s
+
+# target to generate assembly for a file
+AddTwoNumbers/AddTwoNumbers.cpp.s:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/AddTwoNumbers/AddTwoNumbers.cpp.s
+.PHONY : AddTwoNumbers/AddTwoNumbers.cpp.s
+
+LongestSubString/LongestSubString.o: LongestSubString/LongestSubString.cpp.o
+
+.PHONY : LongestSubString/LongestSubString.o
+
+# target to build an object file
+LongestSubString/LongestSubString.cpp.o:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/LongestSubString/LongestSubString.cpp.o
+.PHONY : LongestSubString/LongestSubString.cpp.o
+
+LongestSubString/LongestSubString.i: LongestSubString/LongestSubString.cpp.i
+
+.PHONY : LongestSubString/LongestSubString.i
+
+# target to preprocess a source file
+LongestSubString/LongestSubString.cpp.i:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/LongestSubString/LongestSubString.cpp.i
+.PHONY : LongestSubString/LongestSubString.cpp.i
+
+LongestSubString/LongestSubString.s: LongestSubString/LongestSubString.cpp.s
+
+.PHONY : LongestSubString/LongestSubString.s
+
+# target to generate assembly for a file
+LongestSubString/LongestSubString.cpp.s:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/LongestSubString/LongestSubString.cpp.s
+.PHONY : LongestSubString/LongestSubString.cpp.s
+
+MedianTwoSortedArrays/MedianTwoSortedArrays.o: MedianTwoSortedArrays/MedianTwoSortedArrays.cpp.o
+
+.PHONY : MedianTwoSortedArrays/MedianTwoSortedArrays.o
+
+# target to build an object file
+MedianTwoSortedArrays/MedianTwoSortedArrays.cpp.o:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/MedianTwoSortedArrays/MedianTwoSortedArrays.cpp.o
+.PHONY : MedianTwoSortedArrays/MedianTwoSortedArrays.cpp.o
+
+MedianTwoSortedArrays/MedianTwoSortedArrays.i: MedianTwoSortedArrays/MedianTwoSortedArrays.cpp.i
+
+.PHONY : MedianTwoSortedArrays/MedianTwoSortedArrays.i
+
+# target to preprocess a source file
+MedianTwoSortedArrays/MedianTwoSortedArrays.cpp.i:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/MedianTwoSortedArrays/MedianTwoSortedArrays.cpp.i
+.PHONY : MedianTwoSortedArrays/MedianTwoSortedArrays.cpp.i
+
+MedianTwoSortedArrays/MedianTwoSortedArrays.s: MedianTwoSortedArrays/MedianTwoSortedArrays.cpp.s
+
+.PHONY : MedianTwoSortedArrays/MedianTwoSortedArrays.s
+
+# target to generate assembly for a file
+MedianTwoSortedArrays/MedianTwoSortedArrays.cpp.s:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/MedianTwoSortedArrays/MedianTwoSortedArrays.cpp.s
+.PHONY : MedianTwoSortedArrays/MedianTwoSortedArrays.cpp.s
+
+MyAtoi/MyAtoi.o: MyAtoi/MyAtoi.cpp.o
+
+.PHONY : MyAtoi/MyAtoi.o
+
+# target to build an object file
+MyAtoi/MyAtoi.cpp.o:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/MyAtoi/MyAtoi.cpp.o
+.PHONY : MyAtoi/MyAtoi.cpp.o
+
+MyAtoi/MyAtoi.i: MyAtoi/MyAtoi.cpp.i
+
+.PHONY : MyAtoi/MyAtoi.i
+
+# target to preprocess a source file
+MyAtoi/MyAtoi.cpp.i:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/MyAtoi/MyAtoi.cpp.i
+.PHONY : MyAtoi/MyAtoi.cpp.i
+
+MyAtoi/MyAtoi.s: MyAtoi/MyAtoi.cpp.s
+
+.PHONY : MyAtoi/MyAtoi.s
+
+# target to generate assembly for a file
+MyAtoi/MyAtoi.cpp.s:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/MyAtoi/MyAtoi.cpp.s
+.PHONY : MyAtoi/MyAtoi.cpp.s
+
+RemoveDuplicates/RemoveDuplicates.o: RemoveDuplicates/RemoveDuplicates.cpp.o
+
+.PHONY : RemoveDuplicates/RemoveDuplicates.o
+
+# target to build an object file
+RemoveDuplicates/RemoveDuplicates.cpp.o:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/RemoveDuplicates/RemoveDuplicates.cpp.o
+.PHONY : RemoveDuplicates/RemoveDuplicates.cpp.o
+
+RemoveDuplicates/RemoveDuplicates.i: RemoveDuplicates/RemoveDuplicates.cpp.i
+
+.PHONY : RemoveDuplicates/RemoveDuplicates.i
+
+# target to preprocess a source file
+RemoveDuplicates/RemoveDuplicates.cpp.i:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/RemoveDuplicates/RemoveDuplicates.cpp.i
+.PHONY : RemoveDuplicates/RemoveDuplicates.cpp.i
+
+RemoveDuplicates/RemoveDuplicates.s: RemoveDuplicates/RemoveDuplicates.cpp.s
+
+.PHONY : RemoveDuplicates/RemoveDuplicates.s
+
+# target to generate assembly for a file
+RemoveDuplicates/RemoveDuplicates.cpp.s:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/RemoveDuplicates/RemoveDuplicates.cpp.s
+.PHONY : RemoveDuplicates/RemoveDuplicates.cpp.s
+
+ReverseInteger/ReverseInteger.o: ReverseInteger/ReverseInteger.cpp.o
+
+.PHONY : ReverseInteger/ReverseInteger.o
+
+# target to build an object file
+ReverseInteger/ReverseInteger.cpp.o:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/ReverseInteger/ReverseInteger.cpp.o
+.PHONY : ReverseInteger/ReverseInteger.cpp.o
+
+ReverseInteger/ReverseInteger.i: ReverseInteger/ReverseInteger.cpp.i
+
+.PHONY : ReverseInteger/ReverseInteger.i
+
+# target to preprocess a source file
+ReverseInteger/ReverseInteger.cpp.i:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/ReverseInteger/ReverseInteger.cpp.i
+.PHONY : ReverseInteger/ReverseInteger.cpp.i
+
+ReverseInteger/ReverseInteger.s: ReverseInteger/ReverseInteger.cpp.s
+
+.PHONY : ReverseInteger/ReverseInteger.s
+
+# target to generate assembly for a file
+ReverseInteger/ReverseInteger.cpp.s:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/ReverseInteger/ReverseInteger.cpp.s
+.PHONY : ReverseInteger/ReverseInteger.cpp.s
+
+Two-Sum/twosum.o: Two-Sum/twosum.cpp.o
+
+.PHONY : Two-Sum/twosum.o
+
+# target to build an object file
+Two-Sum/twosum.cpp.o:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Two-Sum/twosum.cpp.o
+.PHONY : Two-Sum/twosum.cpp.o
+
+Two-Sum/twosum.i: Two-Sum/twosum.cpp.i
+
+.PHONY : Two-Sum/twosum.i
+
+# target to preprocess a source file
+Two-Sum/twosum.cpp.i:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Two-Sum/twosum.cpp.i
+.PHONY : Two-Sum/twosum.cpp.i
+
+Two-Sum/twosum.s: Two-Sum/twosum.cpp.s
+
+.PHONY : Two-Sum/twosum.s
+
+# target to generate assembly for a file
+Two-Sum/twosum.cpp.s:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Two-Sum/twosum.cpp.s
+.PHONY : Two-Sum/twosum.cpp.s
+
+ZigZag/ZigZag.o: ZigZag/ZigZag.cpp.o
+
+.PHONY : ZigZag/ZigZag.o
+
+# target to build an object file
+ZigZag/ZigZag.cpp.o:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/ZigZag/ZigZag.cpp.o
+.PHONY : ZigZag/ZigZag.cpp.o
+
+ZigZag/ZigZag.i: ZigZag/ZigZag.cpp.i
+
+.PHONY : ZigZag/ZigZag.i
+
+# target to preprocess a source file
+ZigZag/ZigZag.cpp.i:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/ZigZag/ZigZag.cpp.i
+.PHONY : ZigZag/ZigZag.cpp.i
+
+ZigZag/ZigZag.s: ZigZag/ZigZag.cpp.s
+
+.PHONY : ZigZag/ZigZag.s
+
+# target to generate assembly for a file
+ZigZag/ZigZag.cpp.s:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/ZigZag/ZigZag.cpp.s
+.PHONY : ZigZag/ZigZag.cpp.s
+
 main.o: main.cpp.o
 
 .PHONY : main.o
@@ -159,6 +375,30 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... LeetCode"
+	@echo "... AddTwoNumbers/AddTwoNumbers.o"
+	@echo "... AddTwoNumbers/AddTwoNumbers.i"
+	@echo "... AddTwoNumbers/AddTwoNumbers.s"
+	@echo "... LongestSubString/LongestSubString.o"
+	@echo "... LongestSubString/LongestSubString.i"
+	@echo "... LongestSubString/LongestSubString.s"
+	@echo "... MedianTwoSortedArrays/MedianTwoSortedArrays.o"
+	@echo "... MedianTwoSortedArrays/MedianTwoSortedArrays.i"
+	@echo "... MedianTwoSortedArrays/MedianTwoSortedArrays.s"
+	@echo "... MyAtoi/MyAtoi.o"
+	@echo "... MyAtoi/MyAtoi.i"
+	@echo "... MyAtoi/MyAtoi.s"
+	@echo "... RemoveDuplicates/RemoveDuplicates.o"
+	@echo "... RemoveDuplicates/RemoveDuplicates.i"
+	@echo "... RemoveDuplicates/RemoveDuplicates.s"
+	@echo "... ReverseInteger/ReverseInteger.o"
+	@echo "... ReverseInteger/ReverseInteger.i"
+	@echo "... ReverseInteger/ReverseInteger.s"
+	@echo "... Two-Sum/twosum.o"
+	@echo "... Two-Sum/twosum.i"
+	@echo "... Two-Sum/twosum.s"
+	@echo "... ZigZag/ZigZag.o"
+	@echo "... ZigZag/ZigZag.i"
+	@echo "... ZigZag/ZigZag.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"
