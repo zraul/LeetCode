@@ -100,6 +100,12 @@
 		<Unit filename="/Volumes/ZWHD/github/LeetCode/MedianTwoSortedArrays/MedianTwoSortedArrays.h">
 			<Option target="LeetCode"/>
 		</Unit>
+		<Unit filename="/Volumes/ZWHD/github/LeetCode/MergeSortedLists/MergeSortedLists.cpp">
+			<Option target="LeetCode"/>
+		</Unit>
+		<Unit filename="/Volumes/ZWHD/github/LeetCode/MergeSortedLists/MergeSortedLists.h">
+			<Option target="LeetCode"/>
+		</Unit>
 		<Unit filename="/Volumes/ZWHD/github/LeetCode/MyAtoi/MyAtoi.cpp">
 			<Option target="LeetCode"/>
 		</Unit>

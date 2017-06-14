@@ -8,6 +8,7 @@ file(REMOVE_RECURSE
   "CMakeFiles/LeetCode.dir/ReverseInteger/ReverseInteger.cpp.o"
   "CMakeFiles/LeetCode.dir/MyAtoi/MyAtoi.cpp.o"
   "CMakeFiles/LeetCode.dir/RemoveDuplicates/RemoveDuplicates.cpp.o"
+  "CMakeFiles/LeetCode.dir/MergeSortedLists/MergeSortedLists.cpp.o"
   "LeetCode.pdb"
   "LeetCode"
 )

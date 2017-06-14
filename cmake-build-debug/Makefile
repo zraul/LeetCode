@@ -204,6 +204,33 @@ MedianTwoSortedArrays/MedianTwoSortedArrays.cpp.s:
 	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/MedianTwoSortedArrays/MedianTwoSortedArrays.cpp.s
 .PHONY : MedianTwoSortedArrays/MedianTwoSortedArrays.cpp.s
 
+MergeSortedLists/MergeSortedLists.o: MergeSortedLists/MergeSortedLists.cpp.o
+
+.PHONY : MergeSortedLists/MergeSortedLists.o
+
+# target to build an object file
+MergeSortedLists/MergeSortedLists.cpp.o:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/MergeSortedLists/MergeSortedLists.cpp.o
+.PHONY : MergeSortedLists/MergeSortedLists.cpp.o
+
+MergeSortedLists/MergeSortedLists.i: MergeSortedLists/MergeSortedLists.cpp.i
+
+.PHONY : MergeSortedLists/MergeSortedLists.i
+
+# target to preprocess a source file
+MergeSortedLists/MergeSortedLists.cpp.i:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/MergeSortedLists/MergeSortedLists.cpp.i
+.PHONY : MergeSortedLists/MergeSortedLists.cpp.i
+
+MergeSortedLists/MergeSortedLists.s: MergeSortedLists/MergeSortedLists.cpp.s
+
+.PHONY : MergeSortedLists/MergeSortedLists.s
+
+# target to generate assembly for a file
+MergeSortedLists/MergeSortedLists.cpp.s:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/MergeSortedLists/MergeSortedLists.cpp.s
+.PHONY : MergeSortedLists/MergeSortedLists.cpp.s
+
 MyAtoi/MyAtoi.o: MyAtoi/MyAtoi.cpp.o
 
 .PHONY : MyAtoi/MyAtoi.o
@@ -384,6 +411,9 @@ help:
 	@echo "... MedianTwoSortedArrays/MedianTwoSortedArrays.o"
 	@echo "... MedianTwoSortedArrays/MedianTwoSortedArrays.i"
 	@echo "... MedianTwoSortedArrays/MedianTwoSortedArrays.s"
+	@echo "... MergeSortedLists/MergeSortedLists.o"
+	@echo "... MergeSortedLists/MergeSortedLists.i"
+	@echo "... MergeSortedLists/MergeSortedLists.s"
 	@echo "... MyAtoi/MyAtoi.o"
 	@echo "... MyAtoi/MyAtoi.i"
 	@echo "... MyAtoi/MyAtoi.s"
