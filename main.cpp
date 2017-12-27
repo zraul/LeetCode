@@ -1,13 +1,10 @@
-#include "Two-Sum/twosum.h"
-#include "RemoveDuplicates/RemoveDuplicates.h"
+//#include "Two-Sum/twosum.h"
+//#include "RemoveDuplicates/RemoveDuplicates.h"
+#include "PalindromeNumber/PalindromeNumber.h"
 
 int main()
 {
-    std::cout << "Hello, World!" << std::endl;
-
-    int num[10] = {1, 1, 1, 1, 1, 2, 2, 3, 11, 30};
-
-    cout<<removeDuplicates(num, 10)<<endl;
-
+    PalindromeNumber * p = new PalindromeNumber();
+    cout<<p->isPalindrome(34433)<<endl;
     return 0;
 }

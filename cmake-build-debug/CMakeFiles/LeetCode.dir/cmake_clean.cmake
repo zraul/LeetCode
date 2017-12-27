@@ -9,6 +9,7 @@ file(REMOVE_RECURSE
   "CMakeFiles/LeetCode.dir/MyAtoi/MyAtoi.cpp.o"
   "CMakeFiles/LeetCode.dir/RemoveDuplicates/RemoveDuplicates.cpp.o"
   "CMakeFiles/LeetCode.dir/MergeSortedLists/MergeSortedLists.cpp.o"
+  "CMakeFiles/LeetCode.dir/PalindromeNumber/PalindromeNumber.cpp.o"
   "LeetCode.pdb"
   "LeetCode"
 )
