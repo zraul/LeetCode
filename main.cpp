@@ -1,10 +1,11 @@
 //#include "Two-Sum/twosum.h"
 //#include "RemoveDuplicates/RemoveDuplicates.h"
-#include "PalindromeNumber/PalindromeNumber.h"
+//#include "PalindromeNumber/PalindromeNumber.h"
+#include "RegularExpressionMatching/RegularExpressionMatching.h"
 
 int main()
 {
-    PalindromeNumber * p = new PalindromeNumber();
-    cout<<p->isPalindrome(34433)<<endl;
+    RegularExpressionMatching * p = new RegularExpressionMatching();
+    cout<<p->isMatch("aaaab", "a*")<<endl;
     return 0;
 }

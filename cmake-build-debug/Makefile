@@ -285,6 +285,33 @@ PalindromeNumber/PalindromeNumber.cpp.s:
 	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/PalindromeNumber/PalindromeNumber.cpp.s
 .PHONY : PalindromeNumber/PalindromeNumber.cpp.s
 
+RegularExpressionMatching/RegularExpressionMatching.o: RegularExpressionMatching/RegularExpressionMatching.cpp.o
+
+.PHONY : RegularExpressionMatching/RegularExpressionMatching.o
+
+# target to build an object file
+RegularExpressionMatching/RegularExpressionMatching.cpp.o:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/RegularExpressionMatching/RegularExpressionMatching.cpp.o
+.PHONY : RegularExpressionMatching/RegularExpressionMatching.cpp.o
+
+RegularExpressionMatching/RegularExpressionMatching.i: RegularExpressionMatching/RegularExpressionMatching.cpp.i
+
+.PHONY : RegularExpressionMatching/RegularExpressionMatching.i
+
+# target to preprocess a source file
+RegularExpressionMatching/RegularExpressionMatching.cpp.i:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/RegularExpressionMatching/RegularExpressionMatching.cpp.i
+.PHONY : RegularExpressionMatching/RegularExpressionMatching.cpp.i
+
+RegularExpressionMatching/RegularExpressionMatching.s: RegularExpressionMatching/RegularExpressionMatching.cpp.s
+
+.PHONY : RegularExpressionMatching/RegularExpressionMatching.s
+
+# target to generate assembly for a file
+RegularExpressionMatching/RegularExpressionMatching.cpp.s:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/RegularExpressionMatching/RegularExpressionMatching.cpp.s
+.PHONY : RegularExpressionMatching/RegularExpressionMatching.cpp.s
+
 RemoveDuplicates/RemoveDuplicates.o: RemoveDuplicates/RemoveDuplicates.cpp.o
 
 .PHONY : RemoveDuplicates/RemoveDuplicates.o
@@ -447,6 +474,9 @@ help:
 	@echo "... PalindromeNumber/PalindromeNumber.o"
 	@echo "... PalindromeNumber/PalindromeNumber.i"
 	@echo "... PalindromeNumber/PalindromeNumber.s"
+	@echo "... RegularExpressionMatching/RegularExpressionMatching.o"
+	@echo "... RegularExpressionMatching/RegularExpressionMatching.i"
+	@echo "... RegularExpressionMatching/RegularExpressionMatching.s"
 	@echo "... RemoveDuplicates/RemoveDuplicates.o"
 	@echo "... RemoveDuplicates/RemoveDuplicates.i"
 	@echo "... RemoveDuplicates/RemoveDuplicates.s"

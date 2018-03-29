@@ -118,6 +118,12 @@
 		<Unit filename="/Volumes/ZWHD/github/LeetCode/PalindromeNumber/PalindromeNumber.h">
 			<Option target="LeetCode"/>
 		</Unit>
+		<Unit filename="/Volumes/ZWHD/github/LeetCode/RegularExpressionMatching/RegularExpressionMatching.cpp">
+			<Option target="LeetCode"/>
+		</Unit>
+		<Unit filename="/Volumes/ZWHD/github/LeetCode/RegularExpressionMatching/RegularExpressionMatching.h">
+			<Option target="LeetCode"/>
+		</Unit>
 		<Unit filename="/Volumes/ZWHD/github/LeetCode/RemoveDuplicates/RemoveDuplicates.cpp">
 			<Option target="LeetCode"/>
 		</Unit>

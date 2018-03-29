@@ -25,6 +25,10 @@ CMakeFiles/LeetCode.dir/PalindromeNumber/PalindromeNumber.cpp.o: ../PalindromeNu
 CMakeFiles/LeetCode.dir/PalindromeNumber/PalindromeNumber.cpp.o: ../PalindromeNumber/PalindromeNumber.h
 CMakeFiles/LeetCode.dir/PalindromeNumber/PalindromeNumber.cpp.o: ../common.h
 
+CMakeFiles/LeetCode.dir/RegularExpressionMatching/RegularExpressionMatching.cpp.o: ../RegularExpressionMatching/RegularExpressionMatching.cpp
+CMakeFiles/LeetCode.dir/RegularExpressionMatching/RegularExpressionMatching.cpp.o: ../RegularExpressionMatching/RegularExpressionMatching.h
+CMakeFiles/LeetCode.dir/RegularExpressionMatching/RegularExpressionMatching.cpp.o: ../common.h
+
 CMakeFiles/LeetCode.dir/RemoveDuplicates/RemoveDuplicates.cpp.o: ../RemoveDuplicates/RemoveDuplicates.cpp
 CMakeFiles/LeetCode.dir/RemoveDuplicates/RemoveDuplicates.cpp.o: ../RemoveDuplicates/RemoveDuplicates.h
 CMakeFiles/LeetCode.dir/RemoveDuplicates/RemoveDuplicates.cpp.o: ../common.h
@@ -41,7 +45,7 @@ CMakeFiles/LeetCode.dir/ZigZag/ZigZag.cpp.o: ../ZigZag/ZigZag.cpp
 CMakeFiles/LeetCode.dir/ZigZag/ZigZag.cpp.o: ../ZigZag/ZigZag.h
 CMakeFiles/LeetCode.dir/ZigZag/ZigZag.cpp.o: ../common.h
 
-CMakeFiles/LeetCode.dir/main.cpp.o: ../PalindromeNumber/PalindromeNumber.h
+CMakeFiles/LeetCode.dir/main.cpp.o: ../RegularExpressionMatching/RegularExpressionMatching.h
 CMakeFiles/LeetCode.dir/main.cpp.o: ../common.h
 CMakeFiles/LeetCode.dir/main.cpp.o: ../main.cpp
 
