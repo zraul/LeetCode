@@ -44,11 +44,23 @@
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1"/>
+					<Add directory="/Volumes/ZWHD/github/LeetCode/."/>
+					<Add directory="/Volumes/ZWHD/github/LeetCode/AddTwoNumbers"/>
+					<Add directory="/Volumes/ZWHD/github/LeetCode/LongestSubString"/>
+					<Add directory="/Volumes/ZWHD/github/LeetCode/MedianTwoSortedArrays"/>
+					<Add directory="/Volumes/ZWHD/github/LeetCode/MergeSortedLists"/>
+					<Add directory="/Volumes/ZWHD/github/LeetCode/MyAtoi"/>
+					<Add directory="/Volumes/ZWHD/github/LeetCode/PalindromeNumber"/>
+					<Add directory="/Volumes/ZWHD/github/LeetCode/RegularExpressionMatching"/>
+					<Add directory="/Volumes/ZWHD/github/LeetCode/RemoveDuplicates"/>
+					<Add directory="/Volumes/ZWHD/github/LeetCode/ReverseInteger"/>
+					<Add directory="/Volumes/ZWHD/github/LeetCode/Two-Sum"/>
+					<Add directory="/Volumes/ZWHD/github/LeetCode/ValidSudoku"/>
+					<Add directory="/Volumes/ZWHD/github/LeetCode/ZigZag"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
 					<Add directory="/usr/local/include"/>
-					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/9.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.0/include"/>
 					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
-					<Add directory="/usr/include"/>
 					<Add directory="/System/Library/Frameworks"/>
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
@@ -66,11 +78,23 @@
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1"/>
+					<Add directory="/Volumes/ZWHD/github/LeetCode/."/>
+					<Add directory="/Volumes/ZWHD/github/LeetCode/AddTwoNumbers"/>
+					<Add directory="/Volumes/ZWHD/github/LeetCode/LongestSubString"/>
+					<Add directory="/Volumes/ZWHD/github/LeetCode/MedianTwoSortedArrays"/>
+					<Add directory="/Volumes/ZWHD/github/LeetCode/MergeSortedLists"/>
+					<Add directory="/Volumes/ZWHD/github/LeetCode/MyAtoi"/>
+					<Add directory="/Volumes/ZWHD/github/LeetCode/PalindromeNumber"/>
+					<Add directory="/Volumes/ZWHD/github/LeetCode/RegularExpressionMatching"/>
+					<Add directory="/Volumes/ZWHD/github/LeetCode/RemoveDuplicates"/>
+					<Add directory="/Volumes/ZWHD/github/LeetCode/ReverseInteger"/>
+					<Add directory="/Volumes/ZWHD/github/LeetCode/Two-Sum"/>
+					<Add directory="/Volumes/ZWHD/github/LeetCode/ValidSudoku"/>
+					<Add directory="/Volumes/ZWHD/github/LeetCode/ZigZag"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
 					<Add directory="/usr/local/include"/>
-					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/9.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.0/include"/>
 					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
-					<Add directory="/usr/include"/>
 					<Add directory="/System/Library/Frameworks"/>
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
@@ -86,6 +110,18 @@
 			<Option target="LeetCode"/>
 		</Unit>
 		<Unit filename="/Volumes/ZWHD/github/LeetCode/AddTwoNumbers/AddTwoNumbers.h">
+			<Option target="LeetCode"/>
+		</Unit>
+		<Unit filename="/Volumes/ZWHD/github/LeetCode/CombinationSum/CombinationSum.cpp">
+			<Option target="LeetCode"/>
+		</Unit>
+		<Unit filename="/Volumes/ZWHD/github/LeetCode/CombinationSum/CombinationSum.h">
+			<Option target="LeetCode"/>
+		</Unit>
+		<Unit filename="/Volumes/ZWHD/github/LeetCode/CountAndSay/CountAndSay.cpp">
+			<Option target="LeetCode"/>
+		</Unit>
+		<Unit filename="/Volumes/ZWHD/github/LeetCode/CountAndSay/CountAndSay.h">
 			<Option target="LeetCode"/>
 		</Unit>
 		<Unit filename="/Volumes/ZWHD/github/LeetCode/LongestSubString/LongestSubString.cpp">
@@ -136,10 +172,22 @@
 		<Unit filename="/Volumes/ZWHD/github/LeetCode/ReverseInteger/ReverseInteger.h">
 			<Option target="LeetCode"/>
 		</Unit>
+		<Unit filename="/Volumes/ZWHD/github/LeetCode/SudokuSolver/SudokuSolver.cpp">
+			<Option target="LeetCode"/>
+		</Unit>
+		<Unit filename="/Volumes/ZWHD/github/LeetCode/SudokuSolver/SudokuSolver.h">
+			<Option target="LeetCode"/>
+		</Unit>
 		<Unit filename="/Volumes/ZWHD/github/LeetCode/Two-Sum/twosum.cpp">
 			<Option target="LeetCode"/>
 		</Unit>
 		<Unit filename="/Volumes/ZWHD/github/LeetCode/Two-Sum/twosum.h">
+			<Option target="LeetCode"/>
+		</Unit>
+		<Unit filename="/Volumes/ZWHD/github/LeetCode/ValidSudoku/ValidSudoku.cpp">
+			<Option target="LeetCode"/>
+		</Unit>
+		<Unit filename="/Volumes/ZWHD/github/LeetCode/ValidSudoku/ValidSudoku.h">
 			<Option target="LeetCode"/>
 		</Unit>
 		<Unit filename="/Volumes/ZWHD/github/LeetCode/ZigZag/ZigZag.cpp">
