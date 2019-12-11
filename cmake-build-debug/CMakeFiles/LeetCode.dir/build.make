@@ -265,6 +265,32 @@ CMakeFiles/LeetCode.dir/CombinationSum/CombinationSum.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/CombinationSum/CombinationSum.cpp.s"
 	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Volumes/ZWHD/github/LeetCode/CombinationSum/CombinationSum.cpp -o CMakeFiles/LeetCode.dir/CombinationSum/CombinationSum.cpp.s
 
+CMakeFiles/LeetCode.dir/FirstMissingPositive/FirstMissingPositive.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/FirstMissingPositive/FirstMissingPositive.cpp.o: ../FirstMissingPositive/FirstMissingPositive.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Volumes/ZWHD/github/LeetCode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_17) "Building CXX object CMakeFiles/LeetCode.dir/FirstMissingPositive/FirstMissingPositive.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/LeetCode.dir/FirstMissingPositive/FirstMissingPositive.cpp.o -c /Volumes/ZWHD/github/LeetCode/FirstMissingPositive/FirstMissingPositive.cpp
+
+CMakeFiles/LeetCode.dir/FirstMissingPositive/FirstMissingPositive.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/FirstMissingPositive/FirstMissingPositive.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Volumes/ZWHD/github/LeetCode/FirstMissingPositive/FirstMissingPositive.cpp > CMakeFiles/LeetCode.dir/FirstMissingPositive/FirstMissingPositive.cpp.i
+
+CMakeFiles/LeetCode.dir/FirstMissingPositive/FirstMissingPositive.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/FirstMissingPositive/FirstMissingPositive.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Volumes/ZWHD/github/LeetCode/FirstMissingPositive/FirstMissingPositive.cpp -o CMakeFiles/LeetCode.dir/FirstMissingPositive/FirstMissingPositive.cpp.s
+
+CMakeFiles/LeetCode.dir/TrappingRainWater/TrappingRainWater.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/TrappingRainWater/TrappingRainWater.cpp.o: ../TrappingRainWater/TrappingRainWater.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Volumes/ZWHD/github/LeetCode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_18) "Building CXX object CMakeFiles/LeetCode.dir/TrappingRainWater/TrappingRainWater.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/LeetCode.dir/TrappingRainWater/TrappingRainWater.cpp.o -c /Volumes/ZWHD/github/LeetCode/TrappingRainWater/TrappingRainWater.cpp
+
+CMakeFiles/LeetCode.dir/TrappingRainWater/TrappingRainWater.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/TrappingRainWater/TrappingRainWater.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Volumes/ZWHD/github/LeetCode/TrappingRainWater/TrappingRainWater.cpp > CMakeFiles/LeetCode.dir/TrappingRainWater/TrappingRainWater.cpp.i
+
+CMakeFiles/LeetCode.dir/TrappingRainWater/TrappingRainWater.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/TrappingRainWater/TrappingRainWater.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Volumes/ZWHD/github/LeetCode/TrappingRainWater/TrappingRainWater.cpp -o CMakeFiles/LeetCode.dir/TrappingRainWater/TrappingRainWater.cpp.s
+
 # Object files for target LeetCode
 LeetCode_OBJECTS = \
 "CMakeFiles/LeetCode.dir/AddTwoNumbers/AddTwoNumbers.cpp.o" \
@@ -282,7 +308,9 @@ LeetCode_OBJECTS = \
 "CMakeFiles/LeetCode.dir/main.cpp.o" \
 "CMakeFiles/LeetCode.dir/SudokuSolver/SudokuSolver.cpp.o" \
 "CMakeFiles/LeetCode.dir/CountAndSay/CountAndSay.cpp.o" \
-"CMakeFiles/LeetCode.dir/CombinationSum/CombinationSum.cpp.o"
+"CMakeFiles/LeetCode.dir/CombinationSum/CombinationSum.cpp.o" \
+"CMakeFiles/LeetCode.dir/FirstMissingPositive/FirstMissingPositive.cpp.o" \
+"CMakeFiles/LeetCode.dir/TrappingRainWater/TrappingRainWater.cpp.o"
 
 # External object files for target LeetCode
 LeetCode_EXTERNAL_OBJECTS =
@@ -303,9 +331,11 @@ LeetCode: CMakeFiles/LeetCode.dir/main.cpp.o
 LeetCode: CMakeFiles/LeetCode.dir/SudokuSolver/SudokuSolver.cpp.o
 LeetCode: CMakeFiles/LeetCode.dir/CountAndSay/CountAndSay.cpp.o
 LeetCode: CMakeFiles/LeetCode.dir/CombinationSum/CombinationSum.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/FirstMissingPositive/FirstMissingPositive.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/TrappingRainWater/TrappingRainWater.cpp.o
 LeetCode: CMakeFiles/LeetCode.dir/build.make
 LeetCode: CMakeFiles/LeetCode.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Volumes/ZWHD/github/LeetCode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_17) "Linking CXX executable LeetCode"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Volumes/ZWHD/github/LeetCode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_19) "Linking CXX executable LeetCode"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/LeetCode.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

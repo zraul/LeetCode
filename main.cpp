@@ -2,21 +2,14 @@
 //#include "RemoveDuplicates/RemoveDuplicates.h"
 //#include "PalindromeNumber/PalindromeNumber.h"
 //#include "RegularExpressionMatching/RegularExpressionMatching.h"
-#include "CombinationSum/CombinationSum.h"
+#include "TrappingRainWater/TrappingRainWater.h"
 #include <iostream>
 
 int main()
 {
-    CombinationSum *c = new CombinationSum();
-    std::vector<int> candidates = {2, 3, 6, 7};
-    std::vector<std::vector<int>> vc = c->combinationSum2(candidates, 7);
-    for (int i = 0; i < vc.size(); ++i) {
-        std::vector<int> tm = vc[i];
-        for (int j = 0; j < tm.size(); ++j) {
-            std::cout<<tm[j]<<",";
-        }
-        std::cout<<std::endl;
-    }
+    TrappingRainWater *t = new TrappingRainWater();
+    std::vector<int> water = {0,1,0,2,1,0,1,3,2,1,2,1};
+    std::cout<<t->trap(water)<<std::endl;
     return 0;
 }
 

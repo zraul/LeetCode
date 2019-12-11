@@ -204,6 +204,33 @@ CountAndSay/CountAndSay.cpp.s:
 	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/CountAndSay/CountAndSay.cpp.s
 .PHONY : CountAndSay/CountAndSay.cpp.s
 
+FirstMissingPositive/FirstMissingPositive.o: FirstMissingPositive/FirstMissingPositive.cpp.o
+
+.PHONY : FirstMissingPositive/FirstMissingPositive.o
+
+# target to build an object file
+FirstMissingPositive/FirstMissingPositive.cpp.o:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/FirstMissingPositive/FirstMissingPositive.cpp.o
+.PHONY : FirstMissingPositive/FirstMissingPositive.cpp.o
+
+FirstMissingPositive/FirstMissingPositive.i: FirstMissingPositive/FirstMissingPositive.cpp.i
+
+.PHONY : FirstMissingPositive/FirstMissingPositive.i
+
+# target to preprocess a source file
+FirstMissingPositive/FirstMissingPositive.cpp.i:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/FirstMissingPositive/FirstMissingPositive.cpp.i
+.PHONY : FirstMissingPositive/FirstMissingPositive.cpp.i
+
+FirstMissingPositive/FirstMissingPositive.s: FirstMissingPositive/FirstMissingPositive.cpp.s
+
+.PHONY : FirstMissingPositive/FirstMissingPositive.s
+
+# target to generate assembly for a file
+FirstMissingPositive/FirstMissingPositive.cpp.s:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/FirstMissingPositive/FirstMissingPositive.cpp.s
+.PHONY : FirstMissingPositive/FirstMissingPositive.cpp.s
+
 LongestSubString/LongestSubString.o: LongestSubString/LongestSubString.cpp.o
 
 .PHONY : LongestSubString/LongestSubString.o
@@ -447,6 +474,33 @@ SudokuSolver/SudokuSolver.cpp.s:
 	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/SudokuSolver/SudokuSolver.cpp.s
 .PHONY : SudokuSolver/SudokuSolver.cpp.s
 
+TrappingRainWater/TrappingRainWater.o: TrappingRainWater/TrappingRainWater.cpp.o
+
+.PHONY : TrappingRainWater/TrappingRainWater.o
+
+# target to build an object file
+TrappingRainWater/TrappingRainWater.cpp.o:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/TrappingRainWater/TrappingRainWater.cpp.o
+.PHONY : TrappingRainWater/TrappingRainWater.cpp.o
+
+TrappingRainWater/TrappingRainWater.i: TrappingRainWater/TrappingRainWater.cpp.i
+
+.PHONY : TrappingRainWater/TrappingRainWater.i
+
+# target to preprocess a source file
+TrappingRainWater/TrappingRainWater.cpp.i:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/TrappingRainWater/TrappingRainWater.cpp.i
+.PHONY : TrappingRainWater/TrappingRainWater.cpp.i
+
+TrappingRainWater/TrappingRainWater.s: TrappingRainWater/TrappingRainWater.cpp.s
+
+.PHONY : TrappingRainWater/TrappingRainWater.s
+
+# target to generate assembly for a file
+TrappingRainWater/TrappingRainWater.cpp.s:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/TrappingRainWater/TrappingRainWater.cpp.s
+.PHONY : TrappingRainWater/TrappingRainWater.cpp.s
+
 Two-Sum/twosum.o: Two-Sum/twosum.cpp.o
 
 .PHONY : Two-Sum/twosum.o
@@ -573,6 +627,9 @@ help:
 	@echo "... CountAndSay/CountAndSay.o"
 	@echo "... CountAndSay/CountAndSay.i"
 	@echo "... CountAndSay/CountAndSay.s"
+	@echo "... FirstMissingPositive/FirstMissingPositive.o"
+	@echo "... FirstMissingPositive/FirstMissingPositive.i"
+	@echo "... FirstMissingPositive/FirstMissingPositive.s"
 	@echo "... LongestSubString/LongestSubString.o"
 	@echo "... LongestSubString/LongestSubString.i"
 	@echo "... LongestSubString/LongestSubString.s"
@@ -600,6 +657,9 @@ help:
 	@echo "... SudokuSolver/SudokuSolver.o"
 	@echo "... SudokuSolver/SudokuSolver.i"
 	@echo "... SudokuSolver/SudokuSolver.s"
+	@echo "... TrappingRainWater/TrappingRainWater.o"
+	@echo "... TrappingRainWater/TrappingRainWater.i"
+	@echo "... TrappingRainWater/TrappingRainWater.s"
 	@echo "... Two-Sum/twosum.o"
 	@echo "... Two-Sum/twosum.i"
 	@echo "... Two-Sum/twosum.s"

@@ -22,7 +22,10 @@ void CombinationSum::combinationsum(std::vector<int> &candidates, int target, st
     for (int i = begin; i != candidates.size() && target >= candidates[i] ; ++i) {
         if (i == begin || candidates[i] != candidates[i - 1]) {
             combination.push_back(candidates[i]);
-            combinationsum(candidates, target - candidates[i], res, combination, i);
+            // 数字可重复
+//            combinationsum(candidates, target - candidates[i], res, combination, i);
+            // 数字不可重复
+            combinationsum(candidates, target - candidates[i], res, combination, i + 1);
             combination.pop_back();
         }
     }
@@ -45,7 +48,7 @@ void CombinationSum::dfs(int start, int target) {
 
     for (int i = start; i < this->candidates.size() && target - this->candidates[i] >= 0; ++i) {
         this->path.push_back(this->candidates[i]);
-        dfs(i, target - this->candidates[i]);
+        dfs(i + 1, target - this->candidates[i]);
         this->path.pop_back();
     }
 }

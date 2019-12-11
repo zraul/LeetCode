@@ -44,4 +44,4 @@ add_executable(LeetCode
         ZigZag/ZigZag.cpp
         ZigZag/ZigZag.h
         common.h
-        main.cpp SudokuSolver/SudokuSolver.cpp SudokuSolver/SudokuSolver.h CountAndSay/CountAndSay.cpp CountAndSay/CountAndSay.h CombinationSum/CombinationSum.cpp CombinationSum/CombinationSum.h)
+        main.cpp SudokuSolver/SudokuSolver.cpp SudokuSolver/SudokuSolver.h CountAndSay/CountAndSay.cpp CountAndSay/CountAndSay.h CombinationSum/CombinationSum.cpp CombinationSum/CombinationSum.h FirstMissingPositive/FirstMissingPositive.cpp FirstMissingPositive/FirstMissingPositive.h TrappingRainWater/TrappingRainWater.cpp TrappingRainWater/TrappingRainWater.h)

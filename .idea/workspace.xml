@@ -12,57 +12,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6572f727-0fe8-4c92-80bd-b9f70d0e5706" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/CombinationSum/CombinationSum.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CombinationSum/CombinationSum.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CountAndSay/CountAndSay.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CountAndSay/CountAndSay.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SudokuSolver/SudokuSolver.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SudokuSolver/SudokuSolver.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ValidSudoku/ValidSudoku.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ValidSudoku/ValidSudoku.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FirstMissingPositive/FirstMissingPositive.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FirstMissingPositive/FirstMissingPositive.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TrappingRainWater/TrappingRainWater.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TrappingRainWater/TrappingRainWater.h" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.9.4/CMakeCCompiler.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.9.4/CMakeCXXCompiler.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.9.4/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.9.4/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.9.4/CMakeSystem.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.9.4/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.9.4/CompilerIdC/a.out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.9.4/CompilerIdCXX/CMakeCXXCompilerId.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.9.4/CompilerIdCXX/a.out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LeetCode.dir/AddTwoNumbers/AddTwoNumbers.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LeetCode.dir/AddTwoNumbers/AddTwoNumbers.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CombinationSum/CombinationSum.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/CombinationSum/CombinationSum.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LeetCode.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LeetCode.dir/CXX.includecache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LeetCode.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LeetCode.dir/DependInfo.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LeetCode.dir/LongestSubString/LongestSubString.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LeetCode.dir/LongestSubString/LongestSubString.cpp.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LeetCode.dir/MedianTwoSortedArrays/MedianTwoSortedArrays.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LeetCode.dir/MedianTwoSortedArrays/MedianTwoSortedArrays.cpp.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LeetCode.dir/MergeSortedLists/MergeSortedLists.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LeetCode.dir/MergeSortedLists/MergeSortedLists.cpp.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LeetCode.dir/MyAtoi/MyAtoi.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LeetCode.dir/MyAtoi/MyAtoi.cpp.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LeetCode.dir/PalindromeNumber/PalindromeNumber.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LeetCode.dir/PalindromeNumber/PalindromeNumber.cpp.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LeetCode.dir/RemoveDuplicates/RemoveDuplicates.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LeetCode.dir/RemoveDuplicates/RemoveDuplicates.cpp.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LeetCode.dir/ReverseInteger/ReverseInteger.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LeetCode.dir/ReverseInteger/ReverseInteger.cpp.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LeetCode.dir/Two-Sum/twosum.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LeetCode.dir/Two-Sum/twosum.cpp.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LeetCode.dir/ZigZag/ZigZag.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LeetCode.dir/ZigZag/ZigZag.cpp.o" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LeetCode.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LeetCode.dir/build.make" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LeetCode.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LeetCode.dir/cmake_clean.cmake" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LeetCode.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LeetCode.dir/depend.internal" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LeetCode.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LeetCode.dir/depend.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LeetCode.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LeetCode.dir/flags.make" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LeetCode.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LeetCode.dir/link.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LeetCode.dir/main.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LeetCode.dir/main.cpp.o" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LeetCode.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LeetCode.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/feature_tests.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/feature_tests.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/feature_tests.cxx" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/LeetCode" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/LeetCode" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/LeetCode.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/LeetCode.cbp" afterDir="false" />
@@ -90,7 +56,7 @@
   <component name="ProjectId" id="1UVUCXL5aiuU5oIPWVbnnKd3B7s" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="settings.editor.selected.configurable" value="Debugger.ObjectiveC" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -232,7 +198,11 @@
       <workItem from="1575431321013" duration="600000" />
       <workItem from="1575441140179" duration="4641000" />
       <workItem from="1575507052067" duration="5150000" />
-      <workItem from="1575852996669" duration="6719000" />
+      <workItem from="1575852996669" duration="6839000" />
+      <workItem from="1575885327300" duration="512000" />
+      <workItem from="1575939246109" duration="3910000" />
+      <workItem from="1576025660341" duration="3424000" />
+      <workItem from="1576032917002" duration="543000" />
     </task>
     <servers />
   </component>
@@ -295,14 +265,14 @@
           <option name="timeStamp" value="8" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
-          <url>file://$PROJECT_DIR$/CombinationSum/CombinationSum.cpp</url>
-          <line>40</line>
-          <option name="timeStamp" value="11" />
+          <url>file://$PROJECT_DIR$/FirstMissingPositive/FirstMissingPositive.cpp</url>
+          <line>8</line>
+          <option name="timeStamp" value="13" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
-          <url>file://$PROJECT_DIR$/CombinationSum/CombinationSum.cpp</url>
-          <line>46</line>
-          <option name="timeStamp" value="12" />
+          <url>file://$PROJECT_DIR$/TrappingRainWater/TrappingRainWater.cpp</url>
+          <line>7</line>
+          <option name="timeStamp" value="14" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

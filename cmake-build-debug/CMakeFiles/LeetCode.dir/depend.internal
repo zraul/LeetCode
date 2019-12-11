@@ -11,6 +11,9 @@ CMakeFiles/LeetCode.dir/CombinationSum/CombinationSum.cpp.o
 CMakeFiles/LeetCode.dir/CountAndSay/CountAndSay.cpp.o
  /Volumes/ZWHD/github/LeetCode/CountAndSay/CountAndSay.cpp
  /Volumes/ZWHD/github/LeetCode/CountAndSay/CountAndSay.h
+CMakeFiles/LeetCode.dir/FirstMissingPositive/FirstMissingPositive.cpp.o
+ /Volumes/ZWHD/github/LeetCode/FirstMissingPositive/FirstMissingPositive.cpp
+ /Volumes/ZWHD/github/LeetCode/FirstMissingPositive/FirstMissingPositive.h
 CMakeFiles/LeetCode.dir/LongestSubString/LongestSubString.cpp.o
  /Volumes/ZWHD/github/LeetCode/LongestSubString/LongestSubString.cpp
  /Volumes/ZWHD/github/LeetCode/LongestSubString/LongestSubString.h
@@ -46,6 +49,9 @@ CMakeFiles/LeetCode.dir/ReverseInteger/ReverseInteger.cpp.o
 CMakeFiles/LeetCode.dir/SudokuSolver/SudokuSolver.cpp.o
  /Volumes/ZWHD/github/LeetCode/SudokuSolver/SudokuSolver.cpp
  /Volumes/ZWHD/github/LeetCode/SudokuSolver/SudokuSolver.h
+CMakeFiles/LeetCode.dir/TrappingRainWater/TrappingRainWater.cpp.o
+ /Volumes/ZWHD/github/LeetCode/TrappingRainWater/TrappingRainWater.cpp
+ /Volumes/ZWHD/github/LeetCode/TrappingRainWater/TrappingRainWater.h
 CMakeFiles/LeetCode.dir/Two-Sum/twosum.cpp.o
  /Volumes/ZWHD/github/LeetCode/Two-Sum/twosum.cpp
  /Volumes/ZWHD/github/LeetCode/Two-Sum/twosum.h
@@ -58,5 +64,5 @@ CMakeFiles/LeetCode.dir/ZigZag/ZigZag.cpp.o
  /Volumes/ZWHD/github/LeetCode/ZigZag/ZigZag.h
  /Volumes/ZWHD/github/LeetCode/common.h
 CMakeFiles/LeetCode.dir/main.cpp.o
- /Volumes/ZWHD/github/LeetCode/CombinationSum/CombinationSum.h
+ /Volumes/ZWHD/github/LeetCode/TrappingRainWater/TrappingRainWater.h
  /Volumes/ZWHD/github/LeetCode/main.cpp

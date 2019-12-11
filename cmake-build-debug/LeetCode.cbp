@@ -124,6 +124,12 @@
 		<Unit filename="/Volumes/ZWHD/github/LeetCode/CountAndSay/CountAndSay.h">
 			<Option target="LeetCode"/>
 		</Unit>
+		<Unit filename="/Volumes/ZWHD/github/LeetCode/FirstMissingPositive/FirstMissingPositive.cpp">
+			<Option target="LeetCode"/>
+		</Unit>
+		<Unit filename="/Volumes/ZWHD/github/LeetCode/FirstMissingPositive/FirstMissingPositive.h">
+			<Option target="LeetCode"/>
+		</Unit>
 		<Unit filename="/Volumes/ZWHD/github/LeetCode/LongestSubString/LongestSubString.cpp">
 			<Option target="LeetCode"/>
 		</Unit>
@@ -176,6 +182,12 @@
 			<Option target="LeetCode"/>
 		</Unit>
 		<Unit filename="/Volumes/ZWHD/github/LeetCode/SudokuSolver/SudokuSolver.h">
+			<Option target="LeetCode"/>
+		</Unit>
+		<Unit filename="/Volumes/ZWHD/github/LeetCode/TrappingRainWater/TrappingRainWater.cpp">
+			<Option target="LeetCode"/>
+		</Unit>
+		<Unit filename="/Volumes/ZWHD/github/LeetCode/TrappingRainWater/TrappingRainWater.h">
 			<Option target="LeetCode"/>
 		</Unit>
 		<Unit filename="/Volumes/ZWHD/github/LeetCode/Two-Sum/twosum.cpp">
