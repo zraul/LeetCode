@@ -231,6 +231,33 @@ FirstMissingPositive/FirstMissingPositive.cpp.s:
 	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/FirstMissingPositive/FirstMissingPositive.cpp.s
 .PHONY : FirstMissingPositive/FirstMissingPositive.cpp.s
 
+JumpGame2/JumpGame2.o: JumpGame2/JumpGame2.cpp.o
+
+.PHONY : JumpGame2/JumpGame2.o
+
+# target to build an object file
+JumpGame2/JumpGame2.cpp.o:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/JumpGame2/JumpGame2.cpp.o
+.PHONY : JumpGame2/JumpGame2.cpp.o
+
+JumpGame2/JumpGame2.i: JumpGame2/JumpGame2.cpp.i
+
+.PHONY : JumpGame2/JumpGame2.i
+
+# target to preprocess a source file
+JumpGame2/JumpGame2.cpp.i:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/JumpGame2/JumpGame2.cpp.i
+.PHONY : JumpGame2/JumpGame2.cpp.i
+
+JumpGame2/JumpGame2.s: JumpGame2/JumpGame2.cpp.s
+
+.PHONY : JumpGame2/JumpGame2.s
+
+# target to generate assembly for a file
+JumpGame2/JumpGame2.cpp.s:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/JumpGame2/JumpGame2.cpp.s
+.PHONY : JumpGame2/JumpGame2.cpp.s
+
 LongestSubString/LongestSubString.o: LongestSubString/LongestSubString.cpp.o
 
 .PHONY : LongestSubString/LongestSubString.o
@@ -311,6 +338,33 @@ MergeSortedLists/MergeSortedLists.s: MergeSortedLists/MergeSortedLists.cpp.s
 MergeSortedLists/MergeSortedLists.cpp.s:
 	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/MergeSortedLists/MergeSortedLists.cpp.s
 .PHONY : MergeSortedLists/MergeSortedLists.cpp.s
+
+MultiplyStrings/MultiplyStrings.o: MultiplyStrings/MultiplyStrings.cpp.o
+
+.PHONY : MultiplyStrings/MultiplyStrings.o
+
+# target to build an object file
+MultiplyStrings/MultiplyStrings.cpp.o:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/MultiplyStrings/MultiplyStrings.cpp.o
+.PHONY : MultiplyStrings/MultiplyStrings.cpp.o
+
+MultiplyStrings/MultiplyStrings.i: MultiplyStrings/MultiplyStrings.cpp.i
+
+.PHONY : MultiplyStrings/MultiplyStrings.i
+
+# target to preprocess a source file
+MultiplyStrings/MultiplyStrings.cpp.i:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/MultiplyStrings/MultiplyStrings.cpp.i
+.PHONY : MultiplyStrings/MultiplyStrings.cpp.i
+
+MultiplyStrings/MultiplyStrings.s: MultiplyStrings/MultiplyStrings.cpp.s
+
+.PHONY : MultiplyStrings/MultiplyStrings.s
+
+# target to generate assembly for a file
+MultiplyStrings/MultiplyStrings.cpp.s:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/MultiplyStrings/MultiplyStrings.cpp.s
+.PHONY : MultiplyStrings/MultiplyStrings.cpp.s
 
 MyAtoi/MyAtoi.o: MyAtoi/MyAtoi.cpp.o
 
@@ -555,6 +609,33 @@ ValidSudoku/ValidSudoku.cpp.s:
 	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/ValidSudoku/ValidSudoku.cpp.s
 .PHONY : ValidSudoku/ValidSudoku.cpp.s
 
+WildcardMatching/WildcardMatching.o: WildcardMatching/WildcardMatching.cpp.o
+
+.PHONY : WildcardMatching/WildcardMatching.o
+
+# target to build an object file
+WildcardMatching/WildcardMatching.cpp.o:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/WildcardMatching/WildcardMatching.cpp.o
+.PHONY : WildcardMatching/WildcardMatching.cpp.o
+
+WildcardMatching/WildcardMatching.i: WildcardMatching/WildcardMatching.cpp.i
+
+.PHONY : WildcardMatching/WildcardMatching.i
+
+# target to preprocess a source file
+WildcardMatching/WildcardMatching.cpp.i:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/WildcardMatching/WildcardMatching.cpp.i
+.PHONY : WildcardMatching/WildcardMatching.cpp.i
+
+WildcardMatching/WildcardMatching.s: WildcardMatching/WildcardMatching.cpp.s
+
+.PHONY : WildcardMatching/WildcardMatching.s
+
+# target to generate assembly for a file
+WildcardMatching/WildcardMatching.cpp.s:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/WildcardMatching/WildcardMatching.cpp.s
+.PHONY : WildcardMatching/WildcardMatching.cpp.s
+
 ZigZag/ZigZag.o: ZigZag/ZigZag.cpp.o
 
 .PHONY : ZigZag/ZigZag.o
@@ -630,6 +711,9 @@ help:
 	@echo "... FirstMissingPositive/FirstMissingPositive.o"
 	@echo "... FirstMissingPositive/FirstMissingPositive.i"
 	@echo "... FirstMissingPositive/FirstMissingPositive.s"
+	@echo "... JumpGame2/JumpGame2.o"
+	@echo "... JumpGame2/JumpGame2.i"
+	@echo "... JumpGame2/JumpGame2.s"
 	@echo "... LongestSubString/LongestSubString.o"
 	@echo "... LongestSubString/LongestSubString.i"
 	@echo "... LongestSubString/LongestSubString.s"
@@ -639,6 +723,9 @@ help:
 	@echo "... MergeSortedLists/MergeSortedLists.o"
 	@echo "... MergeSortedLists/MergeSortedLists.i"
 	@echo "... MergeSortedLists/MergeSortedLists.s"
+	@echo "... MultiplyStrings/MultiplyStrings.o"
+	@echo "... MultiplyStrings/MultiplyStrings.i"
+	@echo "... MultiplyStrings/MultiplyStrings.s"
 	@echo "... MyAtoi/MyAtoi.o"
 	@echo "... MyAtoi/MyAtoi.i"
 	@echo "... MyAtoi/MyAtoi.s"
@@ -666,6 +753,9 @@ help:
 	@echo "... ValidSudoku/ValidSudoku.o"
 	@echo "... ValidSudoku/ValidSudoku.i"
 	@echo "... ValidSudoku/ValidSudoku.s"
+	@echo "... WildcardMatching/WildcardMatching.o"
+	@echo "... WildcardMatching/WildcardMatching.i"
+	@echo "... WildcardMatching/WildcardMatching.s"
 	@echo "... ZigZag/ZigZag.o"
 	@echo "... ZigZag/ZigZag.i"
 	@echo "... ZigZag/ZigZag.s"

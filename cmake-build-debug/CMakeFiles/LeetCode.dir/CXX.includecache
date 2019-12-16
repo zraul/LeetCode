@@ -6,17 +6,13 @@
 
 #IncludeRegexTransform: 
 
-/Volumes/ZWHD/github/LeetCode/TrappingRainWater/TrappingRainWater.cpp
-TrappingRainWater.h
-/Volumes/ZWHD/github/LeetCode/TrappingRainWater/TrappingRainWater.h
-
-/Volumes/ZWHD/github/LeetCode/TrappingRainWater/TrappingRainWater.h
+/Volumes/ZWHD/github/LeetCode/JumpGame2/JumpGame2.h
 vector
+-
+iostream
 -
 
 /Volumes/ZWHD/github/LeetCode/main.cpp
-TrappingRainWater/TrappingRainWater.h
-/Volumes/ZWHD/github/LeetCode/TrappingRainWater/TrappingRainWater.h
-iostream
--
+JumpGame2/JumpGame2.h
+/Volumes/ZWHD/github/LeetCode/JumpGame2/JumpGame2.h
 

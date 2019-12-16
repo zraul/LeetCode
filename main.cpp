@@ -2,14 +2,13 @@
 //#include "RemoveDuplicates/RemoveDuplicates.h"
 //#include "PalindromeNumber/PalindromeNumber.h"
 //#include "RegularExpressionMatching/RegularExpressionMatching.h"
-#include "TrappingRainWater/TrappingRainWater.h"
-#include <iostream>
+#include "JumpGame2/JumpGame2.h"
 
 int main()
 {
-    TrappingRainWater *t = new TrappingRainWater();
-    std::vector<int> water = {0,1,0,2,1,0,1,3,2,1,2,1};
-    std::cout<<t->trap(water)<<std::endl;
+    JumpGame2 *j = new JumpGame2();
+    std::vector<int> nums = {3,3,1,1,2};
+    std::cout<<j->jump(nums)<<std::endl;
     return 0;
 }
 

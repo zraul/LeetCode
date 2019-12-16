@@ -14,6 +14,9 @@ CMakeFiles/LeetCode.dir/CountAndSay/CountAndSay.cpp.o: ../CountAndSay/CountAndSa
 CMakeFiles/LeetCode.dir/FirstMissingPositive/FirstMissingPositive.cpp.o: ../FirstMissingPositive/FirstMissingPositive.cpp
 CMakeFiles/LeetCode.dir/FirstMissingPositive/FirstMissingPositive.cpp.o: ../FirstMissingPositive/FirstMissingPositive.h
 
+CMakeFiles/LeetCode.dir/JumpGame2/JumpGame2.cpp.o: ../JumpGame2/JumpGame2.cpp
+CMakeFiles/LeetCode.dir/JumpGame2/JumpGame2.cpp.o: ../JumpGame2/JumpGame2.h
+
 CMakeFiles/LeetCode.dir/LongestSubString/LongestSubString.cpp.o: ../LongestSubString/LongestSubString.cpp
 CMakeFiles/LeetCode.dir/LongestSubString/LongestSubString.cpp.o: ../LongestSubString/LongestSubString.h
 CMakeFiles/LeetCode.dir/LongestSubString/LongestSubString.cpp.o: ../common.h
@@ -25,6 +28,9 @@ CMakeFiles/LeetCode.dir/MedianTwoSortedArrays/MedianTwoSortedArrays.cpp.o: ../co
 CMakeFiles/LeetCode.dir/MergeSortedLists/MergeSortedLists.cpp.o: ../MergeSortedLists/MergeSortedLists.cpp
 CMakeFiles/LeetCode.dir/MergeSortedLists/MergeSortedLists.cpp.o: ../MergeSortedLists/MergeSortedLists.h
 CMakeFiles/LeetCode.dir/MergeSortedLists/MergeSortedLists.cpp.o: ../common.h
+
+CMakeFiles/LeetCode.dir/MultiplyStrings/MultiplyStrings.cpp.o: ../MultiplyStrings/MultiplyStrings.cpp
+CMakeFiles/LeetCode.dir/MultiplyStrings/MultiplyStrings.cpp.o: ../MultiplyStrings/MultiplyStrings.h
 
 CMakeFiles/LeetCode.dir/MyAtoi/MyAtoi.cpp.o: ../MyAtoi/MyAtoi.cpp
 CMakeFiles/LeetCode.dir/MyAtoi/MyAtoi.cpp.o: ../MyAtoi/MyAtoi.h
@@ -59,10 +65,13 @@ CMakeFiles/LeetCode.dir/Two-Sum/twosum.cpp.o: ../common.h
 CMakeFiles/LeetCode.dir/ValidSudoku/ValidSudoku.cpp.o: ../ValidSudoku/ValidSudoku.cpp
 CMakeFiles/LeetCode.dir/ValidSudoku/ValidSudoku.cpp.o: ../ValidSudoku/ValidSudoku.h
 
+CMakeFiles/LeetCode.dir/WildcardMatching/WildcardMatching.cpp.o: ../WildcardMatching/WildcardMatching.cpp
+CMakeFiles/LeetCode.dir/WildcardMatching/WildcardMatching.cpp.o: ../WildcardMatching/WildcardMatching.h
+
 CMakeFiles/LeetCode.dir/ZigZag/ZigZag.cpp.o: ../ZigZag/ZigZag.cpp
 CMakeFiles/LeetCode.dir/ZigZag/ZigZag.cpp.o: ../ZigZag/ZigZag.h
 CMakeFiles/LeetCode.dir/ZigZag/ZigZag.cpp.o: ../common.h
 
-CMakeFiles/LeetCode.dir/main.cpp.o: ../TrappingRainWater/TrappingRainWater.h
+CMakeFiles/LeetCode.dir/main.cpp.o: ../JumpGame2/JumpGame2.h
 CMakeFiles/LeetCode.dir/main.cpp.o: ../main.cpp
 
