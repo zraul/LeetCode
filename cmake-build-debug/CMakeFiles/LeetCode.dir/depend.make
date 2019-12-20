@@ -40,6 +40,12 @@ CMakeFiles/LeetCode.dir/PalindromeNumber/PalindromeNumber.cpp.o: ../PalindromeNu
 CMakeFiles/LeetCode.dir/PalindromeNumber/PalindromeNumber.cpp.o: ../PalindromeNumber/PalindromeNumber.h
 CMakeFiles/LeetCode.dir/PalindromeNumber/PalindromeNumber.cpp.o: ../common.h
 
+CMakeFiles/LeetCode.dir/Permutations/Permutations.cpp.o: ../Permutations/Permutations.cpp
+CMakeFiles/LeetCode.dir/Permutations/Permutations.cpp.o: ../Permutations/Permutations.h
+
+CMakeFiles/LeetCode.dir/PermutationsII/PermutationsII.cpp.o: ../PermutationsII/PermutationsII.cpp
+CMakeFiles/LeetCode.dir/PermutationsII/PermutationsII.cpp.o: ../PermutationsII/PermutationsII.h
+
 CMakeFiles/LeetCode.dir/RegularExpressionMatching/RegularExpressionMatching.cpp.o: ../RegularExpressionMatching/RegularExpressionMatching.cpp
 CMakeFiles/LeetCode.dir/RegularExpressionMatching/RegularExpressionMatching.cpp.o: ../RegularExpressionMatching/RegularExpressionMatching.h
 CMakeFiles/LeetCode.dir/RegularExpressionMatching/RegularExpressionMatching.cpp.o: ../common.h
@@ -72,6 +78,6 @@ CMakeFiles/LeetCode.dir/ZigZag/ZigZag.cpp.o: ../ZigZag/ZigZag.cpp
 CMakeFiles/LeetCode.dir/ZigZag/ZigZag.cpp.o: ../ZigZag/ZigZag.h
 CMakeFiles/LeetCode.dir/ZigZag/ZigZag.cpp.o: ../common.h
 
-CMakeFiles/LeetCode.dir/main.cpp.o: ../JumpGame2/JumpGame2.h
+CMakeFiles/LeetCode.dir/main.cpp.o: ../PermutationsII/PermutationsII.h
 CMakeFiles/LeetCode.dir/main.cpp.o: ../main.cpp
 

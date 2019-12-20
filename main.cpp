@@ -2,13 +2,20 @@
 //#include "RemoveDuplicates/RemoveDuplicates.h"
 //#include "PalindromeNumber/PalindromeNumber.h"
 //#include "RegularExpressionMatching/RegularExpressionMatching.h"
-#include "JumpGame2/JumpGame2.h"
+#include "PermutationsII/PermutationsII.h"
 
 int main()
 {
-    JumpGame2 *j = new JumpGame2();
-    std::vector<int> nums = {3,3,1,1,2};
-    std::cout<<j->jump(nums)<<std::endl;
+    PermutationsII *p = new PermutationsII();
+    std::vector<int> nums = {1,1,2};
+    std::vector<std::vector<int>> result = p->permuteUnique(nums);
+    for (int i = 0; i < result.size(); ++i) {
+        std::vector<int> tmp = result[i];
+        for (int j = 0; j < tmp.size(); ++j) {
+            std::cout<<tmp[j]<<",";
+        }
+        std::cout<<std::endl;
+    }
     return 0;
 }
 

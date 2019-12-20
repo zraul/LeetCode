@@ -6,13 +6,13 @@
 
 #IncludeRegexTransform: 
 
-/Volumes/ZWHD/github/LeetCode/JumpGame2/JumpGame2.h
+/Volumes/ZWHD/github/LeetCode/PermutationsII/PermutationsII.cpp
+PermutationsII.h
+/Volumes/ZWHD/github/LeetCode/PermutationsII/PermutationsII.h
+
+/Volumes/ZWHD/github/LeetCode/PermutationsII/PermutationsII.h
 vector
 -
 iostream
 -
-
-/Volumes/ZWHD/github/LeetCode/main.cpp
-JumpGame2/JumpGame2.h
-/Volumes/ZWHD/github/LeetCode/JumpGame2/JumpGame2.h
 

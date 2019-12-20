@@ -15,6 +15,8 @@ set(CMAKE_DEPENDS_CHECK_CXX
   "/Volumes/ZWHD/github/LeetCode/MultiplyStrings/MultiplyStrings.cpp" "/Volumes/ZWHD/github/LeetCode/cmake-build-debug/CMakeFiles/LeetCode.dir/MultiplyStrings/MultiplyStrings.cpp.o"
   "/Volumes/ZWHD/github/LeetCode/MyAtoi/MyAtoi.cpp" "/Volumes/ZWHD/github/LeetCode/cmake-build-debug/CMakeFiles/LeetCode.dir/MyAtoi/MyAtoi.cpp.o"
   "/Volumes/ZWHD/github/LeetCode/PalindromeNumber/PalindromeNumber.cpp" "/Volumes/ZWHD/github/LeetCode/cmake-build-debug/CMakeFiles/LeetCode.dir/PalindromeNumber/PalindromeNumber.cpp.o"
+  "/Volumes/ZWHD/github/LeetCode/Permutations/Permutations.cpp" "/Volumes/ZWHD/github/LeetCode/cmake-build-debug/CMakeFiles/LeetCode.dir/Permutations/Permutations.cpp.o"
+  "/Volumes/ZWHD/github/LeetCode/PermutationsII/PermutationsII.cpp" "/Volumes/ZWHD/github/LeetCode/cmake-build-debug/CMakeFiles/LeetCode.dir/PermutationsII/PermutationsII.cpp.o"
   "/Volumes/ZWHD/github/LeetCode/RegularExpressionMatching/RegularExpressionMatching.cpp" "/Volumes/ZWHD/github/LeetCode/cmake-build-debug/CMakeFiles/LeetCode.dir/RegularExpressionMatching/RegularExpressionMatching.cpp.o"
   "/Volumes/ZWHD/github/LeetCode/RemoveDuplicates/RemoveDuplicates.cpp" "/Volumes/ZWHD/github/LeetCode/cmake-build-debug/CMakeFiles/LeetCode.dir/RemoveDuplicates/RemoveDuplicates.cpp.o"
   "/Volumes/ZWHD/github/LeetCode/ReverseInteger/ReverseInteger.cpp" "/Volumes/ZWHD/github/LeetCode/cmake-build-debug/CMakeFiles/LeetCode.dir/ReverseInteger/ReverseInteger.cpp.o"

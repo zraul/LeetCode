@@ -420,6 +420,60 @@ PalindromeNumber/PalindromeNumber.cpp.s:
 	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/PalindromeNumber/PalindromeNumber.cpp.s
 .PHONY : PalindromeNumber/PalindromeNumber.cpp.s
 
+Permutations/Permutations.o: Permutations/Permutations.cpp.o
+
+.PHONY : Permutations/Permutations.o
+
+# target to build an object file
+Permutations/Permutations.cpp.o:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Permutations/Permutations.cpp.o
+.PHONY : Permutations/Permutations.cpp.o
+
+Permutations/Permutations.i: Permutations/Permutations.cpp.i
+
+.PHONY : Permutations/Permutations.i
+
+# target to preprocess a source file
+Permutations/Permutations.cpp.i:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Permutations/Permutations.cpp.i
+.PHONY : Permutations/Permutations.cpp.i
+
+Permutations/Permutations.s: Permutations/Permutations.cpp.s
+
+.PHONY : Permutations/Permutations.s
+
+# target to generate assembly for a file
+Permutations/Permutations.cpp.s:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Permutations/Permutations.cpp.s
+.PHONY : Permutations/Permutations.cpp.s
+
+PermutationsII/PermutationsII.o: PermutationsII/PermutationsII.cpp.o
+
+.PHONY : PermutationsII/PermutationsII.o
+
+# target to build an object file
+PermutationsII/PermutationsII.cpp.o:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/PermutationsII/PermutationsII.cpp.o
+.PHONY : PermutationsII/PermutationsII.cpp.o
+
+PermutationsII/PermutationsII.i: PermutationsII/PermutationsII.cpp.i
+
+.PHONY : PermutationsII/PermutationsII.i
+
+# target to preprocess a source file
+PermutationsII/PermutationsII.cpp.i:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/PermutationsII/PermutationsII.cpp.i
+.PHONY : PermutationsII/PermutationsII.cpp.i
+
+PermutationsII/PermutationsII.s: PermutationsII/PermutationsII.cpp.s
+
+.PHONY : PermutationsII/PermutationsII.s
+
+# target to generate assembly for a file
+PermutationsII/PermutationsII.cpp.s:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/PermutationsII/PermutationsII.cpp.s
+.PHONY : PermutationsII/PermutationsII.cpp.s
+
 RegularExpressionMatching/RegularExpressionMatching.o: RegularExpressionMatching/RegularExpressionMatching.cpp.o
 
 .PHONY : RegularExpressionMatching/RegularExpressionMatching.o
@@ -732,6 +786,12 @@ help:
 	@echo "... PalindromeNumber/PalindromeNumber.o"
 	@echo "... PalindromeNumber/PalindromeNumber.i"
 	@echo "... PalindromeNumber/PalindromeNumber.s"
+	@echo "... Permutations/Permutations.o"
+	@echo "... Permutations/Permutations.i"
+	@echo "... Permutations/Permutations.s"
+	@echo "... PermutationsII/PermutationsII.o"
+	@echo "... PermutationsII/PermutationsII.i"
+	@echo "... PermutationsII/PermutationsII.s"
 	@echo "... RegularExpressionMatching/RegularExpressionMatching.o"
 	@echo "... RegularExpressionMatching/RegularExpressionMatching.i"
 	@echo "... RegularExpressionMatching/RegularExpressionMatching.s"

@@ -172,6 +172,18 @@
 		<Unit filename="/Volumes/ZWHD/github/LeetCode/PalindromeNumber/PalindromeNumber.h">
 			<Option target="LeetCode"/>
 		</Unit>
+		<Unit filename="/Volumes/ZWHD/github/LeetCode/Permutations/Permutations.cpp">
+			<Option target="LeetCode"/>
+		</Unit>
+		<Unit filename="/Volumes/ZWHD/github/LeetCode/Permutations/Permutations.h">
+			<Option target="LeetCode"/>
+		</Unit>
+		<Unit filename="/Volumes/ZWHD/github/LeetCode/PermutationsII/PermutationsII.cpp">
+			<Option target="LeetCode"/>
+		</Unit>
+		<Unit filename="/Volumes/ZWHD/github/LeetCode/PermutationsII/PermutationsII.h">
+			<Option target="LeetCode"/>
+		</Unit>
 		<Unit filename="/Volumes/ZWHD/github/LeetCode/RegularExpressionMatching/RegularExpressionMatching.cpp">
 			<Option target="LeetCode"/>
 		</Unit>

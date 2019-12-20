@@ -12,15 +12,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6572f727-0fe8-4c92-80bd-b9f70d0e5706" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/JumpGame2/JumpGame2.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JumpGame2/JumpGame2.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MultiplyStrings/MultiplyStrings.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MultiplyStrings/MultiplyStrings.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WildcardMatching/WildcardMatching.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WildcardMatching/WildcardMatching.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Permutations/Permutations.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Permutations/Permutations.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PermutationsII/PermutationsII.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PermutationsII/PermutationsII.h" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TrappingRainWater/TrappingRainWater.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/TrappingRainWater/TrappingRainWater.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LeetCode.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LeetCode.dir/CXX.includecache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LeetCode.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LeetCode.dir/DependInfo.cmake" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LeetCode.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LeetCode.dir/build.make" afterDir="false" />
@@ -49,11 +46,6 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="x" value="1920" />
-    <option name="width" value="2560" />
-    <option name="height" value="1440" />
   </component>
   <component name="ProjectId" id="1UVUCXL5aiuU5oIPWVbnnKd3B7s" />
   <component name="PropertiesComponent">
@@ -208,7 +200,9 @@
       <workItem from="1576204709388" duration="3645000" />
       <workItem from="1576215567158" duration="2628000" />
       <workItem from="1576457693078" duration="3777000" />
-      <workItem from="1576479784009" duration="3919000" />
+      <workItem from="1576479784009" duration="5341000" />
+      <workItem from="1576543941581" duration="4450000" />
+      <workItem from="1576805652194" duration="7903000" />
     </task>
     <servers />
   </component>
@@ -292,8 +286,18 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
           <url>file://$PROJECT_DIR$/JumpGame2/JumpGame2.cpp</url>
-          <line>7</line>
-          <option name="timeStamp" value="19" />
+          <line>8</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/Permutations/Permutations.cpp</url>
+          <line>13</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/PermutationsII/PermutationsII.cpp</url>
+          <line>14</line>
+          <option name="timeStamp" value="25" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

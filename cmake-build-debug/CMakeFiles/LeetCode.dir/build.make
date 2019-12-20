@@ -330,6 +330,32 @@ CMakeFiles/LeetCode.dir/JumpGame2/JumpGame2.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/JumpGame2/JumpGame2.cpp.s"
 	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Volumes/ZWHD/github/LeetCode/JumpGame2/JumpGame2.cpp -o CMakeFiles/LeetCode.dir/JumpGame2/JumpGame2.cpp.s
 
+CMakeFiles/LeetCode.dir/Permutations/Permutations.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/Permutations/Permutations.cpp.o: ../Permutations/Permutations.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Volumes/ZWHD/github/LeetCode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_22) "Building CXX object CMakeFiles/LeetCode.dir/Permutations/Permutations.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/LeetCode.dir/Permutations/Permutations.cpp.o -c /Volumes/ZWHD/github/LeetCode/Permutations/Permutations.cpp
+
+CMakeFiles/LeetCode.dir/Permutations/Permutations.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/Permutations/Permutations.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Volumes/ZWHD/github/LeetCode/Permutations/Permutations.cpp > CMakeFiles/LeetCode.dir/Permutations/Permutations.cpp.i
+
+CMakeFiles/LeetCode.dir/Permutations/Permutations.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Permutations/Permutations.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Volumes/ZWHD/github/LeetCode/Permutations/Permutations.cpp -o CMakeFiles/LeetCode.dir/Permutations/Permutations.cpp.s
+
+CMakeFiles/LeetCode.dir/PermutationsII/PermutationsII.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/PermutationsII/PermutationsII.cpp.o: ../PermutationsII/PermutationsII.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Volumes/ZWHD/github/LeetCode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_23) "Building CXX object CMakeFiles/LeetCode.dir/PermutationsII/PermutationsII.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/LeetCode.dir/PermutationsII/PermutationsII.cpp.o -c /Volumes/ZWHD/github/LeetCode/PermutationsII/PermutationsII.cpp
+
+CMakeFiles/LeetCode.dir/PermutationsII/PermutationsII.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/PermutationsII/PermutationsII.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Volumes/ZWHD/github/LeetCode/PermutationsII/PermutationsII.cpp > CMakeFiles/LeetCode.dir/PermutationsII/PermutationsII.cpp.i
+
+CMakeFiles/LeetCode.dir/PermutationsII/PermutationsII.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/PermutationsII/PermutationsII.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Volumes/ZWHD/github/LeetCode/PermutationsII/PermutationsII.cpp -o CMakeFiles/LeetCode.dir/PermutationsII/PermutationsII.cpp.s
+
 # Object files for target LeetCode
 LeetCode_OBJECTS = \
 "CMakeFiles/LeetCode.dir/AddTwoNumbers/AddTwoNumbers.cpp.o" \
@@ -352,7 +378,9 @@ LeetCode_OBJECTS = \
 "CMakeFiles/LeetCode.dir/TrappingRainWater/TrappingRainWater.cpp.o" \
 "CMakeFiles/LeetCode.dir/MultiplyStrings/MultiplyStrings.cpp.o" \
 "CMakeFiles/LeetCode.dir/WildcardMatching/WildcardMatching.cpp.o" \
-"CMakeFiles/LeetCode.dir/JumpGame2/JumpGame2.cpp.o"
+"CMakeFiles/LeetCode.dir/JumpGame2/JumpGame2.cpp.o" \
+"CMakeFiles/LeetCode.dir/Permutations/Permutations.cpp.o" \
+"CMakeFiles/LeetCode.dir/PermutationsII/PermutationsII.cpp.o"
 
 # External object files for target LeetCode
 LeetCode_EXTERNAL_OBJECTS =
@@ -378,9 +406,11 @@ LeetCode: CMakeFiles/LeetCode.dir/TrappingRainWater/TrappingRainWater.cpp.o
 LeetCode: CMakeFiles/LeetCode.dir/MultiplyStrings/MultiplyStrings.cpp.o
 LeetCode: CMakeFiles/LeetCode.dir/WildcardMatching/WildcardMatching.cpp.o
 LeetCode: CMakeFiles/LeetCode.dir/JumpGame2/JumpGame2.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/Permutations/Permutations.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/PermutationsII/PermutationsII.cpp.o
 LeetCode: CMakeFiles/LeetCode.dir/build.make
 LeetCode: CMakeFiles/LeetCode.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Volumes/ZWHD/github/LeetCode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_22) "Linking CXX executable LeetCode"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Volumes/ZWHD/github/LeetCode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_24) "Linking CXX executable LeetCode"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/LeetCode.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

@@ -10,6 +10,8 @@ file(REMOVE_RECURSE
   "CMakeFiles/LeetCode.dir/MultiplyStrings/MultiplyStrings.cpp.o"
   "CMakeFiles/LeetCode.dir/MyAtoi/MyAtoi.cpp.o"
   "CMakeFiles/LeetCode.dir/PalindromeNumber/PalindromeNumber.cpp.o"
+  "CMakeFiles/LeetCode.dir/Permutations/Permutations.cpp.o"
+  "CMakeFiles/LeetCode.dir/PermutationsII/PermutationsII.cpp.o"
   "CMakeFiles/LeetCode.dir/RegularExpressionMatching/RegularExpressionMatching.cpp.o"
   "CMakeFiles/LeetCode.dir/RemoveDuplicates/RemoveDuplicates.cpp.o"
   "CMakeFiles/LeetCode.dir/ReverseInteger/ReverseInteger.cpp.o"
