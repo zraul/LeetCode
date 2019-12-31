@@ -58,6 +58,9 @@ CMakeFiles/LeetCode.dir/ReverseInteger/ReverseInteger.cpp.o: ../ReverseInteger/R
 CMakeFiles/LeetCode.dir/ReverseInteger/ReverseInteger.cpp.o: ../ReverseInteger/ReverseInteger.h
 CMakeFiles/LeetCode.dir/ReverseInteger/ReverseInteger.cpp.o: ../common.h
 
+CMakeFiles/LeetCode.dir/RotateImage/RotateImage.cpp.o: ../RotateImage/RotateImage.cpp
+CMakeFiles/LeetCode.dir/RotateImage/RotateImage.cpp.o: ../RotateImage/RotateImage.h
+
 CMakeFiles/LeetCode.dir/SudokuSolver/SudokuSolver.cpp.o: ../SudokuSolver/SudokuSolver.cpp
 CMakeFiles/LeetCode.dir/SudokuSolver/SudokuSolver.cpp.o: ../SudokuSolver/SudokuSolver.h
 
@@ -78,6 +81,6 @@ CMakeFiles/LeetCode.dir/ZigZag/ZigZag.cpp.o: ../ZigZag/ZigZag.cpp
 CMakeFiles/LeetCode.dir/ZigZag/ZigZag.cpp.o: ../ZigZag/ZigZag.h
 CMakeFiles/LeetCode.dir/ZigZag/ZigZag.cpp.o: ../common.h
 
-CMakeFiles/LeetCode.dir/main.cpp.o: ../PermutationsII/PermutationsII.h
+CMakeFiles/LeetCode.dir/main.cpp.o: ../RotateImage/RotateImage.h
 CMakeFiles/LeetCode.dir/main.cpp.o: ../main.cpp
 

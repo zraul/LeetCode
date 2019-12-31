@@ -555,6 +555,33 @@ ReverseInteger/ReverseInteger.cpp.s:
 	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/ReverseInteger/ReverseInteger.cpp.s
 .PHONY : ReverseInteger/ReverseInteger.cpp.s
 
+RotateImage/RotateImage.o: RotateImage/RotateImage.cpp.o
+
+.PHONY : RotateImage/RotateImage.o
+
+# target to build an object file
+RotateImage/RotateImage.cpp.o:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/RotateImage/RotateImage.cpp.o
+.PHONY : RotateImage/RotateImage.cpp.o
+
+RotateImage/RotateImage.i: RotateImage/RotateImage.cpp.i
+
+.PHONY : RotateImage/RotateImage.i
+
+# target to preprocess a source file
+RotateImage/RotateImage.cpp.i:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/RotateImage/RotateImage.cpp.i
+.PHONY : RotateImage/RotateImage.cpp.i
+
+RotateImage/RotateImage.s: RotateImage/RotateImage.cpp.s
+
+.PHONY : RotateImage/RotateImage.s
+
+# target to generate assembly for a file
+RotateImage/RotateImage.cpp.s:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/RotateImage/RotateImage.cpp.s
+.PHONY : RotateImage/RotateImage.cpp.s
+
 SudokuSolver/SudokuSolver.o: SudokuSolver/SudokuSolver.cpp.o
 
 .PHONY : SudokuSolver/SudokuSolver.o
@@ -801,6 +828,9 @@ help:
 	@echo "... ReverseInteger/ReverseInteger.o"
 	@echo "... ReverseInteger/ReverseInteger.i"
 	@echo "... ReverseInteger/ReverseInteger.s"
+	@echo "... RotateImage/RotateImage.o"
+	@echo "... RotateImage/RotateImage.i"
+	@echo "... RotateImage/RotateImage.s"
 	@echo "... SudokuSolver/SudokuSolver.o"
 	@echo "... SudokuSolver/SudokuSolver.i"
 	@echo "... SudokuSolver/SudokuSolver.s"

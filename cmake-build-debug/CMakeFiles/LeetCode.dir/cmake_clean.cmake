@@ -15,6 +15,7 @@ file(REMOVE_RECURSE
   "CMakeFiles/LeetCode.dir/RegularExpressionMatching/RegularExpressionMatching.cpp.o"
   "CMakeFiles/LeetCode.dir/RemoveDuplicates/RemoveDuplicates.cpp.o"
   "CMakeFiles/LeetCode.dir/ReverseInteger/ReverseInteger.cpp.o"
+  "CMakeFiles/LeetCode.dir/RotateImage/RotateImage.cpp.o"
   "CMakeFiles/LeetCode.dir/SudokuSolver/SudokuSolver.cpp.o"
   "CMakeFiles/LeetCode.dir/TrappingRainWater/TrappingRainWater.cpp.o"
   "CMakeFiles/LeetCode.dir/Two-Sum/twosum.cpp.o"

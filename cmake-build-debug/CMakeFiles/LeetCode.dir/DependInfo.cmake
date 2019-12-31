@@ -20,6 +20,7 @@ set(CMAKE_DEPENDS_CHECK_CXX
   "/Volumes/ZWHD/github/LeetCode/RegularExpressionMatching/RegularExpressionMatching.cpp" "/Volumes/ZWHD/github/LeetCode/cmake-build-debug/CMakeFiles/LeetCode.dir/RegularExpressionMatching/RegularExpressionMatching.cpp.o"
   "/Volumes/ZWHD/github/LeetCode/RemoveDuplicates/RemoveDuplicates.cpp" "/Volumes/ZWHD/github/LeetCode/cmake-build-debug/CMakeFiles/LeetCode.dir/RemoveDuplicates/RemoveDuplicates.cpp.o"
   "/Volumes/ZWHD/github/LeetCode/ReverseInteger/ReverseInteger.cpp" "/Volumes/ZWHD/github/LeetCode/cmake-build-debug/CMakeFiles/LeetCode.dir/ReverseInteger/ReverseInteger.cpp.o"
+  "/Volumes/ZWHD/github/LeetCode/RotateImage/RotateImage.cpp" "/Volumes/ZWHD/github/LeetCode/cmake-build-debug/CMakeFiles/LeetCode.dir/RotateImage/RotateImage.cpp.o"
   "/Volumes/ZWHD/github/LeetCode/SudokuSolver/SudokuSolver.cpp" "/Volumes/ZWHD/github/LeetCode/cmake-build-debug/CMakeFiles/LeetCode.dir/SudokuSolver/SudokuSolver.cpp.o"
   "/Volumes/ZWHD/github/LeetCode/TrappingRainWater/TrappingRainWater.cpp" "/Volumes/ZWHD/github/LeetCode/cmake-build-debug/CMakeFiles/LeetCode.dir/TrappingRainWater/TrappingRainWater.cpp.o"
   "/Volumes/ZWHD/github/LeetCode/Two-Sum/twosum.cpp" "/Volumes/ZWHD/github/LeetCode/cmake-build-debug/CMakeFiles/LeetCode.dir/Two-Sum/twosum.cpp.o"

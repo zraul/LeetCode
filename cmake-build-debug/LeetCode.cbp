@@ -202,6 +202,12 @@
 		<Unit filename="/Volumes/ZWHD/github/LeetCode/ReverseInteger/ReverseInteger.h">
 			<Option target="LeetCode"/>
 		</Unit>
+		<Unit filename="/Volumes/ZWHD/github/LeetCode/RotateImage/RotateImage.cpp">
+			<Option target="LeetCode"/>
+		</Unit>
+		<Unit filename="/Volumes/ZWHD/github/LeetCode/RotateImage/RotateImage.h">
+			<Option target="LeetCode"/>
+		</Unit>
 		<Unit filename="/Volumes/ZWHD/github/LeetCode/SudokuSolver/SudokuSolver.cpp">
 			<Option target="LeetCode"/>
 		</Unit>
