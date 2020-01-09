@@ -14,6 +14,9 @@ CMakeFiles/LeetCode.dir/CountAndSay/CountAndSay.cpp.o: ../CountAndSay/CountAndSa
 CMakeFiles/LeetCode.dir/FirstMissingPositive/FirstMissingPositive.cpp.o: ../FirstMissingPositive/FirstMissingPositive.cpp
 CMakeFiles/LeetCode.dir/FirstMissingPositive/FirstMissingPositive.cpp.o: ../FirstMissingPositive/FirstMissingPositive.h
 
+CMakeFiles/LeetCode.dir/GroupAnagrams/GroupAnagrams.cpp.o: ../GroupAnagrams/GroupAnagrams.cpp
+CMakeFiles/LeetCode.dir/GroupAnagrams/GroupAnagrams.cpp.o: ../GroupAnagrams/GroupAnagrams.h
+
 CMakeFiles/LeetCode.dir/JumpGame2/JumpGame2.cpp.o: ../JumpGame2/JumpGame2.cpp
 CMakeFiles/LeetCode.dir/JumpGame2/JumpGame2.cpp.o: ../JumpGame2/JumpGame2.h
 
@@ -81,6 +84,6 @@ CMakeFiles/LeetCode.dir/ZigZag/ZigZag.cpp.o: ../ZigZag/ZigZag.cpp
 CMakeFiles/LeetCode.dir/ZigZag/ZigZag.cpp.o: ../ZigZag/ZigZag.h
 CMakeFiles/LeetCode.dir/ZigZag/ZigZag.cpp.o: ../common.h
 
-CMakeFiles/LeetCode.dir/main.cpp.o: ../RotateImage/RotateImage.h
+CMakeFiles/LeetCode.dir/main.cpp.o: ../GroupAnagrams/GroupAnagrams.h
 CMakeFiles/LeetCode.dir/main.cpp.o: ../main.cpp
 

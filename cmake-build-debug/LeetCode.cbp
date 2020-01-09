@@ -130,6 +130,12 @@
 		<Unit filename="/Volumes/ZWHD/github/LeetCode/FirstMissingPositive/FirstMissingPositive.h">
 			<Option target="LeetCode"/>
 		</Unit>
+		<Unit filename="/Volumes/ZWHD/github/LeetCode/GroupAnagrams/GroupAnagrams.cpp">
+			<Option target="LeetCode"/>
+		</Unit>
+		<Unit filename="/Volumes/ZWHD/github/LeetCode/GroupAnagrams/GroupAnagrams.h">
+			<Option target="LeetCode"/>
+		</Unit>
 		<Unit filename="/Volumes/ZWHD/github/LeetCode/JumpGame2/JumpGame2.cpp">
 			<Option target="LeetCode"/>
 		</Unit>

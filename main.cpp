@@ -2,16 +2,16 @@
 //#include "RemoveDuplicates/RemoveDuplicates.h"
 //#include "PalindromeNumber/PalindromeNumber.h"
 //#include "RegularExpressionMatching/RegularExpressionMatching.h"
-#include "RotateImage/RotateImage.h"
+#include "GroupAnagrams/GroupAnagrams.h"
 
 int main()
 {
-    std::vector<std::vector<int>> matrix = {{1, 2, 3},{4, 5, 6}, {7, 8, 9}};
-    RotateImage *r = new RotateImage();
-    r->rotate(matrix);
-    for (int i = 0; i < matrix.size(); i++) {
-        for (int j = 0; j < matrix[i].size(); ++j) {
-            std::cout<<matrix[i][j];
+    std::vector<std::string> matrix = {"eat", "tea", "tan", "ate", "nat", "bat"};
+    GroupAnagrams *r = new GroupAnagrams();
+    std::vector<std::vector<std::string>> gr = r->gropuAnagrams(matrix);
+    for (int i = 0; i < gr.size(); ++i) {
+        for (int j = 0; j < gr[i].size(); ++j) {
+            std::cout<<gr[i][j];
         }
         std::cout<<std::endl;
     }

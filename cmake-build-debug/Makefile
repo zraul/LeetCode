@@ -231,6 +231,33 @@ FirstMissingPositive/FirstMissingPositive.cpp.s:
 	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/FirstMissingPositive/FirstMissingPositive.cpp.s
 .PHONY : FirstMissingPositive/FirstMissingPositive.cpp.s
 
+GroupAnagrams/GroupAnagrams.o: GroupAnagrams/GroupAnagrams.cpp.o
+
+.PHONY : GroupAnagrams/GroupAnagrams.o
+
+# target to build an object file
+GroupAnagrams/GroupAnagrams.cpp.o:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/GroupAnagrams/GroupAnagrams.cpp.o
+.PHONY : GroupAnagrams/GroupAnagrams.cpp.o
+
+GroupAnagrams/GroupAnagrams.i: GroupAnagrams/GroupAnagrams.cpp.i
+
+.PHONY : GroupAnagrams/GroupAnagrams.i
+
+# target to preprocess a source file
+GroupAnagrams/GroupAnagrams.cpp.i:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/GroupAnagrams/GroupAnagrams.cpp.i
+.PHONY : GroupAnagrams/GroupAnagrams.cpp.i
+
+GroupAnagrams/GroupAnagrams.s: GroupAnagrams/GroupAnagrams.cpp.s
+
+.PHONY : GroupAnagrams/GroupAnagrams.s
+
+# target to generate assembly for a file
+GroupAnagrams/GroupAnagrams.cpp.s:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/GroupAnagrams/GroupAnagrams.cpp.s
+.PHONY : GroupAnagrams/GroupAnagrams.cpp.s
+
 JumpGame2/JumpGame2.o: JumpGame2/JumpGame2.cpp.o
 
 .PHONY : JumpGame2/JumpGame2.o
@@ -792,6 +819,9 @@ help:
 	@echo "... FirstMissingPositive/FirstMissingPositive.o"
 	@echo "... FirstMissingPositive/FirstMissingPositive.i"
 	@echo "... FirstMissingPositive/FirstMissingPositive.s"
+	@echo "... GroupAnagrams/GroupAnagrams.o"
+	@echo "... GroupAnagrams/GroupAnagrams.i"
+	@echo "... GroupAnagrams/GroupAnagrams.s"
 	@echo "... JumpGame2/JumpGame2.o"
 	@echo "... JumpGame2/JumpGame2.i"
 	@echo "... JumpGame2/JumpGame2.s"
