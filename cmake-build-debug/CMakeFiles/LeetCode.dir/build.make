@@ -382,6 +382,32 @@ CMakeFiles/LeetCode.dir/GroupAnagrams/GroupAnagrams.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/GroupAnagrams/GroupAnagrams.cpp.s"
 	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Volumes/ZWHD/github/LeetCode/GroupAnagrams/GroupAnagrams.cpp -o CMakeFiles/LeetCode.dir/GroupAnagrams/GroupAnagrams.cpp.s
 
+CMakeFiles/LeetCode.dir/Powxn/Powxn.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/Powxn/Powxn.cpp.o: ../Powxn/Powxn.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Volumes/ZWHD/github/LeetCode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_26) "Building CXX object CMakeFiles/LeetCode.dir/Powxn/Powxn.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/LeetCode.dir/Powxn/Powxn.cpp.o -c /Volumes/ZWHD/github/LeetCode/Powxn/Powxn.cpp
+
+CMakeFiles/LeetCode.dir/Powxn/Powxn.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/Powxn/Powxn.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Volumes/ZWHD/github/LeetCode/Powxn/Powxn.cpp > CMakeFiles/LeetCode.dir/Powxn/Powxn.cpp.i
+
+CMakeFiles/LeetCode.dir/Powxn/Powxn.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Powxn/Powxn.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Volumes/ZWHD/github/LeetCode/Powxn/Powxn.cpp -o CMakeFiles/LeetCode.dir/Powxn/Powxn.cpp.s
+
+CMakeFiles/LeetCode.dir/NQueens/NQueens.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/NQueens/NQueens.cpp.o: ../NQueens/NQueens.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Volumes/ZWHD/github/LeetCode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_27) "Building CXX object CMakeFiles/LeetCode.dir/NQueens/NQueens.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/LeetCode.dir/NQueens/NQueens.cpp.o -c /Volumes/ZWHD/github/LeetCode/NQueens/NQueens.cpp
+
+CMakeFiles/LeetCode.dir/NQueens/NQueens.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/NQueens/NQueens.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Volumes/ZWHD/github/LeetCode/NQueens/NQueens.cpp > CMakeFiles/LeetCode.dir/NQueens/NQueens.cpp.i
+
+CMakeFiles/LeetCode.dir/NQueens/NQueens.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/NQueens/NQueens.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Volumes/ZWHD/github/LeetCode/NQueens/NQueens.cpp -o CMakeFiles/LeetCode.dir/NQueens/NQueens.cpp.s
+
 # Object files for target LeetCode
 LeetCode_OBJECTS = \
 "CMakeFiles/LeetCode.dir/AddTwoNumbers/AddTwoNumbers.cpp.o" \
@@ -408,7 +434,9 @@ LeetCode_OBJECTS = \
 "CMakeFiles/LeetCode.dir/Permutations/Permutations.cpp.o" \
 "CMakeFiles/LeetCode.dir/PermutationsII/PermutationsII.cpp.o" \
 "CMakeFiles/LeetCode.dir/RotateImage/RotateImage.cpp.o" \
-"CMakeFiles/LeetCode.dir/GroupAnagrams/GroupAnagrams.cpp.o"
+"CMakeFiles/LeetCode.dir/GroupAnagrams/GroupAnagrams.cpp.o" \
+"CMakeFiles/LeetCode.dir/Powxn/Powxn.cpp.o" \
+"CMakeFiles/LeetCode.dir/NQueens/NQueens.cpp.o"
 
 # External object files for target LeetCode
 LeetCode_EXTERNAL_OBJECTS =
@@ -438,9 +466,11 @@ LeetCode: CMakeFiles/LeetCode.dir/Permutations/Permutations.cpp.o
 LeetCode: CMakeFiles/LeetCode.dir/PermutationsII/PermutationsII.cpp.o
 LeetCode: CMakeFiles/LeetCode.dir/RotateImage/RotateImage.cpp.o
 LeetCode: CMakeFiles/LeetCode.dir/GroupAnagrams/GroupAnagrams.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/Powxn/Powxn.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/NQueens/NQueens.cpp.o
 LeetCode: CMakeFiles/LeetCode.dir/build.make
 LeetCode: CMakeFiles/LeetCode.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Volumes/ZWHD/github/LeetCode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_26) "Linking CXX executable LeetCode"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Volumes/ZWHD/github/LeetCode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_28) "Linking CXX executable LeetCode"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/LeetCode.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

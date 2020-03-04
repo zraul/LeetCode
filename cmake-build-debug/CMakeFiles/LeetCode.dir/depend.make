@@ -39,6 +39,9 @@ CMakeFiles/LeetCode.dir/MyAtoi/MyAtoi.cpp.o: ../MyAtoi/MyAtoi.cpp
 CMakeFiles/LeetCode.dir/MyAtoi/MyAtoi.cpp.o: ../MyAtoi/MyAtoi.h
 CMakeFiles/LeetCode.dir/MyAtoi/MyAtoi.cpp.o: ../common.h
 
+CMakeFiles/LeetCode.dir/NQueens/NQueens.cpp.o: ../NQueens/NQueens.cpp
+CMakeFiles/LeetCode.dir/NQueens/NQueens.cpp.o: ../NQueens/NQueens.h
+
 CMakeFiles/LeetCode.dir/PalindromeNumber/PalindromeNumber.cpp.o: ../PalindromeNumber/PalindromeNumber.cpp
 CMakeFiles/LeetCode.dir/PalindromeNumber/PalindromeNumber.cpp.o: ../PalindromeNumber/PalindromeNumber.h
 CMakeFiles/LeetCode.dir/PalindromeNumber/PalindromeNumber.cpp.o: ../common.h
@@ -48,6 +51,9 @@ CMakeFiles/LeetCode.dir/Permutations/Permutations.cpp.o: ../Permutations/Permuta
 
 CMakeFiles/LeetCode.dir/PermutationsII/PermutationsII.cpp.o: ../PermutationsII/PermutationsII.cpp
 CMakeFiles/LeetCode.dir/PermutationsII/PermutationsII.cpp.o: ../PermutationsII/PermutationsII.h
+
+CMakeFiles/LeetCode.dir/Powxn/Powxn.cpp.o: ../Powxn/Powxn.cpp
+CMakeFiles/LeetCode.dir/Powxn/Powxn.cpp.o: ../Powxn/Powxn.h
 
 CMakeFiles/LeetCode.dir/RegularExpressionMatching/RegularExpressionMatching.cpp.o: ../RegularExpressionMatching/RegularExpressionMatching.cpp
 CMakeFiles/LeetCode.dir/RegularExpressionMatching/RegularExpressionMatching.cpp.o: ../RegularExpressionMatching/RegularExpressionMatching.h
@@ -84,6 +90,6 @@ CMakeFiles/LeetCode.dir/ZigZag/ZigZag.cpp.o: ../ZigZag/ZigZag.cpp
 CMakeFiles/LeetCode.dir/ZigZag/ZigZag.cpp.o: ../ZigZag/ZigZag.h
 CMakeFiles/LeetCode.dir/ZigZag/ZigZag.cpp.o: ../common.h
 
-CMakeFiles/LeetCode.dir/main.cpp.o: ../GroupAnagrams/GroupAnagrams.h
+CMakeFiles/LeetCode.dir/main.cpp.o: ../NQueens/NQueens.h
 CMakeFiles/LeetCode.dir/main.cpp.o: ../main.cpp
 

@@ -420,6 +420,33 @@ MyAtoi/MyAtoi.cpp.s:
 	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/MyAtoi/MyAtoi.cpp.s
 .PHONY : MyAtoi/MyAtoi.cpp.s
 
+NQueens/NQueens.o: NQueens/NQueens.cpp.o
+
+.PHONY : NQueens/NQueens.o
+
+# target to build an object file
+NQueens/NQueens.cpp.o:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/NQueens/NQueens.cpp.o
+.PHONY : NQueens/NQueens.cpp.o
+
+NQueens/NQueens.i: NQueens/NQueens.cpp.i
+
+.PHONY : NQueens/NQueens.i
+
+# target to preprocess a source file
+NQueens/NQueens.cpp.i:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/NQueens/NQueens.cpp.i
+.PHONY : NQueens/NQueens.cpp.i
+
+NQueens/NQueens.s: NQueens/NQueens.cpp.s
+
+.PHONY : NQueens/NQueens.s
+
+# target to generate assembly for a file
+NQueens/NQueens.cpp.s:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/NQueens/NQueens.cpp.s
+.PHONY : NQueens/NQueens.cpp.s
+
 PalindromeNumber/PalindromeNumber.o: PalindromeNumber/PalindromeNumber.cpp.o
 
 .PHONY : PalindromeNumber/PalindromeNumber.o
@@ -500,6 +527,33 @@ PermutationsII/PermutationsII.s: PermutationsII/PermutationsII.cpp.s
 PermutationsII/PermutationsII.cpp.s:
 	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/PermutationsII/PermutationsII.cpp.s
 .PHONY : PermutationsII/PermutationsII.cpp.s
+
+Powxn/Powxn.o: Powxn/Powxn.cpp.o
+
+.PHONY : Powxn/Powxn.o
+
+# target to build an object file
+Powxn/Powxn.cpp.o:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Powxn/Powxn.cpp.o
+.PHONY : Powxn/Powxn.cpp.o
+
+Powxn/Powxn.i: Powxn/Powxn.cpp.i
+
+.PHONY : Powxn/Powxn.i
+
+# target to preprocess a source file
+Powxn/Powxn.cpp.i:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Powxn/Powxn.cpp.i
+.PHONY : Powxn/Powxn.cpp.i
+
+Powxn/Powxn.s: Powxn/Powxn.cpp.s
+
+.PHONY : Powxn/Powxn.s
+
+# target to generate assembly for a file
+Powxn/Powxn.cpp.s:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Powxn/Powxn.cpp.s
+.PHONY : Powxn/Powxn.cpp.s
 
 RegularExpressionMatching/RegularExpressionMatching.o: RegularExpressionMatching/RegularExpressionMatching.cpp.o
 
@@ -840,6 +894,9 @@ help:
 	@echo "... MyAtoi/MyAtoi.o"
 	@echo "... MyAtoi/MyAtoi.i"
 	@echo "... MyAtoi/MyAtoi.s"
+	@echo "... NQueens/NQueens.o"
+	@echo "... NQueens/NQueens.i"
+	@echo "... NQueens/NQueens.s"
 	@echo "... PalindromeNumber/PalindromeNumber.o"
 	@echo "... PalindromeNumber/PalindromeNumber.i"
 	@echo "... PalindromeNumber/PalindromeNumber.s"
@@ -849,6 +906,9 @@ help:
 	@echo "... PermutationsII/PermutationsII.o"
 	@echo "... PermutationsII/PermutationsII.i"
 	@echo "... PermutationsII/PermutationsII.s"
+	@echo "... Powxn/Powxn.o"
+	@echo "... Powxn/Powxn.i"
+	@echo "... Powxn/Powxn.s"
 	@echo "... RegularExpressionMatching/RegularExpressionMatching.o"
 	@echo "... RegularExpressionMatching/RegularExpressionMatching.i"
 	@echo "... RegularExpressionMatching/RegularExpressionMatching.s"

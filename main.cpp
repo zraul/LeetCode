@@ -2,16 +2,16 @@
 //#include "RemoveDuplicates/RemoveDuplicates.h"
 //#include "PalindromeNumber/PalindromeNumber.h"
 //#include "RegularExpressionMatching/RegularExpressionMatching.h"
-#include "GroupAnagrams/GroupAnagrams.h"
+
+#include "NQueens/NQueens.h"
 
 int main()
 {
-    std::vector<std::string> matrix = {"eat", "tea", "tan", "ate", "nat", "bat"};
-    GroupAnagrams *r = new GroupAnagrams();
-    std::vector<std::vector<std::string>> gr = r->gropuAnagrams(matrix);
-    for (int i = 0; i < gr.size(); ++i) {
-        for (int j = 0; j < gr[i].size(); ++j) {
-            std::cout<<gr[i][j];
+    NQueens *queens = new NQueens();
+    std::vector<std::vector<std::string>> q = queens->solveNQueens(4);
+    for (int i = 0; i < q.size(); i++) {
+        for (int j = 0; j < q[i].size(); j++) {
+            std::cout<<q[i][j];
         }
         std::cout<<std::endl;
     }

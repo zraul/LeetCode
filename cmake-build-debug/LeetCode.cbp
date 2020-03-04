@@ -172,6 +172,12 @@
 		<Unit filename="/Volumes/ZWHD/github/LeetCode/MyAtoi/MyAtoi.h">
 			<Option target="LeetCode"/>
 		</Unit>
+		<Unit filename="/Volumes/ZWHD/github/LeetCode/NQueens/NQueens.cpp">
+			<Option target="LeetCode"/>
+		</Unit>
+		<Unit filename="/Volumes/ZWHD/github/LeetCode/NQueens/NQueens.h">
+			<Option target="LeetCode"/>
+		</Unit>
 		<Unit filename="/Volumes/ZWHD/github/LeetCode/PalindromeNumber/PalindromeNumber.cpp">
 			<Option target="LeetCode"/>
 		</Unit>
@@ -188,6 +194,12 @@
 			<Option target="LeetCode"/>
 		</Unit>
 		<Unit filename="/Volumes/ZWHD/github/LeetCode/PermutationsII/PermutationsII.h">
+			<Option target="LeetCode"/>
+		</Unit>
+		<Unit filename="/Volumes/ZWHD/github/LeetCode/Powxn/Powxn.cpp">
+			<Option target="LeetCode"/>
+		</Unit>
+		<Unit filename="/Volumes/ZWHD/github/LeetCode/Powxn/Powxn.h">
 			<Option target="LeetCode"/>
 		</Unit>
 		<Unit filename="/Volumes/ZWHD/github/LeetCode/RegularExpressionMatching/RegularExpressionMatching.cpp">

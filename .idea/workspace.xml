@@ -12,8 +12,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6572f727-0fe8-4c92-80bd-b9f70d0e5706" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/GroupAnagrams/GroupAnagrams.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GroupAnagrams/GroupAnagrams.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NQueens/NQueens.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NQueens/NQueens.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Powxn/Powxn.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Powxn/Powxn.h" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LeetCode.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LeetCode.dir/CXX.includecache" afterDir="false" />
@@ -205,6 +207,11 @@
       <workItem from="1577760327169" duration="2980000" />
       <workItem from="1578012662692" duration="4443000" />
       <workItem from="1578364587969" duration="98000" />
+      <workItem from="1578554069170" duration="1766000" />
+      <workItem from="1578646226241" duration="4378000" />
+      <workItem from="1579075610314" duration="1683000" />
+      <workItem from="1582185122610" duration="2002000" />
+      <workItem from="1583283591797" duration="1251000" />
     </task>
     <servers />
   </component>

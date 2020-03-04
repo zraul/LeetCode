@@ -39,6 +39,9 @@ CMakeFiles/LeetCode.dir/MyAtoi/MyAtoi.cpp.o
  /Volumes/ZWHD/github/LeetCode/MyAtoi/MyAtoi.cpp
  /Volumes/ZWHD/github/LeetCode/MyAtoi/MyAtoi.h
  /Volumes/ZWHD/github/LeetCode/common.h
+CMakeFiles/LeetCode.dir/NQueens/NQueens.cpp.o
+ /Volumes/ZWHD/github/LeetCode/NQueens/NQueens.cpp
+ /Volumes/ZWHD/github/LeetCode/NQueens/NQueens.h
 CMakeFiles/LeetCode.dir/PalindromeNumber/PalindromeNumber.cpp.o
  /Volumes/ZWHD/github/LeetCode/PalindromeNumber/PalindromeNumber.cpp
  /Volumes/ZWHD/github/LeetCode/PalindromeNumber/PalindromeNumber.h
@@ -49,6 +52,9 @@ CMakeFiles/LeetCode.dir/Permutations/Permutations.cpp.o
 CMakeFiles/LeetCode.dir/PermutationsII/PermutationsII.cpp.o
  /Volumes/ZWHD/github/LeetCode/PermutationsII/PermutationsII.cpp
  /Volumes/ZWHD/github/LeetCode/PermutationsII/PermutationsII.h
+CMakeFiles/LeetCode.dir/Powxn/Powxn.cpp.o
+ /Volumes/ZWHD/github/LeetCode/Powxn/Powxn.cpp
+ /Volumes/ZWHD/github/LeetCode/Powxn/Powxn.h
 CMakeFiles/LeetCode.dir/RegularExpressionMatching/RegularExpressionMatching.cpp.o
  /Volumes/ZWHD/github/LeetCode/RegularExpressionMatching/RegularExpressionMatching.cpp
  /Volumes/ZWHD/github/LeetCode/RegularExpressionMatching/RegularExpressionMatching.h
@@ -85,5 +91,5 @@ CMakeFiles/LeetCode.dir/ZigZag/ZigZag.cpp.o
  /Volumes/ZWHD/github/LeetCode/ZigZag/ZigZag.h
  /Volumes/ZWHD/github/LeetCode/common.h
 CMakeFiles/LeetCode.dir/main.cpp.o
- /Volumes/ZWHD/github/LeetCode/GroupAnagrams/GroupAnagrams.h
+ /Volumes/ZWHD/github/LeetCode/NQueens/NQueens.h
  /Volumes/ZWHD/github/LeetCode/main.cpp

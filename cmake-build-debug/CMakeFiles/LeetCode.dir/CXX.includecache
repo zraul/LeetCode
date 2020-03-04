@@ -6,19 +6,13 @@
 
 #IncludeRegexTransform: 
 
-/Volumes/ZWHD/github/LeetCode/GroupAnagrams/GroupAnagrams.cpp
-unordered_map
--
-GroupAnagrams.h
-/Volumes/ZWHD/github/LeetCode/GroupAnagrams/GroupAnagrams.h
-
-/Volumes/ZWHD/github/LeetCode/GroupAnagrams/GroupAnagrams.h
+/Volumes/ZWHD/github/LeetCode/NQueens/NQueens.h
 iostream
 -
 vector
 -
 
 /Volumes/ZWHD/github/LeetCode/main.cpp
-GroupAnagrams/GroupAnagrams.h
-/Volumes/ZWHD/github/LeetCode/GroupAnagrams/GroupAnagrams.h
+NQueens/NQueens.h
+/Volumes/ZWHD/github/LeetCode/NQueens/NQueens.h
 
