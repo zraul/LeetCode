@@ -6,13 +6,15 @@
 
 #IncludeRegexTransform: 
 
-/Volumes/ZWHD/github/LeetCode/NQueens/NQueens.h
+/Volumes/ZWHD/github/LeetCode/DistributeCandiesToPeople/DistributeCandiesToPeople.h
 iostream
 -
 vector
 -
+cmath
+-
 
 /Volumes/ZWHD/github/LeetCode/main.cpp
-NQueens/NQueens.h
-/Volumes/ZWHD/github/LeetCode/NQueens/NQueens.h
+DistributeCandiesToPeople/DistributeCandiesToPeople.h
+/Volumes/ZWHD/github/LeetCode/DistributeCandiesToPeople/DistributeCandiesToPeople.h
 

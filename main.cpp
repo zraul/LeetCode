@@ -3,17 +3,21 @@
 //#include "PalindromeNumber/PalindromeNumber.h"
 //#include "RegularExpressionMatching/RegularExpressionMatching.h"
 
-#include "NQueens/NQueens.h"
+
+#include "DistributeCandiesToPeople/DistributeCandiesToPeople.h"
 
 int main()
 {
-    NQueens *queens = new NQueens();
-    std::vector<std::vector<std::string>> q = queens->solveNQueens(4);
-    for (int i = 0; i < q.size(); i++) {
-        for (int j = 0; j < q[i].size(); j++) {
-            std::cout<<q[i][j];
-        }
-        std::cout<<std::endl;
+    DistributeCandiesToPeople *d = new DistributeCandiesToPeople();
+    std::vector<int> n = d->distributeCandies(7, 4);
+    std::vector<int> m = d->distributeCandies(10, 3);
+    for (int i = 0; i < n.size(); ++i) {
+        std::cout<<n[i]<<",";
+    }
+    std::cout<<std::endl;
+
+    for (int i = 0; i < m.size(); ++i) {
+        std::cout<<m[i]<<",";
     }
     return 0;
 }

@@ -11,6 +11,9 @@ CMakeFiles/LeetCode.dir/CombinationSum/CombinationSum.cpp.o
 CMakeFiles/LeetCode.dir/CountAndSay/CountAndSay.cpp.o
  /Volumes/ZWHD/github/LeetCode/CountAndSay/CountAndSay.cpp
  /Volumes/ZWHD/github/LeetCode/CountAndSay/CountAndSay.h
+CMakeFiles/LeetCode.dir/DistributeCandiesToPeople/DistributeCandiesToPeople.cpp.o
+ /Volumes/ZWHD/github/LeetCode/DistributeCandiesToPeople/DistributeCandiesToPeople.cpp
+ /Volumes/ZWHD/github/LeetCode/DistributeCandiesToPeople/DistributeCandiesToPeople.h
 CMakeFiles/LeetCode.dir/FirstMissingPositive/FirstMissingPositive.cpp.o
  /Volumes/ZWHD/github/LeetCode/FirstMissingPositive/FirstMissingPositive.cpp
  /Volumes/ZWHD/github/LeetCode/FirstMissingPositive/FirstMissingPositive.h
@@ -24,6 +27,9 @@ CMakeFiles/LeetCode.dir/LongestSubString/LongestSubString.cpp.o
  /Volumes/ZWHD/github/LeetCode/LongestSubString/LongestSubString.cpp
  /Volumes/ZWHD/github/LeetCode/LongestSubString/LongestSubString.h
  /Volumes/ZWHD/github/LeetCode/common.h
+CMakeFiles/LeetCode.dir/MaximumSubarray/MaximumSubarray.cpp.o
+ /Volumes/ZWHD/github/LeetCode/MaximumSubarray/MaximumSubarray.cpp
+ /Volumes/ZWHD/github/LeetCode/MaximumSubarray/MaximumSubarray.h
 CMakeFiles/LeetCode.dir/MedianTwoSortedArrays/MedianTwoSortedArrays.cpp.o
  /Volumes/ZWHD/github/LeetCode/MedianTwoSortedArrays/MedianTwoSortedArrays.cpp
  /Volumes/ZWHD/github/LeetCode/MedianTwoSortedArrays/MedianTwoSortedArrays.h
@@ -42,6 +48,9 @@ CMakeFiles/LeetCode.dir/MyAtoi/MyAtoi.cpp.o
 CMakeFiles/LeetCode.dir/NQueens/NQueens.cpp.o
  /Volumes/ZWHD/github/LeetCode/NQueens/NQueens.cpp
  /Volumes/ZWHD/github/LeetCode/NQueens/NQueens.h
+CMakeFiles/LeetCode.dir/NQueensII/NQueensII.cpp.o
+ /Volumes/ZWHD/github/LeetCode/NQueensII/NQueensII.cpp
+ /Volumes/ZWHD/github/LeetCode/NQueensII/NQueensII.h
 CMakeFiles/LeetCode.dir/PalindromeNumber/PalindromeNumber.cpp.o
  /Volumes/ZWHD/github/LeetCode/PalindromeNumber/PalindromeNumber.cpp
  /Volumes/ZWHD/github/LeetCode/PalindromeNumber/PalindromeNumber.h
@@ -70,6 +79,12 @@ CMakeFiles/LeetCode.dir/ReverseInteger/ReverseInteger.cpp.o
 CMakeFiles/LeetCode.dir/RotateImage/RotateImage.cpp.o
  /Volumes/ZWHD/github/LeetCode/RotateImage/RotateImage.cpp
  /Volumes/ZWHD/github/LeetCode/RotateImage/RotateImage.h
+CMakeFiles/LeetCode.dir/RottingOranges/RottingOranges.cpp.o
+ /Volumes/ZWHD/github/LeetCode/RottingOranges/RottingOranges.cpp
+ /Volumes/ZWHD/github/LeetCode/RottingOranges/RottingOranges.h
+CMakeFiles/LeetCode.dir/SprialMatrix/SprialMatrix.cpp.o
+ /Volumes/ZWHD/github/LeetCode/SprialMatrix/SprialMatrix.cpp
+ /Volumes/ZWHD/github/LeetCode/SprialMatrix/SprialMatrix.h
 CMakeFiles/LeetCode.dir/SudokuSolver/SudokuSolver.cpp.o
  /Volumes/ZWHD/github/LeetCode/SudokuSolver/SudokuSolver.cpp
  /Volumes/ZWHD/github/LeetCode/SudokuSolver/SudokuSolver.h
@@ -91,5 +106,5 @@ CMakeFiles/LeetCode.dir/ZigZag/ZigZag.cpp.o
  /Volumes/ZWHD/github/LeetCode/ZigZag/ZigZag.h
  /Volumes/ZWHD/github/LeetCode/common.h
 CMakeFiles/LeetCode.dir/main.cpp.o
- /Volumes/ZWHD/github/LeetCode/NQueens/NQueens.h
+ /Volumes/ZWHD/github/LeetCode/DistributeCandiesToPeople/DistributeCandiesToPeople.h
  /Volumes/ZWHD/github/LeetCode/main.cpp

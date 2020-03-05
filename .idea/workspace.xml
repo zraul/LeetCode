@@ -12,10 +12,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6572f727-0fe8-4c92-80bd-b9f70d0e5706" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/NQueens/NQueens.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NQueens/NQueens.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Powxn/Powxn.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Powxn/Powxn.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DistributeCandiesToPeople/DistributeCandiesToPeople.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DistributeCandiesToPeople/DistributeCandiesToPeople.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JumpGame/JumpGame.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JumpGame/JumpGame.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MaximumSubarray/MaximumSubarray.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MaximumSubarray/MaximumSubarray.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NQueensII/NQueensII.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NQueensII/NQueensII.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RottingOranges/RottingOranges.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RottingOranges/RottingOranges.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SprialMatrix/SprialMatrix.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SprialMatrix/SprialMatrix.h" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LeetCode.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LeetCode.dir/CXX.includecache" afterDir="false" />
@@ -42,6 +50,20 @@
   </component>
   <component name="ClangdSettings">
     <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
   <component name="Git.Settings">
@@ -211,7 +233,10 @@
       <workItem from="1578646226241" duration="4378000" />
       <workItem from="1579075610314" duration="1683000" />
       <workItem from="1582185122610" duration="2002000" />
-      <workItem from="1583283591797" duration="1251000" />
+      <workItem from="1583283591797" duration="5076000" />
+      <workItem from="1583302320289" duration="5893000" />
+      <workItem from="1583312973406" duration="3638000" />
+      <workItem from="1583369742114" duration="4346000" />
     </task>
     <servers />
   </component>
@@ -307,6 +332,31 @@
           <url>file://$PROJECT_DIR$/GroupAnagrams/GroupAnagrams.cpp</url>
           <line>8</line>
           <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/MaximumSubarray/MaximumSubarray.cpp</url>
+          <line>10</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/SprialMatrix/SprialMatrix.cpp</url>
+          <line>15</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/RottingOranges/RottingOranges.cpp</url>
+          <line>8</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/RottingOranges/RottingOranges.cpp</url>
+          <line>19</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/DistributeCandiesToPeople/DistributeCandiesToPeople.cpp</url>
+          <line>9</line>
+          <option name="timeStamp" value="32" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

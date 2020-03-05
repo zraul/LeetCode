@@ -11,6 +11,9 @@ CMakeFiles/LeetCode.dir/CombinationSum/CombinationSum.cpp.o: ../CombinationSum/C
 CMakeFiles/LeetCode.dir/CountAndSay/CountAndSay.cpp.o: ../CountAndSay/CountAndSay.cpp
 CMakeFiles/LeetCode.dir/CountAndSay/CountAndSay.cpp.o: ../CountAndSay/CountAndSay.h
 
+CMakeFiles/LeetCode.dir/DistributeCandiesToPeople/DistributeCandiesToPeople.cpp.o: ../DistributeCandiesToPeople/DistributeCandiesToPeople.cpp
+CMakeFiles/LeetCode.dir/DistributeCandiesToPeople/DistributeCandiesToPeople.cpp.o: ../DistributeCandiesToPeople/DistributeCandiesToPeople.h
+
 CMakeFiles/LeetCode.dir/FirstMissingPositive/FirstMissingPositive.cpp.o: ../FirstMissingPositive/FirstMissingPositive.cpp
 CMakeFiles/LeetCode.dir/FirstMissingPositive/FirstMissingPositive.cpp.o: ../FirstMissingPositive/FirstMissingPositive.h
 
@@ -23,6 +26,9 @@ CMakeFiles/LeetCode.dir/JumpGame2/JumpGame2.cpp.o: ../JumpGame2/JumpGame2.h
 CMakeFiles/LeetCode.dir/LongestSubString/LongestSubString.cpp.o: ../LongestSubString/LongestSubString.cpp
 CMakeFiles/LeetCode.dir/LongestSubString/LongestSubString.cpp.o: ../LongestSubString/LongestSubString.h
 CMakeFiles/LeetCode.dir/LongestSubString/LongestSubString.cpp.o: ../common.h
+
+CMakeFiles/LeetCode.dir/MaximumSubarray/MaximumSubarray.cpp.o: ../MaximumSubarray/MaximumSubarray.cpp
+CMakeFiles/LeetCode.dir/MaximumSubarray/MaximumSubarray.cpp.o: ../MaximumSubarray/MaximumSubarray.h
 
 CMakeFiles/LeetCode.dir/MedianTwoSortedArrays/MedianTwoSortedArrays.cpp.o: ../MedianTwoSortedArrays/MedianTwoSortedArrays.cpp
 CMakeFiles/LeetCode.dir/MedianTwoSortedArrays/MedianTwoSortedArrays.cpp.o: ../MedianTwoSortedArrays/MedianTwoSortedArrays.h
@@ -41,6 +47,9 @@ CMakeFiles/LeetCode.dir/MyAtoi/MyAtoi.cpp.o: ../common.h
 
 CMakeFiles/LeetCode.dir/NQueens/NQueens.cpp.o: ../NQueens/NQueens.cpp
 CMakeFiles/LeetCode.dir/NQueens/NQueens.cpp.o: ../NQueens/NQueens.h
+
+CMakeFiles/LeetCode.dir/NQueensII/NQueensII.cpp.o: ../NQueensII/NQueensII.cpp
+CMakeFiles/LeetCode.dir/NQueensII/NQueensII.cpp.o: ../NQueensII/NQueensII.h
 
 CMakeFiles/LeetCode.dir/PalindromeNumber/PalindromeNumber.cpp.o: ../PalindromeNumber/PalindromeNumber.cpp
 CMakeFiles/LeetCode.dir/PalindromeNumber/PalindromeNumber.cpp.o: ../PalindromeNumber/PalindromeNumber.h
@@ -70,6 +79,12 @@ CMakeFiles/LeetCode.dir/ReverseInteger/ReverseInteger.cpp.o: ../common.h
 CMakeFiles/LeetCode.dir/RotateImage/RotateImage.cpp.o: ../RotateImage/RotateImage.cpp
 CMakeFiles/LeetCode.dir/RotateImage/RotateImage.cpp.o: ../RotateImage/RotateImage.h
 
+CMakeFiles/LeetCode.dir/RottingOranges/RottingOranges.cpp.o: ../RottingOranges/RottingOranges.cpp
+CMakeFiles/LeetCode.dir/RottingOranges/RottingOranges.cpp.o: ../RottingOranges/RottingOranges.h
+
+CMakeFiles/LeetCode.dir/SprialMatrix/SprialMatrix.cpp.o: ../SprialMatrix/SprialMatrix.cpp
+CMakeFiles/LeetCode.dir/SprialMatrix/SprialMatrix.cpp.o: ../SprialMatrix/SprialMatrix.h
+
 CMakeFiles/LeetCode.dir/SudokuSolver/SudokuSolver.cpp.o: ../SudokuSolver/SudokuSolver.cpp
 CMakeFiles/LeetCode.dir/SudokuSolver/SudokuSolver.cpp.o: ../SudokuSolver/SudokuSolver.h
 
@@ -90,6 +105,6 @@ CMakeFiles/LeetCode.dir/ZigZag/ZigZag.cpp.o: ../ZigZag/ZigZag.cpp
 CMakeFiles/LeetCode.dir/ZigZag/ZigZag.cpp.o: ../ZigZag/ZigZag.h
 CMakeFiles/LeetCode.dir/ZigZag/ZigZag.cpp.o: ../common.h
 
-CMakeFiles/LeetCode.dir/main.cpp.o: ../NQueens/NQueens.h
+CMakeFiles/LeetCode.dir/main.cpp.o: ../DistributeCandiesToPeople/DistributeCandiesToPeople.h
 CMakeFiles/LeetCode.dir/main.cpp.o: ../main.cpp
 

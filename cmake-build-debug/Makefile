@@ -204,6 +204,33 @@ CountAndSay/CountAndSay.cpp.s:
 	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/CountAndSay/CountAndSay.cpp.s
 .PHONY : CountAndSay/CountAndSay.cpp.s
 
+DistributeCandiesToPeople/DistributeCandiesToPeople.o: DistributeCandiesToPeople/DistributeCandiesToPeople.cpp.o
+
+.PHONY : DistributeCandiesToPeople/DistributeCandiesToPeople.o
+
+# target to build an object file
+DistributeCandiesToPeople/DistributeCandiesToPeople.cpp.o:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/DistributeCandiesToPeople/DistributeCandiesToPeople.cpp.o
+.PHONY : DistributeCandiesToPeople/DistributeCandiesToPeople.cpp.o
+
+DistributeCandiesToPeople/DistributeCandiesToPeople.i: DistributeCandiesToPeople/DistributeCandiesToPeople.cpp.i
+
+.PHONY : DistributeCandiesToPeople/DistributeCandiesToPeople.i
+
+# target to preprocess a source file
+DistributeCandiesToPeople/DistributeCandiesToPeople.cpp.i:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/DistributeCandiesToPeople/DistributeCandiesToPeople.cpp.i
+.PHONY : DistributeCandiesToPeople/DistributeCandiesToPeople.cpp.i
+
+DistributeCandiesToPeople/DistributeCandiesToPeople.s: DistributeCandiesToPeople/DistributeCandiesToPeople.cpp.s
+
+.PHONY : DistributeCandiesToPeople/DistributeCandiesToPeople.s
+
+# target to generate assembly for a file
+DistributeCandiesToPeople/DistributeCandiesToPeople.cpp.s:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/DistributeCandiesToPeople/DistributeCandiesToPeople.cpp.s
+.PHONY : DistributeCandiesToPeople/DistributeCandiesToPeople.cpp.s
+
 FirstMissingPositive/FirstMissingPositive.o: FirstMissingPositive/FirstMissingPositive.cpp.o
 
 .PHONY : FirstMissingPositive/FirstMissingPositive.o
@@ -258,6 +285,33 @@ GroupAnagrams/GroupAnagrams.cpp.s:
 	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/GroupAnagrams/GroupAnagrams.cpp.s
 .PHONY : GroupAnagrams/GroupAnagrams.cpp.s
 
+JumpGame/JumpGame.o: JumpGame/JumpGame.cpp.o
+
+.PHONY : JumpGame/JumpGame.o
+
+# target to build an object file
+JumpGame/JumpGame.cpp.o:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/JumpGame/JumpGame.cpp.o
+.PHONY : JumpGame/JumpGame.cpp.o
+
+JumpGame/JumpGame.i: JumpGame/JumpGame.cpp.i
+
+.PHONY : JumpGame/JumpGame.i
+
+# target to preprocess a source file
+JumpGame/JumpGame.cpp.i:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/JumpGame/JumpGame.cpp.i
+.PHONY : JumpGame/JumpGame.cpp.i
+
+JumpGame/JumpGame.s: JumpGame/JumpGame.cpp.s
+
+.PHONY : JumpGame/JumpGame.s
+
+# target to generate assembly for a file
+JumpGame/JumpGame.cpp.s:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/JumpGame/JumpGame.cpp.s
+.PHONY : JumpGame/JumpGame.cpp.s
+
 JumpGame2/JumpGame2.o: JumpGame2/JumpGame2.cpp.o
 
 .PHONY : JumpGame2/JumpGame2.o
@@ -311,6 +365,33 @@ LongestSubString/LongestSubString.s: LongestSubString/LongestSubString.cpp.s
 LongestSubString/LongestSubString.cpp.s:
 	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/LongestSubString/LongestSubString.cpp.s
 .PHONY : LongestSubString/LongestSubString.cpp.s
+
+MaximumSubarray/MaximumSubarray.o: MaximumSubarray/MaximumSubarray.cpp.o
+
+.PHONY : MaximumSubarray/MaximumSubarray.o
+
+# target to build an object file
+MaximumSubarray/MaximumSubarray.cpp.o:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/MaximumSubarray/MaximumSubarray.cpp.o
+.PHONY : MaximumSubarray/MaximumSubarray.cpp.o
+
+MaximumSubarray/MaximumSubarray.i: MaximumSubarray/MaximumSubarray.cpp.i
+
+.PHONY : MaximumSubarray/MaximumSubarray.i
+
+# target to preprocess a source file
+MaximumSubarray/MaximumSubarray.cpp.i:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/MaximumSubarray/MaximumSubarray.cpp.i
+.PHONY : MaximumSubarray/MaximumSubarray.cpp.i
+
+MaximumSubarray/MaximumSubarray.s: MaximumSubarray/MaximumSubarray.cpp.s
+
+.PHONY : MaximumSubarray/MaximumSubarray.s
+
+# target to generate assembly for a file
+MaximumSubarray/MaximumSubarray.cpp.s:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/MaximumSubarray/MaximumSubarray.cpp.s
+.PHONY : MaximumSubarray/MaximumSubarray.cpp.s
 
 MedianTwoSortedArrays/MedianTwoSortedArrays.o: MedianTwoSortedArrays/MedianTwoSortedArrays.cpp.o
 
@@ -446,6 +527,33 @@ NQueens/NQueens.s: NQueens/NQueens.cpp.s
 NQueens/NQueens.cpp.s:
 	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/NQueens/NQueens.cpp.s
 .PHONY : NQueens/NQueens.cpp.s
+
+NQueensII/NQueensII.o: NQueensII/NQueensII.cpp.o
+
+.PHONY : NQueensII/NQueensII.o
+
+# target to build an object file
+NQueensII/NQueensII.cpp.o:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/NQueensII/NQueensII.cpp.o
+.PHONY : NQueensII/NQueensII.cpp.o
+
+NQueensII/NQueensII.i: NQueensII/NQueensII.cpp.i
+
+.PHONY : NQueensII/NQueensII.i
+
+# target to preprocess a source file
+NQueensII/NQueensII.cpp.i:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/NQueensII/NQueensII.cpp.i
+.PHONY : NQueensII/NQueensII.cpp.i
+
+NQueensII/NQueensII.s: NQueensII/NQueensII.cpp.s
+
+.PHONY : NQueensII/NQueensII.s
+
+# target to generate assembly for a file
+NQueensII/NQueensII.cpp.s:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/NQueensII/NQueensII.cpp.s
+.PHONY : NQueensII/NQueensII.cpp.s
 
 PalindromeNumber/PalindromeNumber.o: PalindromeNumber/PalindromeNumber.cpp.o
 
@@ -663,6 +771,60 @@ RotateImage/RotateImage.cpp.s:
 	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/RotateImage/RotateImage.cpp.s
 .PHONY : RotateImage/RotateImage.cpp.s
 
+RottingOranges/RottingOranges.o: RottingOranges/RottingOranges.cpp.o
+
+.PHONY : RottingOranges/RottingOranges.o
+
+# target to build an object file
+RottingOranges/RottingOranges.cpp.o:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/RottingOranges/RottingOranges.cpp.o
+.PHONY : RottingOranges/RottingOranges.cpp.o
+
+RottingOranges/RottingOranges.i: RottingOranges/RottingOranges.cpp.i
+
+.PHONY : RottingOranges/RottingOranges.i
+
+# target to preprocess a source file
+RottingOranges/RottingOranges.cpp.i:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/RottingOranges/RottingOranges.cpp.i
+.PHONY : RottingOranges/RottingOranges.cpp.i
+
+RottingOranges/RottingOranges.s: RottingOranges/RottingOranges.cpp.s
+
+.PHONY : RottingOranges/RottingOranges.s
+
+# target to generate assembly for a file
+RottingOranges/RottingOranges.cpp.s:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/RottingOranges/RottingOranges.cpp.s
+.PHONY : RottingOranges/RottingOranges.cpp.s
+
+SprialMatrix/SprialMatrix.o: SprialMatrix/SprialMatrix.cpp.o
+
+.PHONY : SprialMatrix/SprialMatrix.o
+
+# target to build an object file
+SprialMatrix/SprialMatrix.cpp.o:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/SprialMatrix/SprialMatrix.cpp.o
+.PHONY : SprialMatrix/SprialMatrix.cpp.o
+
+SprialMatrix/SprialMatrix.i: SprialMatrix/SprialMatrix.cpp.i
+
+.PHONY : SprialMatrix/SprialMatrix.i
+
+# target to preprocess a source file
+SprialMatrix/SprialMatrix.cpp.i:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/SprialMatrix/SprialMatrix.cpp.i
+.PHONY : SprialMatrix/SprialMatrix.cpp.i
+
+SprialMatrix/SprialMatrix.s: SprialMatrix/SprialMatrix.cpp.s
+
+.PHONY : SprialMatrix/SprialMatrix.s
+
+# target to generate assembly for a file
+SprialMatrix/SprialMatrix.cpp.s:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/SprialMatrix/SprialMatrix.cpp.s
+.PHONY : SprialMatrix/SprialMatrix.cpp.s
+
 SudokuSolver/SudokuSolver.o: SudokuSolver/SudokuSolver.cpp.o
 
 .PHONY : SudokuSolver/SudokuSolver.o
@@ -870,18 +1032,27 @@ help:
 	@echo "... CountAndSay/CountAndSay.o"
 	@echo "... CountAndSay/CountAndSay.i"
 	@echo "... CountAndSay/CountAndSay.s"
+	@echo "... DistributeCandiesToPeople/DistributeCandiesToPeople.o"
+	@echo "... DistributeCandiesToPeople/DistributeCandiesToPeople.i"
+	@echo "... DistributeCandiesToPeople/DistributeCandiesToPeople.s"
 	@echo "... FirstMissingPositive/FirstMissingPositive.o"
 	@echo "... FirstMissingPositive/FirstMissingPositive.i"
 	@echo "... FirstMissingPositive/FirstMissingPositive.s"
 	@echo "... GroupAnagrams/GroupAnagrams.o"
 	@echo "... GroupAnagrams/GroupAnagrams.i"
 	@echo "... GroupAnagrams/GroupAnagrams.s"
+	@echo "... JumpGame/JumpGame.o"
+	@echo "... JumpGame/JumpGame.i"
+	@echo "... JumpGame/JumpGame.s"
 	@echo "... JumpGame2/JumpGame2.o"
 	@echo "... JumpGame2/JumpGame2.i"
 	@echo "... JumpGame2/JumpGame2.s"
 	@echo "... LongestSubString/LongestSubString.o"
 	@echo "... LongestSubString/LongestSubString.i"
 	@echo "... LongestSubString/LongestSubString.s"
+	@echo "... MaximumSubarray/MaximumSubarray.o"
+	@echo "... MaximumSubarray/MaximumSubarray.i"
+	@echo "... MaximumSubarray/MaximumSubarray.s"
 	@echo "... MedianTwoSortedArrays/MedianTwoSortedArrays.o"
 	@echo "... MedianTwoSortedArrays/MedianTwoSortedArrays.i"
 	@echo "... MedianTwoSortedArrays/MedianTwoSortedArrays.s"
@@ -897,6 +1068,9 @@ help:
 	@echo "... NQueens/NQueens.o"
 	@echo "... NQueens/NQueens.i"
 	@echo "... NQueens/NQueens.s"
+	@echo "... NQueensII/NQueensII.o"
+	@echo "... NQueensII/NQueensII.i"
+	@echo "... NQueensII/NQueensII.s"
 	@echo "... PalindromeNumber/PalindromeNumber.o"
 	@echo "... PalindromeNumber/PalindromeNumber.i"
 	@echo "... PalindromeNumber/PalindromeNumber.s"
@@ -921,6 +1095,12 @@ help:
 	@echo "... RotateImage/RotateImage.o"
 	@echo "... RotateImage/RotateImage.i"
 	@echo "... RotateImage/RotateImage.s"
+	@echo "... RottingOranges/RottingOranges.o"
+	@echo "... RottingOranges/RottingOranges.i"
+	@echo "... RottingOranges/RottingOranges.s"
+	@echo "... SprialMatrix/SprialMatrix.o"
+	@echo "... SprialMatrix/SprialMatrix.i"
+	@echo "... SprialMatrix/SprialMatrix.s"
 	@echo "... SudokuSolver/SudokuSolver.o"
 	@echo "... SudokuSolver/SudokuSolver.i"
 	@echo "... SudokuSolver/SudokuSolver.s"
