@@ -6,15 +6,13 @@
 
 #IncludeRegexTransform: 
 
-/Volumes/ZWHD/github/LeetCode/DistributeCandiesToPeople/DistributeCandiesToPeople.h
+/Volumes/ZWHD/github/LeetCode/SpiralMatrixII/SpiralMatrixII.cpp
+SpiralMatrixII.h
+/Volumes/ZWHD/github/LeetCode/SpiralMatrixII/SpiralMatrixII.h
+
+/Volumes/ZWHD/github/LeetCode/SpiralMatrixII/SpiralMatrixII.h
 iostream
 -
 vector
 -
-cmath
--
-
-/Volumes/ZWHD/github/LeetCode/main.cpp
-DistributeCandiesToPeople/DistributeCandiesToPeople.h
-/Volumes/ZWHD/github/LeetCode/DistributeCandiesToPeople/DistributeCandiesToPeople.h
 

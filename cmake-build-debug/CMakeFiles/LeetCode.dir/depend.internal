@@ -20,9 +20,18 @@ CMakeFiles/LeetCode.dir/FirstMissingPositive/FirstMissingPositive.cpp.o
 CMakeFiles/LeetCode.dir/GroupAnagrams/GroupAnagrams.cpp.o
  /Volumes/ZWHD/github/LeetCode/GroupAnagrams/GroupAnagrams.cpp
  /Volumes/ZWHD/github/LeetCode/GroupAnagrams/GroupAnagrams.h
+CMakeFiles/LeetCode.dir/InsertInterval/InsertInterval.cpp.o
+ /Volumes/ZWHD/github/LeetCode/InsertInterval/InsertInterval.cpp
+ /Volumes/ZWHD/github/LeetCode/InsertInterval/InsertInterval.h
+CMakeFiles/LeetCode.dir/JumpGame/JumpGame.cpp.o
+ /Volumes/ZWHD/github/LeetCode/JumpGame/JumpGame.cpp
+ /Volumes/ZWHD/github/LeetCode/JumpGame/JumpGame.h
 CMakeFiles/LeetCode.dir/JumpGame2/JumpGame2.cpp.o
  /Volumes/ZWHD/github/LeetCode/JumpGame2/JumpGame2.cpp
  /Volumes/ZWHD/github/LeetCode/JumpGame2/JumpGame2.h
+CMakeFiles/LeetCode.dir/LengthOfLastWord/LengthOfLastWord.cpp.o
+ /Volumes/ZWHD/github/LeetCode/LengthOfLastWord/LengthOfLastWord.cpp
+ /Volumes/ZWHD/github/LeetCode/LengthOfLastWord/LengthOfLastWord.h
 CMakeFiles/LeetCode.dir/LongestSubString/LongestSubString.cpp.o
  /Volumes/ZWHD/github/LeetCode/LongestSubString/LongestSubString.cpp
  /Volumes/ZWHD/github/LeetCode/LongestSubString/LongestSubString.h
@@ -34,6 +43,9 @@ CMakeFiles/LeetCode.dir/MedianTwoSortedArrays/MedianTwoSortedArrays.cpp.o
  /Volumes/ZWHD/github/LeetCode/MedianTwoSortedArrays/MedianTwoSortedArrays.cpp
  /Volumes/ZWHD/github/LeetCode/MedianTwoSortedArrays/MedianTwoSortedArrays.h
  /Volumes/ZWHD/github/LeetCode/common.h
+CMakeFiles/LeetCode.dir/MergeIntervals/MergeIntervals.cpp.o
+ /Volumes/ZWHD/github/LeetCode/MergeIntervals/MergeIntervals.cpp
+ /Volumes/ZWHD/github/LeetCode/MergeIntervals/MergeIntervals.h
 CMakeFiles/LeetCode.dir/MergeSortedLists/MergeSortedLists.cpp.o
  /Volumes/ZWHD/github/LeetCode/MergeSortedLists/MergeSortedLists.cpp
  /Volumes/ZWHD/github/LeetCode/MergeSortedLists/MergeSortedLists.h
@@ -82,6 +94,9 @@ CMakeFiles/LeetCode.dir/RotateImage/RotateImage.cpp.o
 CMakeFiles/LeetCode.dir/RottingOranges/RottingOranges.cpp.o
  /Volumes/ZWHD/github/LeetCode/RottingOranges/RottingOranges.cpp
  /Volumes/ZWHD/github/LeetCode/RottingOranges/RottingOranges.h
+CMakeFiles/LeetCode.dir/SpiralMatrixII/SpiralMatrixII.cpp.o
+ /Volumes/ZWHD/github/LeetCode/SpiralMatrixII/SpiralMatrixII.cpp
+ /Volumes/ZWHD/github/LeetCode/SpiralMatrixII/SpiralMatrixII.h
 CMakeFiles/LeetCode.dir/SprialMatrix/SprialMatrix.cpp.o
  /Volumes/ZWHD/github/LeetCode/SprialMatrix/SprialMatrix.cpp
  /Volumes/ZWHD/github/LeetCode/SprialMatrix/SprialMatrix.h
@@ -106,5 +121,5 @@ CMakeFiles/LeetCode.dir/ZigZag/ZigZag.cpp.o
  /Volumes/ZWHD/github/LeetCode/ZigZag/ZigZag.h
  /Volumes/ZWHD/github/LeetCode/common.h
 CMakeFiles/LeetCode.dir/main.cpp.o
- /Volumes/ZWHD/github/LeetCode/DistributeCandiesToPeople/DistributeCandiesToPeople.h
+ /Volumes/ZWHD/github/LeetCode/SpiralMatrixII/SpiralMatrixII.h
  /Volumes/ZWHD/github/LeetCode/main.cpp

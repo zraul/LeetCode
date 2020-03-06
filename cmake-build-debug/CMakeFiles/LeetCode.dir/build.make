@@ -486,6 +486,58 @@ CMakeFiles/LeetCode.dir/JumpGame/JumpGame.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/JumpGame/JumpGame.cpp.s"
 	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Volumes/ZWHD/github/LeetCode/JumpGame/JumpGame.cpp -o CMakeFiles/LeetCode.dir/JumpGame/JumpGame.cpp.s
 
+CMakeFiles/LeetCode.dir/MergeIntervals/MergeIntervals.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/MergeIntervals/MergeIntervals.cpp.o: ../MergeIntervals/MergeIntervals.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Volumes/ZWHD/github/LeetCode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_34) "Building CXX object CMakeFiles/LeetCode.dir/MergeIntervals/MergeIntervals.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/LeetCode.dir/MergeIntervals/MergeIntervals.cpp.o -c /Volumes/ZWHD/github/LeetCode/MergeIntervals/MergeIntervals.cpp
+
+CMakeFiles/LeetCode.dir/MergeIntervals/MergeIntervals.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/MergeIntervals/MergeIntervals.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Volumes/ZWHD/github/LeetCode/MergeIntervals/MergeIntervals.cpp > CMakeFiles/LeetCode.dir/MergeIntervals/MergeIntervals.cpp.i
+
+CMakeFiles/LeetCode.dir/MergeIntervals/MergeIntervals.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/MergeIntervals/MergeIntervals.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Volumes/ZWHD/github/LeetCode/MergeIntervals/MergeIntervals.cpp -o CMakeFiles/LeetCode.dir/MergeIntervals/MergeIntervals.cpp.s
+
+CMakeFiles/LeetCode.dir/InsertInterval/InsertInterval.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/InsertInterval/InsertInterval.cpp.o: ../InsertInterval/InsertInterval.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Volumes/ZWHD/github/LeetCode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_35) "Building CXX object CMakeFiles/LeetCode.dir/InsertInterval/InsertInterval.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/LeetCode.dir/InsertInterval/InsertInterval.cpp.o -c /Volumes/ZWHD/github/LeetCode/InsertInterval/InsertInterval.cpp
+
+CMakeFiles/LeetCode.dir/InsertInterval/InsertInterval.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/InsertInterval/InsertInterval.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Volumes/ZWHD/github/LeetCode/InsertInterval/InsertInterval.cpp > CMakeFiles/LeetCode.dir/InsertInterval/InsertInterval.cpp.i
+
+CMakeFiles/LeetCode.dir/InsertInterval/InsertInterval.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/InsertInterval/InsertInterval.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Volumes/ZWHD/github/LeetCode/InsertInterval/InsertInterval.cpp -o CMakeFiles/LeetCode.dir/InsertInterval/InsertInterval.cpp.s
+
+CMakeFiles/LeetCode.dir/LengthOfLastWord/LengthOfLastWord.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/LengthOfLastWord/LengthOfLastWord.cpp.o: ../LengthOfLastWord/LengthOfLastWord.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Volumes/ZWHD/github/LeetCode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_36) "Building CXX object CMakeFiles/LeetCode.dir/LengthOfLastWord/LengthOfLastWord.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/LeetCode.dir/LengthOfLastWord/LengthOfLastWord.cpp.o -c /Volumes/ZWHD/github/LeetCode/LengthOfLastWord/LengthOfLastWord.cpp
+
+CMakeFiles/LeetCode.dir/LengthOfLastWord/LengthOfLastWord.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/LengthOfLastWord/LengthOfLastWord.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Volumes/ZWHD/github/LeetCode/LengthOfLastWord/LengthOfLastWord.cpp > CMakeFiles/LeetCode.dir/LengthOfLastWord/LengthOfLastWord.cpp.i
+
+CMakeFiles/LeetCode.dir/LengthOfLastWord/LengthOfLastWord.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/LengthOfLastWord/LengthOfLastWord.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Volumes/ZWHD/github/LeetCode/LengthOfLastWord/LengthOfLastWord.cpp -o CMakeFiles/LeetCode.dir/LengthOfLastWord/LengthOfLastWord.cpp.s
+
+CMakeFiles/LeetCode.dir/SpiralMatrixII/SpiralMatrixII.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/SpiralMatrixII/SpiralMatrixII.cpp.o: ../SpiralMatrixII/SpiralMatrixII.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Volumes/ZWHD/github/LeetCode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_37) "Building CXX object CMakeFiles/LeetCode.dir/SpiralMatrixII/SpiralMatrixII.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/LeetCode.dir/SpiralMatrixII/SpiralMatrixII.cpp.o -c /Volumes/ZWHD/github/LeetCode/SpiralMatrixII/SpiralMatrixII.cpp
+
+CMakeFiles/LeetCode.dir/SpiralMatrixII/SpiralMatrixII.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/SpiralMatrixII/SpiralMatrixII.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Volumes/ZWHD/github/LeetCode/SpiralMatrixII/SpiralMatrixII.cpp > CMakeFiles/LeetCode.dir/SpiralMatrixII/SpiralMatrixII.cpp.i
+
+CMakeFiles/LeetCode.dir/SpiralMatrixII/SpiralMatrixII.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/SpiralMatrixII/SpiralMatrixII.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Volumes/ZWHD/github/LeetCode/SpiralMatrixII/SpiralMatrixII.cpp -o CMakeFiles/LeetCode.dir/SpiralMatrixII/SpiralMatrixII.cpp.s
+
 # Object files for target LeetCode
 LeetCode_OBJECTS = \
 "CMakeFiles/LeetCode.dir/AddTwoNumbers/AddTwoNumbers.cpp.o" \
@@ -520,7 +572,11 @@ LeetCode_OBJECTS = \
 "CMakeFiles/LeetCode.dir/SprialMatrix/SprialMatrix.cpp.o" \
 "CMakeFiles/LeetCode.dir/RottingOranges/RottingOranges.cpp.o" \
 "CMakeFiles/LeetCode.dir/DistributeCandiesToPeople/DistributeCandiesToPeople.cpp.o" \
-"CMakeFiles/LeetCode.dir/JumpGame/JumpGame.cpp.o"
+"CMakeFiles/LeetCode.dir/JumpGame/JumpGame.cpp.o" \
+"CMakeFiles/LeetCode.dir/MergeIntervals/MergeIntervals.cpp.o" \
+"CMakeFiles/LeetCode.dir/InsertInterval/InsertInterval.cpp.o" \
+"CMakeFiles/LeetCode.dir/LengthOfLastWord/LengthOfLastWord.cpp.o" \
+"CMakeFiles/LeetCode.dir/SpiralMatrixII/SpiralMatrixII.cpp.o"
 
 # External object files for target LeetCode
 LeetCode_EXTERNAL_OBJECTS =
@@ -558,9 +614,13 @@ LeetCode: CMakeFiles/LeetCode.dir/SprialMatrix/SprialMatrix.cpp.o
 LeetCode: CMakeFiles/LeetCode.dir/RottingOranges/RottingOranges.cpp.o
 LeetCode: CMakeFiles/LeetCode.dir/DistributeCandiesToPeople/DistributeCandiesToPeople.cpp.o
 LeetCode: CMakeFiles/LeetCode.dir/JumpGame/JumpGame.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/MergeIntervals/MergeIntervals.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/InsertInterval/InsertInterval.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/LengthOfLastWord/LengthOfLastWord.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/SpiralMatrixII/SpiralMatrixII.cpp.o
 LeetCode: CMakeFiles/LeetCode.dir/build.make
 LeetCode: CMakeFiles/LeetCode.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Volumes/ZWHD/github/LeetCode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_34) "Linking CXX executable LeetCode"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Volumes/ZWHD/github/LeetCode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_38) "Linking CXX executable LeetCode"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/LeetCode.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

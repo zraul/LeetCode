@@ -285,6 +285,33 @@ GroupAnagrams/GroupAnagrams.cpp.s:
 	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/GroupAnagrams/GroupAnagrams.cpp.s
 .PHONY : GroupAnagrams/GroupAnagrams.cpp.s
 
+InsertInterval/InsertInterval.o: InsertInterval/InsertInterval.cpp.o
+
+.PHONY : InsertInterval/InsertInterval.o
+
+# target to build an object file
+InsertInterval/InsertInterval.cpp.o:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/InsertInterval/InsertInterval.cpp.o
+.PHONY : InsertInterval/InsertInterval.cpp.o
+
+InsertInterval/InsertInterval.i: InsertInterval/InsertInterval.cpp.i
+
+.PHONY : InsertInterval/InsertInterval.i
+
+# target to preprocess a source file
+InsertInterval/InsertInterval.cpp.i:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/InsertInterval/InsertInterval.cpp.i
+.PHONY : InsertInterval/InsertInterval.cpp.i
+
+InsertInterval/InsertInterval.s: InsertInterval/InsertInterval.cpp.s
+
+.PHONY : InsertInterval/InsertInterval.s
+
+# target to generate assembly for a file
+InsertInterval/InsertInterval.cpp.s:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/InsertInterval/InsertInterval.cpp.s
+.PHONY : InsertInterval/InsertInterval.cpp.s
+
 JumpGame/JumpGame.o: JumpGame/JumpGame.cpp.o
 
 .PHONY : JumpGame/JumpGame.o
@@ -338,6 +365,33 @@ JumpGame2/JumpGame2.s: JumpGame2/JumpGame2.cpp.s
 JumpGame2/JumpGame2.cpp.s:
 	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/JumpGame2/JumpGame2.cpp.s
 .PHONY : JumpGame2/JumpGame2.cpp.s
+
+LengthOfLastWord/LengthOfLastWord.o: LengthOfLastWord/LengthOfLastWord.cpp.o
+
+.PHONY : LengthOfLastWord/LengthOfLastWord.o
+
+# target to build an object file
+LengthOfLastWord/LengthOfLastWord.cpp.o:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/LengthOfLastWord/LengthOfLastWord.cpp.o
+.PHONY : LengthOfLastWord/LengthOfLastWord.cpp.o
+
+LengthOfLastWord/LengthOfLastWord.i: LengthOfLastWord/LengthOfLastWord.cpp.i
+
+.PHONY : LengthOfLastWord/LengthOfLastWord.i
+
+# target to preprocess a source file
+LengthOfLastWord/LengthOfLastWord.cpp.i:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/LengthOfLastWord/LengthOfLastWord.cpp.i
+.PHONY : LengthOfLastWord/LengthOfLastWord.cpp.i
+
+LengthOfLastWord/LengthOfLastWord.s: LengthOfLastWord/LengthOfLastWord.cpp.s
+
+.PHONY : LengthOfLastWord/LengthOfLastWord.s
+
+# target to generate assembly for a file
+LengthOfLastWord/LengthOfLastWord.cpp.s:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/LengthOfLastWord/LengthOfLastWord.cpp.s
+.PHONY : LengthOfLastWord/LengthOfLastWord.cpp.s
 
 LongestSubString/LongestSubString.o: LongestSubString/LongestSubString.cpp.o
 
@@ -419,6 +473,33 @@ MedianTwoSortedArrays/MedianTwoSortedArrays.s: MedianTwoSortedArrays/MedianTwoSo
 MedianTwoSortedArrays/MedianTwoSortedArrays.cpp.s:
 	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/MedianTwoSortedArrays/MedianTwoSortedArrays.cpp.s
 .PHONY : MedianTwoSortedArrays/MedianTwoSortedArrays.cpp.s
+
+MergeIntervals/MergeIntervals.o: MergeIntervals/MergeIntervals.cpp.o
+
+.PHONY : MergeIntervals/MergeIntervals.o
+
+# target to build an object file
+MergeIntervals/MergeIntervals.cpp.o:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/MergeIntervals/MergeIntervals.cpp.o
+.PHONY : MergeIntervals/MergeIntervals.cpp.o
+
+MergeIntervals/MergeIntervals.i: MergeIntervals/MergeIntervals.cpp.i
+
+.PHONY : MergeIntervals/MergeIntervals.i
+
+# target to preprocess a source file
+MergeIntervals/MergeIntervals.cpp.i:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/MergeIntervals/MergeIntervals.cpp.i
+.PHONY : MergeIntervals/MergeIntervals.cpp.i
+
+MergeIntervals/MergeIntervals.s: MergeIntervals/MergeIntervals.cpp.s
+
+.PHONY : MergeIntervals/MergeIntervals.s
+
+# target to generate assembly for a file
+MergeIntervals/MergeIntervals.cpp.s:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/MergeIntervals/MergeIntervals.cpp.s
+.PHONY : MergeIntervals/MergeIntervals.cpp.s
 
 MergeSortedLists/MergeSortedLists.o: MergeSortedLists/MergeSortedLists.cpp.o
 
@@ -798,6 +879,33 @@ RottingOranges/RottingOranges.cpp.s:
 	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/RottingOranges/RottingOranges.cpp.s
 .PHONY : RottingOranges/RottingOranges.cpp.s
 
+SpiralMatrixII/SpiralMatrixII.o: SpiralMatrixII/SpiralMatrixII.cpp.o
+
+.PHONY : SpiralMatrixII/SpiralMatrixII.o
+
+# target to build an object file
+SpiralMatrixII/SpiralMatrixII.cpp.o:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/SpiralMatrixII/SpiralMatrixII.cpp.o
+.PHONY : SpiralMatrixII/SpiralMatrixII.cpp.o
+
+SpiralMatrixII/SpiralMatrixII.i: SpiralMatrixII/SpiralMatrixII.cpp.i
+
+.PHONY : SpiralMatrixII/SpiralMatrixII.i
+
+# target to preprocess a source file
+SpiralMatrixII/SpiralMatrixII.cpp.i:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/SpiralMatrixII/SpiralMatrixII.cpp.i
+.PHONY : SpiralMatrixII/SpiralMatrixII.cpp.i
+
+SpiralMatrixII/SpiralMatrixII.s: SpiralMatrixII/SpiralMatrixII.cpp.s
+
+.PHONY : SpiralMatrixII/SpiralMatrixII.s
+
+# target to generate assembly for a file
+SpiralMatrixII/SpiralMatrixII.cpp.s:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/SpiralMatrixII/SpiralMatrixII.cpp.s
+.PHONY : SpiralMatrixII/SpiralMatrixII.cpp.s
+
 SprialMatrix/SprialMatrix.o: SprialMatrix/SprialMatrix.cpp.o
 
 .PHONY : SprialMatrix/SprialMatrix.o
@@ -1041,12 +1149,18 @@ help:
 	@echo "... GroupAnagrams/GroupAnagrams.o"
 	@echo "... GroupAnagrams/GroupAnagrams.i"
 	@echo "... GroupAnagrams/GroupAnagrams.s"
+	@echo "... InsertInterval/InsertInterval.o"
+	@echo "... InsertInterval/InsertInterval.i"
+	@echo "... InsertInterval/InsertInterval.s"
 	@echo "... JumpGame/JumpGame.o"
 	@echo "... JumpGame/JumpGame.i"
 	@echo "... JumpGame/JumpGame.s"
 	@echo "... JumpGame2/JumpGame2.o"
 	@echo "... JumpGame2/JumpGame2.i"
 	@echo "... JumpGame2/JumpGame2.s"
+	@echo "... LengthOfLastWord/LengthOfLastWord.o"
+	@echo "... LengthOfLastWord/LengthOfLastWord.i"
+	@echo "... LengthOfLastWord/LengthOfLastWord.s"
 	@echo "... LongestSubString/LongestSubString.o"
 	@echo "... LongestSubString/LongestSubString.i"
 	@echo "... LongestSubString/LongestSubString.s"
@@ -1056,6 +1170,9 @@ help:
 	@echo "... MedianTwoSortedArrays/MedianTwoSortedArrays.o"
 	@echo "... MedianTwoSortedArrays/MedianTwoSortedArrays.i"
 	@echo "... MedianTwoSortedArrays/MedianTwoSortedArrays.s"
+	@echo "... MergeIntervals/MergeIntervals.o"
+	@echo "... MergeIntervals/MergeIntervals.i"
+	@echo "... MergeIntervals/MergeIntervals.s"
 	@echo "... MergeSortedLists/MergeSortedLists.o"
 	@echo "... MergeSortedLists/MergeSortedLists.i"
 	@echo "... MergeSortedLists/MergeSortedLists.s"
@@ -1098,6 +1215,9 @@ help:
 	@echo "... RottingOranges/RottingOranges.o"
 	@echo "... RottingOranges/RottingOranges.i"
 	@echo "... RottingOranges/RottingOranges.s"
+	@echo "... SpiralMatrixII/SpiralMatrixII.o"
+	@echo "... SpiralMatrixII/SpiralMatrixII.i"
+	@echo "... SpiralMatrixII/SpiralMatrixII.s"
 	@echo "... SprialMatrix/SprialMatrix.o"
 	@echo "... SprialMatrix/SprialMatrix.i"
 	@echo "... SprialMatrix/SprialMatrix.s"

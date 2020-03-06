@@ -142,6 +142,12 @@
 		<Unit filename="/Volumes/ZWHD/github/LeetCode/GroupAnagrams/GroupAnagrams.h">
 			<Option target="LeetCode"/>
 		</Unit>
+		<Unit filename="/Volumes/ZWHD/github/LeetCode/InsertInterval/InsertInterval.cpp">
+			<Option target="LeetCode"/>
+		</Unit>
+		<Unit filename="/Volumes/ZWHD/github/LeetCode/InsertInterval/InsertInterval.h">
+			<Option target="LeetCode"/>
+		</Unit>
 		<Unit filename="/Volumes/ZWHD/github/LeetCode/JumpGame/JumpGame.cpp">
 			<Option target="LeetCode"/>
 		</Unit>
@@ -152,6 +158,12 @@
 			<Option target="LeetCode"/>
 		</Unit>
 		<Unit filename="/Volumes/ZWHD/github/LeetCode/JumpGame2/JumpGame2.h">
+			<Option target="LeetCode"/>
+		</Unit>
+		<Unit filename="/Volumes/ZWHD/github/LeetCode/LengthOfLastWord/LengthOfLastWord.cpp">
+			<Option target="LeetCode"/>
+		</Unit>
+		<Unit filename="/Volumes/ZWHD/github/LeetCode/LengthOfLastWord/LengthOfLastWord.h">
 			<Option target="LeetCode"/>
 		</Unit>
 		<Unit filename="/Volumes/ZWHD/github/LeetCode/LongestSubString/LongestSubString.cpp">
@@ -170,6 +182,12 @@
 			<Option target="LeetCode"/>
 		</Unit>
 		<Unit filename="/Volumes/ZWHD/github/LeetCode/MedianTwoSortedArrays/MedianTwoSortedArrays.h">
+			<Option target="LeetCode"/>
+		</Unit>
+		<Unit filename="/Volumes/ZWHD/github/LeetCode/MergeIntervals/MergeIntervals.cpp">
+			<Option target="LeetCode"/>
+		</Unit>
+		<Unit filename="/Volumes/ZWHD/github/LeetCode/MergeIntervals/MergeIntervals.h">
 			<Option target="LeetCode"/>
 		</Unit>
 		<Unit filename="/Volumes/ZWHD/github/LeetCode/MergeSortedLists/MergeSortedLists.cpp">
@@ -254,6 +272,12 @@
 			<Option target="LeetCode"/>
 		</Unit>
 		<Unit filename="/Volumes/ZWHD/github/LeetCode/RottingOranges/RottingOranges.h">
+			<Option target="LeetCode"/>
+		</Unit>
+		<Unit filename="/Volumes/ZWHD/github/LeetCode/SpiralMatrixII/SpiralMatrixII.cpp">
+			<Option target="LeetCode"/>
+		</Unit>
+		<Unit filename="/Volumes/ZWHD/github/LeetCode/SpiralMatrixII/SpiralMatrixII.h">
 			<Option target="LeetCode"/>
 		</Unit>
 		<Unit filename="/Volumes/ZWHD/github/LeetCode/SprialMatrix/SprialMatrix.cpp">

@@ -20,8 +20,17 @@ CMakeFiles/LeetCode.dir/FirstMissingPositive/FirstMissingPositive.cpp.o: ../Firs
 CMakeFiles/LeetCode.dir/GroupAnagrams/GroupAnagrams.cpp.o: ../GroupAnagrams/GroupAnagrams.cpp
 CMakeFiles/LeetCode.dir/GroupAnagrams/GroupAnagrams.cpp.o: ../GroupAnagrams/GroupAnagrams.h
 
+CMakeFiles/LeetCode.dir/InsertInterval/InsertInterval.cpp.o: ../InsertInterval/InsertInterval.cpp
+CMakeFiles/LeetCode.dir/InsertInterval/InsertInterval.cpp.o: ../InsertInterval/InsertInterval.h
+
+CMakeFiles/LeetCode.dir/JumpGame/JumpGame.cpp.o: ../JumpGame/JumpGame.cpp
+CMakeFiles/LeetCode.dir/JumpGame/JumpGame.cpp.o: ../JumpGame/JumpGame.h
+
 CMakeFiles/LeetCode.dir/JumpGame2/JumpGame2.cpp.o: ../JumpGame2/JumpGame2.cpp
 CMakeFiles/LeetCode.dir/JumpGame2/JumpGame2.cpp.o: ../JumpGame2/JumpGame2.h
+
+CMakeFiles/LeetCode.dir/LengthOfLastWord/LengthOfLastWord.cpp.o: ../LengthOfLastWord/LengthOfLastWord.cpp
+CMakeFiles/LeetCode.dir/LengthOfLastWord/LengthOfLastWord.cpp.o: ../LengthOfLastWord/LengthOfLastWord.h
 
 CMakeFiles/LeetCode.dir/LongestSubString/LongestSubString.cpp.o: ../LongestSubString/LongestSubString.cpp
 CMakeFiles/LeetCode.dir/LongestSubString/LongestSubString.cpp.o: ../LongestSubString/LongestSubString.h
@@ -33,6 +42,9 @@ CMakeFiles/LeetCode.dir/MaximumSubarray/MaximumSubarray.cpp.o: ../MaximumSubarra
 CMakeFiles/LeetCode.dir/MedianTwoSortedArrays/MedianTwoSortedArrays.cpp.o: ../MedianTwoSortedArrays/MedianTwoSortedArrays.cpp
 CMakeFiles/LeetCode.dir/MedianTwoSortedArrays/MedianTwoSortedArrays.cpp.o: ../MedianTwoSortedArrays/MedianTwoSortedArrays.h
 CMakeFiles/LeetCode.dir/MedianTwoSortedArrays/MedianTwoSortedArrays.cpp.o: ../common.h
+
+CMakeFiles/LeetCode.dir/MergeIntervals/MergeIntervals.cpp.o: ../MergeIntervals/MergeIntervals.cpp
+CMakeFiles/LeetCode.dir/MergeIntervals/MergeIntervals.cpp.o: ../MergeIntervals/MergeIntervals.h
 
 CMakeFiles/LeetCode.dir/MergeSortedLists/MergeSortedLists.cpp.o: ../MergeSortedLists/MergeSortedLists.cpp
 CMakeFiles/LeetCode.dir/MergeSortedLists/MergeSortedLists.cpp.o: ../MergeSortedLists/MergeSortedLists.h
@@ -82,6 +94,9 @@ CMakeFiles/LeetCode.dir/RotateImage/RotateImage.cpp.o: ../RotateImage/RotateImag
 CMakeFiles/LeetCode.dir/RottingOranges/RottingOranges.cpp.o: ../RottingOranges/RottingOranges.cpp
 CMakeFiles/LeetCode.dir/RottingOranges/RottingOranges.cpp.o: ../RottingOranges/RottingOranges.h
 
+CMakeFiles/LeetCode.dir/SpiralMatrixII/SpiralMatrixII.cpp.o: ../SpiralMatrixII/SpiralMatrixII.cpp
+CMakeFiles/LeetCode.dir/SpiralMatrixII/SpiralMatrixII.cpp.o: ../SpiralMatrixII/SpiralMatrixII.h
+
 CMakeFiles/LeetCode.dir/SprialMatrix/SprialMatrix.cpp.o: ../SprialMatrix/SprialMatrix.cpp
 CMakeFiles/LeetCode.dir/SprialMatrix/SprialMatrix.cpp.o: ../SprialMatrix/SprialMatrix.h
 
@@ -105,6 +120,6 @@ CMakeFiles/LeetCode.dir/ZigZag/ZigZag.cpp.o: ../ZigZag/ZigZag.cpp
 CMakeFiles/LeetCode.dir/ZigZag/ZigZag.cpp.o: ../ZigZag/ZigZag.h
 CMakeFiles/LeetCode.dir/ZigZag/ZigZag.cpp.o: ../common.h
 
-CMakeFiles/LeetCode.dir/main.cpp.o: ../DistributeCandiesToPeople/DistributeCandiesToPeople.h
+CMakeFiles/LeetCode.dir/main.cpp.o: ../SpiralMatrixII/SpiralMatrixII.h
 CMakeFiles/LeetCode.dir/main.cpp.o: ../main.cpp
 

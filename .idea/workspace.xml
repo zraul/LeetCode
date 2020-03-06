@@ -12,18 +12,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6572f727-0fe8-4c92-80bd-b9f70d0e5706" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/DistributeCandiesToPeople/DistributeCandiesToPeople.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DistributeCandiesToPeople/DistributeCandiesToPeople.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JumpGame/JumpGame.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JumpGame/JumpGame.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MaximumSubarray/MaximumSubarray.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MaximumSubarray/MaximumSubarray.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NQueensII/NQueensII.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NQueensII/NQueensII.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RottingOranges/RottingOranges.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RottingOranges/RottingOranges.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SprialMatrix/SprialMatrix.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SprialMatrix/SprialMatrix.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/InsertInterval/InsertInterval.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/InsertInterval/InsertInterval.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LengthOfLastWord/LengthOfLastWord.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LengthOfLastWord/LengthOfLastWord.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MergeIntervals/MergeIntervals.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MergeIntervals/MergeIntervals.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpiralMatrixII/SpiralMatrixII.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpiralMatrixII/SpiralMatrixII.h" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LeetCode.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LeetCode.dir/CXX.includecache" afterDir="false" />
@@ -236,7 +232,9 @@
       <workItem from="1583283591797" duration="5076000" />
       <workItem from="1583302320289" duration="5893000" />
       <workItem from="1583312973406" duration="3638000" />
-      <workItem from="1583369742114" duration="4346000" />
+      <workItem from="1583369742114" duration="4872000" />
+      <workItem from="1583392788032" duration="2478000" />
+      <workItem from="1583459524289" duration="9923000" />
     </task>
     <servers />
   </component>
@@ -357,6 +355,21 @@
           <url>file://$PROJECT_DIR$/DistributeCandiesToPeople/DistributeCandiesToPeople.cpp</url>
           <line>9</line>
           <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/MergeIntervals/MergeIntervals.cpp</url>
+          <line>11</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/LengthOfLastWord/LengthOfLastWord.cpp</url>
+          <line>8</line>
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/SpiralMatrixII/SpiralMatrixII.cpp</url>
+          <line>8</line>
+          <option name="timeStamp" value="38" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
