@@ -3,19 +3,27 @@
 //#include "PalindromeNumber/PalindromeNumber.h"
 //#include "RegularExpressionMatching/RegularExpressionMatching.h"
 
-
-#include "SpiralMatrixII/SpiralMatrixII.h"
+#include "RotateList/RotateList.h"
 
 int main()
 {
-    SpiralMatrixII *s = new SpiralMatrixII();
-    std::vector<std::vector<int>> o = s->generateMatrix(3);
-    for (int i = 0; i < o.size(); ++i) {
-        for (int j = 0; j < o[i].size(); ++j) {
-            std::cout<<o[i][j]<<",";
-        }
-        std::cout<<std::endl;
+    ListNode l1(1);
+    ListNode l2(2);
+    ListNode l3(3);
+
+    l1.next = &l2;
+    l2.next = &l3;
+
+
+    RotateList *r = new RotateList();
+    ListNode* l = r->rotateRight(&l1, 2);
+
+    while (l != NULL) {
+        std::cout<<l->val;
+        l = l->next;
     }
+
+    std::cout<<std::endl;
     return 0;
 }
 

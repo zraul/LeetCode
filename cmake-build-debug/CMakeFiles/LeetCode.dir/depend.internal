@@ -67,6 +67,9 @@ CMakeFiles/LeetCode.dir/PalindromeNumber/PalindromeNumber.cpp.o
  /Volumes/ZWHD/github/LeetCode/PalindromeNumber/PalindromeNumber.cpp
  /Volumes/ZWHD/github/LeetCode/PalindromeNumber/PalindromeNumber.h
  /Volumes/ZWHD/github/LeetCode/common.h
+CMakeFiles/LeetCode.dir/PermutationSequence/PermutationSequence.cpp.o
+ /Volumes/ZWHD/github/LeetCode/PermutationSequence/PermutationSequence.cpp
+ /Volumes/ZWHD/github/LeetCode/PermutationSequence/PermutationSequence.h
 CMakeFiles/LeetCode.dir/Permutations/Permutations.cpp.o
  /Volumes/ZWHD/github/LeetCode/Permutations/Permutations.cpp
  /Volumes/ZWHD/github/LeetCode/Permutations/Permutations.h
@@ -91,6 +94,9 @@ CMakeFiles/LeetCode.dir/ReverseInteger/ReverseInteger.cpp.o
 CMakeFiles/LeetCode.dir/RotateImage/RotateImage.cpp.o
  /Volumes/ZWHD/github/LeetCode/RotateImage/RotateImage.cpp
  /Volumes/ZWHD/github/LeetCode/RotateImage/RotateImage.h
+CMakeFiles/LeetCode.dir/RotateList/RotateList.cpp.o
+ /Volumes/ZWHD/github/LeetCode/RotateList/RotateList.cpp
+ /Volumes/ZWHD/github/LeetCode/RotateList/RotateList.h
 CMakeFiles/LeetCode.dir/RottingOranges/RottingOranges.cpp.o
  /Volumes/ZWHD/github/LeetCode/RottingOranges/RottingOranges.cpp
  /Volumes/ZWHD/github/LeetCode/RottingOranges/RottingOranges.h
@@ -121,5 +127,5 @@ CMakeFiles/LeetCode.dir/ZigZag/ZigZag.cpp.o
  /Volumes/ZWHD/github/LeetCode/ZigZag/ZigZag.h
  /Volumes/ZWHD/github/LeetCode/common.h
 CMakeFiles/LeetCode.dir/main.cpp.o
- /Volumes/ZWHD/github/LeetCode/SpiralMatrixII/SpiralMatrixII.h
+ /Volumes/ZWHD/github/LeetCode/RotateList/RotateList.h
  /Volumes/ZWHD/github/LeetCode/main.cpp

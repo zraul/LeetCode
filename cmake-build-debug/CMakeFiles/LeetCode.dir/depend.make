@@ -67,6 +67,9 @@ CMakeFiles/LeetCode.dir/PalindromeNumber/PalindromeNumber.cpp.o: ../PalindromeNu
 CMakeFiles/LeetCode.dir/PalindromeNumber/PalindromeNumber.cpp.o: ../PalindromeNumber/PalindromeNumber.h
 CMakeFiles/LeetCode.dir/PalindromeNumber/PalindromeNumber.cpp.o: ../common.h
 
+CMakeFiles/LeetCode.dir/PermutationSequence/PermutationSequence.cpp.o: ../PermutationSequence/PermutationSequence.cpp
+CMakeFiles/LeetCode.dir/PermutationSequence/PermutationSequence.cpp.o: ../PermutationSequence/PermutationSequence.h
+
 CMakeFiles/LeetCode.dir/Permutations/Permutations.cpp.o: ../Permutations/Permutations.cpp
 CMakeFiles/LeetCode.dir/Permutations/Permutations.cpp.o: ../Permutations/Permutations.h
 
@@ -90,6 +93,9 @@ CMakeFiles/LeetCode.dir/ReverseInteger/ReverseInteger.cpp.o: ../common.h
 
 CMakeFiles/LeetCode.dir/RotateImage/RotateImage.cpp.o: ../RotateImage/RotateImage.cpp
 CMakeFiles/LeetCode.dir/RotateImage/RotateImage.cpp.o: ../RotateImage/RotateImage.h
+
+CMakeFiles/LeetCode.dir/RotateList/RotateList.cpp.o: ../RotateList/RotateList.cpp
+CMakeFiles/LeetCode.dir/RotateList/RotateList.cpp.o: ../RotateList/RotateList.h
 
 CMakeFiles/LeetCode.dir/RottingOranges/RottingOranges.cpp.o: ../RottingOranges/RottingOranges.cpp
 CMakeFiles/LeetCode.dir/RottingOranges/RottingOranges.cpp.o: ../RottingOranges/RottingOranges.h
@@ -120,6 +126,6 @@ CMakeFiles/LeetCode.dir/ZigZag/ZigZag.cpp.o: ../ZigZag/ZigZag.cpp
 CMakeFiles/LeetCode.dir/ZigZag/ZigZag.cpp.o: ../ZigZag/ZigZag.h
 CMakeFiles/LeetCode.dir/ZigZag/ZigZag.cpp.o: ../common.h
 
-CMakeFiles/LeetCode.dir/main.cpp.o: ../SpiralMatrixII/SpiralMatrixII.h
+CMakeFiles/LeetCode.dir/main.cpp.o: ../RotateList/RotateList.h
 CMakeFiles/LeetCode.dir/main.cpp.o: ../main.cpp
 

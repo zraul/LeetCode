@@ -538,6 +538,32 @@ CMakeFiles/LeetCode.dir/SpiralMatrixII/SpiralMatrixII.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/SpiralMatrixII/SpiralMatrixII.cpp.s"
 	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Volumes/ZWHD/github/LeetCode/SpiralMatrixII/SpiralMatrixII.cpp -o CMakeFiles/LeetCode.dir/SpiralMatrixII/SpiralMatrixII.cpp.s
 
+CMakeFiles/LeetCode.dir/PermutationSequence/PermutationSequence.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/PermutationSequence/PermutationSequence.cpp.o: ../PermutationSequence/PermutationSequence.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Volumes/ZWHD/github/LeetCode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_38) "Building CXX object CMakeFiles/LeetCode.dir/PermutationSequence/PermutationSequence.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/LeetCode.dir/PermutationSequence/PermutationSequence.cpp.o -c /Volumes/ZWHD/github/LeetCode/PermutationSequence/PermutationSequence.cpp
+
+CMakeFiles/LeetCode.dir/PermutationSequence/PermutationSequence.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/PermutationSequence/PermutationSequence.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Volumes/ZWHD/github/LeetCode/PermutationSequence/PermutationSequence.cpp > CMakeFiles/LeetCode.dir/PermutationSequence/PermutationSequence.cpp.i
+
+CMakeFiles/LeetCode.dir/PermutationSequence/PermutationSequence.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/PermutationSequence/PermutationSequence.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Volumes/ZWHD/github/LeetCode/PermutationSequence/PermutationSequence.cpp -o CMakeFiles/LeetCode.dir/PermutationSequence/PermutationSequence.cpp.s
+
+CMakeFiles/LeetCode.dir/RotateList/RotateList.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/RotateList/RotateList.cpp.o: ../RotateList/RotateList.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Volumes/ZWHD/github/LeetCode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_39) "Building CXX object CMakeFiles/LeetCode.dir/RotateList/RotateList.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/LeetCode.dir/RotateList/RotateList.cpp.o -c /Volumes/ZWHD/github/LeetCode/RotateList/RotateList.cpp
+
+CMakeFiles/LeetCode.dir/RotateList/RotateList.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/RotateList/RotateList.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Volumes/ZWHD/github/LeetCode/RotateList/RotateList.cpp > CMakeFiles/LeetCode.dir/RotateList/RotateList.cpp.i
+
+CMakeFiles/LeetCode.dir/RotateList/RotateList.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/RotateList/RotateList.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Volumes/ZWHD/github/LeetCode/RotateList/RotateList.cpp -o CMakeFiles/LeetCode.dir/RotateList/RotateList.cpp.s
+
 # Object files for target LeetCode
 LeetCode_OBJECTS = \
 "CMakeFiles/LeetCode.dir/AddTwoNumbers/AddTwoNumbers.cpp.o" \
@@ -576,7 +602,9 @@ LeetCode_OBJECTS = \
 "CMakeFiles/LeetCode.dir/MergeIntervals/MergeIntervals.cpp.o" \
 "CMakeFiles/LeetCode.dir/InsertInterval/InsertInterval.cpp.o" \
 "CMakeFiles/LeetCode.dir/LengthOfLastWord/LengthOfLastWord.cpp.o" \
-"CMakeFiles/LeetCode.dir/SpiralMatrixII/SpiralMatrixII.cpp.o"
+"CMakeFiles/LeetCode.dir/SpiralMatrixII/SpiralMatrixII.cpp.o" \
+"CMakeFiles/LeetCode.dir/PermutationSequence/PermutationSequence.cpp.o" \
+"CMakeFiles/LeetCode.dir/RotateList/RotateList.cpp.o"
 
 # External object files for target LeetCode
 LeetCode_EXTERNAL_OBJECTS =
@@ -618,9 +646,11 @@ LeetCode: CMakeFiles/LeetCode.dir/MergeIntervals/MergeIntervals.cpp.o
 LeetCode: CMakeFiles/LeetCode.dir/InsertInterval/InsertInterval.cpp.o
 LeetCode: CMakeFiles/LeetCode.dir/LengthOfLastWord/LengthOfLastWord.cpp.o
 LeetCode: CMakeFiles/LeetCode.dir/SpiralMatrixII/SpiralMatrixII.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/PermutationSequence/PermutationSequence.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/RotateList/RotateList.cpp.o
 LeetCode: CMakeFiles/LeetCode.dir/build.make
 LeetCode: CMakeFiles/LeetCode.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Volumes/ZWHD/github/LeetCode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_38) "Linking CXX executable LeetCode"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Volumes/ZWHD/github/LeetCode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_40) "Linking CXX executable LeetCode"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/LeetCode.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

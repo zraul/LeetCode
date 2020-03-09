@@ -663,6 +663,33 @@ PalindromeNumber/PalindromeNumber.cpp.s:
 	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/PalindromeNumber/PalindromeNumber.cpp.s
 .PHONY : PalindromeNumber/PalindromeNumber.cpp.s
 
+PermutationSequence/PermutationSequence.o: PermutationSequence/PermutationSequence.cpp.o
+
+.PHONY : PermutationSequence/PermutationSequence.o
+
+# target to build an object file
+PermutationSequence/PermutationSequence.cpp.o:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/PermutationSequence/PermutationSequence.cpp.o
+.PHONY : PermutationSequence/PermutationSequence.cpp.o
+
+PermutationSequence/PermutationSequence.i: PermutationSequence/PermutationSequence.cpp.i
+
+.PHONY : PermutationSequence/PermutationSequence.i
+
+# target to preprocess a source file
+PermutationSequence/PermutationSequence.cpp.i:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/PermutationSequence/PermutationSequence.cpp.i
+.PHONY : PermutationSequence/PermutationSequence.cpp.i
+
+PermutationSequence/PermutationSequence.s: PermutationSequence/PermutationSequence.cpp.s
+
+.PHONY : PermutationSequence/PermutationSequence.s
+
+# target to generate assembly for a file
+PermutationSequence/PermutationSequence.cpp.s:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/PermutationSequence/PermutationSequence.cpp.s
+.PHONY : PermutationSequence/PermutationSequence.cpp.s
+
 Permutations/Permutations.o: Permutations/Permutations.cpp.o
 
 .PHONY : Permutations/Permutations.o
@@ -851,6 +878,33 @@ RotateImage/RotateImage.s: RotateImage/RotateImage.cpp.s
 RotateImage/RotateImage.cpp.s:
 	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/RotateImage/RotateImage.cpp.s
 .PHONY : RotateImage/RotateImage.cpp.s
+
+RotateList/RotateList.o: RotateList/RotateList.cpp.o
+
+.PHONY : RotateList/RotateList.o
+
+# target to build an object file
+RotateList/RotateList.cpp.o:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/RotateList/RotateList.cpp.o
+.PHONY : RotateList/RotateList.cpp.o
+
+RotateList/RotateList.i: RotateList/RotateList.cpp.i
+
+.PHONY : RotateList/RotateList.i
+
+# target to preprocess a source file
+RotateList/RotateList.cpp.i:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/RotateList/RotateList.cpp.i
+.PHONY : RotateList/RotateList.cpp.i
+
+RotateList/RotateList.s: RotateList/RotateList.cpp.s
+
+.PHONY : RotateList/RotateList.s
+
+# target to generate assembly for a file
+RotateList/RotateList.cpp.s:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/RotateList/RotateList.cpp.s
+.PHONY : RotateList/RotateList.cpp.s
 
 RottingOranges/RottingOranges.o: RottingOranges/RottingOranges.cpp.o
 
@@ -1191,6 +1245,9 @@ help:
 	@echo "... PalindromeNumber/PalindromeNumber.o"
 	@echo "... PalindromeNumber/PalindromeNumber.i"
 	@echo "... PalindromeNumber/PalindromeNumber.s"
+	@echo "... PermutationSequence/PermutationSequence.o"
+	@echo "... PermutationSequence/PermutationSequence.i"
+	@echo "... PermutationSequence/PermutationSequence.s"
 	@echo "... Permutations/Permutations.o"
 	@echo "... Permutations/Permutations.i"
 	@echo "... Permutations/Permutations.s"
@@ -1212,6 +1269,9 @@ help:
 	@echo "... RotateImage/RotateImage.o"
 	@echo "... RotateImage/RotateImage.i"
 	@echo "... RotateImage/RotateImage.s"
+	@echo "... RotateList/RotateList.o"
+	@echo "... RotateList/RotateList.i"
+	@echo "... RotateList/RotateList.s"
 	@echo "... RottingOranges/RottingOranges.o"
 	@echo "... RottingOranges/RottingOranges.i"
 	@echo "... RottingOranges/RottingOranges.s"
