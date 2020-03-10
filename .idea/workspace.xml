@@ -12,11 +12,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6572f727-0fe8-4c92-80bd-b9f70d0e5706" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/PermutationSequence/PermutationSequence.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PermutationSequence/PermutationSequence.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RotateList/RotateList.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RotateList/RotateList.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MinimumPathSum/MinimumPathSum.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MinimumPathSum/MinimumPathSum.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UniquePaths/UniquePaths.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UniquePaths/UniquePaths.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UniquePathsII/UniquePathsII.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UniquePathsII/UniquePathsII.h" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LeetCode.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LeetCode.dir/CXX.includecache" afterDir="false" />
@@ -232,7 +233,8 @@
       <workItem from="1583369742114" duration="4872000" />
       <workItem from="1583392788032" duration="2478000" />
       <workItem from="1583459524289" duration="10466000" />
-      <workItem from="1583724229775" duration="5746000" />
+      <workItem from="1583724229775" duration="8161000" />
+      <workItem from="1583807497995" duration="7567000" />
     </task>
     <servers />
   </component>
@@ -388,6 +390,21 @@
           <url>file://$PROJECT_DIR$/RotateList/RotateList.cpp</url>
           <line>7</line>
           <option name="timeStamp" value="44" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/UniquePaths/UniquePaths.cpp</url>
+          <line>8</line>
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/UniquePathsII/UniquePathsII.cpp</url>
+          <line>20</line>
+          <option name="timeStamp" value="52" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/MinimumPathSum/MinimumPathSum.cpp</url>
+          <line>10</line>
+          <option name="timeStamp" value="53" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

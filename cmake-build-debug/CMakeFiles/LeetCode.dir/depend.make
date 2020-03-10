@@ -50,6 +50,9 @@ CMakeFiles/LeetCode.dir/MergeSortedLists/MergeSortedLists.cpp.o: ../MergeSortedL
 CMakeFiles/LeetCode.dir/MergeSortedLists/MergeSortedLists.cpp.o: ../MergeSortedLists/MergeSortedLists.h
 CMakeFiles/LeetCode.dir/MergeSortedLists/MergeSortedLists.cpp.o: ../common.h
 
+CMakeFiles/LeetCode.dir/MinimumPathSum/MinimumPathSum.cpp.o: ../MinimumPathSum/MinimumPathSum.cpp
+CMakeFiles/LeetCode.dir/MinimumPathSum/MinimumPathSum.cpp.o: ../MinimumPathSum/MinimumPathSum.h
+
 CMakeFiles/LeetCode.dir/MultiplyStrings/MultiplyStrings.cpp.o: ../MultiplyStrings/MultiplyStrings.cpp
 CMakeFiles/LeetCode.dir/MultiplyStrings/MultiplyStrings.cpp.o: ../MultiplyStrings/MultiplyStrings.h
 
@@ -116,6 +119,12 @@ CMakeFiles/LeetCode.dir/Two-Sum/twosum.cpp.o: ../Two-Sum/twosum.cpp
 CMakeFiles/LeetCode.dir/Two-Sum/twosum.cpp.o: ../Two-Sum/twosum.h
 CMakeFiles/LeetCode.dir/Two-Sum/twosum.cpp.o: ../common.h
 
+CMakeFiles/LeetCode.dir/UniquePaths/UniquePaths.cpp.o: ../UniquePaths/UniquePaths.cpp
+CMakeFiles/LeetCode.dir/UniquePaths/UniquePaths.cpp.o: ../UniquePaths/UniquePaths.h
+
+CMakeFiles/LeetCode.dir/UniquePathsII/UniquePathsII.cpp.o: ../UniquePathsII/UniquePathsII.cpp
+CMakeFiles/LeetCode.dir/UniquePathsII/UniquePathsII.cpp.o: ../UniquePathsII/UniquePathsII.h
+
 CMakeFiles/LeetCode.dir/ValidSudoku/ValidSudoku.cpp.o: ../ValidSudoku/ValidSudoku.cpp
 CMakeFiles/LeetCode.dir/ValidSudoku/ValidSudoku.cpp.o: ../ValidSudoku/ValidSudoku.h
 
@@ -126,6 +135,6 @@ CMakeFiles/LeetCode.dir/ZigZag/ZigZag.cpp.o: ../ZigZag/ZigZag.cpp
 CMakeFiles/LeetCode.dir/ZigZag/ZigZag.cpp.o: ../ZigZag/ZigZag.h
 CMakeFiles/LeetCode.dir/ZigZag/ZigZag.cpp.o: ../common.h
 
-CMakeFiles/LeetCode.dir/main.cpp.o: ../RotateList/RotateList.h
+CMakeFiles/LeetCode.dir/main.cpp.o: ../MinimumPathSum/MinimumPathSum.h
 CMakeFiles/LeetCode.dir/main.cpp.o: ../main.cpp
 

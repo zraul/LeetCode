@@ -528,6 +528,33 @@ MergeSortedLists/MergeSortedLists.cpp.s:
 	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/MergeSortedLists/MergeSortedLists.cpp.s
 .PHONY : MergeSortedLists/MergeSortedLists.cpp.s
 
+MinimumPathSum/MinimumPathSum.o: MinimumPathSum/MinimumPathSum.cpp.o
+
+.PHONY : MinimumPathSum/MinimumPathSum.o
+
+# target to build an object file
+MinimumPathSum/MinimumPathSum.cpp.o:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/MinimumPathSum/MinimumPathSum.cpp.o
+.PHONY : MinimumPathSum/MinimumPathSum.cpp.o
+
+MinimumPathSum/MinimumPathSum.i: MinimumPathSum/MinimumPathSum.cpp.i
+
+.PHONY : MinimumPathSum/MinimumPathSum.i
+
+# target to preprocess a source file
+MinimumPathSum/MinimumPathSum.cpp.i:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/MinimumPathSum/MinimumPathSum.cpp.i
+.PHONY : MinimumPathSum/MinimumPathSum.cpp.i
+
+MinimumPathSum/MinimumPathSum.s: MinimumPathSum/MinimumPathSum.cpp.s
+
+.PHONY : MinimumPathSum/MinimumPathSum.s
+
+# target to generate assembly for a file
+MinimumPathSum/MinimumPathSum.cpp.s:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/MinimumPathSum/MinimumPathSum.cpp.s
+.PHONY : MinimumPathSum/MinimumPathSum.cpp.s
+
 MultiplyStrings/MultiplyStrings.o: MultiplyStrings/MultiplyStrings.cpp.o
 
 .PHONY : MultiplyStrings/MultiplyStrings.o
@@ -1068,6 +1095,60 @@ Two-Sum/twosum.cpp.s:
 	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Two-Sum/twosum.cpp.s
 .PHONY : Two-Sum/twosum.cpp.s
 
+UniquePaths/UniquePaths.o: UniquePaths/UniquePaths.cpp.o
+
+.PHONY : UniquePaths/UniquePaths.o
+
+# target to build an object file
+UniquePaths/UniquePaths.cpp.o:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/UniquePaths/UniquePaths.cpp.o
+.PHONY : UniquePaths/UniquePaths.cpp.o
+
+UniquePaths/UniquePaths.i: UniquePaths/UniquePaths.cpp.i
+
+.PHONY : UniquePaths/UniquePaths.i
+
+# target to preprocess a source file
+UniquePaths/UniquePaths.cpp.i:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/UniquePaths/UniquePaths.cpp.i
+.PHONY : UniquePaths/UniquePaths.cpp.i
+
+UniquePaths/UniquePaths.s: UniquePaths/UniquePaths.cpp.s
+
+.PHONY : UniquePaths/UniquePaths.s
+
+# target to generate assembly for a file
+UniquePaths/UniquePaths.cpp.s:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/UniquePaths/UniquePaths.cpp.s
+.PHONY : UniquePaths/UniquePaths.cpp.s
+
+UniquePathsII/UniquePathsII.o: UniquePathsII/UniquePathsII.cpp.o
+
+.PHONY : UniquePathsII/UniquePathsII.o
+
+# target to build an object file
+UniquePathsII/UniquePathsII.cpp.o:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/UniquePathsII/UniquePathsII.cpp.o
+.PHONY : UniquePathsII/UniquePathsII.cpp.o
+
+UniquePathsII/UniquePathsII.i: UniquePathsII/UniquePathsII.cpp.i
+
+.PHONY : UniquePathsII/UniquePathsII.i
+
+# target to preprocess a source file
+UniquePathsII/UniquePathsII.cpp.i:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/UniquePathsII/UniquePathsII.cpp.i
+.PHONY : UniquePathsII/UniquePathsII.cpp.i
+
+UniquePathsII/UniquePathsII.s: UniquePathsII/UniquePathsII.cpp.s
+
+.PHONY : UniquePathsII/UniquePathsII.s
+
+# target to generate assembly for a file
+UniquePathsII/UniquePathsII.cpp.s:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/UniquePathsII/UniquePathsII.cpp.s
+.PHONY : UniquePathsII/UniquePathsII.cpp.s
+
 ValidSudoku/ValidSudoku.o: ValidSudoku/ValidSudoku.cpp.o
 
 .PHONY : ValidSudoku/ValidSudoku.o
@@ -1230,6 +1311,9 @@ help:
 	@echo "... MergeSortedLists/MergeSortedLists.o"
 	@echo "... MergeSortedLists/MergeSortedLists.i"
 	@echo "... MergeSortedLists/MergeSortedLists.s"
+	@echo "... MinimumPathSum/MinimumPathSum.o"
+	@echo "... MinimumPathSum/MinimumPathSum.i"
+	@echo "... MinimumPathSum/MinimumPathSum.s"
 	@echo "... MultiplyStrings/MultiplyStrings.o"
 	@echo "... MultiplyStrings/MultiplyStrings.i"
 	@echo "... MultiplyStrings/MultiplyStrings.s"
@@ -1290,6 +1374,12 @@ help:
 	@echo "... Two-Sum/twosum.o"
 	@echo "... Two-Sum/twosum.i"
 	@echo "... Two-Sum/twosum.s"
+	@echo "... UniquePaths/UniquePaths.o"
+	@echo "... UniquePaths/UniquePaths.i"
+	@echo "... UniquePaths/UniquePaths.s"
+	@echo "... UniquePathsII/UniquePathsII.o"
+	@echo "... UniquePathsII/UniquePathsII.i"
+	@echo "... UniquePathsII/UniquePathsII.s"
 	@echo "... ValidSudoku/ValidSudoku.o"
 	@echo "... ValidSudoku/ValidSudoku.i"
 	@echo "... ValidSudoku/ValidSudoku.s"

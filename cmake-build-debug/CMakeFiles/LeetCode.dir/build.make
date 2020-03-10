@@ -564,6 +564,45 @@ CMakeFiles/LeetCode.dir/RotateList/RotateList.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/RotateList/RotateList.cpp.s"
 	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Volumes/ZWHD/github/LeetCode/RotateList/RotateList.cpp -o CMakeFiles/LeetCode.dir/RotateList/RotateList.cpp.s
 
+CMakeFiles/LeetCode.dir/UniquePaths/UniquePaths.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/UniquePaths/UniquePaths.cpp.o: ../UniquePaths/UniquePaths.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Volumes/ZWHD/github/LeetCode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_40) "Building CXX object CMakeFiles/LeetCode.dir/UniquePaths/UniquePaths.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/LeetCode.dir/UniquePaths/UniquePaths.cpp.o -c /Volumes/ZWHD/github/LeetCode/UniquePaths/UniquePaths.cpp
+
+CMakeFiles/LeetCode.dir/UniquePaths/UniquePaths.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/UniquePaths/UniquePaths.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Volumes/ZWHD/github/LeetCode/UniquePaths/UniquePaths.cpp > CMakeFiles/LeetCode.dir/UniquePaths/UniquePaths.cpp.i
+
+CMakeFiles/LeetCode.dir/UniquePaths/UniquePaths.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/UniquePaths/UniquePaths.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Volumes/ZWHD/github/LeetCode/UniquePaths/UniquePaths.cpp -o CMakeFiles/LeetCode.dir/UniquePaths/UniquePaths.cpp.s
+
+CMakeFiles/LeetCode.dir/UniquePathsII/UniquePathsII.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/UniquePathsII/UniquePathsII.cpp.o: ../UniquePathsII/UniquePathsII.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Volumes/ZWHD/github/LeetCode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_41) "Building CXX object CMakeFiles/LeetCode.dir/UniquePathsII/UniquePathsII.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/LeetCode.dir/UniquePathsII/UniquePathsII.cpp.o -c /Volumes/ZWHD/github/LeetCode/UniquePathsII/UniquePathsII.cpp
+
+CMakeFiles/LeetCode.dir/UniquePathsII/UniquePathsII.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/UniquePathsII/UniquePathsII.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Volumes/ZWHD/github/LeetCode/UniquePathsII/UniquePathsII.cpp > CMakeFiles/LeetCode.dir/UniquePathsII/UniquePathsII.cpp.i
+
+CMakeFiles/LeetCode.dir/UniquePathsII/UniquePathsII.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/UniquePathsII/UniquePathsII.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Volumes/ZWHD/github/LeetCode/UniquePathsII/UniquePathsII.cpp -o CMakeFiles/LeetCode.dir/UniquePathsII/UniquePathsII.cpp.s
+
+CMakeFiles/LeetCode.dir/MinimumPathSum/MinimumPathSum.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/MinimumPathSum/MinimumPathSum.cpp.o: ../MinimumPathSum/MinimumPathSum.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Volumes/ZWHD/github/LeetCode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_42) "Building CXX object CMakeFiles/LeetCode.dir/MinimumPathSum/MinimumPathSum.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/LeetCode.dir/MinimumPathSum/MinimumPathSum.cpp.o -c /Volumes/ZWHD/github/LeetCode/MinimumPathSum/MinimumPathSum.cpp
+
+CMakeFiles/LeetCode.dir/MinimumPathSum/MinimumPathSum.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/MinimumPathSum/MinimumPathSum.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Volumes/ZWHD/github/LeetCode/MinimumPathSum/MinimumPathSum.cpp > CMakeFiles/LeetCode.dir/MinimumPathSum/MinimumPathSum.cpp.i
+
+CMakeFiles/LeetCode.dir/MinimumPathSum/MinimumPathSum.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/MinimumPathSum/MinimumPathSum.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Volumes/ZWHD/github/LeetCode/MinimumPathSum/MinimumPathSum.cpp -o CMakeFiles/LeetCode.dir/MinimumPathSum/MinimumPathSum.cpp.s
+
 # Object files for target LeetCode
 LeetCode_OBJECTS = \
 "CMakeFiles/LeetCode.dir/AddTwoNumbers/AddTwoNumbers.cpp.o" \
@@ -604,7 +643,10 @@ LeetCode_OBJECTS = \
 "CMakeFiles/LeetCode.dir/LengthOfLastWord/LengthOfLastWord.cpp.o" \
 "CMakeFiles/LeetCode.dir/SpiralMatrixII/SpiralMatrixII.cpp.o" \
 "CMakeFiles/LeetCode.dir/PermutationSequence/PermutationSequence.cpp.o" \
-"CMakeFiles/LeetCode.dir/RotateList/RotateList.cpp.o"
+"CMakeFiles/LeetCode.dir/RotateList/RotateList.cpp.o" \
+"CMakeFiles/LeetCode.dir/UniquePaths/UniquePaths.cpp.o" \
+"CMakeFiles/LeetCode.dir/UniquePathsII/UniquePathsII.cpp.o" \
+"CMakeFiles/LeetCode.dir/MinimumPathSum/MinimumPathSum.cpp.o"
 
 # External object files for target LeetCode
 LeetCode_EXTERNAL_OBJECTS =
@@ -648,9 +690,12 @@ LeetCode: CMakeFiles/LeetCode.dir/LengthOfLastWord/LengthOfLastWord.cpp.o
 LeetCode: CMakeFiles/LeetCode.dir/SpiralMatrixII/SpiralMatrixII.cpp.o
 LeetCode: CMakeFiles/LeetCode.dir/PermutationSequence/PermutationSequence.cpp.o
 LeetCode: CMakeFiles/LeetCode.dir/RotateList/RotateList.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/UniquePaths/UniquePaths.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/UniquePathsII/UniquePathsII.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/MinimumPathSum/MinimumPathSum.cpp.o
 LeetCode: CMakeFiles/LeetCode.dir/build.make
 LeetCode: CMakeFiles/LeetCode.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Volumes/ZWHD/github/LeetCode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_40) "Linking CXX executable LeetCode"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Volumes/ZWHD/github/LeetCode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_43) "Linking CXX executable LeetCode"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/LeetCode.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

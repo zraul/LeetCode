@@ -196,6 +196,12 @@
 		<Unit filename="/Volumes/ZWHD/github/LeetCode/MergeSortedLists/MergeSortedLists.h">
 			<Option target="LeetCode"/>
 		</Unit>
+		<Unit filename="/Volumes/ZWHD/github/LeetCode/MinimumPathSum/MinimumPathSum.cpp">
+			<Option target="LeetCode"/>
+		</Unit>
+		<Unit filename="/Volumes/ZWHD/github/LeetCode/MinimumPathSum/MinimumPathSum.h">
+			<Option target="LeetCode"/>
+		</Unit>
 		<Unit filename="/Volumes/ZWHD/github/LeetCode/MultiplyStrings/MultiplyStrings.cpp">
 			<Option target="LeetCode"/>
 		</Unit>
@@ -314,6 +320,18 @@
 			<Option target="LeetCode"/>
 		</Unit>
 		<Unit filename="/Volumes/ZWHD/github/LeetCode/Two-Sum/twosum.h">
+			<Option target="LeetCode"/>
+		</Unit>
+		<Unit filename="/Volumes/ZWHD/github/LeetCode/UniquePaths/UniquePaths.cpp">
+			<Option target="LeetCode"/>
+		</Unit>
+		<Unit filename="/Volumes/ZWHD/github/LeetCode/UniquePaths/UniquePaths.h">
+			<Option target="LeetCode"/>
+		</Unit>
+		<Unit filename="/Volumes/ZWHD/github/LeetCode/UniquePathsII/UniquePathsII.cpp">
+			<Option target="LeetCode"/>
+		</Unit>
+		<Unit filename="/Volumes/ZWHD/github/LeetCode/UniquePathsII/UniquePathsII.h">
 			<Option target="LeetCode"/>
 		</Unit>
 		<Unit filename="/Volumes/ZWHD/github/LeetCode/ValidSudoku/ValidSudoku.cpp">

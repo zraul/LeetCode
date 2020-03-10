@@ -3,27 +3,14 @@
 //#include "PalindromeNumber/PalindromeNumber.h"
 //#include "RegularExpressionMatching/RegularExpressionMatching.h"
 
-#include "RotateList/RotateList.h"
+#include "MinimumPathSum/MinimumPathSum.h"
 
 int main()
 {
-    ListNode l1(1);
-    ListNode l2(2);
-    ListNode l3(3);
+    MinimumPathSum *u = new MinimumPathSum();
+    std::vector<std::vector<int>> m = {{1, 3, 1}, {1, 5, 1}, {4, 2, 1}};
 
-    l1.next = &l2;
-    l2.next = &l3;
-
-
-    RotateList *r = new RotateList();
-    ListNode* l = r->rotateRight(&l1, 2);
-
-    while (l != NULL) {
-        std::cout<<l->val;
-        l = l->next;
-    }
-
-    std::cout<<std::endl;
+    std::cout<<u->minPathSum(m)<<std::endl;
     return 0;
 }
 
