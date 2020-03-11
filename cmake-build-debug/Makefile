@@ -123,6 +123,33 @@ LeetCode/fast:
 	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/build
 .PHONY : LeetCode/fast
 
+AddBinary/AddBinary.o: AddBinary/AddBinary.cpp.o
+
+.PHONY : AddBinary/AddBinary.o
+
+# target to build an object file
+AddBinary/AddBinary.cpp.o:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/AddBinary/AddBinary.cpp.o
+.PHONY : AddBinary/AddBinary.cpp.o
+
+AddBinary/AddBinary.i: AddBinary/AddBinary.cpp.i
+
+.PHONY : AddBinary/AddBinary.i
+
+# target to preprocess a source file
+AddBinary/AddBinary.cpp.i:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/AddBinary/AddBinary.cpp.i
+.PHONY : AddBinary/AddBinary.cpp.i
+
+AddBinary/AddBinary.s: AddBinary/AddBinary.cpp.s
+
+.PHONY : AddBinary/AddBinary.s
+
+# target to generate assembly for a file
+AddBinary/AddBinary.cpp.s:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/AddBinary/AddBinary.cpp.s
+.PHONY : AddBinary/AddBinary.cpp.s
+
 AddTwoNumbers/AddTwoNumbers.o: AddTwoNumbers/AddTwoNumbers.cpp.o
 
 .PHONY : AddTwoNumbers/AddTwoNumbers.o
@@ -771,6 +798,33 @@ PermutationsII/PermutationsII.cpp.s:
 	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/PermutationsII/PermutationsII.cpp.s
 .PHONY : PermutationsII/PermutationsII.cpp.s
 
+PlusOne/PlusOne.o: PlusOne/PlusOne.cpp.o
+
+.PHONY : PlusOne/PlusOne.o
+
+# target to build an object file
+PlusOne/PlusOne.cpp.o:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/PlusOne/PlusOne.cpp.o
+.PHONY : PlusOne/PlusOne.cpp.o
+
+PlusOne/PlusOne.i: PlusOne/PlusOne.cpp.i
+
+.PHONY : PlusOne/PlusOne.i
+
+# target to preprocess a source file
+PlusOne/PlusOne.cpp.i:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/PlusOne/PlusOne.cpp.i
+.PHONY : PlusOne/PlusOne.cpp.i
+
+PlusOne/PlusOne.s: PlusOne/PlusOne.cpp.s
+
+.PHONY : PlusOne/PlusOne.s
+
+# target to generate assembly for a file
+PlusOne/PlusOne.cpp.s:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/PlusOne/PlusOne.cpp.s
+.PHONY : PlusOne/PlusOne.cpp.s
+
 Powxn/Powxn.o: Powxn/Powxn.cpp.o
 
 .PHONY : Powxn/Powxn.o
@@ -1149,6 +1203,33 @@ UniquePathsII/UniquePathsII.cpp.s:
 	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/UniquePathsII/UniquePathsII.cpp.s
 .PHONY : UniquePathsII/UniquePathsII.cpp.s
 
+ValidNumber/ValidNumber.o: ValidNumber/ValidNumber.cpp.o
+
+.PHONY : ValidNumber/ValidNumber.o
+
+# target to build an object file
+ValidNumber/ValidNumber.cpp.o:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/ValidNumber/ValidNumber.cpp.o
+.PHONY : ValidNumber/ValidNumber.cpp.o
+
+ValidNumber/ValidNumber.i: ValidNumber/ValidNumber.cpp.i
+
+.PHONY : ValidNumber/ValidNumber.i
+
+# target to preprocess a source file
+ValidNumber/ValidNumber.cpp.i:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/ValidNumber/ValidNumber.cpp.i
+.PHONY : ValidNumber/ValidNumber.cpp.i
+
+ValidNumber/ValidNumber.s: ValidNumber/ValidNumber.cpp.s
+
+.PHONY : ValidNumber/ValidNumber.s
+
+# target to generate assembly for a file
+ValidNumber/ValidNumber.cpp.s:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/ValidNumber/ValidNumber.cpp.s
+.PHONY : ValidNumber/ValidNumber.cpp.s
+
 ValidSudoku/ValidSudoku.o: ValidSudoku/ValidSudoku.cpp.o
 
 .PHONY : ValidSudoku/ValidSudoku.o
@@ -1266,6 +1347,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... LeetCode"
+	@echo "... AddBinary/AddBinary.o"
+	@echo "... AddBinary/AddBinary.i"
+	@echo "... AddBinary/AddBinary.s"
 	@echo "... AddTwoNumbers/AddTwoNumbers.o"
 	@echo "... AddTwoNumbers/AddTwoNumbers.i"
 	@echo "... AddTwoNumbers/AddTwoNumbers.s"
@@ -1338,6 +1422,9 @@ help:
 	@echo "... PermutationsII/PermutationsII.o"
 	@echo "... PermutationsII/PermutationsII.i"
 	@echo "... PermutationsII/PermutationsII.s"
+	@echo "... PlusOne/PlusOne.o"
+	@echo "... PlusOne/PlusOne.i"
+	@echo "... PlusOne/PlusOne.s"
 	@echo "... Powxn/Powxn.o"
 	@echo "... Powxn/Powxn.i"
 	@echo "... Powxn/Powxn.s"
@@ -1380,6 +1467,9 @@ help:
 	@echo "... UniquePathsII/UniquePathsII.o"
 	@echo "... UniquePathsII/UniquePathsII.i"
 	@echo "... UniquePathsII/UniquePathsII.s"
+	@echo "... ValidNumber/ValidNumber.o"
+	@echo "... ValidNumber/ValidNumber.i"
+	@echo "... ValidNumber/ValidNumber.s"
 	@echo "... ValidSudoku/ValidSudoku.o"
 	@echo "... ValidSudoku/ValidSudoku.i"
 	@echo "... ValidSudoku/ValidSudoku.s"

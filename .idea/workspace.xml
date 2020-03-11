@@ -12,14 +12,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6572f727-0fe8-4c92-80bd-b9f70d0e5706" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/MinimumPathSum/MinimumPathSum.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MinimumPathSum/MinimumPathSum.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UniquePaths/UniquePaths.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UniquePaths/UniquePaths.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UniquePathsII/UniquePathsII.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UniquePathsII/UniquePathsII.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AddBinary/AddBinary.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AddBinary/AddBinary.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PlusOne/PlusOne.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PlusOne/PlusOne.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ValidNumber/ValidNumber.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ValidNumber/ValidNumber.h" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MinimumPathSum/MinimumPathSum.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/MinimumPathSum/MinimumPathSum.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LeetCode.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LeetCode.dir/CXX.includecache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LeetCode.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LeetCode.dir/DependInfo.cmake" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LeetCode.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LeetCode.dir/build.make" afterDir="false" />
@@ -234,7 +235,9 @@
       <workItem from="1583392788032" duration="2478000" />
       <workItem from="1583459524289" duration="10466000" />
       <workItem from="1583724229775" duration="8161000" />
-      <workItem from="1583807497995" duration="7567000" />
+      <workItem from="1583807497995" duration="9395000" />
+      <workItem from="1583887472553" duration="70000" />
+      <workItem from="1583887578186" duration="9930000" />
     </task>
     <servers />
   </component>
@@ -405,6 +408,26 @@
           <url>file://$PROJECT_DIR$/MinimumPathSum/MinimumPathSum.cpp</url>
           <line>10</line>
           <option name="timeStamp" value="53" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/MinimumPathSum/MinimumPathSum.cpp</url>
+          <line>27</line>
+          <option name="timeStamp" value="54" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/ValidNumber/ValidNumber.cpp</url>
+          <line>7</line>
+          <option name="timeStamp" value="55" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/PlusOne/PlusOne.cpp</url>
+          <line>7</line>
+          <option name="timeStamp" value="56" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/AddBinary/AddBinary.cpp</url>
+          <line>8</line>
+          <option name="timeStamp" value="57" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

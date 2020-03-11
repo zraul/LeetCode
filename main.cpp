@@ -3,15 +3,12 @@
 //#include "PalindromeNumber/PalindromeNumber.h"
 //#include "RegularExpressionMatching/RegularExpressionMatching.h"
 
-#include "MinimumPathSum/MinimumPathSum.h"
+#include "AddBinary/AddBinary.h"
 
 int main()
 {
-    MinimumPathSum *u = new MinimumPathSum();
-    std::vector<std::vector<int>> m = {{1, 3, 1}, {1, 5, 1}, {4, 2, 1}};
-
-    std::cout<<u->minPathSum(m)<<std::endl;
-    return 0;
+    AddBinary *a = new AddBinary();
+    std::cout<<a->addBinary("1010", "1011")<<std::endl;
 }
 
 

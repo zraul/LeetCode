@@ -106,6 +106,12 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="/Volumes/ZWHD/github/LeetCode/AddBinary/AddBinary.cpp">
+			<Option target="LeetCode"/>
+		</Unit>
+		<Unit filename="/Volumes/ZWHD/github/LeetCode/AddBinary/AddBinary.h">
+			<Option target="LeetCode"/>
+		</Unit>
 		<Unit filename="/Volumes/ZWHD/github/LeetCode/AddTwoNumbers/AddTwoNumbers.cpp">
 			<Option target="LeetCode"/>
 		</Unit>
@@ -250,6 +256,12 @@
 		<Unit filename="/Volumes/ZWHD/github/LeetCode/PermutationsII/PermutationsII.h">
 			<Option target="LeetCode"/>
 		</Unit>
+		<Unit filename="/Volumes/ZWHD/github/LeetCode/PlusOne/PlusOne.cpp">
+			<Option target="LeetCode"/>
+		</Unit>
+		<Unit filename="/Volumes/ZWHD/github/LeetCode/PlusOne/PlusOne.h">
+			<Option target="LeetCode"/>
+		</Unit>
 		<Unit filename="/Volumes/ZWHD/github/LeetCode/Powxn/Powxn.cpp">
 			<Option target="LeetCode"/>
 		</Unit>
@@ -332,6 +344,12 @@
 			<Option target="LeetCode"/>
 		</Unit>
 		<Unit filename="/Volumes/ZWHD/github/LeetCode/UniquePathsII/UniquePathsII.h">
+			<Option target="LeetCode"/>
+		</Unit>
+		<Unit filename="/Volumes/ZWHD/github/LeetCode/ValidNumber/ValidNumber.cpp">
+			<Option target="LeetCode"/>
+		</Unit>
+		<Unit filename="/Volumes/ZWHD/github/LeetCode/ValidNumber/ValidNumber.h">
 			<Option target="LeetCode"/>
 		</Unit>
 		<Unit filename="/Volumes/ZWHD/github/LeetCode/ValidSudoku/ValidSudoku.cpp">

@@ -6,13 +6,11 @@
 
 #IncludeRegexTransform: 
 
-/Volumes/ZWHD/github/LeetCode/MinimumPathSum/MinimumPathSum.h
+/Volumes/ZWHD/github/LeetCode/AddBinary/AddBinary.h
 iostream
--
-vector
 -
 
 /Volumes/ZWHD/github/LeetCode/main.cpp
-MinimumPathSum/MinimumPathSum.h
-/Volumes/ZWHD/github/LeetCode/MinimumPathSum/MinimumPathSum.h
+AddBinary/AddBinary.h
+/Volumes/ZWHD/github/LeetCode/AddBinary/AddBinary.h
 
