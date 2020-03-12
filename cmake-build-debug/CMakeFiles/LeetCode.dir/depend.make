@@ -8,6 +8,9 @@ CMakeFiles/LeetCode.dir/AddTwoNumbers/AddTwoNumbers.cpp.o: ../AddTwoNumbers/AddT
 CMakeFiles/LeetCode.dir/AddTwoNumbers/AddTwoNumbers.cpp.o: ../AddTwoNumbers/AddTwoNumbers.h
 CMakeFiles/LeetCode.dir/AddTwoNumbers/AddTwoNumbers.cpp.o: ../common.h
 
+CMakeFiles/LeetCode.dir/ClimbingStairs/ClimbingStairs.cpp.o: ../ClimbingStairs/ClimbingStairs.cpp
+CMakeFiles/LeetCode.dir/ClimbingStairs/ClimbingStairs.cpp.o: ../ClimbingStairs/ClimbingStairs.h
+
 CMakeFiles/LeetCode.dir/CombinationSum/CombinationSum.cpp.o: ../CombinationSum/CombinationSum.cpp
 CMakeFiles/LeetCode.dir/CombinationSum/CombinationSum.cpp.o: ../CombinationSum/CombinationSum.h
 
@@ -115,8 +118,14 @@ CMakeFiles/LeetCode.dir/SpiralMatrixII/SpiralMatrixII.cpp.o: ../SpiralMatrixII/S
 CMakeFiles/LeetCode.dir/SprialMatrix/SprialMatrix.cpp.o: ../SprialMatrix/SprialMatrix.cpp
 CMakeFiles/LeetCode.dir/SprialMatrix/SprialMatrix.cpp.o: ../SprialMatrix/SprialMatrix.h
 
+CMakeFiles/LeetCode.dir/Sqrtx/Sqrtx.cpp.o: ../Sqrtx/Sqrtx.cpp
+CMakeFiles/LeetCode.dir/Sqrtx/Sqrtx.cpp.o: ../Sqrtx/Sqrtx.h
+
 CMakeFiles/LeetCode.dir/SudokuSolver/SudokuSolver.cpp.o: ../SudokuSolver/SudokuSolver.cpp
 CMakeFiles/LeetCode.dir/SudokuSolver/SudokuSolver.cpp.o: ../SudokuSolver/SudokuSolver.h
+
+CMakeFiles/LeetCode.dir/TextJustification/TextJustification.cpp.o: ../TextJustification/TextJustification.cpp
+CMakeFiles/LeetCode.dir/TextJustification/TextJustification.cpp.o: ../TextJustification/TextJustification.h
 
 CMakeFiles/LeetCode.dir/TrappingRainWater/TrappingRainWater.cpp.o: ../TrappingRainWater/TrappingRainWater.cpp
 CMakeFiles/LeetCode.dir/TrappingRainWater/TrappingRainWater.cpp.o: ../TrappingRainWater/TrappingRainWater.h
@@ -144,6 +153,6 @@ CMakeFiles/LeetCode.dir/ZigZag/ZigZag.cpp.o: ../ZigZag/ZigZag.cpp
 CMakeFiles/LeetCode.dir/ZigZag/ZigZag.cpp.o: ../ZigZag/ZigZag.h
 CMakeFiles/LeetCode.dir/ZigZag/ZigZag.cpp.o: ../common.h
 
-CMakeFiles/LeetCode.dir/main.cpp.o: ../AddBinary/AddBinary.h
+CMakeFiles/LeetCode.dir/main.cpp.o: ../ClimbingStairs/ClimbingStairs.h
 CMakeFiles/LeetCode.dir/main.cpp.o: ../main.cpp
 

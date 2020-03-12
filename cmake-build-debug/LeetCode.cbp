@@ -118,6 +118,12 @@
 		<Unit filename="/Volumes/ZWHD/github/LeetCode/AddTwoNumbers/AddTwoNumbers.h">
 			<Option target="LeetCode"/>
 		</Unit>
+		<Unit filename="/Volumes/ZWHD/github/LeetCode/ClimbingStairs/ClimbingStairs.cpp">
+			<Option target="LeetCode"/>
+		</Unit>
+		<Unit filename="/Volumes/ZWHD/github/LeetCode/ClimbingStairs/ClimbingStairs.h">
+			<Option target="LeetCode"/>
+		</Unit>
 		<Unit filename="/Volumes/ZWHD/github/LeetCode/CombinationSum/CombinationSum.cpp">
 			<Option target="LeetCode"/>
 		</Unit>
@@ -316,10 +322,22 @@
 		<Unit filename="/Volumes/ZWHD/github/LeetCode/SprialMatrix/SprialMatrix.h">
 			<Option target="LeetCode"/>
 		</Unit>
+		<Unit filename="/Volumes/ZWHD/github/LeetCode/Sqrtx/Sqrtx.cpp">
+			<Option target="LeetCode"/>
+		</Unit>
+		<Unit filename="/Volumes/ZWHD/github/LeetCode/Sqrtx/Sqrtx.h">
+			<Option target="LeetCode"/>
+		</Unit>
 		<Unit filename="/Volumes/ZWHD/github/LeetCode/SudokuSolver/SudokuSolver.cpp">
 			<Option target="LeetCode"/>
 		</Unit>
 		<Unit filename="/Volumes/ZWHD/github/LeetCode/SudokuSolver/SudokuSolver.h">
+			<Option target="LeetCode"/>
+		</Unit>
+		<Unit filename="/Volumes/ZWHD/github/LeetCode/TextJustification/TextJustification.cpp">
+			<Option target="LeetCode"/>
+		</Unit>
+		<Unit filename="/Volumes/ZWHD/github/LeetCode/TextJustification/TextJustification.h">
 			<Option target="LeetCode"/>
 		</Unit>
 		<Unit filename="/Volumes/ZWHD/github/LeetCode/TrappingRainWater/TrappingRainWater.cpp">

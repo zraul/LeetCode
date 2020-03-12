@@ -3,12 +3,12 @@
 //#include "PalindromeNumber/PalindromeNumber.h"
 //#include "RegularExpressionMatching/RegularExpressionMatching.h"
 
-#include "AddBinary/AddBinary.h"
+#include "ClimbingStairs/ClimbingStairs.h"
 
 int main()
 {
-    AddBinary *a = new AddBinary();
-    std::cout<<a->addBinary("1010", "1011")<<std::endl;
+    ClimbingStairs *c = new ClimbingStairs();
+    std::cout<<c->climbStairs(3)<<std::endl;
 }
 
 

@@ -642,6 +642,45 @@ CMakeFiles/LeetCode.dir/AddBinary/AddBinary.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/AddBinary/AddBinary.cpp.s"
 	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Volumes/ZWHD/github/LeetCode/AddBinary/AddBinary.cpp -o CMakeFiles/LeetCode.dir/AddBinary/AddBinary.cpp.s
 
+CMakeFiles/LeetCode.dir/TextJustification/TextJustification.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/TextJustification/TextJustification.cpp.o: ../TextJustification/TextJustification.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Volumes/ZWHD/github/LeetCode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_46) "Building CXX object CMakeFiles/LeetCode.dir/TextJustification/TextJustification.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/LeetCode.dir/TextJustification/TextJustification.cpp.o -c /Volumes/ZWHD/github/LeetCode/TextJustification/TextJustification.cpp
+
+CMakeFiles/LeetCode.dir/TextJustification/TextJustification.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/TextJustification/TextJustification.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Volumes/ZWHD/github/LeetCode/TextJustification/TextJustification.cpp > CMakeFiles/LeetCode.dir/TextJustification/TextJustification.cpp.i
+
+CMakeFiles/LeetCode.dir/TextJustification/TextJustification.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/TextJustification/TextJustification.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Volumes/ZWHD/github/LeetCode/TextJustification/TextJustification.cpp -o CMakeFiles/LeetCode.dir/TextJustification/TextJustification.cpp.s
+
+CMakeFiles/LeetCode.dir/Sqrtx/Sqrtx.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/Sqrtx/Sqrtx.cpp.o: ../Sqrtx/Sqrtx.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Volumes/ZWHD/github/LeetCode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_47) "Building CXX object CMakeFiles/LeetCode.dir/Sqrtx/Sqrtx.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/LeetCode.dir/Sqrtx/Sqrtx.cpp.o -c /Volumes/ZWHD/github/LeetCode/Sqrtx/Sqrtx.cpp
+
+CMakeFiles/LeetCode.dir/Sqrtx/Sqrtx.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/Sqrtx/Sqrtx.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Volumes/ZWHD/github/LeetCode/Sqrtx/Sqrtx.cpp > CMakeFiles/LeetCode.dir/Sqrtx/Sqrtx.cpp.i
+
+CMakeFiles/LeetCode.dir/Sqrtx/Sqrtx.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Sqrtx/Sqrtx.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Volumes/ZWHD/github/LeetCode/Sqrtx/Sqrtx.cpp -o CMakeFiles/LeetCode.dir/Sqrtx/Sqrtx.cpp.s
+
+CMakeFiles/LeetCode.dir/ClimbingStairs/ClimbingStairs.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/ClimbingStairs/ClimbingStairs.cpp.o: ../ClimbingStairs/ClimbingStairs.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Volumes/ZWHD/github/LeetCode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_48) "Building CXX object CMakeFiles/LeetCode.dir/ClimbingStairs/ClimbingStairs.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/LeetCode.dir/ClimbingStairs/ClimbingStairs.cpp.o -c /Volumes/ZWHD/github/LeetCode/ClimbingStairs/ClimbingStairs.cpp
+
+CMakeFiles/LeetCode.dir/ClimbingStairs/ClimbingStairs.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/ClimbingStairs/ClimbingStairs.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Volumes/ZWHD/github/LeetCode/ClimbingStairs/ClimbingStairs.cpp > CMakeFiles/LeetCode.dir/ClimbingStairs/ClimbingStairs.cpp.i
+
+CMakeFiles/LeetCode.dir/ClimbingStairs/ClimbingStairs.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/ClimbingStairs/ClimbingStairs.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Volumes/ZWHD/github/LeetCode/ClimbingStairs/ClimbingStairs.cpp -o CMakeFiles/LeetCode.dir/ClimbingStairs/ClimbingStairs.cpp.s
+
 # Object files for target LeetCode
 LeetCode_OBJECTS = \
 "CMakeFiles/LeetCode.dir/AddTwoNumbers/AddTwoNumbers.cpp.o" \
@@ -688,7 +727,10 @@ LeetCode_OBJECTS = \
 "CMakeFiles/LeetCode.dir/MinimumPathSum/MinimumPathSum.cpp.o" \
 "CMakeFiles/LeetCode.dir/ValidNumber/ValidNumber.cpp.o" \
 "CMakeFiles/LeetCode.dir/PlusOne/PlusOne.cpp.o" \
-"CMakeFiles/LeetCode.dir/AddBinary/AddBinary.cpp.o"
+"CMakeFiles/LeetCode.dir/AddBinary/AddBinary.cpp.o" \
+"CMakeFiles/LeetCode.dir/TextJustification/TextJustification.cpp.o" \
+"CMakeFiles/LeetCode.dir/Sqrtx/Sqrtx.cpp.o" \
+"CMakeFiles/LeetCode.dir/ClimbingStairs/ClimbingStairs.cpp.o"
 
 # External object files for target LeetCode
 LeetCode_EXTERNAL_OBJECTS =
@@ -738,9 +780,12 @@ LeetCode: CMakeFiles/LeetCode.dir/MinimumPathSum/MinimumPathSum.cpp.o
 LeetCode: CMakeFiles/LeetCode.dir/ValidNumber/ValidNumber.cpp.o
 LeetCode: CMakeFiles/LeetCode.dir/PlusOne/PlusOne.cpp.o
 LeetCode: CMakeFiles/LeetCode.dir/AddBinary/AddBinary.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/TextJustification/TextJustification.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/Sqrtx/Sqrtx.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/ClimbingStairs/ClimbingStairs.cpp.o
 LeetCode: CMakeFiles/LeetCode.dir/build.make
 LeetCode: CMakeFiles/LeetCode.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Volumes/ZWHD/github/LeetCode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_46) "Linking CXX executable LeetCode"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Volumes/ZWHD/github/LeetCode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_49) "Linking CXX executable LeetCode"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/LeetCode.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

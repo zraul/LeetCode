@@ -177,6 +177,33 @@ AddTwoNumbers/AddTwoNumbers.cpp.s:
 	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/AddTwoNumbers/AddTwoNumbers.cpp.s
 .PHONY : AddTwoNumbers/AddTwoNumbers.cpp.s
 
+ClimbingStairs/ClimbingStairs.o: ClimbingStairs/ClimbingStairs.cpp.o
+
+.PHONY : ClimbingStairs/ClimbingStairs.o
+
+# target to build an object file
+ClimbingStairs/ClimbingStairs.cpp.o:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/ClimbingStairs/ClimbingStairs.cpp.o
+.PHONY : ClimbingStairs/ClimbingStairs.cpp.o
+
+ClimbingStairs/ClimbingStairs.i: ClimbingStairs/ClimbingStairs.cpp.i
+
+.PHONY : ClimbingStairs/ClimbingStairs.i
+
+# target to preprocess a source file
+ClimbingStairs/ClimbingStairs.cpp.i:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/ClimbingStairs/ClimbingStairs.cpp.i
+.PHONY : ClimbingStairs/ClimbingStairs.cpp.i
+
+ClimbingStairs/ClimbingStairs.s: ClimbingStairs/ClimbingStairs.cpp.s
+
+.PHONY : ClimbingStairs/ClimbingStairs.s
+
+# target to generate assembly for a file
+ClimbingStairs/ClimbingStairs.cpp.s:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/ClimbingStairs/ClimbingStairs.cpp.s
+.PHONY : ClimbingStairs/ClimbingStairs.cpp.s
+
 CombinationSum/CombinationSum.o: CombinationSum/CombinationSum.cpp.o
 
 .PHONY : CombinationSum/CombinationSum.o
@@ -1068,6 +1095,33 @@ SprialMatrix/SprialMatrix.cpp.s:
 	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/SprialMatrix/SprialMatrix.cpp.s
 .PHONY : SprialMatrix/SprialMatrix.cpp.s
 
+Sqrtx/Sqrtx.o: Sqrtx/Sqrtx.cpp.o
+
+.PHONY : Sqrtx/Sqrtx.o
+
+# target to build an object file
+Sqrtx/Sqrtx.cpp.o:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Sqrtx/Sqrtx.cpp.o
+.PHONY : Sqrtx/Sqrtx.cpp.o
+
+Sqrtx/Sqrtx.i: Sqrtx/Sqrtx.cpp.i
+
+.PHONY : Sqrtx/Sqrtx.i
+
+# target to preprocess a source file
+Sqrtx/Sqrtx.cpp.i:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Sqrtx/Sqrtx.cpp.i
+.PHONY : Sqrtx/Sqrtx.cpp.i
+
+Sqrtx/Sqrtx.s: Sqrtx/Sqrtx.cpp.s
+
+.PHONY : Sqrtx/Sqrtx.s
+
+# target to generate assembly for a file
+Sqrtx/Sqrtx.cpp.s:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Sqrtx/Sqrtx.cpp.s
+.PHONY : Sqrtx/Sqrtx.cpp.s
+
 SudokuSolver/SudokuSolver.o: SudokuSolver/SudokuSolver.cpp.o
 
 .PHONY : SudokuSolver/SudokuSolver.o
@@ -1094,6 +1148,33 @@ SudokuSolver/SudokuSolver.s: SudokuSolver/SudokuSolver.cpp.s
 SudokuSolver/SudokuSolver.cpp.s:
 	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/SudokuSolver/SudokuSolver.cpp.s
 .PHONY : SudokuSolver/SudokuSolver.cpp.s
+
+TextJustification/TextJustification.o: TextJustification/TextJustification.cpp.o
+
+.PHONY : TextJustification/TextJustification.o
+
+# target to build an object file
+TextJustification/TextJustification.cpp.o:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/TextJustification/TextJustification.cpp.o
+.PHONY : TextJustification/TextJustification.cpp.o
+
+TextJustification/TextJustification.i: TextJustification/TextJustification.cpp.i
+
+.PHONY : TextJustification/TextJustification.i
+
+# target to preprocess a source file
+TextJustification/TextJustification.cpp.i:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/TextJustification/TextJustification.cpp.i
+.PHONY : TextJustification/TextJustification.cpp.i
+
+TextJustification/TextJustification.s: TextJustification/TextJustification.cpp.s
+
+.PHONY : TextJustification/TextJustification.s
+
+# target to generate assembly for a file
+TextJustification/TextJustification.cpp.s:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/TextJustification/TextJustification.cpp.s
+.PHONY : TextJustification/TextJustification.cpp.s
 
 TrappingRainWater/TrappingRainWater.o: TrappingRainWater/TrappingRainWater.cpp.o
 
@@ -1353,6 +1434,9 @@ help:
 	@echo "... AddTwoNumbers/AddTwoNumbers.o"
 	@echo "... AddTwoNumbers/AddTwoNumbers.i"
 	@echo "... AddTwoNumbers/AddTwoNumbers.s"
+	@echo "... ClimbingStairs/ClimbingStairs.o"
+	@echo "... ClimbingStairs/ClimbingStairs.i"
+	@echo "... ClimbingStairs/ClimbingStairs.s"
 	@echo "... CombinationSum/CombinationSum.o"
 	@echo "... CombinationSum/CombinationSum.i"
 	@echo "... CombinationSum/CombinationSum.s"
@@ -1452,9 +1536,15 @@ help:
 	@echo "... SprialMatrix/SprialMatrix.o"
 	@echo "... SprialMatrix/SprialMatrix.i"
 	@echo "... SprialMatrix/SprialMatrix.s"
+	@echo "... Sqrtx/Sqrtx.o"
+	@echo "... Sqrtx/Sqrtx.i"
+	@echo "... Sqrtx/Sqrtx.s"
 	@echo "... SudokuSolver/SudokuSolver.o"
 	@echo "... SudokuSolver/SudokuSolver.i"
 	@echo "... SudokuSolver/SudokuSolver.s"
+	@echo "... TextJustification/TextJustification.o"
+	@echo "... TextJustification/TextJustification.i"
+	@echo "... TextJustification/TextJustification.s"
 	@echo "... TrappingRainWater/TrappingRainWater.o"
 	@echo "... TrappingRainWater/TrappingRainWater.i"
 	@echo "... TrappingRainWater/TrappingRainWater.s"

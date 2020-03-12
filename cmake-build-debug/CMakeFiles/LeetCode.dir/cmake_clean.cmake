@@ -1,6 +1,7 @@
 file(REMOVE_RECURSE
   "CMakeFiles/LeetCode.dir/AddBinary/AddBinary.cpp.o"
   "CMakeFiles/LeetCode.dir/AddTwoNumbers/AddTwoNumbers.cpp.o"
+  "CMakeFiles/LeetCode.dir/ClimbingStairs/ClimbingStairs.cpp.o"
   "CMakeFiles/LeetCode.dir/CombinationSum/CombinationSum.cpp.o"
   "CMakeFiles/LeetCode.dir/CountAndSay/CountAndSay.cpp.o"
   "CMakeFiles/LeetCode.dir/DistributeCandiesToPeople/DistributeCandiesToPeople.cpp.o"
@@ -34,7 +35,9 @@ file(REMOVE_RECURSE
   "CMakeFiles/LeetCode.dir/RottingOranges/RottingOranges.cpp.o"
   "CMakeFiles/LeetCode.dir/SpiralMatrixII/SpiralMatrixII.cpp.o"
   "CMakeFiles/LeetCode.dir/SprialMatrix/SprialMatrix.cpp.o"
+  "CMakeFiles/LeetCode.dir/Sqrtx/Sqrtx.cpp.o"
   "CMakeFiles/LeetCode.dir/SudokuSolver/SudokuSolver.cpp.o"
+  "CMakeFiles/LeetCode.dir/TextJustification/TextJustification.cpp.o"
   "CMakeFiles/LeetCode.dir/TrappingRainWater/TrappingRainWater.cpp.o"
   "CMakeFiles/LeetCode.dir/Two-Sum/twosum.cpp.o"
   "CMakeFiles/LeetCode.dir/UniquePaths/UniquePaths.cpp.o"

@@ -6,11 +6,15 @@
 
 #IncludeRegexTransform: 
 
-/Volumes/ZWHD/github/LeetCode/AddBinary/AddBinary.h
+/Volumes/ZWHD/github/LeetCode/ClimbingStairs/ClimbingStairs.cpp
+ClimbingStairs.h
+/Volumes/ZWHD/github/LeetCode/ClimbingStairs/ClimbingStairs.h
+
+/Volumes/ZWHD/github/LeetCode/ClimbingStairs/ClimbingStairs.h
 iostream
 -
 
 /Volumes/ZWHD/github/LeetCode/main.cpp
-AddBinary/AddBinary.h
-/Volumes/ZWHD/github/LeetCode/AddBinary/AddBinary.h
+ClimbingStairs/ClimbingStairs.h
+/Volumes/ZWHD/github/LeetCode/ClimbingStairs/ClimbingStairs.h
 
