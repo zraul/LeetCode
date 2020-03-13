@@ -3,12 +3,19 @@
 //#include "PalindromeNumber/PalindromeNumber.h"
 //#include "RegularExpressionMatching/RegularExpressionMatching.h"
 
-#include "ClimbingStairs/ClimbingStairs.h"
+#include "SetMatrixZeroes/SetMatrixZeroes.h"
 
 int main()
 {
-    ClimbingStairs *c = new ClimbingStairs();
-    std::cout<<c->climbStairs(3)<<std::endl;
+    std::vector<std::vector<int>> matrix = {{-4,-2147483648,6,-7,0}, {-8,6,-8,-6,0}, {2147483647,2,-9,-6,-10}};
+    SetMatrixZeroes *s = new SetMatrixZeroes();
+    s->setZeroes(matrix);
+    for (int i = 0; i < matrix.size(); ++i) {
+        for (int j = 0; j < matrix[i].size(); ++j) {
+            std::cout<<matrix[i][j]<<",";
+        }
+        std::cout<<std::endl;
+    }
 }
 
 

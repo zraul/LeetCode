@@ -142,6 +142,12 @@
 		<Unit filename="/Volumes/ZWHD/github/LeetCode/DistributeCandiesToPeople/DistributeCandiesToPeople.h">
 			<Option target="LeetCode"/>
 		</Unit>
+		<Unit filename="/Volumes/ZWHD/github/LeetCode/EditDistance/EditDistance.cpp">
+			<Option target="LeetCode"/>
+		</Unit>
+		<Unit filename="/Volumes/ZWHD/github/LeetCode/EditDistance/EditDistance.h">
+			<Option target="LeetCode"/>
+		</Unit>
 		<Unit filename="/Volumes/ZWHD/github/LeetCode/FirstMissingPositive/FirstMissingPositive.cpp">
 			<Option target="LeetCode"/>
 		</Unit>
@@ -308,6 +314,18 @@
 			<Option target="LeetCode"/>
 		</Unit>
 		<Unit filename="/Volumes/ZWHD/github/LeetCode/RottingOranges/RottingOranges.h">
+			<Option target="LeetCode"/>
+		</Unit>
+		<Unit filename="/Volumes/ZWHD/github/LeetCode/SetMatrixZeroes/SetMatrixZeroes.cpp">
+			<Option target="LeetCode"/>
+		</Unit>
+		<Unit filename="/Volumes/ZWHD/github/LeetCode/SetMatrixZeroes/SetMatrixZeroes.h">
+			<Option target="LeetCode"/>
+		</Unit>
+		<Unit filename="/Volumes/ZWHD/github/LeetCode/SimplifyPath/SimplifyPath.cpp">
+			<Option target="LeetCode"/>
+		</Unit>
+		<Unit filename="/Volumes/ZWHD/github/LeetCode/SimplifyPath/SimplifyPath.h">
 			<Option target="LeetCode"/>
 		</Unit>
 		<Unit filename="/Volumes/ZWHD/github/LeetCode/SpiralMatrixII/SpiralMatrixII.cpp">

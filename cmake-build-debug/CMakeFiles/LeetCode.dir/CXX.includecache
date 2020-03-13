@@ -6,15 +6,13 @@
 
 #IncludeRegexTransform: 
 
-/Volumes/ZWHD/github/LeetCode/ClimbingStairs/ClimbingStairs.cpp
-ClimbingStairs.h
-/Volumes/ZWHD/github/LeetCode/ClimbingStairs/ClimbingStairs.h
-
-/Volumes/ZWHD/github/LeetCode/ClimbingStairs/ClimbingStairs.h
+/Volumes/ZWHD/github/LeetCode/SetMatrixZeroes/SetMatrixZeroes.h
 iostream
+-
+vector
 -
 
 /Volumes/ZWHD/github/LeetCode/main.cpp
-ClimbingStairs/ClimbingStairs.h
-/Volumes/ZWHD/github/LeetCode/ClimbingStairs/ClimbingStairs.h
+SetMatrixZeroes/SetMatrixZeroes.h
+/Volumes/ZWHD/github/LeetCode/SetMatrixZeroes/SetMatrixZeroes.h
 

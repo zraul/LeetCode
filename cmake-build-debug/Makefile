@@ -285,6 +285,33 @@ DistributeCandiesToPeople/DistributeCandiesToPeople.cpp.s:
 	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/DistributeCandiesToPeople/DistributeCandiesToPeople.cpp.s
 .PHONY : DistributeCandiesToPeople/DistributeCandiesToPeople.cpp.s
 
+EditDistance/EditDistance.o: EditDistance/EditDistance.cpp.o
+
+.PHONY : EditDistance/EditDistance.o
+
+# target to build an object file
+EditDistance/EditDistance.cpp.o:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/EditDistance/EditDistance.cpp.o
+.PHONY : EditDistance/EditDistance.cpp.o
+
+EditDistance/EditDistance.i: EditDistance/EditDistance.cpp.i
+
+.PHONY : EditDistance/EditDistance.i
+
+# target to preprocess a source file
+EditDistance/EditDistance.cpp.i:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/EditDistance/EditDistance.cpp.i
+.PHONY : EditDistance/EditDistance.cpp.i
+
+EditDistance/EditDistance.s: EditDistance/EditDistance.cpp.s
+
+.PHONY : EditDistance/EditDistance.s
+
+# target to generate assembly for a file
+EditDistance/EditDistance.cpp.s:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/EditDistance/EditDistance.cpp.s
+.PHONY : EditDistance/EditDistance.cpp.s
+
 FirstMissingPositive/FirstMissingPositive.o: FirstMissingPositive/FirstMissingPositive.cpp.o
 
 .PHONY : FirstMissingPositive/FirstMissingPositive.o
@@ -1041,6 +1068,60 @@ RottingOranges/RottingOranges.cpp.s:
 	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/RottingOranges/RottingOranges.cpp.s
 .PHONY : RottingOranges/RottingOranges.cpp.s
 
+SetMatrixZeroes/SetMatrixZeroes.o: SetMatrixZeroes/SetMatrixZeroes.cpp.o
+
+.PHONY : SetMatrixZeroes/SetMatrixZeroes.o
+
+# target to build an object file
+SetMatrixZeroes/SetMatrixZeroes.cpp.o:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/SetMatrixZeroes/SetMatrixZeroes.cpp.o
+.PHONY : SetMatrixZeroes/SetMatrixZeroes.cpp.o
+
+SetMatrixZeroes/SetMatrixZeroes.i: SetMatrixZeroes/SetMatrixZeroes.cpp.i
+
+.PHONY : SetMatrixZeroes/SetMatrixZeroes.i
+
+# target to preprocess a source file
+SetMatrixZeroes/SetMatrixZeroes.cpp.i:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/SetMatrixZeroes/SetMatrixZeroes.cpp.i
+.PHONY : SetMatrixZeroes/SetMatrixZeroes.cpp.i
+
+SetMatrixZeroes/SetMatrixZeroes.s: SetMatrixZeroes/SetMatrixZeroes.cpp.s
+
+.PHONY : SetMatrixZeroes/SetMatrixZeroes.s
+
+# target to generate assembly for a file
+SetMatrixZeroes/SetMatrixZeroes.cpp.s:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/SetMatrixZeroes/SetMatrixZeroes.cpp.s
+.PHONY : SetMatrixZeroes/SetMatrixZeroes.cpp.s
+
+SimplifyPath/SimplifyPath.o: SimplifyPath/SimplifyPath.cpp.o
+
+.PHONY : SimplifyPath/SimplifyPath.o
+
+# target to build an object file
+SimplifyPath/SimplifyPath.cpp.o:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/SimplifyPath/SimplifyPath.cpp.o
+.PHONY : SimplifyPath/SimplifyPath.cpp.o
+
+SimplifyPath/SimplifyPath.i: SimplifyPath/SimplifyPath.cpp.i
+
+.PHONY : SimplifyPath/SimplifyPath.i
+
+# target to preprocess a source file
+SimplifyPath/SimplifyPath.cpp.i:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/SimplifyPath/SimplifyPath.cpp.i
+.PHONY : SimplifyPath/SimplifyPath.cpp.i
+
+SimplifyPath/SimplifyPath.s: SimplifyPath/SimplifyPath.cpp.s
+
+.PHONY : SimplifyPath/SimplifyPath.s
+
+# target to generate assembly for a file
+SimplifyPath/SimplifyPath.cpp.s:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/SimplifyPath/SimplifyPath.cpp.s
+.PHONY : SimplifyPath/SimplifyPath.cpp.s
+
 SpiralMatrixII/SpiralMatrixII.o: SpiralMatrixII/SpiralMatrixII.cpp.o
 
 .PHONY : SpiralMatrixII/SpiralMatrixII.o
@@ -1446,6 +1527,9 @@ help:
 	@echo "... DistributeCandiesToPeople/DistributeCandiesToPeople.o"
 	@echo "... DistributeCandiesToPeople/DistributeCandiesToPeople.i"
 	@echo "... DistributeCandiesToPeople/DistributeCandiesToPeople.s"
+	@echo "... EditDistance/EditDistance.o"
+	@echo "... EditDistance/EditDistance.i"
+	@echo "... EditDistance/EditDistance.s"
 	@echo "... FirstMissingPositive/FirstMissingPositive.o"
 	@echo "... FirstMissingPositive/FirstMissingPositive.i"
 	@echo "... FirstMissingPositive/FirstMissingPositive.s"
@@ -1530,6 +1614,12 @@ help:
 	@echo "... RottingOranges/RottingOranges.o"
 	@echo "... RottingOranges/RottingOranges.i"
 	@echo "... RottingOranges/RottingOranges.s"
+	@echo "... SetMatrixZeroes/SetMatrixZeroes.o"
+	@echo "... SetMatrixZeroes/SetMatrixZeroes.i"
+	@echo "... SetMatrixZeroes/SetMatrixZeroes.s"
+	@echo "... SimplifyPath/SimplifyPath.o"
+	@echo "... SimplifyPath/SimplifyPath.i"
+	@echo "... SimplifyPath/SimplifyPath.s"
 	@echo "... SpiralMatrixII/SpiralMatrixII.o"
 	@echo "... SpiralMatrixII/SpiralMatrixII.i"
 	@echo "... SpiralMatrixII/SpiralMatrixII.s"

@@ -12,12 +12,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6572f727-0fe8-4c92-80bd-b9f70d0e5706" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/ClimbingStairs/ClimbingStairs.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ClimbingStairs/ClimbingStairs.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sqrtx/Sqrtx.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sqrtx/Sqrtx.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TextJustification/TextJustification.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TextJustification/TextJustification.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EditDistance/EditDistance.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EditDistance/EditDistance.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SetMatrixZeroes/SetMatrixZeroes.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SetMatrixZeroes/SetMatrixZeroes.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SimplifyPath/SimplifyPath.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SimplifyPath/SimplifyPath.h" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LeetCode.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LeetCode.dir/CXX.includecache" afterDir="false" />
@@ -238,7 +238,8 @@
       <workItem from="1583887472553" duration="70000" />
       <workItem from="1583887578186" duration="10427000" />
       <workItem from="1583973885514" duration="771000" />
-      <workItem from="1583981339906" duration="5512000" />
+      <workItem from="1583981339906" duration="5548000" />
+      <workItem from="1584060653408" duration="6856000" />
     </task>
     <servers />
   </component>
@@ -449,6 +450,16 @@
           <url>file://$PROJECT_DIR$/ClimbingStairs/ClimbingStairs.cpp</url>
           <line>7</line>
           <option name="timeStamp" value="61" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/EditDistance/EditDistance.cpp</url>
+          <line>7</line>
+          <option name="timeStamp" value="62" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/SetMatrixZeroes/SetMatrixZeroes.cpp</url>
+          <line>7</line>
+          <option name="timeStamp" value="63" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

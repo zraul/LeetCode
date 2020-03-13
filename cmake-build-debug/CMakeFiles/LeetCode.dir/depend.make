@@ -20,6 +20,9 @@ CMakeFiles/LeetCode.dir/CountAndSay/CountAndSay.cpp.o: ../CountAndSay/CountAndSa
 CMakeFiles/LeetCode.dir/DistributeCandiesToPeople/DistributeCandiesToPeople.cpp.o: ../DistributeCandiesToPeople/DistributeCandiesToPeople.cpp
 CMakeFiles/LeetCode.dir/DistributeCandiesToPeople/DistributeCandiesToPeople.cpp.o: ../DistributeCandiesToPeople/DistributeCandiesToPeople.h
 
+CMakeFiles/LeetCode.dir/EditDistance/EditDistance.cpp.o: ../EditDistance/EditDistance.cpp
+CMakeFiles/LeetCode.dir/EditDistance/EditDistance.cpp.o: ../EditDistance/EditDistance.h
+
 CMakeFiles/LeetCode.dir/FirstMissingPositive/FirstMissingPositive.cpp.o: ../FirstMissingPositive/FirstMissingPositive.cpp
 CMakeFiles/LeetCode.dir/FirstMissingPositive/FirstMissingPositive.cpp.o: ../FirstMissingPositive/FirstMissingPositive.h
 
@@ -112,6 +115,12 @@ CMakeFiles/LeetCode.dir/RotateList/RotateList.cpp.o: ../RotateList/RotateList.h
 CMakeFiles/LeetCode.dir/RottingOranges/RottingOranges.cpp.o: ../RottingOranges/RottingOranges.cpp
 CMakeFiles/LeetCode.dir/RottingOranges/RottingOranges.cpp.o: ../RottingOranges/RottingOranges.h
 
+CMakeFiles/LeetCode.dir/SetMatrixZeroes/SetMatrixZeroes.cpp.o: ../SetMatrixZeroes/SetMatrixZeroes.cpp
+CMakeFiles/LeetCode.dir/SetMatrixZeroes/SetMatrixZeroes.cpp.o: ../SetMatrixZeroes/SetMatrixZeroes.h
+
+CMakeFiles/LeetCode.dir/SimplifyPath/SimplifyPath.cpp.o: ../SimplifyPath/SimplifyPath.cpp
+CMakeFiles/LeetCode.dir/SimplifyPath/SimplifyPath.cpp.o: ../SimplifyPath/SimplifyPath.h
+
 CMakeFiles/LeetCode.dir/SpiralMatrixII/SpiralMatrixII.cpp.o: ../SpiralMatrixII/SpiralMatrixII.cpp
 CMakeFiles/LeetCode.dir/SpiralMatrixII/SpiralMatrixII.cpp.o: ../SpiralMatrixII/SpiralMatrixII.h
 
@@ -153,6 +162,6 @@ CMakeFiles/LeetCode.dir/ZigZag/ZigZag.cpp.o: ../ZigZag/ZigZag.cpp
 CMakeFiles/LeetCode.dir/ZigZag/ZigZag.cpp.o: ../ZigZag/ZigZag.h
 CMakeFiles/LeetCode.dir/ZigZag/ZigZag.cpp.o: ../common.h
 
-CMakeFiles/LeetCode.dir/main.cpp.o: ../ClimbingStairs/ClimbingStairs.h
+CMakeFiles/LeetCode.dir/main.cpp.o: ../SetMatrixZeroes/SetMatrixZeroes.h
 CMakeFiles/LeetCode.dir/main.cpp.o: ../main.cpp
 
