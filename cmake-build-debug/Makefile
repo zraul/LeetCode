@@ -48,10 +48,10 @@ RM = /Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /Volumes/ZWHD/github/LeetCode
+CMAKE_SOURCE_DIR = /Users/zhengwei/CProject/LeetCode
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /Volumes/ZWHD/github/LeetCode/cmake-build-debug
+CMAKE_BINARY_DIR = /Users/zhengwei/CProject/LeetCode/cmake-build-debug
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -80,9 +80,9 @@ edit_cache/fast: edit_cache
 
 # The main all target
 all: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Volumes/ZWHD/github/LeetCode/cmake-build-debug/CMakeFiles /Volumes/ZWHD/github/LeetCode/cmake-build-debug/CMakeFiles/progress.marks
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/zhengwei/CProject/LeetCode/cmake-build-debug/CMakeFiles /Users/zhengwei/CProject/LeetCode/cmake-build-debug/CMakeFiles/progress.marks
 	$(MAKE) -f CMakeFiles/Makefile2 all
-	$(CMAKE_COMMAND) -E cmake_progress_start /Volumes/ZWHD/github/LeetCode/cmake-build-debug/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/zhengwei/CProject/LeetCode/cmake-build-debug/CMakeFiles 0
 .PHONY : all
 
 # The main clean target
@@ -230,6 +230,33 @@ CombinationSum/CombinationSum.s: CombinationSum/CombinationSum.cpp.s
 CombinationSum/CombinationSum.cpp.s:
 	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/CombinationSum/CombinationSum.cpp.s
 .PHONY : CombinationSum/CombinationSum.cpp.s
+
+Combinations/Combinations.o: Combinations/Combinations.cpp.o
+
+.PHONY : Combinations/Combinations.o
+
+# target to build an object file
+Combinations/Combinations.cpp.o:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Combinations/Combinations.cpp.o
+.PHONY : Combinations/Combinations.cpp.o
+
+Combinations/Combinations.i: Combinations/Combinations.cpp.i
+
+.PHONY : Combinations/Combinations.i
+
+# target to preprocess a source file
+Combinations/Combinations.cpp.i:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Combinations/Combinations.cpp.i
+.PHONY : Combinations/Combinations.cpp.i
+
+Combinations/Combinations.s: Combinations/Combinations.cpp.s
+
+.PHONY : Combinations/Combinations.s
+
+# target to generate assembly for a file
+Combinations/Combinations.cpp.s:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Combinations/Combinations.cpp.s
+.PHONY : Combinations/Combinations.cpp.s
 
 CountAndSay/CountAndSay.o: CountAndSay/CountAndSay.cpp.o
 
@@ -635,6 +662,33 @@ MinimumPathSum/MinimumPathSum.s: MinimumPathSum/MinimumPathSum.cpp.s
 MinimumPathSum/MinimumPathSum.cpp.s:
 	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/MinimumPathSum/MinimumPathSum.cpp.s
 .PHONY : MinimumPathSum/MinimumPathSum.cpp.s
+
+MinimumWindowSubstring/MinimumWindowSubstring.o: MinimumWindowSubstring/MinimumWindowSubstring.cpp.o
+
+.PHONY : MinimumWindowSubstring/MinimumWindowSubstring.o
+
+# target to build an object file
+MinimumWindowSubstring/MinimumWindowSubstring.cpp.o:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/MinimumWindowSubstring/MinimumWindowSubstring.cpp.o
+.PHONY : MinimumWindowSubstring/MinimumWindowSubstring.cpp.o
+
+MinimumWindowSubstring/MinimumWindowSubstring.i: MinimumWindowSubstring/MinimumWindowSubstring.cpp.i
+
+.PHONY : MinimumWindowSubstring/MinimumWindowSubstring.i
+
+# target to preprocess a source file
+MinimumWindowSubstring/MinimumWindowSubstring.cpp.i:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/MinimumWindowSubstring/MinimumWindowSubstring.cpp.i
+.PHONY : MinimumWindowSubstring/MinimumWindowSubstring.cpp.i
+
+MinimumWindowSubstring/MinimumWindowSubstring.s: MinimumWindowSubstring/MinimumWindowSubstring.cpp.s
+
+.PHONY : MinimumWindowSubstring/MinimumWindowSubstring.s
+
+# target to generate assembly for a file
+MinimumWindowSubstring/MinimumWindowSubstring.cpp.s:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/MinimumWindowSubstring/MinimumWindowSubstring.cpp.s
+.PHONY : MinimumWindowSubstring/MinimumWindowSubstring.cpp.s
 
 MultiplyStrings/MultiplyStrings.o: MultiplyStrings/MultiplyStrings.cpp.o
 
@@ -1068,6 +1122,33 @@ RottingOranges/RottingOranges.cpp.s:
 	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/RottingOranges/RottingOranges.cpp.s
 .PHONY : RottingOranges/RottingOranges.cpp.s
 
+Searcha2DMatrix/Searcha2DMatrix.o: Searcha2DMatrix/Searcha2DMatrix.cpp.o
+
+.PHONY : Searcha2DMatrix/Searcha2DMatrix.o
+
+# target to build an object file
+Searcha2DMatrix/Searcha2DMatrix.cpp.o:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Searcha2DMatrix/Searcha2DMatrix.cpp.o
+.PHONY : Searcha2DMatrix/Searcha2DMatrix.cpp.o
+
+Searcha2DMatrix/Searcha2DMatrix.i: Searcha2DMatrix/Searcha2DMatrix.cpp.i
+
+.PHONY : Searcha2DMatrix/Searcha2DMatrix.i
+
+# target to preprocess a source file
+Searcha2DMatrix/Searcha2DMatrix.cpp.i:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Searcha2DMatrix/Searcha2DMatrix.cpp.i
+.PHONY : Searcha2DMatrix/Searcha2DMatrix.cpp.i
+
+Searcha2DMatrix/Searcha2DMatrix.s: Searcha2DMatrix/Searcha2DMatrix.cpp.s
+
+.PHONY : Searcha2DMatrix/Searcha2DMatrix.s
+
+# target to generate assembly for a file
+Searcha2DMatrix/Searcha2DMatrix.cpp.s:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Searcha2DMatrix/Searcha2DMatrix.cpp.s
+.PHONY : Searcha2DMatrix/Searcha2DMatrix.cpp.s
+
 SetMatrixZeroes/SetMatrixZeroes.o: SetMatrixZeroes/SetMatrixZeroes.cpp.o
 
 .PHONY : SetMatrixZeroes/SetMatrixZeroes.o
@@ -1121,6 +1202,33 @@ SimplifyPath/SimplifyPath.s: SimplifyPath/SimplifyPath.cpp.s
 SimplifyPath/SimplifyPath.cpp.s:
 	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/SimplifyPath/SimplifyPath.cpp.s
 .PHONY : SimplifyPath/SimplifyPath.cpp.s
+
+SortColors/SortColors.o: SortColors/SortColors.cpp.o
+
+.PHONY : SortColors/SortColors.o
+
+# target to build an object file
+SortColors/SortColors.cpp.o:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/SortColors/SortColors.cpp.o
+.PHONY : SortColors/SortColors.cpp.o
+
+SortColors/SortColors.i: SortColors/SortColors.cpp.i
+
+.PHONY : SortColors/SortColors.i
+
+# target to preprocess a source file
+SortColors/SortColors.cpp.i:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/SortColors/SortColors.cpp.i
+.PHONY : SortColors/SortColors.cpp.i
+
+SortColors/SortColors.s: SortColors/SortColors.cpp.s
+
+.PHONY : SortColors/SortColors.s
+
+# target to generate assembly for a file
+SortColors/SortColors.cpp.s:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/SortColors/SortColors.cpp.s
+.PHONY : SortColors/SortColors.cpp.s
 
 SpiralMatrixII/SpiralMatrixII.o: SpiralMatrixII/SpiralMatrixII.cpp.o
 
@@ -1202,6 +1310,33 @@ Sqrtx/Sqrtx.s: Sqrtx/Sqrtx.cpp.s
 Sqrtx/Sqrtx.cpp.s:
 	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Sqrtx/Sqrtx.cpp.s
 .PHONY : Sqrtx/Sqrtx.cpp.s
+
+Subsets/Subsets.o: Subsets/Subsets.cpp.o
+
+.PHONY : Subsets/Subsets.o
+
+# target to build an object file
+Subsets/Subsets.cpp.o:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Subsets/Subsets.cpp.o
+.PHONY : Subsets/Subsets.cpp.o
+
+Subsets/Subsets.i: Subsets/Subsets.cpp.i
+
+.PHONY : Subsets/Subsets.i
+
+# target to preprocess a source file
+Subsets/Subsets.cpp.i:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Subsets/Subsets.cpp.i
+.PHONY : Subsets/Subsets.cpp.i
+
+Subsets/Subsets.s: Subsets/Subsets.cpp.s
+
+.PHONY : Subsets/Subsets.s
+
+# target to generate assembly for a file
+Subsets/Subsets.cpp.s:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Subsets/Subsets.cpp.s
+.PHONY : Subsets/Subsets.cpp.s
 
 SudokuSolver/SudokuSolver.o: SudokuSolver/SudokuSolver.cpp.o
 
@@ -1521,6 +1656,9 @@ help:
 	@echo "... CombinationSum/CombinationSum.o"
 	@echo "... CombinationSum/CombinationSum.i"
 	@echo "... CombinationSum/CombinationSum.s"
+	@echo "... Combinations/Combinations.o"
+	@echo "... Combinations/Combinations.i"
+	@echo "... Combinations/Combinations.s"
 	@echo "... CountAndSay/CountAndSay.o"
 	@echo "... CountAndSay/CountAndSay.i"
 	@echo "... CountAndSay/CountAndSay.s"
@@ -1566,6 +1704,9 @@ help:
 	@echo "... MinimumPathSum/MinimumPathSum.o"
 	@echo "... MinimumPathSum/MinimumPathSum.i"
 	@echo "... MinimumPathSum/MinimumPathSum.s"
+	@echo "... MinimumWindowSubstring/MinimumWindowSubstring.o"
+	@echo "... MinimumWindowSubstring/MinimumWindowSubstring.i"
+	@echo "... MinimumWindowSubstring/MinimumWindowSubstring.s"
 	@echo "... MultiplyStrings/MultiplyStrings.o"
 	@echo "... MultiplyStrings/MultiplyStrings.i"
 	@echo "... MultiplyStrings/MultiplyStrings.s"
@@ -1614,12 +1755,18 @@ help:
 	@echo "... RottingOranges/RottingOranges.o"
 	@echo "... RottingOranges/RottingOranges.i"
 	@echo "... RottingOranges/RottingOranges.s"
+	@echo "... Searcha2DMatrix/Searcha2DMatrix.o"
+	@echo "... Searcha2DMatrix/Searcha2DMatrix.i"
+	@echo "... Searcha2DMatrix/Searcha2DMatrix.s"
 	@echo "... SetMatrixZeroes/SetMatrixZeroes.o"
 	@echo "... SetMatrixZeroes/SetMatrixZeroes.i"
 	@echo "... SetMatrixZeroes/SetMatrixZeroes.s"
 	@echo "... SimplifyPath/SimplifyPath.o"
 	@echo "... SimplifyPath/SimplifyPath.i"
 	@echo "... SimplifyPath/SimplifyPath.s"
+	@echo "... SortColors/SortColors.o"
+	@echo "... SortColors/SortColors.i"
+	@echo "... SortColors/SortColors.s"
 	@echo "... SpiralMatrixII/SpiralMatrixII.o"
 	@echo "... SpiralMatrixII/SpiralMatrixII.i"
 	@echo "... SpiralMatrixII/SpiralMatrixII.s"
@@ -1629,6 +1776,9 @@ help:
 	@echo "... Sqrtx/Sqrtx.o"
 	@echo "... Sqrtx/Sqrtx.i"
 	@echo "... Sqrtx/Sqrtx.s"
+	@echo "... Subsets/Subsets.o"
+	@echo "... Subsets/Subsets.i"
+	@echo "... Subsets/Subsets.s"
 	@echo "... SudokuSolver/SudokuSolver.o"
 	@echo "... SudokuSolver/SudokuSolver.i"
 	@echo "... SudokuSolver/SudokuSolver.s"

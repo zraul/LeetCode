@@ -14,6 +14,9 @@ CMakeFiles/LeetCode.dir/ClimbingStairs/ClimbingStairs.cpp.o: ../ClimbingStairs/C
 CMakeFiles/LeetCode.dir/CombinationSum/CombinationSum.cpp.o: ../CombinationSum/CombinationSum.cpp
 CMakeFiles/LeetCode.dir/CombinationSum/CombinationSum.cpp.o: ../CombinationSum/CombinationSum.h
 
+CMakeFiles/LeetCode.dir/Combinations/Combinations.cpp.o: ../Combinations/Combinations.cpp
+CMakeFiles/LeetCode.dir/Combinations/Combinations.cpp.o: ../Combinations/Combinations.h
+
 CMakeFiles/LeetCode.dir/CountAndSay/CountAndSay.cpp.o: ../CountAndSay/CountAndSay.cpp
 CMakeFiles/LeetCode.dir/CountAndSay/CountAndSay.cpp.o: ../CountAndSay/CountAndSay.h
 
@@ -61,6 +64,9 @@ CMakeFiles/LeetCode.dir/MergeSortedLists/MergeSortedLists.cpp.o: ../common.h
 
 CMakeFiles/LeetCode.dir/MinimumPathSum/MinimumPathSum.cpp.o: ../MinimumPathSum/MinimumPathSum.cpp
 CMakeFiles/LeetCode.dir/MinimumPathSum/MinimumPathSum.cpp.o: ../MinimumPathSum/MinimumPathSum.h
+
+CMakeFiles/LeetCode.dir/MinimumWindowSubstring/MinimumWindowSubstring.cpp.o: ../MinimumWindowSubstring/MinimumWindowSubstring.cpp
+CMakeFiles/LeetCode.dir/MinimumWindowSubstring/MinimumWindowSubstring.cpp.o: ../MinimumWindowSubstring/MinimumWindowSubstring.h
 
 CMakeFiles/LeetCode.dir/MultiplyStrings/MultiplyStrings.cpp.o: ../MultiplyStrings/MultiplyStrings.cpp
 CMakeFiles/LeetCode.dir/MultiplyStrings/MultiplyStrings.cpp.o: ../MultiplyStrings/MultiplyStrings.h
@@ -115,11 +121,17 @@ CMakeFiles/LeetCode.dir/RotateList/RotateList.cpp.o: ../RotateList/RotateList.h
 CMakeFiles/LeetCode.dir/RottingOranges/RottingOranges.cpp.o: ../RottingOranges/RottingOranges.cpp
 CMakeFiles/LeetCode.dir/RottingOranges/RottingOranges.cpp.o: ../RottingOranges/RottingOranges.h
 
+CMakeFiles/LeetCode.dir/Searcha2DMatrix/Searcha2DMatrix.cpp.o: ../Searcha2DMatrix/Searcha2DMatrix.cpp
+CMakeFiles/LeetCode.dir/Searcha2DMatrix/Searcha2DMatrix.cpp.o: ../Searcha2DMatrix/Searcha2DMatrix.h
+
 CMakeFiles/LeetCode.dir/SetMatrixZeroes/SetMatrixZeroes.cpp.o: ../SetMatrixZeroes/SetMatrixZeroes.cpp
 CMakeFiles/LeetCode.dir/SetMatrixZeroes/SetMatrixZeroes.cpp.o: ../SetMatrixZeroes/SetMatrixZeroes.h
 
 CMakeFiles/LeetCode.dir/SimplifyPath/SimplifyPath.cpp.o: ../SimplifyPath/SimplifyPath.cpp
 CMakeFiles/LeetCode.dir/SimplifyPath/SimplifyPath.cpp.o: ../SimplifyPath/SimplifyPath.h
+
+CMakeFiles/LeetCode.dir/SortColors/SortColors.cpp.o: ../SortColors/SortColors.cpp
+CMakeFiles/LeetCode.dir/SortColors/SortColors.cpp.o: ../SortColors/SortColors.h
 
 CMakeFiles/LeetCode.dir/SpiralMatrixII/SpiralMatrixII.cpp.o: ../SpiralMatrixII/SpiralMatrixII.cpp
 CMakeFiles/LeetCode.dir/SpiralMatrixII/SpiralMatrixII.cpp.o: ../SpiralMatrixII/SpiralMatrixII.h
@@ -129,6 +141,9 @@ CMakeFiles/LeetCode.dir/SprialMatrix/SprialMatrix.cpp.o: ../SprialMatrix/SprialM
 
 CMakeFiles/LeetCode.dir/Sqrtx/Sqrtx.cpp.o: ../Sqrtx/Sqrtx.cpp
 CMakeFiles/LeetCode.dir/Sqrtx/Sqrtx.cpp.o: ../Sqrtx/Sqrtx.h
+
+CMakeFiles/LeetCode.dir/Subsets/Subsets.cpp.o: ../Subsets/Subsets.cpp
+CMakeFiles/LeetCode.dir/Subsets/Subsets.cpp.o: ../Subsets/Subsets.h
 
 CMakeFiles/LeetCode.dir/SudokuSolver/SudokuSolver.cpp.o: ../SudokuSolver/SudokuSolver.cpp
 CMakeFiles/LeetCode.dir/SudokuSolver/SudokuSolver.cpp.o: ../SudokuSolver/SudokuSolver.h
@@ -162,6 +177,6 @@ CMakeFiles/LeetCode.dir/ZigZag/ZigZag.cpp.o: ../ZigZag/ZigZag.cpp
 CMakeFiles/LeetCode.dir/ZigZag/ZigZag.cpp.o: ../ZigZag/ZigZag.h
 CMakeFiles/LeetCode.dir/ZigZag/ZigZag.cpp.o: ../common.h
 
-CMakeFiles/LeetCode.dir/main.cpp.o: ../SetMatrixZeroes/SetMatrixZeroes.h
+CMakeFiles/LeetCode.dir/main.cpp.o: ../Subsets/Subsets.h
 CMakeFiles/LeetCode.dir/main.cpp.o: ../main.cpp
 

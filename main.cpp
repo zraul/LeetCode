@@ -3,17 +3,18 @@
 //#include "PalindromeNumber/PalindromeNumber.h"
 //#include "RegularExpressionMatching/RegularExpressionMatching.h"
 
-#include "SetMatrixZeroes/SetMatrixZeroes.h"
+#include "Subsets/Subsets.h"
 
 int main()
 {
-    std::vector<std::vector<int>> matrix = {{-4,-2147483648,6,-7,0}, {-8,6,-8,-6,0}, {2147483647,2,-9,-6,-10}};
-    SetMatrixZeroes *s = new SetMatrixZeroes();
-    s->setZeroes(matrix);
-    for (int i = 0; i < matrix.size(); ++i) {
-        for (int j = 0; j < matrix[i].size(); ++j) {
-            std::cout<<matrix[i][j]<<",";
+   Subsets *s = new Subsets();
+   std::vector<int> m = {1, 2, 3};
+   std::vector<std::vector<int>> k = s->subsets(m);
+    for (int i = 0; i < k.size(); ++i) {
+        for (int j = 0; j < k[i].size(); ++j) {
+            std::cout<<k[i][j]<<",";
         }
+
         std::cout<<std::endl;
     }
 }

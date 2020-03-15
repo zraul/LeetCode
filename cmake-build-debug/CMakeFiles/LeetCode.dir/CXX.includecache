@@ -6,13 +6,17 @@
 
 #IncludeRegexTransform: 
 
-/Volumes/ZWHD/github/LeetCode/SetMatrixZeroes/SetMatrixZeroes.h
+/Users/zhengwei/CProject/LeetCode/Subsets/Subsets.cpp
+Subsets.h
+/Users/zhengwei/CProject/LeetCode/Subsets/Subsets.h
+
+/Users/zhengwei/CProject/LeetCode/Subsets/Subsets.h
 iostream
 -
 vector
 -
 
-/Volumes/ZWHD/github/LeetCode/main.cpp
-SetMatrixZeroes/SetMatrixZeroes.h
-/Volumes/ZWHD/github/LeetCode/SetMatrixZeroes/SetMatrixZeroes.h
+/Users/zhengwei/CProject/LeetCode/main.cpp
+Subsets/Subsets.h
+/Users/zhengwei/CProject/LeetCode/Subsets/Subsets.h
 
