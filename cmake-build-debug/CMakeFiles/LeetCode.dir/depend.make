@@ -41,6 +41,9 @@ CMakeFiles/LeetCode.dir/JumpGame/JumpGame.cpp.o: ../JumpGame/JumpGame.h
 CMakeFiles/LeetCode.dir/JumpGame2/JumpGame2.cpp.o: ../JumpGame2/JumpGame2.cpp
 CMakeFiles/LeetCode.dir/JumpGame2/JumpGame2.cpp.o: ../JumpGame2/JumpGame2.h
 
+CMakeFiles/LeetCode.dir/LargestRectangleInHistogram/LargestRectangleInHistogram.cpp.o: ../LargestRectangleInHistogram/LargestRectangleInHistogram.cpp
+CMakeFiles/LeetCode.dir/LargestRectangleInHistogram/LargestRectangleInHistogram.cpp.o: ../LargestRectangleInHistogram/LargestRectangleInHistogram.h
+
 CMakeFiles/LeetCode.dir/LengthOfLastWord/LengthOfLastWord.cpp.o: ../LengthOfLastWord/LengthOfLastWord.cpp
 CMakeFiles/LeetCode.dir/LengthOfLastWord/LengthOfLastWord.cpp.o: ../LengthOfLastWord/LengthOfLastWord.h
 
@@ -108,6 +111,15 @@ CMakeFiles/LeetCode.dir/RemoveDuplicates/RemoveDuplicates.cpp.o: ../RemoveDuplic
 CMakeFiles/LeetCode.dir/RemoveDuplicates/RemoveDuplicates.cpp.o: ../RemoveDuplicates/RemoveDuplicates.h
 CMakeFiles/LeetCode.dir/RemoveDuplicates/RemoveDuplicates.cpp.o: ../common.h
 
+CMakeFiles/LeetCode.dir/RemoveDuplicatesFromSortedList/RemoveDuplicatesFromSortedList.cpp.o: ../RemoveDuplicatesFromSortedList/RemoveDuplicatesFromSortedList.cpp
+CMakeFiles/LeetCode.dir/RemoveDuplicatesFromSortedList/RemoveDuplicatesFromSortedList.cpp.o: ../RemoveDuplicatesFromSortedList/RemoveDuplicatesFromSortedList.h
+
+CMakeFiles/LeetCode.dir/RemoveDuplicatesFromSortedListII/RemoveDuplicatesFromSortedListII.cpp.o: ../RemoveDuplicatesFromSortedListII/RemoveDuplicatesFromSortedListII.cpp
+CMakeFiles/LeetCode.dir/RemoveDuplicatesFromSortedListII/RemoveDuplicatesFromSortedListII.cpp.o: ../RemoveDuplicatesFromSortedListII/RemoveDuplicatesFromSortedListII.h
+
+CMakeFiles/LeetCode.dir/RemoveDuplicatesII/RemoveDuplicatesII.cpp.o: ../RemoveDuplicatesII/RemoveDuplicatesII.cpp
+CMakeFiles/LeetCode.dir/RemoveDuplicatesII/RemoveDuplicatesII.cpp.o: ../RemoveDuplicatesII/RemoveDuplicatesII.h
+
 CMakeFiles/LeetCode.dir/ReverseInteger/ReverseInteger.cpp.o: ../ReverseInteger/ReverseInteger.cpp
 CMakeFiles/LeetCode.dir/ReverseInteger/ReverseInteger.cpp.o: ../ReverseInteger/ReverseInteger.h
 CMakeFiles/LeetCode.dir/ReverseInteger/ReverseInteger.cpp.o: ../common.h
@@ -120,6 +132,9 @@ CMakeFiles/LeetCode.dir/RotateList/RotateList.cpp.o: ../RotateList/RotateList.h
 
 CMakeFiles/LeetCode.dir/RottingOranges/RottingOranges.cpp.o: ../RottingOranges/RottingOranges.cpp
 CMakeFiles/LeetCode.dir/RottingOranges/RottingOranges.cpp.o: ../RottingOranges/RottingOranges.h
+
+CMakeFiles/LeetCode.dir/SearchInRotatedSortedArrayII/SearchInRotatedSortedArrayII.cpp.o: ../SearchInRotatedSortedArrayII/SearchInRotatedSortedArrayII.cpp
+CMakeFiles/LeetCode.dir/SearchInRotatedSortedArrayII/SearchInRotatedSortedArrayII.cpp.o: ../SearchInRotatedSortedArrayII/SearchInRotatedSortedArrayII.h
 
 CMakeFiles/LeetCode.dir/Searcha2DMatrix/Searcha2DMatrix.cpp.o: ../Searcha2DMatrix/Searcha2DMatrix.cpp
 CMakeFiles/LeetCode.dir/Searcha2DMatrix/Searcha2DMatrix.cpp.o: ../Searcha2DMatrix/Searcha2DMatrix.h
@@ -173,10 +188,13 @@ CMakeFiles/LeetCode.dir/ValidSudoku/ValidSudoku.cpp.o: ../ValidSudoku/ValidSudok
 CMakeFiles/LeetCode.dir/WildcardMatching/WildcardMatching.cpp.o: ../WildcardMatching/WildcardMatching.cpp
 CMakeFiles/LeetCode.dir/WildcardMatching/WildcardMatching.cpp.o: ../WildcardMatching/WildcardMatching.h
 
+CMakeFiles/LeetCode.dir/WordSearch/WordSearch.cpp.o: ../WordSearch/WordSearch.cpp
+CMakeFiles/LeetCode.dir/WordSearch/WordSearch.cpp.o: ../WordSearch/WordSearch.h
+
 CMakeFiles/LeetCode.dir/ZigZag/ZigZag.cpp.o: ../ZigZag/ZigZag.cpp
 CMakeFiles/LeetCode.dir/ZigZag/ZigZag.cpp.o: ../ZigZag/ZigZag.h
 CMakeFiles/LeetCode.dir/ZigZag/ZigZag.cpp.o: ../common.h
 
-CMakeFiles/LeetCode.dir/main.cpp.o: ../Subsets/Subsets.h
+CMakeFiles/LeetCode.dir/main.cpp.o: ../RemoveDuplicatesFromSortedListII/RemoveDuplicatesFromSortedListII.h
 CMakeFiles/LeetCode.dir/main.cpp.o: ../main.cpp
 

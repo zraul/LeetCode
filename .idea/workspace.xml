@@ -12,16 +12,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6572f727-0fe8-4c92-80bd-b9f70d0e5706" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/Combinations/Combinations.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Combinations/Combinations.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MinimumWindowSubstring/MinimumWindowSubstring.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MinimumWindowSubstring/MinimumWindowSubstring.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Searcha2DMatrix/Searcha2DMatrix.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Searcha2DMatrix/Searcha2DMatrix.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SortColors/SortColors.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SortColors/SortColors.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Subsets/Subsets.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Subsets/Subsets.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LargestRectangleInHistogram/LargestRectangleInHistogram.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LargestRectangleInHistogram/LargestRectangleInHistogram.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RemoveDuplicatesFromSortedList/RemoveDuplicatesFromSortedList.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RemoveDuplicatesFromSortedList/RemoveDuplicatesFromSortedList.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RemoveDuplicatesFromSortedListII/RemoveDuplicatesFromSortedListII.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RemoveDuplicatesFromSortedListII/RemoveDuplicatesFromSortedListII.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RemoveDuplicatesII/RemoveDuplicatesII.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RemoveDuplicatesII/RemoveDuplicatesII.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SearchInRotatedSortedArrayII/SearchInRotatedSortedArrayII.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SearchInRotatedSortedArrayII/SearchInRotatedSortedArrayII.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WordSearch/WordSearch.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WordSearch/WordSearch.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" afterDir="false" />
@@ -57,6 +60,7 @@
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
     </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -93,6 +97,18 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
   </component>
   <component name="RunManager" selected="CMake Application.LeetCode">
     <configuration default="true" type="BashConfigurationType" factoryName="Bash">
@@ -179,18 +195,6 @@
       <item itemvalue="CMake Application.LeetCode" />
     </list>
   </component>
-  <component name="ServiceViewManager">
-    <option name="viewStates">
-      <list>
-        <serviceView>
-          <treeState>
-            <expand />
-            <select />
-          </treeState>
-        </serviceView>
-      </list>
-    </option>
-  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -268,6 +272,8 @@
       <workItem from="1584060653408" duration="6856000" />
       <workItem from="1584151604188" duration="6095000" />
       <workItem from="1584238136367" duration="2019000" />
+      <workItem from="1584318922901" duration="6413000" />
+      <workItem from="1584520488681" duration="4406000" />
     </task>
     <servers />
   </component>
@@ -564,6 +570,21 @@
           <url>file://$PROJECT_DIR$/Subsets/Subsets.cpp</url>
           <line>9</line>
           <option name="timeStamp" value="69" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/RemoveDuplicatesFromSortedListII/RemoveDuplicatesFromSortedListII.cpp</url>
+          <line>7</line>
+          <option name="timeStamp" value="70" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/RemoveDuplicatesFromSortedList/RemoveDuplicatesFromSortedList.cpp</url>
+          <line>7</line>
+          <option name="timeStamp" value="71" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/LargestRectangleInHistogram/LargestRectangleInHistogram.cpp</url>
+          <line>7</line>
+          <option name="timeStamp" value="72" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

@@ -3,20 +3,32 @@
 //#include "PalindromeNumber/PalindromeNumber.h"
 //#include "RegularExpressionMatching/RegularExpressionMatching.h"
 
-#include "Subsets/Subsets.h"
+#include "RemoveDuplicatesFromSortedListII/RemoveDuplicatesFromSortedListII.h"
 
 int main()
 {
-   Subsets *s = new Subsets();
-   std::vector<int> m = {1, 2, 3};
-   std::vector<std::vector<int>> k = s->subsets(m);
-    for (int i = 0; i < k.size(); ++i) {
-        for (int j = 0; j < k[i].size(); ++j) {
-            std::cout<<k[i][j]<<",";
-        }
+    ListNode l1(1);
+    ListNode l2(2);
+    ListNode l3(3);
+    ListNode l4(3);
+    ListNode l5(4);
+    ListNode l6(4);
+    ListNode l7(5);
+    l1.next = &l2;
+    l2.next = &l3;
+    l3.next = &l4;
+    l4.next = &l5;
+    l5.next = &l6;
+    l6.next = &l7;
 
-        std::cout<<std::endl;
+    RemoveDuplicatesFromSortedListII *r = new RemoveDuplicatesFromSortedListII();
+    ListNode* l8 = r->deleteDuplicates(&l1);
+
+    while (l8 != NULL) {
+        std::cout<<l8->val<<"->";
+        l8 = l8->next;
     }
+    std::cout<<std::endl;
 }
 
 

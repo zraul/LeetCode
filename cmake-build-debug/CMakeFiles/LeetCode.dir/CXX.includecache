@@ -6,17 +6,11 @@
 
 #IncludeRegexTransform: 
 
-/Users/zhengwei/CProject/LeetCode/Subsets/Subsets.cpp
-Subsets.h
-/Users/zhengwei/CProject/LeetCode/Subsets/Subsets.h
-
-/Users/zhengwei/CProject/LeetCode/Subsets/Subsets.h
+/Volumes/ZWHD/github/LeetCode/RemoveDuplicatesFromSortedListII/RemoveDuplicatesFromSortedListII.h
 iostream
 -
-vector
--
 
-/Users/zhengwei/CProject/LeetCode/main.cpp
-Subsets/Subsets.h
-/Users/zhengwei/CProject/LeetCode/Subsets/Subsets.h
+/Volumes/ZWHD/github/LeetCode/main.cpp
+RemoveDuplicatesFromSortedListII/RemoveDuplicatesFromSortedListII.h
+/Volumes/ZWHD/github/LeetCode/RemoveDuplicatesFromSortedListII/RemoveDuplicatesFromSortedListII.h
 
