@@ -863,6 +863,45 @@ CMakeFiles/LeetCode.dir/LargestRectangleInHistogram/LargestRectangleInHistogram.
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/LargestRectangleInHistogram/LargestRectangleInHistogram.cpp.s"
 	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Volumes/ZWHD/github/LeetCode/LargestRectangleInHistogram/LargestRectangleInHistogram.cpp -o CMakeFiles/LeetCode.dir/LargestRectangleInHistogram/LargestRectangleInHistogram.cpp.s
 
+CMakeFiles/LeetCode.dir/MaximalRectangle/MaximalRectangle.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/MaximalRectangle/MaximalRectangle.cpp.o: ../MaximalRectangle/MaximalRectangle.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Volumes/ZWHD/github/LeetCode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_63) "Building CXX object CMakeFiles/LeetCode.dir/MaximalRectangle/MaximalRectangle.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/LeetCode.dir/MaximalRectangle/MaximalRectangle.cpp.o -c /Volumes/ZWHD/github/LeetCode/MaximalRectangle/MaximalRectangle.cpp
+
+CMakeFiles/LeetCode.dir/MaximalRectangle/MaximalRectangle.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/MaximalRectangle/MaximalRectangle.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Volumes/ZWHD/github/LeetCode/MaximalRectangle/MaximalRectangle.cpp > CMakeFiles/LeetCode.dir/MaximalRectangle/MaximalRectangle.cpp.i
+
+CMakeFiles/LeetCode.dir/MaximalRectangle/MaximalRectangle.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/MaximalRectangle/MaximalRectangle.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Volumes/ZWHD/github/LeetCode/MaximalRectangle/MaximalRectangle.cpp -o CMakeFiles/LeetCode.dir/MaximalRectangle/MaximalRectangle.cpp.s
+
+CMakeFiles/LeetCode.dir/PartitionList/PartitionList.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/PartitionList/PartitionList.cpp.o: ../PartitionList/PartitionList.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Volumes/ZWHD/github/LeetCode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_64) "Building CXX object CMakeFiles/LeetCode.dir/PartitionList/PartitionList.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/LeetCode.dir/PartitionList/PartitionList.cpp.o -c /Volumes/ZWHD/github/LeetCode/PartitionList/PartitionList.cpp
+
+CMakeFiles/LeetCode.dir/PartitionList/PartitionList.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/PartitionList/PartitionList.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Volumes/ZWHD/github/LeetCode/PartitionList/PartitionList.cpp > CMakeFiles/LeetCode.dir/PartitionList/PartitionList.cpp.i
+
+CMakeFiles/LeetCode.dir/PartitionList/PartitionList.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/PartitionList/PartitionList.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Volumes/ZWHD/github/LeetCode/PartitionList/PartitionList.cpp -o CMakeFiles/LeetCode.dir/PartitionList/PartitionList.cpp.s
+
+CMakeFiles/LeetCode.dir/ScrambleString/ScrambleString.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/ScrambleString/ScrambleString.cpp.o: ../ScrambleString/ScrambleString.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Volumes/ZWHD/github/LeetCode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_65) "Building CXX object CMakeFiles/LeetCode.dir/ScrambleString/ScrambleString.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/LeetCode.dir/ScrambleString/ScrambleString.cpp.o -c /Volumes/ZWHD/github/LeetCode/ScrambleString/ScrambleString.cpp
+
+CMakeFiles/LeetCode.dir/ScrambleString/ScrambleString.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/ScrambleString/ScrambleString.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Volumes/ZWHD/github/LeetCode/ScrambleString/ScrambleString.cpp > CMakeFiles/LeetCode.dir/ScrambleString/ScrambleString.cpp.i
+
+CMakeFiles/LeetCode.dir/ScrambleString/ScrambleString.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/ScrambleString/ScrambleString.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Volumes/ZWHD/github/LeetCode/ScrambleString/ScrambleString.cpp -o CMakeFiles/LeetCode.dir/ScrambleString/ScrambleString.cpp.s
+
 # Object files for target LeetCode
 LeetCode_OBJECTS = \
 "CMakeFiles/LeetCode.dir/AddTwoNumbers/AddTwoNumbers.cpp.o" \
@@ -926,7 +965,10 @@ LeetCode_OBJECTS = \
 "CMakeFiles/LeetCode.dir/SearchInRotatedSortedArrayII/SearchInRotatedSortedArrayII.cpp.o" \
 "CMakeFiles/LeetCode.dir/RemoveDuplicatesFromSortedListII/RemoveDuplicatesFromSortedListII.cpp.o" \
 "CMakeFiles/LeetCode.dir/RemoveDuplicatesFromSortedList/RemoveDuplicatesFromSortedList.cpp.o" \
-"CMakeFiles/LeetCode.dir/LargestRectangleInHistogram/LargestRectangleInHistogram.cpp.o"
+"CMakeFiles/LeetCode.dir/LargestRectangleInHistogram/LargestRectangleInHistogram.cpp.o" \
+"CMakeFiles/LeetCode.dir/MaximalRectangle/MaximalRectangle.cpp.o" \
+"CMakeFiles/LeetCode.dir/PartitionList/PartitionList.cpp.o" \
+"CMakeFiles/LeetCode.dir/ScrambleString/ScrambleString.cpp.o"
 
 # External object files for target LeetCode
 LeetCode_EXTERNAL_OBJECTS =
@@ -993,9 +1035,12 @@ LeetCode: CMakeFiles/LeetCode.dir/SearchInRotatedSortedArrayII/SearchInRotatedSo
 LeetCode: CMakeFiles/LeetCode.dir/RemoveDuplicatesFromSortedListII/RemoveDuplicatesFromSortedListII.cpp.o
 LeetCode: CMakeFiles/LeetCode.dir/RemoveDuplicatesFromSortedList/RemoveDuplicatesFromSortedList.cpp.o
 LeetCode: CMakeFiles/LeetCode.dir/LargestRectangleInHistogram/LargestRectangleInHistogram.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/MaximalRectangle/MaximalRectangle.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/PartitionList/PartitionList.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/ScrambleString/ScrambleString.cpp.o
 LeetCode: CMakeFiles/LeetCode.dir/build.make
 LeetCode: CMakeFiles/LeetCode.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Volumes/ZWHD/github/LeetCode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_63) "Linking CXX executable LeetCode"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Volumes/ZWHD/github/LeetCode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_66) "Linking CXX executable LeetCode"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/LeetCode.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

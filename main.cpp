@@ -3,32 +3,13 @@
 //#include "PalindromeNumber/PalindromeNumber.h"
 //#include "RegularExpressionMatching/RegularExpressionMatching.h"
 
-#include "RemoveDuplicatesFromSortedListII/RemoveDuplicatesFromSortedListII.h"
+#include "ScrambleString/ScrambleString.h"
 
 int main()
 {
-    ListNode l1(1);
-    ListNode l2(2);
-    ListNode l3(3);
-    ListNode l4(3);
-    ListNode l5(4);
-    ListNode l6(4);
-    ListNode l7(5);
-    l1.next = &l2;
-    l2.next = &l3;
-    l3.next = &l4;
-    l4.next = &l5;
-    l5.next = &l6;
-    l6.next = &l7;
-
-    RemoveDuplicatesFromSortedListII *r = new RemoveDuplicatesFromSortedListII();
-    ListNode* l8 = r->deleteDuplicates(&l1);
-
-    while (l8 != NULL) {
-        std::cout<<l8->val<<"->";
-        l8 = l8->next;
-    }
-    std::cout<<std::endl;
+    ScrambleString *sc = new ScrambleString();
+    std::cout<<sc->isScramble("great", "rgeat")<<std::endl;
+    std::cout<<sc->isScramble("abcde", "caebd")<<std::endl;
 }
 
 
