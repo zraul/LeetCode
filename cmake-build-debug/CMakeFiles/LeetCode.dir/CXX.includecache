@@ -6,11 +6,11 @@
 
 #IncludeRegexTransform: 
 
-/Volumes/ZWHD/github/LeetCode/ScrambleString/ScrambleString.cpp
-ScrambleString.h
-/Volumes/ZWHD/github/LeetCode/ScrambleString/ScrambleString.h
+/Volumes/ZWHD/github/LeetCode/SubsetsII/SubsetsII.cpp
+SubsetsII.h
+/Volumes/ZWHD/github/LeetCode/SubsetsII/SubsetsII.h
 
-/Volumes/ZWHD/github/LeetCode/ScrambleString/ScrambleString.h
+/Volumes/ZWHD/github/LeetCode/SubsetsII/SubsetsII.h
 iostream
 -
 vector

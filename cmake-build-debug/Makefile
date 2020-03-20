@@ -366,6 +366,33 @@ FirstMissingPositive/FirstMissingPositive.cpp.s:
 	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/FirstMissingPositive/FirstMissingPositive.cpp.s
 .PHONY : FirstMissingPositive/FirstMissingPositive.cpp.s
 
+GrayCode/GrayCode.o: GrayCode/GrayCode.cpp.o
+
+.PHONY : GrayCode/GrayCode.o
+
+# target to build an object file
+GrayCode/GrayCode.cpp.o:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/GrayCode/GrayCode.cpp.o
+.PHONY : GrayCode/GrayCode.cpp.o
+
+GrayCode/GrayCode.i: GrayCode/GrayCode.cpp.i
+
+.PHONY : GrayCode/GrayCode.i
+
+# target to preprocess a source file
+GrayCode/GrayCode.cpp.i:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/GrayCode/GrayCode.cpp.i
+.PHONY : GrayCode/GrayCode.cpp.i
+
+GrayCode/GrayCode.s: GrayCode/GrayCode.cpp.s
+
+.PHONY : GrayCode/GrayCode.s
+
+# target to generate assembly for a file
+GrayCode/GrayCode.cpp.s:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/GrayCode/GrayCode.cpp.s
+.PHONY : GrayCode/GrayCode.cpp.s
+
 GroupAnagrams/GroupAnagrams.o: GroupAnagrams/GroupAnagrams.cpp.o
 
 .PHONY : GroupAnagrams/GroupAnagrams.o
@@ -662,6 +689,33 @@ MergeIntervals/MergeIntervals.s: MergeIntervals/MergeIntervals.cpp.s
 MergeIntervals/MergeIntervals.cpp.s:
 	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/MergeIntervals/MergeIntervals.cpp.s
 .PHONY : MergeIntervals/MergeIntervals.cpp.s
+
+MergeSortedArray/MergeSortedArray.o: MergeSortedArray/MergeSortedArray.cpp.o
+
+.PHONY : MergeSortedArray/MergeSortedArray.o
+
+# target to build an object file
+MergeSortedArray/MergeSortedArray.cpp.o:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/MergeSortedArray/MergeSortedArray.cpp.o
+.PHONY : MergeSortedArray/MergeSortedArray.cpp.o
+
+MergeSortedArray/MergeSortedArray.i: MergeSortedArray/MergeSortedArray.cpp.i
+
+.PHONY : MergeSortedArray/MergeSortedArray.i
+
+# target to preprocess a source file
+MergeSortedArray/MergeSortedArray.cpp.i:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/MergeSortedArray/MergeSortedArray.cpp.i
+.PHONY : MergeSortedArray/MergeSortedArray.cpp.i
+
+MergeSortedArray/MergeSortedArray.s: MergeSortedArray/MergeSortedArray.cpp.s
+
+.PHONY : MergeSortedArray/MergeSortedArray.s
+
+# target to generate assembly for a file
+MergeSortedArray/MergeSortedArray.cpp.s:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/MergeSortedArray/MergeSortedArray.cpp.s
+.PHONY : MergeSortedArray/MergeSortedArray.cpp.s
 
 MergeSortedLists/MergeSortedLists.o: MergeSortedLists/MergeSortedLists.cpp.o
 
@@ -1554,6 +1608,33 @@ Subsets/Subsets.cpp.s:
 	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Subsets/Subsets.cpp.s
 .PHONY : Subsets/Subsets.cpp.s
 
+SubsetsII/SubsetsII.o: SubsetsII/SubsetsII.cpp.o
+
+.PHONY : SubsetsII/SubsetsII.o
+
+# target to build an object file
+SubsetsII/SubsetsII.cpp.o:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/SubsetsII/SubsetsII.cpp.o
+.PHONY : SubsetsII/SubsetsII.cpp.o
+
+SubsetsII/SubsetsII.i: SubsetsII/SubsetsII.cpp.i
+
+.PHONY : SubsetsII/SubsetsII.i
+
+# target to preprocess a source file
+SubsetsII/SubsetsII.cpp.i:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/SubsetsII/SubsetsII.cpp.i
+.PHONY : SubsetsII/SubsetsII.cpp.i
+
+SubsetsII/SubsetsII.s: SubsetsII/SubsetsII.cpp.s
+
+.PHONY : SubsetsII/SubsetsII.s
+
+# target to generate assembly for a file
+SubsetsII/SubsetsII.cpp.s:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/SubsetsII/SubsetsII.cpp.s
+.PHONY : SubsetsII/SubsetsII.cpp.s
+
 SudokuSolver/SudokuSolver.o: SudokuSolver/SudokuSolver.cpp.o
 
 .PHONY : SudokuSolver/SudokuSolver.o
@@ -1914,6 +1995,9 @@ help:
 	@echo "... FirstMissingPositive/FirstMissingPositive.o"
 	@echo "... FirstMissingPositive/FirstMissingPositive.i"
 	@echo "... FirstMissingPositive/FirstMissingPositive.s"
+	@echo "... GrayCode/GrayCode.o"
+	@echo "... GrayCode/GrayCode.i"
+	@echo "... GrayCode/GrayCode.s"
 	@echo "... GroupAnagrams/GroupAnagrams.o"
 	@echo "... GroupAnagrams/GroupAnagrams.i"
 	@echo "... GroupAnagrams/GroupAnagrams.s"
@@ -1947,6 +2031,9 @@ help:
 	@echo "... MergeIntervals/MergeIntervals.o"
 	@echo "... MergeIntervals/MergeIntervals.i"
 	@echo "... MergeIntervals/MergeIntervals.s"
+	@echo "... MergeSortedArray/MergeSortedArray.o"
+	@echo "... MergeSortedArray/MergeSortedArray.i"
+	@echo "... MergeSortedArray/MergeSortedArray.s"
 	@echo "... MergeSortedLists/MergeSortedLists.o"
 	@echo "... MergeSortedLists/MergeSortedLists.i"
 	@echo "... MergeSortedLists/MergeSortedLists.s"
@@ -2046,6 +2133,9 @@ help:
 	@echo "... Subsets/Subsets.o"
 	@echo "... Subsets/Subsets.i"
 	@echo "... Subsets/Subsets.s"
+	@echo "... SubsetsII/SubsetsII.o"
+	@echo "... SubsetsII/SubsetsII.i"
+	@echo "... SubsetsII/SubsetsII.s"
 	@echo "... SudokuSolver/SudokuSolver.o"
 	@echo "... SudokuSolver/SudokuSolver.i"
 	@echo "... SudokuSolver/SudokuSolver.s"

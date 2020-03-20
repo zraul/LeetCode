@@ -29,6 +29,9 @@ CMakeFiles/LeetCode.dir/EditDistance/EditDistance.cpp.o: ../EditDistance/EditDis
 CMakeFiles/LeetCode.dir/FirstMissingPositive/FirstMissingPositive.cpp.o: ../FirstMissingPositive/FirstMissingPositive.cpp
 CMakeFiles/LeetCode.dir/FirstMissingPositive/FirstMissingPositive.cpp.o: ../FirstMissingPositive/FirstMissingPositive.h
 
+CMakeFiles/LeetCode.dir/GrayCode/GrayCode.cpp.o: ../GrayCode/GrayCode.cpp
+CMakeFiles/LeetCode.dir/GrayCode/GrayCode.cpp.o: ../GrayCode/GrayCode.h
+
 CMakeFiles/LeetCode.dir/GroupAnagrams/GroupAnagrams.cpp.o: ../GroupAnagrams/GroupAnagrams.cpp
 CMakeFiles/LeetCode.dir/GroupAnagrams/GroupAnagrams.cpp.o: ../GroupAnagrams/GroupAnagrams.h
 
@@ -63,6 +66,9 @@ CMakeFiles/LeetCode.dir/MedianTwoSortedArrays/MedianTwoSortedArrays.cpp.o: ../co
 
 CMakeFiles/LeetCode.dir/MergeIntervals/MergeIntervals.cpp.o: ../MergeIntervals/MergeIntervals.cpp
 CMakeFiles/LeetCode.dir/MergeIntervals/MergeIntervals.cpp.o: ../MergeIntervals/MergeIntervals.h
+
+CMakeFiles/LeetCode.dir/MergeSortedArray/MergeSortedArray.cpp.o: ../MergeSortedArray/MergeSortedArray.cpp
+CMakeFiles/LeetCode.dir/MergeSortedArray/MergeSortedArray.cpp.o: ../MergeSortedArray/MergeSortedArray.h
 
 CMakeFiles/LeetCode.dir/MergeSortedLists/MergeSortedLists.cpp.o: ../MergeSortedLists/MergeSortedLists.cpp
 CMakeFiles/LeetCode.dir/MergeSortedLists/MergeSortedLists.cpp.o: ../MergeSortedLists/MergeSortedLists.h
@@ -169,6 +175,9 @@ CMakeFiles/LeetCode.dir/Sqrtx/Sqrtx.cpp.o: ../Sqrtx/Sqrtx.h
 CMakeFiles/LeetCode.dir/Subsets/Subsets.cpp.o: ../Subsets/Subsets.cpp
 CMakeFiles/LeetCode.dir/Subsets/Subsets.cpp.o: ../Subsets/Subsets.h
 
+CMakeFiles/LeetCode.dir/SubsetsII/SubsetsII.cpp.o: ../SubsetsII/SubsetsII.cpp
+CMakeFiles/LeetCode.dir/SubsetsII/SubsetsII.cpp.o: ../SubsetsII/SubsetsII.h
+
 CMakeFiles/LeetCode.dir/SudokuSolver/SudokuSolver.cpp.o: ../SudokuSolver/SudokuSolver.cpp
 CMakeFiles/LeetCode.dir/SudokuSolver/SudokuSolver.cpp.o: ../SudokuSolver/SudokuSolver.h
 
@@ -204,6 +213,6 @@ CMakeFiles/LeetCode.dir/ZigZag/ZigZag.cpp.o: ../ZigZag/ZigZag.cpp
 CMakeFiles/LeetCode.dir/ZigZag/ZigZag.cpp.o: ../ZigZag/ZigZag.h
 CMakeFiles/LeetCode.dir/ZigZag/ZigZag.cpp.o: ../common.h
 
-CMakeFiles/LeetCode.dir/main.cpp.o: ../ScrambleString/ScrambleString.h
+CMakeFiles/LeetCode.dir/main.cpp.o: ../SubsetsII/SubsetsII.h
 CMakeFiles/LeetCode.dir/main.cpp.o: ../main.cpp
 
