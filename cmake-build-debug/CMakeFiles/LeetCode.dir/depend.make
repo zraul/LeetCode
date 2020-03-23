@@ -20,6 +20,9 @@ CMakeFiles/LeetCode.dir/Combinations/Combinations.cpp.o: ../Combinations/Combina
 CMakeFiles/LeetCode.dir/CountAndSay/CountAndSay.cpp.o: ../CountAndSay/CountAndSay.cpp
 CMakeFiles/LeetCode.dir/CountAndSay/CountAndSay.cpp.o: ../CountAndSay/CountAndSay.h
 
+CMakeFiles/LeetCode.dir/DecodeWays/DecodeWays.cpp.o: ../DecodeWays/DecodeWays.cpp
+CMakeFiles/LeetCode.dir/DecodeWays/DecodeWays.cpp.o: ../DecodeWays/DecodeWays.h
+
 CMakeFiles/LeetCode.dir/DistributeCandiesToPeople/DistributeCandiesToPeople.cpp.o: ../DistributeCandiesToPeople/DistributeCandiesToPeople.cpp
 CMakeFiles/LeetCode.dir/DistributeCandiesToPeople/DistributeCandiesToPeople.cpp.o: ../DistributeCandiesToPeople/DistributeCandiesToPeople.h
 
@@ -132,9 +135,15 @@ CMakeFiles/LeetCode.dir/RemoveDuplicatesFromSortedListII/RemoveDuplicatesFromSor
 CMakeFiles/LeetCode.dir/RemoveDuplicatesII/RemoveDuplicatesII.cpp.o: ../RemoveDuplicatesII/RemoveDuplicatesII.cpp
 CMakeFiles/LeetCode.dir/RemoveDuplicatesII/RemoveDuplicatesII.cpp.o: ../RemoveDuplicatesII/RemoveDuplicatesII.h
 
+CMakeFiles/LeetCode.dir/RestoreIPAddresses/RestoreIPAddresses.cpp.o: ../RestoreIPAddresses/RestoreIPAddresses.cpp
+CMakeFiles/LeetCode.dir/RestoreIPAddresses/RestoreIPAddresses.cpp.o: ../RestoreIPAddresses/RestoreIPAddresses.h
+
 CMakeFiles/LeetCode.dir/ReverseInteger/ReverseInteger.cpp.o: ../ReverseInteger/ReverseInteger.cpp
 CMakeFiles/LeetCode.dir/ReverseInteger/ReverseInteger.cpp.o: ../ReverseInteger/ReverseInteger.h
 CMakeFiles/LeetCode.dir/ReverseInteger/ReverseInteger.cpp.o: ../common.h
+
+CMakeFiles/LeetCode.dir/ReverseLinkedListII/ReverseLinkedListII.cpp.o: ../ReverseLinkedListII/ReverseLinkedListII.cpp
+CMakeFiles/LeetCode.dir/ReverseLinkedListII/ReverseLinkedListII.cpp.o: ../ReverseLinkedListII/ReverseLinkedListII.h
 
 CMakeFiles/LeetCode.dir/RotateImage/RotateImage.cpp.o: ../RotateImage/RotateImage.cpp
 CMakeFiles/LeetCode.dir/RotateImage/RotateImage.cpp.o: ../RotateImage/RotateImage.h
@@ -213,6 +222,6 @@ CMakeFiles/LeetCode.dir/ZigZag/ZigZag.cpp.o: ../ZigZag/ZigZag.cpp
 CMakeFiles/LeetCode.dir/ZigZag/ZigZag.cpp.o: ../ZigZag/ZigZag.h
 CMakeFiles/LeetCode.dir/ZigZag/ZigZag.cpp.o: ../common.h
 
-CMakeFiles/LeetCode.dir/main.cpp.o: ../SubsetsII/SubsetsII.h
+CMakeFiles/LeetCode.dir/main.cpp.o: ../RestoreIPAddresses/RestoreIPAddresses.h
 CMakeFiles/LeetCode.dir/main.cpp.o: ../main.cpp
 

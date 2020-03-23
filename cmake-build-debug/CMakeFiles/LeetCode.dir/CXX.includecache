@@ -6,11 +6,11 @@
 
 #IncludeRegexTransform: 
 
-/Volumes/ZWHD/github/LeetCode/SubsetsII/SubsetsII.cpp
-SubsetsII.h
-/Volumes/ZWHD/github/LeetCode/SubsetsII/SubsetsII.h
+/Volumes/ZWHD/github/LeetCode/RestoreIPAddresses/RestoreIPAddresses.cpp
+RestoreIPAddresses.h
+/Volumes/ZWHD/github/LeetCode/RestoreIPAddresses/RestoreIPAddresses.h
 
-/Volumes/ZWHD/github/LeetCode/SubsetsII/SubsetsII.h
+/Volumes/ZWHD/github/LeetCode/RestoreIPAddresses/RestoreIPAddresses.h
 iostream
 -
 vector

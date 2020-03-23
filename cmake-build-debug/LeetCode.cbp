@@ -142,6 +142,12 @@
 		<Unit filename="/Volumes/ZWHD/github/LeetCode/CountAndSay/CountAndSay.h">
 			<Option target="LeetCode"/>
 		</Unit>
+		<Unit filename="/Volumes/ZWHD/github/LeetCode/DecodeWays/DecodeWays.cpp">
+			<Option target="LeetCode"/>
+		</Unit>
+		<Unit filename="/Volumes/ZWHD/github/LeetCode/DecodeWays/DecodeWays.h">
+			<Option target="LeetCode"/>
+		</Unit>
 		<Unit filename="/Volumes/ZWHD/github/LeetCode/DistributeCandiesToPeople/DistributeCandiesToPeople.cpp">
 			<Option target="LeetCode"/>
 		</Unit>
@@ -352,10 +358,22 @@
 		<Unit filename="/Volumes/ZWHD/github/LeetCode/RemoveDuplicatesII/RemoveDuplicatesII.h">
 			<Option target="LeetCode"/>
 		</Unit>
+		<Unit filename="/Volumes/ZWHD/github/LeetCode/RestoreIPAddresses/RestoreIPAddresses.cpp">
+			<Option target="LeetCode"/>
+		</Unit>
+		<Unit filename="/Volumes/ZWHD/github/LeetCode/RestoreIPAddresses/RestoreIPAddresses.h">
+			<Option target="LeetCode"/>
+		</Unit>
 		<Unit filename="/Volumes/ZWHD/github/LeetCode/ReverseInteger/ReverseInteger.cpp">
 			<Option target="LeetCode"/>
 		</Unit>
 		<Unit filename="/Volumes/ZWHD/github/LeetCode/ReverseInteger/ReverseInteger.h">
+			<Option target="LeetCode"/>
+		</Unit>
+		<Unit filename="/Volumes/ZWHD/github/LeetCode/ReverseLinkedListII/ReverseLinkedListII.cpp">
+			<Option target="LeetCode"/>
+		</Unit>
+		<Unit filename="/Volumes/ZWHD/github/LeetCode/ReverseLinkedListII/ReverseLinkedListII.h">
 			<Option target="LeetCode"/>
 		</Unit>
 		<Unit filename="/Volumes/ZWHD/github/LeetCode/RotateImage/RotateImage.cpp">

@@ -3,20 +3,14 @@
 //#include "PalindromeNumber/PalindromeNumber.h"
 //#include "RegularExpressionMatching/RegularExpressionMatching.h"
 
-#include "SubsetsII/SubsetsII.h"
+#include "RestoreIPAddresses/RestoreIPAddresses.h"
 
 int main()
 {
-  SubsetsII *s = new SubsetsII();
-  std::vector<int> nums = {1, 2, 2};
-
-  std::vector<std::vector<int>> sub = s->subsetsWithDup(nums);
-    for (int i = 0; i < sub.size(); ++i) {
-        for (int j = 0; j < sub[i].size(); ++j) {
-            std::cout<<sub[i][j]<<",";
-        }
-
-       std::cout<<std::endl;
+    RestoreIPAddresses* r = new RestoreIPAddresses();
+    std::vector<std::string> ip = r->restoreIpAddresses("25525511135");
+    for (int i = 0; i < ip.size(); ++i) {
+        std::cout<<ip[i]<<std::endl;
     }
 }
 

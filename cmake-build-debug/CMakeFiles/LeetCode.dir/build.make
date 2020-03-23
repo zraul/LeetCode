@@ -941,6 +941,45 @@ CMakeFiles/LeetCode.dir/SubsetsII/SubsetsII.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/SubsetsII/SubsetsII.cpp.s"
 	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Volumes/ZWHD/github/LeetCode/SubsetsII/SubsetsII.cpp -o CMakeFiles/LeetCode.dir/SubsetsII/SubsetsII.cpp.s
 
+CMakeFiles/LeetCode.dir/DecodeWays/DecodeWays.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/DecodeWays/DecodeWays.cpp.o: ../DecodeWays/DecodeWays.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Volumes/ZWHD/github/LeetCode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_69) "Building CXX object CMakeFiles/LeetCode.dir/DecodeWays/DecodeWays.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/LeetCode.dir/DecodeWays/DecodeWays.cpp.o -c /Volumes/ZWHD/github/LeetCode/DecodeWays/DecodeWays.cpp
+
+CMakeFiles/LeetCode.dir/DecodeWays/DecodeWays.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/DecodeWays/DecodeWays.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Volumes/ZWHD/github/LeetCode/DecodeWays/DecodeWays.cpp > CMakeFiles/LeetCode.dir/DecodeWays/DecodeWays.cpp.i
+
+CMakeFiles/LeetCode.dir/DecodeWays/DecodeWays.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/DecodeWays/DecodeWays.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Volumes/ZWHD/github/LeetCode/DecodeWays/DecodeWays.cpp -o CMakeFiles/LeetCode.dir/DecodeWays/DecodeWays.cpp.s
+
+CMakeFiles/LeetCode.dir/ReverseLinkedListII/ReverseLinkedListII.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/ReverseLinkedListII/ReverseLinkedListII.cpp.o: ../ReverseLinkedListII/ReverseLinkedListII.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Volumes/ZWHD/github/LeetCode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_70) "Building CXX object CMakeFiles/LeetCode.dir/ReverseLinkedListII/ReverseLinkedListII.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/LeetCode.dir/ReverseLinkedListII/ReverseLinkedListII.cpp.o -c /Volumes/ZWHD/github/LeetCode/ReverseLinkedListII/ReverseLinkedListII.cpp
+
+CMakeFiles/LeetCode.dir/ReverseLinkedListII/ReverseLinkedListII.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/ReverseLinkedListII/ReverseLinkedListII.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Volumes/ZWHD/github/LeetCode/ReverseLinkedListII/ReverseLinkedListII.cpp > CMakeFiles/LeetCode.dir/ReverseLinkedListII/ReverseLinkedListII.cpp.i
+
+CMakeFiles/LeetCode.dir/ReverseLinkedListII/ReverseLinkedListII.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/ReverseLinkedListII/ReverseLinkedListII.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Volumes/ZWHD/github/LeetCode/ReverseLinkedListII/ReverseLinkedListII.cpp -o CMakeFiles/LeetCode.dir/ReverseLinkedListII/ReverseLinkedListII.cpp.s
+
+CMakeFiles/LeetCode.dir/RestoreIPAddresses/RestoreIPAddresses.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/RestoreIPAddresses/RestoreIPAddresses.cpp.o: ../RestoreIPAddresses/RestoreIPAddresses.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Volumes/ZWHD/github/LeetCode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_71) "Building CXX object CMakeFiles/LeetCode.dir/RestoreIPAddresses/RestoreIPAddresses.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/LeetCode.dir/RestoreIPAddresses/RestoreIPAddresses.cpp.o -c /Volumes/ZWHD/github/LeetCode/RestoreIPAddresses/RestoreIPAddresses.cpp
+
+CMakeFiles/LeetCode.dir/RestoreIPAddresses/RestoreIPAddresses.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/RestoreIPAddresses/RestoreIPAddresses.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Volumes/ZWHD/github/LeetCode/RestoreIPAddresses/RestoreIPAddresses.cpp > CMakeFiles/LeetCode.dir/RestoreIPAddresses/RestoreIPAddresses.cpp.i
+
+CMakeFiles/LeetCode.dir/RestoreIPAddresses/RestoreIPAddresses.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/RestoreIPAddresses/RestoreIPAddresses.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Volumes/ZWHD/github/LeetCode/RestoreIPAddresses/RestoreIPAddresses.cpp -o CMakeFiles/LeetCode.dir/RestoreIPAddresses/RestoreIPAddresses.cpp.s
+
 # Object files for target LeetCode
 LeetCode_OBJECTS = \
 "CMakeFiles/LeetCode.dir/AddTwoNumbers/AddTwoNumbers.cpp.o" \
@@ -1010,7 +1049,10 @@ LeetCode_OBJECTS = \
 "CMakeFiles/LeetCode.dir/ScrambleString/ScrambleString.cpp.o" \
 "CMakeFiles/LeetCode.dir/MergeSortedArray/MergeSortedArray.cpp.o" \
 "CMakeFiles/LeetCode.dir/GrayCode/GrayCode.cpp.o" \
-"CMakeFiles/LeetCode.dir/SubsetsII/SubsetsII.cpp.o"
+"CMakeFiles/LeetCode.dir/SubsetsII/SubsetsII.cpp.o" \
+"CMakeFiles/LeetCode.dir/DecodeWays/DecodeWays.cpp.o" \
+"CMakeFiles/LeetCode.dir/ReverseLinkedListII/ReverseLinkedListII.cpp.o" \
+"CMakeFiles/LeetCode.dir/RestoreIPAddresses/RestoreIPAddresses.cpp.o"
 
 # External object files for target LeetCode
 LeetCode_EXTERNAL_OBJECTS =
@@ -1083,9 +1125,12 @@ LeetCode: CMakeFiles/LeetCode.dir/ScrambleString/ScrambleString.cpp.o
 LeetCode: CMakeFiles/LeetCode.dir/MergeSortedArray/MergeSortedArray.cpp.o
 LeetCode: CMakeFiles/LeetCode.dir/GrayCode/GrayCode.cpp.o
 LeetCode: CMakeFiles/LeetCode.dir/SubsetsII/SubsetsII.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/DecodeWays/DecodeWays.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/ReverseLinkedListII/ReverseLinkedListII.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/RestoreIPAddresses/RestoreIPAddresses.cpp.o
 LeetCode: CMakeFiles/LeetCode.dir/build.make
 LeetCode: CMakeFiles/LeetCode.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Volumes/ZWHD/github/LeetCode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_69) "Linking CXX executable LeetCode"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Volumes/ZWHD/github/LeetCode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_72) "Linking CXX executable LeetCode"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/LeetCode.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

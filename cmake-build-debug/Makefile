@@ -285,6 +285,33 @@ CountAndSay/CountAndSay.cpp.s:
 	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/CountAndSay/CountAndSay.cpp.s
 .PHONY : CountAndSay/CountAndSay.cpp.s
 
+DecodeWays/DecodeWays.o: DecodeWays/DecodeWays.cpp.o
+
+.PHONY : DecodeWays/DecodeWays.o
+
+# target to build an object file
+DecodeWays/DecodeWays.cpp.o:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/DecodeWays/DecodeWays.cpp.o
+.PHONY : DecodeWays/DecodeWays.cpp.o
+
+DecodeWays/DecodeWays.i: DecodeWays/DecodeWays.cpp.i
+
+.PHONY : DecodeWays/DecodeWays.i
+
+# target to preprocess a source file
+DecodeWays/DecodeWays.cpp.i:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/DecodeWays/DecodeWays.cpp.i
+.PHONY : DecodeWays/DecodeWays.cpp.i
+
+DecodeWays/DecodeWays.s: DecodeWays/DecodeWays.cpp.s
+
+.PHONY : DecodeWays/DecodeWays.s
+
+# target to generate assembly for a file
+DecodeWays/DecodeWays.cpp.s:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/DecodeWays/DecodeWays.cpp.s
+.PHONY : DecodeWays/DecodeWays.cpp.s
+
 DistributeCandiesToPeople/DistributeCandiesToPeople.o: DistributeCandiesToPeople/DistributeCandiesToPeople.cpp.o
 
 .PHONY : DistributeCandiesToPeople/DistributeCandiesToPeople.o
@@ -1230,6 +1257,33 @@ RemoveDuplicatesII/RemoveDuplicatesII.cpp.s:
 	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/RemoveDuplicatesII/RemoveDuplicatesII.cpp.s
 .PHONY : RemoveDuplicatesII/RemoveDuplicatesII.cpp.s
 
+RestoreIPAddresses/RestoreIPAddresses.o: RestoreIPAddresses/RestoreIPAddresses.cpp.o
+
+.PHONY : RestoreIPAddresses/RestoreIPAddresses.o
+
+# target to build an object file
+RestoreIPAddresses/RestoreIPAddresses.cpp.o:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/RestoreIPAddresses/RestoreIPAddresses.cpp.o
+.PHONY : RestoreIPAddresses/RestoreIPAddresses.cpp.o
+
+RestoreIPAddresses/RestoreIPAddresses.i: RestoreIPAddresses/RestoreIPAddresses.cpp.i
+
+.PHONY : RestoreIPAddresses/RestoreIPAddresses.i
+
+# target to preprocess a source file
+RestoreIPAddresses/RestoreIPAddresses.cpp.i:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/RestoreIPAddresses/RestoreIPAddresses.cpp.i
+.PHONY : RestoreIPAddresses/RestoreIPAddresses.cpp.i
+
+RestoreIPAddresses/RestoreIPAddresses.s: RestoreIPAddresses/RestoreIPAddresses.cpp.s
+
+.PHONY : RestoreIPAddresses/RestoreIPAddresses.s
+
+# target to generate assembly for a file
+RestoreIPAddresses/RestoreIPAddresses.cpp.s:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/RestoreIPAddresses/RestoreIPAddresses.cpp.s
+.PHONY : RestoreIPAddresses/RestoreIPAddresses.cpp.s
+
 ReverseInteger/ReverseInteger.o: ReverseInteger/ReverseInteger.cpp.o
 
 .PHONY : ReverseInteger/ReverseInteger.o
@@ -1256,6 +1310,33 @@ ReverseInteger/ReverseInteger.s: ReverseInteger/ReverseInteger.cpp.s
 ReverseInteger/ReverseInteger.cpp.s:
 	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/ReverseInteger/ReverseInteger.cpp.s
 .PHONY : ReverseInteger/ReverseInteger.cpp.s
+
+ReverseLinkedListII/ReverseLinkedListII.o: ReverseLinkedListII/ReverseLinkedListII.cpp.o
+
+.PHONY : ReverseLinkedListII/ReverseLinkedListII.o
+
+# target to build an object file
+ReverseLinkedListII/ReverseLinkedListII.cpp.o:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/ReverseLinkedListII/ReverseLinkedListII.cpp.o
+.PHONY : ReverseLinkedListII/ReverseLinkedListII.cpp.o
+
+ReverseLinkedListII/ReverseLinkedListII.i: ReverseLinkedListII/ReverseLinkedListII.cpp.i
+
+.PHONY : ReverseLinkedListII/ReverseLinkedListII.i
+
+# target to preprocess a source file
+ReverseLinkedListII/ReverseLinkedListII.cpp.i:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/ReverseLinkedListII/ReverseLinkedListII.cpp.i
+.PHONY : ReverseLinkedListII/ReverseLinkedListII.cpp.i
+
+ReverseLinkedListII/ReverseLinkedListII.s: ReverseLinkedListII/ReverseLinkedListII.cpp.s
+
+.PHONY : ReverseLinkedListII/ReverseLinkedListII.s
+
+# target to generate assembly for a file
+ReverseLinkedListII/ReverseLinkedListII.cpp.s:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/ReverseLinkedListII/ReverseLinkedListII.cpp.s
+.PHONY : ReverseLinkedListII/ReverseLinkedListII.cpp.s
 
 RotateImage/RotateImage.o: RotateImage/RotateImage.cpp.o
 
@@ -1986,6 +2067,9 @@ help:
 	@echo "... CountAndSay/CountAndSay.o"
 	@echo "... CountAndSay/CountAndSay.i"
 	@echo "... CountAndSay/CountAndSay.s"
+	@echo "... DecodeWays/DecodeWays.o"
+	@echo "... DecodeWays/DecodeWays.i"
+	@echo "... DecodeWays/DecodeWays.s"
 	@echo "... DistributeCandiesToPeople/DistributeCandiesToPeople.o"
 	@echo "... DistributeCandiesToPeople/DistributeCandiesToPeople.i"
 	@echo "... DistributeCandiesToPeople/DistributeCandiesToPeople.s"
@@ -2091,9 +2175,15 @@ help:
 	@echo "... RemoveDuplicatesII/RemoveDuplicatesII.o"
 	@echo "... RemoveDuplicatesII/RemoveDuplicatesII.i"
 	@echo "... RemoveDuplicatesII/RemoveDuplicatesII.s"
+	@echo "... RestoreIPAddresses/RestoreIPAddresses.o"
+	@echo "... RestoreIPAddresses/RestoreIPAddresses.i"
+	@echo "... RestoreIPAddresses/RestoreIPAddresses.s"
 	@echo "... ReverseInteger/ReverseInteger.o"
 	@echo "... ReverseInteger/ReverseInteger.i"
 	@echo "... ReverseInteger/ReverseInteger.s"
+	@echo "... ReverseLinkedListII/ReverseLinkedListII.o"
+	@echo "... ReverseLinkedListII/ReverseLinkedListII.i"
+	@echo "... ReverseLinkedListII/ReverseLinkedListII.s"
 	@echo "... RotateImage/RotateImage.o"
 	@echo "... RotateImage/RotateImage.i"
 	@echo "... RotateImage/RotateImage.s"
