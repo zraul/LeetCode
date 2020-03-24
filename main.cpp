@@ -3,15 +3,12 @@
 //#include "PalindromeNumber/PalindromeNumber.h"
 //#include "RegularExpressionMatching/RegularExpressionMatching.h"
 
-#include "RestoreIPAddresses/RestoreIPAddresses.h"
+#include "UniqueBinarySearchTrees/UniqueBinarySearchTrees.h"
 
 int main()
 {
-    RestoreIPAddresses* r = new RestoreIPAddresses();
-    std::vector<std::string> ip = r->restoreIpAddresses("25525511135");
-    for (int i = 0; i < ip.size(); ++i) {
-        std::cout<<ip[i]<<std::endl;
-    }
+    UniqueBinarySearchTrees *u = new UniqueBinarySearchTrees();
+    std::cout<<u->numTrees(3)<<std::endl;
 }
 
 
