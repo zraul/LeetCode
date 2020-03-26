@@ -124,6 +124,12 @@
 		<Unit filename="/Volumes/ZWHD/github/LeetCode/BinaryTreeInorderTraversal/BinaryTreeInorderTraversal.h">
 			<Option target="LeetCode"/>
 		</Unit>
+		<Unit filename="/Volumes/ZWHD/github/LeetCode/BinaryTreeLevelOrderTraversal/BinaryTreeLevelOrderTraversal.cpp">
+			<Option target="LeetCode"/>
+		</Unit>
+		<Unit filename="/Volumes/ZWHD/github/LeetCode/BinaryTreeLevelOrderTraversal/BinaryTreeLevelOrderTraversal.h">
+			<Option target="LeetCode"/>
+		</Unit>
 		<Unit filename="/Volumes/ZWHD/github/LeetCode/ClimbingStairs/ClimbingStairs.cpp">
 			<Option target="LeetCode"/>
 		</Unit>
@@ -188,6 +194,12 @@
 			<Option target="LeetCode"/>
 		</Unit>
 		<Unit filename="/Volumes/ZWHD/github/LeetCode/InsertInterval/InsertInterval.h">
+			<Option target="LeetCode"/>
+		</Unit>
+		<Unit filename="/Volumes/ZWHD/github/LeetCode/InterleavingString/InterleavingString.cpp">
+			<Option target="LeetCode"/>
+		</Unit>
+		<Unit filename="/Volumes/ZWHD/github/LeetCode/InterleavingString/InterleavingString.h">
 			<Option target="LeetCode"/>
 		</Unit>
 		<Unit filename="/Volumes/ZWHD/github/LeetCode/JumpGame/JumpGame.cpp">
@@ -334,6 +346,12 @@
 		<Unit filename="/Volumes/ZWHD/github/LeetCode/Powxn/Powxn.h">
 			<Option target="LeetCode"/>
 		</Unit>
+		<Unit filename="/Volumes/ZWHD/github/LeetCode/RecoverBinarySearchTree/RecoverBinarySearchTree.cpp">
+			<Option target="LeetCode"/>
+		</Unit>
+		<Unit filename="/Volumes/ZWHD/github/LeetCode/RecoverBinarySearchTree/RecoverBinarySearchTree.h">
+			<Option target="LeetCode"/>
+		</Unit>
 		<Unit filename="/Volumes/ZWHD/github/LeetCode/RegularExpressionMatching/RegularExpressionMatching.cpp">
 			<Option target="LeetCode"/>
 		</Unit>
@@ -398,6 +416,12 @@
 			<Option target="LeetCode"/>
 		</Unit>
 		<Unit filename="/Volumes/ZWHD/github/LeetCode/RottingOranges/RottingOranges.h">
+			<Option target="LeetCode"/>
+		</Unit>
+		<Unit filename="/Volumes/ZWHD/github/LeetCode/SameTree/SameTree.cpp">
+			<Option target="LeetCode"/>
+		</Unit>
+		<Unit filename="/Volumes/ZWHD/github/LeetCode/SameTree/SameTree.h">
 			<Option target="LeetCode"/>
 		</Unit>
 		<Unit filename="/Volumes/ZWHD/github/LeetCode/ScrambleString/ScrambleString.cpp">
@@ -472,6 +496,12 @@
 		<Unit filename="/Volumes/ZWHD/github/LeetCode/SudokuSolver/SudokuSolver.h">
 			<Option target="LeetCode"/>
 		</Unit>
+		<Unit filename="/Volumes/ZWHD/github/LeetCode/SymmetricTree/SymmetricTree.cpp">
+			<Option target="LeetCode"/>
+		</Unit>
+		<Unit filename="/Volumes/ZWHD/github/LeetCode/SymmetricTree/SymmetricTree.h">
+			<Option target="LeetCode"/>
+		</Unit>
 		<Unit filename="/Volumes/ZWHD/github/LeetCode/TextJustification/TextJustification.cpp">
 			<Option target="LeetCode"/>
 		</Unit>
@@ -524,6 +554,12 @@
 			<Option target="LeetCode"/>
 		</Unit>
 		<Unit filename="/Volumes/ZWHD/github/LeetCode/ValidSudoku/ValidSudoku.h">
+			<Option target="LeetCode"/>
+		</Unit>
+		<Unit filename="/Volumes/ZWHD/github/LeetCode/ValidateBinarySearchTree/ValidateBinarySearchTree.cpp">
+			<Option target="LeetCode"/>
+		</Unit>
+		<Unit filename="/Volumes/ZWHD/github/LeetCode/ValidateBinarySearchTree/ValidateBinarySearchTree.h">
 			<Option target="LeetCode"/>
 		</Unit>
 		<Unit filename="/Volumes/ZWHD/github/LeetCode/WildcardMatching/WildcardMatching.cpp">

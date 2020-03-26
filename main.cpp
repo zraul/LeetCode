@@ -3,12 +3,27 @@
 //#include "PalindromeNumber/PalindromeNumber.h"
 //#include "RegularExpressionMatching/RegularExpressionMatching.h"
 
-#include "UniqueBinarySearchTrees/UniqueBinarySearchTrees.h"
+#include "SymmetricTree/SymmetricTree.h"
 
 int main()
 {
-    UniqueBinarySearchTrees *u = new UniqueBinarySearchTrees();
-    std::cout<<u->numTrees(3)<<std::endl;
+    SymmetricTree *s = new SymmetricTree();
+    TreeNode l1(1);
+    TreeNode l2(2);
+    TreeNode l3(2);
+    TreeNode l4(3);
+    TreeNode l5(4);
+    TreeNode l6(4);
+    TreeNode l7(3);
+
+    l1.left = &l2;
+    l1.right = &l3;
+    l2.left = &l4;
+    l2.right = &l5;
+    l3.left = &l6;
+    l3.right = &l7;
+
+    std::cout<<s->isSymmetric(&l1)<<std::endl;
 }
 
 
