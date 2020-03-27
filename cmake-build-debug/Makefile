@@ -231,6 +231,33 @@ BinaryTreeLevelOrderTraversal/BinaryTreeLevelOrderTraversal.cpp.s:
 	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/BinaryTreeLevelOrderTraversal/BinaryTreeLevelOrderTraversal.cpp.s
 .PHONY : BinaryTreeLevelOrderTraversal/BinaryTreeLevelOrderTraversal.cpp.s
 
+BinaryTreeZigzagLevelOrderTraversal/BinaryTreeZigzagLevelOrderTraversal.o: BinaryTreeZigzagLevelOrderTraversal/BinaryTreeZigzagLevelOrderTraversal.cpp.o
+
+.PHONY : BinaryTreeZigzagLevelOrderTraversal/BinaryTreeZigzagLevelOrderTraversal.o
+
+# target to build an object file
+BinaryTreeZigzagLevelOrderTraversal/BinaryTreeZigzagLevelOrderTraversal.cpp.o:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/BinaryTreeZigzagLevelOrderTraversal/BinaryTreeZigzagLevelOrderTraversal.cpp.o
+.PHONY : BinaryTreeZigzagLevelOrderTraversal/BinaryTreeZigzagLevelOrderTraversal.cpp.o
+
+BinaryTreeZigzagLevelOrderTraversal/BinaryTreeZigzagLevelOrderTraversal.i: BinaryTreeZigzagLevelOrderTraversal/BinaryTreeZigzagLevelOrderTraversal.cpp.i
+
+.PHONY : BinaryTreeZigzagLevelOrderTraversal/BinaryTreeZigzagLevelOrderTraversal.i
+
+# target to preprocess a source file
+BinaryTreeZigzagLevelOrderTraversal/BinaryTreeZigzagLevelOrderTraversal.cpp.i:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/BinaryTreeZigzagLevelOrderTraversal/BinaryTreeZigzagLevelOrderTraversal.cpp.i
+.PHONY : BinaryTreeZigzagLevelOrderTraversal/BinaryTreeZigzagLevelOrderTraversal.cpp.i
+
+BinaryTreeZigzagLevelOrderTraversal/BinaryTreeZigzagLevelOrderTraversal.s: BinaryTreeZigzagLevelOrderTraversal/BinaryTreeZigzagLevelOrderTraversal.cpp.s
+
+.PHONY : BinaryTreeZigzagLevelOrderTraversal/BinaryTreeZigzagLevelOrderTraversal.s
+
+# target to generate assembly for a file
+BinaryTreeZigzagLevelOrderTraversal/BinaryTreeZigzagLevelOrderTraversal.cpp.s:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/BinaryTreeZigzagLevelOrderTraversal/BinaryTreeZigzagLevelOrderTraversal.cpp.s
+.PHONY : BinaryTreeZigzagLevelOrderTraversal/BinaryTreeZigzagLevelOrderTraversal.cpp.s
+
 ClimbingStairs/ClimbingStairs.o: ClimbingStairs/ClimbingStairs.cpp.o
 
 .PHONY : ClimbingStairs/ClimbingStairs.o
@@ -311,6 +338,33 @@ Combinations/Combinations.s: Combinations/Combinations.cpp.s
 Combinations/Combinations.cpp.s:
 	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Combinations/Combinations.cpp.s
 .PHONY : Combinations/Combinations.cpp.s
+
+ConstructBinaryTreeFromPreorderAndInorderTraversal/ConstructBinaryTreeFromPreorderAndInorderTraversal.o: ConstructBinaryTreeFromPreorderAndInorderTraversal/ConstructBinaryTreeFromPreorderAndInorderTraversal.cpp.o
+
+.PHONY : ConstructBinaryTreeFromPreorderAndInorderTraversal/ConstructBinaryTreeFromPreorderAndInorderTraversal.o
+
+# target to build an object file
+ConstructBinaryTreeFromPreorderAndInorderTraversal/ConstructBinaryTreeFromPreorderAndInorderTraversal.cpp.o:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/ConstructBinaryTreeFromPreorderAndInorderTraversal/ConstructBinaryTreeFromPreorderAndInorderTraversal.cpp.o
+.PHONY : ConstructBinaryTreeFromPreorderAndInorderTraversal/ConstructBinaryTreeFromPreorderAndInorderTraversal.cpp.o
+
+ConstructBinaryTreeFromPreorderAndInorderTraversal/ConstructBinaryTreeFromPreorderAndInorderTraversal.i: ConstructBinaryTreeFromPreorderAndInorderTraversal/ConstructBinaryTreeFromPreorderAndInorderTraversal.cpp.i
+
+.PHONY : ConstructBinaryTreeFromPreorderAndInorderTraversal/ConstructBinaryTreeFromPreorderAndInorderTraversal.i
+
+# target to preprocess a source file
+ConstructBinaryTreeFromPreorderAndInorderTraversal/ConstructBinaryTreeFromPreorderAndInorderTraversal.cpp.i:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/ConstructBinaryTreeFromPreorderAndInorderTraversal/ConstructBinaryTreeFromPreorderAndInorderTraversal.cpp.i
+.PHONY : ConstructBinaryTreeFromPreorderAndInorderTraversal/ConstructBinaryTreeFromPreorderAndInorderTraversal.cpp.i
+
+ConstructBinaryTreeFromPreorderAndInorderTraversal/ConstructBinaryTreeFromPreorderAndInorderTraversal.s: ConstructBinaryTreeFromPreorderAndInorderTraversal/ConstructBinaryTreeFromPreorderAndInorderTraversal.cpp.s
+
+.PHONY : ConstructBinaryTreeFromPreorderAndInorderTraversal/ConstructBinaryTreeFromPreorderAndInorderTraversal.s
+
+# target to generate assembly for a file
+ConstructBinaryTreeFromPreorderAndInorderTraversal/ConstructBinaryTreeFromPreorderAndInorderTraversal.cpp.s:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/ConstructBinaryTreeFromPreorderAndInorderTraversal/ConstructBinaryTreeFromPreorderAndInorderTraversal.cpp.s
+.PHONY : ConstructBinaryTreeFromPreorderAndInorderTraversal/ConstructBinaryTreeFromPreorderAndInorderTraversal.cpp.s
 
 CountAndSay/CountAndSay.o: CountAndSay/CountAndSay.cpp.o
 
@@ -716,6 +770,33 @@ MaximalRectangle/MaximalRectangle.s: MaximalRectangle/MaximalRectangle.cpp.s
 MaximalRectangle/MaximalRectangle.cpp.s:
 	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/MaximalRectangle/MaximalRectangle.cpp.s
 .PHONY : MaximalRectangle/MaximalRectangle.cpp.s
+
+MaximumDepthofBinaryTree/MaximumDepthofBinaryTree.o: MaximumDepthofBinaryTree/MaximumDepthofBinaryTree.cpp.o
+
+.PHONY : MaximumDepthofBinaryTree/MaximumDepthofBinaryTree.o
+
+# target to build an object file
+MaximumDepthofBinaryTree/MaximumDepthofBinaryTree.cpp.o:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/MaximumDepthofBinaryTree/MaximumDepthofBinaryTree.cpp.o
+.PHONY : MaximumDepthofBinaryTree/MaximumDepthofBinaryTree.cpp.o
+
+MaximumDepthofBinaryTree/MaximumDepthofBinaryTree.i: MaximumDepthofBinaryTree/MaximumDepthofBinaryTree.cpp.i
+
+.PHONY : MaximumDepthofBinaryTree/MaximumDepthofBinaryTree.i
+
+# target to preprocess a source file
+MaximumDepthofBinaryTree/MaximumDepthofBinaryTree.cpp.i:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/MaximumDepthofBinaryTree/MaximumDepthofBinaryTree.cpp.i
+.PHONY : MaximumDepthofBinaryTree/MaximumDepthofBinaryTree.cpp.i
+
+MaximumDepthofBinaryTree/MaximumDepthofBinaryTree.s: MaximumDepthofBinaryTree/MaximumDepthofBinaryTree.cpp.s
+
+.PHONY : MaximumDepthofBinaryTree/MaximumDepthofBinaryTree.s
+
+# target to generate assembly for a file
+MaximumDepthofBinaryTree/MaximumDepthofBinaryTree.cpp.s:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/MaximumDepthofBinaryTree/MaximumDepthofBinaryTree.cpp.s
+.PHONY : MaximumDepthofBinaryTree/MaximumDepthofBinaryTree.cpp.s
 
 MaximumSubarray/MaximumSubarray.o: MaximumSubarray/MaximumSubarray.cpp.o
 
@@ -2304,6 +2385,9 @@ help:
 	@echo "... BinaryTreeLevelOrderTraversal/BinaryTreeLevelOrderTraversal.o"
 	@echo "... BinaryTreeLevelOrderTraversal/BinaryTreeLevelOrderTraversal.i"
 	@echo "... BinaryTreeLevelOrderTraversal/BinaryTreeLevelOrderTraversal.s"
+	@echo "... BinaryTreeZigzagLevelOrderTraversal/BinaryTreeZigzagLevelOrderTraversal.o"
+	@echo "... BinaryTreeZigzagLevelOrderTraversal/BinaryTreeZigzagLevelOrderTraversal.i"
+	@echo "... BinaryTreeZigzagLevelOrderTraversal/BinaryTreeZigzagLevelOrderTraversal.s"
 	@echo "... ClimbingStairs/ClimbingStairs.o"
 	@echo "... ClimbingStairs/ClimbingStairs.i"
 	@echo "... ClimbingStairs/ClimbingStairs.s"
@@ -2313,6 +2397,9 @@ help:
 	@echo "... Combinations/Combinations.o"
 	@echo "... Combinations/Combinations.i"
 	@echo "... Combinations/Combinations.s"
+	@echo "... ConstructBinaryTreeFromPreorderAndInorderTraversal/ConstructBinaryTreeFromPreorderAndInorderTraversal.o"
+	@echo "... ConstructBinaryTreeFromPreorderAndInorderTraversal/ConstructBinaryTreeFromPreorderAndInorderTraversal.i"
+	@echo "... ConstructBinaryTreeFromPreorderAndInorderTraversal/ConstructBinaryTreeFromPreorderAndInorderTraversal.s"
 	@echo "... CountAndSay/CountAndSay.o"
 	@echo "... CountAndSay/CountAndSay.i"
 	@echo "... CountAndSay/CountAndSay.s"
@@ -2358,6 +2445,9 @@ help:
 	@echo "... MaximalRectangle/MaximalRectangle.o"
 	@echo "... MaximalRectangle/MaximalRectangle.i"
 	@echo "... MaximalRectangle/MaximalRectangle.s"
+	@echo "... MaximumDepthofBinaryTree/MaximumDepthofBinaryTree.o"
+	@echo "... MaximumDepthofBinaryTree/MaximumDepthofBinaryTree.i"
+	@echo "... MaximumDepthofBinaryTree/MaximumDepthofBinaryTree.s"
 	@echo "... MaximumSubarray/MaximumSubarray.o"
 	@echo "... MaximumSubarray/MaximumSubarray.i"
 	@echo "... MaximumSubarray/MaximumSubarray.s"

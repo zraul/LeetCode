@@ -3,27 +3,15 @@
 //#include "PalindromeNumber/PalindromeNumber.h"
 //#include "RegularExpressionMatching/RegularExpressionMatching.h"
 
-#include "SymmetricTree/SymmetricTree.h"
+#include "ConstructBinaryTreeFromPreorderAndInorderTraversal/ConstructBinaryTreeFromPreorderAndInorderTraversal.h"
 
 int main()
 {
-    SymmetricTree *s = new SymmetricTree();
-    TreeNode l1(1);
-    TreeNode l2(2);
-    TreeNode l3(2);
-    TreeNode l4(3);
-    TreeNode l5(4);
-    TreeNode l6(4);
-    TreeNode l7(3);
+    std::vector<int> pre = {3,9,20,15,7};
+    std::vector<int> in = {9,3,15,20,7};
 
-    l1.left = &l2;
-    l1.right = &l3;
-    l2.left = &l4;
-    l2.right = &l5;
-    l3.left = &l6;
-    l3.right = &l7;
-
-    std::cout<<s->isSymmetric(&l1)<<std::endl;
+    ConstructBinaryTreeFromPreorderAndInorderTraversal *c = new ConstructBinaryTreeFromPreorderAndInorderTraversal();
+    c->buildTree(pre, in);
 }
 
 
