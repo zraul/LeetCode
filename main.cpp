@@ -3,15 +3,31 @@
 //#include "PalindromeNumber/PalindromeNumber.h"
 //#include "RegularExpressionMatching/RegularExpressionMatching.h"
 
-#include "ConstructBinaryTreeFromPreorderAndInorderTraversal/ConstructBinaryTreeFromPreorderAndInorderTraversal.h"
+#include "BinaryTreeLevelOrderTraversalII/BinaryTreeLevelOrderTraversalII.h"
 
 int main()
 {
-    std::vector<int> pre = {3,9,20,15,7};
-    std::vector<int> in = {9,3,15,20,7};
+    TreeNode l1(3);
+    TreeNode l2(9);
+    TreeNode l3(20);
+    TreeNode l4(15);
+    TreeNode l5(7);
 
-    ConstructBinaryTreeFromPreorderAndInorderTraversal *c = new ConstructBinaryTreeFromPreorderAndInorderTraversal();
-    c->buildTree(pre, in);
+    l1.left = &l2;
+    l1.right = &l3;
+    l3.left = &l4;
+    l3.right = &l5;
+
+    BinaryTreeLevelOrderTraversalII *b = new BinaryTreeLevelOrderTraversalII();
+    std::vector<std::vector<int>> v = b->levelOrderBottom(&l1);
+
+    for (int i = 0; i < v.size(); ++i) {
+        for (int j = 0; j < v[i].size(); ++j) {
+            std::cout<<v[i][j]<<",";
+        }
+
+        std::cout<<std::endl;
+    }
 }
 
 
