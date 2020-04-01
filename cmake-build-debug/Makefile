@@ -177,6 +177,33 @@ AddTwoNumbers/AddTwoNumbers.cpp.s:
 	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/AddTwoNumbers/AddTwoNumbers.cpp.s
 .PHONY : AddTwoNumbers/AddTwoNumbers.cpp.s
 
+BalancedBinaryTree/BalancedBinaryTree.o: BalancedBinaryTree/BalancedBinaryTree.cpp.o
+
+.PHONY : BalancedBinaryTree/BalancedBinaryTree.o
+
+# target to build an object file
+BalancedBinaryTree/BalancedBinaryTree.cpp.o:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/BalancedBinaryTree/BalancedBinaryTree.cpp.o
+.PHONY : BalancedBinaryTree/BalancedBinaryTree.cpp.o
+
+BalancedBinaryTree/BalancedBinaryTree.i: BalancedBinaryTree/BalancedBinaryTree.cpp.i
+
+.PHONY : BalancedBinaryTree/BalancedBinaryTree.i
+
+# target to preprocess a source file
+BalancedBinaryTree/BalancedBinaryTree.cpp.i:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/BalancedBinaryTree/BalancedBinaryTree.cpp.i
+.PHONY : BalancedBinaryTree/BalancedBinaryTree.cpp.i
+
+BalancedBinaryTree/BalancedBinaryTree.s: BalancedBinaryTree/BalancedBinaryTree.cpp.s
+
+.PHONY : BalancedBinaryTree/BalancedBinaryTree.s
+
+# target to generate assembly for a file
+BalancedBinaryTree/BalancedBinaryTree.cpp.s:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/BalancedBinaryTree/BalancedBinaryTree.cpp.s
+.PHONY : BalancedBinaryTree/BalancedBinaryTree.cpp.s
+
 BinaryTreeInorderTraversal/BinaryTreeInorderTraversal.o: BinaryTreeInorderTraversal/BinaryTreeInorderTraversal.cpp.o
 
 .PHONY : BinaryTreeInorderTraversal/BinaryTreeInorderTraversal.o
@@ -447,6 +474,33 @@ ConvertSortedArrayToBinarySearchTree/ConvertSortedArrayToBinarySearchTree.cpp.s:
 	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/ConvertSortedArrayToBinarySearchTree/ConvertSortedArrayToBinarySearchTree.cpp.s
 .PHONY : ConvertSortedArrayToBinarySearchTree/ConvertSortedArrayToBinarySearchTree.cpp.s
 
+ConvertSortedListToBinarySearchTree/ConvertSortedListToBinarySearchTree.o: ConvertSortedListToBinarySearchTree/ConvertSortedListToBinarySearchTree.cpp.o
+
+.PHONY : ConvertSortedListToBinarySearchTree/ConvertSortedListToBinarySearchTree.o
+
+# target to build an object file
+ConvertSortedListToBinarySearchTree/ConvertSortedListToBinarySearchTree.cpp.o:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/ConvertSortedListToBinarySearchTree/ConvertSortedListToBinarySearchTree.cpp.o
+.PHONY : ConvertSortedListToBinarySearchTree/ConvertSortedListToBinarySearchTree.cpp.o
+
+ConvertSortedListToBinarySearchTree/ConvertSortedListToBinarySearchTree.i: ConvertSortedListToBinarySearchTree/ConvertSortedListToBinarySearchTree.cpp.i
+
+.PHONY : ConvertSortedListToBinarySearchTree/ConvertSortedListToBinarySearchTree.i
+
+# target to preprocess a source file
+ConvertSortedListToBinarySearchTree/ConvertSortedListToBinarySearchTree.cpp.i:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/ConvertSortedListToBinarySearchTree/ConvertSortedListToBinarySearchTree.cpp.i
+.PHONY : ConvertSortedListToBinarySearchTree/ConvertSortedListToBinarySearchTree.cpp.i
+
+ConvertSortedListToBinarySearchTree/ConvertSortedListToBinarySearchTree.s: ConvertSortedListToBinarySearchTree/ConvertSortedListToBinarySearchTree.cpp.s
+
+.PHONY : ConvertSortedListToBinarySearchTree/ConvertSortedListToBinarySearchTree.s
+
+# target to generate assembly for a file
+ConvertSortedListToBinarySearchTree/ConvertSortedListToBinarySearchTree.cpp.s:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/ConvertSortedListToBinarySearchTree/ConvertSortedListToBinarySearchTree.cpp.s
+.PHONY : ConvertSortedListToBinarySearchTree/ConvertSortedListToBinarySearchTree.cpp.s
+
 CountAndSay/CountAndSay.o: CountAndSay/CountAndSay.cpp.o
 
 .PHONY : CountAndSay/CountAndSay.o
@@ -581,6 +635,33 @@ FirstMissingPositive/FirstMissingPositive.s: FirstMissingPositive/FirstMissingPo
 FirstMissingPositive/FirstMissingPositive.cpp.s:
 	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/FirstMissingPositive/FirstMissingPositive.cpp.s
 .PHONY : FirstMissingPositive/FirstMissingPositive.cpp.s
+
+FlattenBinaryTreeToLinkedList/FlattenBinaryTreeToLinkedList.o: FlattenBinaryTreeToLinkedList/FlattenBinaryTreeToLinkedList.cpp.o
+
+.PHONY : FlattenBinaryTreeToLinkedList/FlattenBinaryTreeToLinkedList.o
+
+# target to build an object file
+FlattenBinaryTreeToLinkedList/FlattenBinaryTreeToLinkedList.cpp.o:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/FlattenBinaryTreeToLinkedList/FlattenBinaryTreeToLinkedList.cpp.o
+.PHONY : FlattenBinaryTreeToLinkedList/FlattenBinaryTreeToLinkedList.cpp.o
+
+FlattenBinaryTreeToLinkedList/FlattenBinaryTreeToLinkedList.i: FlattenBinaryTreeToLinkedList/FlattenBinaryTreeToLinkedList.cpp.i
+
+.PHONY : FlattenBinaryTreeToLinkedList/FlattenBinaryTreeToLinkedList.i
+
+# target to preprocess a source file
+FlattenBinaryTreeToLinkedList/FlattenBinaryTreeToLinkedList.cpp.i:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/FlattenBinaryTreeToLinkedList/FlattenBinaryTreeToLinkedList.cpp.i
+.PHONY : FlattenBinaryTreeToLinkedList/FlattenBinaryTreeToLinkedList.cpp.i
+
+FlattenBinaryTreeToLinkedList/FlattenBinaryTreeToLinkedList.s: FlattenBinaryTreeToLinkedList/FlattenBinaryTreeToLinkedList.cpp.s
+
+.PHONY : FlattenBinaryTreeToLinkedList/FlattenBinaryTreeToLinkedList.s
+
+# target to generate assembly for a file
+FlattenBinaryTreeToLinkedList/FlattenBinaryTreeToLinkedList.cpp.s:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/FlattenBinaryTreeToLinkedList/FlattenBinaryTreeToLinkedList.cpp.s
+.PHONY : FlattenBinaryTreeToLinkedList/FlattenBinaryTreeToLinkedList.cpp.s
 
 GrayCode/GrayCode.o: GrayCode/GrayCode.cpp.o
 
@@ -1014,6 +1095,33 @@ MergeSortedLists/MergeSortedLists.cpp.s:
 	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/MergeSortedLists/MergeSortedLists.cpp.s
 .PHONY : MergeSortedLists/MergeSortedLists.cpp.s
 
+MinimumDepthOfBinaryTree/MinimumDepthOfBinaryTree.o: MinimumDepthOfBinaryTree/MinimumDepthOfBinaryTree.cpp.o
+
+.PHONY : MinimumDepthOfBinaryTree/MinimumDepthOfBinaryTree.o
+
+# target to build an object file
+MinimumDepthOfBinaryTree/MinimumDepthOfBinaryTree.cpp.o:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/MinimumDepthOfBinaryTree/MinimumDepthOfBinaryTree.cpp.o
+.PHONY : MinimumDepthOfBinaryTree/MinimumDepthOfBinaryTree.cpp.o
+
+MinimumDepthOfBinaryTree/MinimumDepthOfBinaryTree.i: MinimumDepthOfBinaryTree/MinimumDepthOfBinaryTree.cpp.i
+
+.PHONY : MinimumDepthOfBinaryTree/MinimumDepthOfBinaryTree.i
+
+# target to preprocess a source file
+MinimumDepthOfBinaryTree/MinimumDepthOfBinaryTree.cpp.i:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/MinimumDepthOfBinaryTree/MinimumDepthOfBinaryTree.cpp.i
+.PHONY : MinimumDepthOfBinaryTree/MinimumDepthOfBinaryTree.cpp.i
+
+MinimumDepthOfBinaryTree/MinimumDepthOfBinaryTree.s: MinimumDepthOfBinaryTree/MinimumDepthOfBinaryTree.cpp.s
+
+.PHONY : MinimumDepthOfBinaryTree/MinimumDepthOfBinaryTree.s
+
+# target to generate assembly for a file
+MinimumDepthOfBinaryTree/MinimumDepthOfBinaryTree.cpp.s:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/MinimumDepthOfBinaryTree/MinimumDepthOfBinaryTree.cpp.s
+.PHONY : MinimumDepthOfBinaryTree/MinimumDepthOfBinaryTree.cpp.s
+
 MinimumPathSum/MinimumPathSum.o: MinimumPathSum/MinimumPathSum.cpp.o
 
 .PHONY : MinimumPathSum/MinimumPathSum.o
@@ -1229,6 +1337,60 @@ PartitionList/PartitionList.s: PartitionList/PartitionList.cpp.s
 PartitionList/PartitionList.cpp.s:
 	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/PartitionList/PartitionList.cpp.s
 .PHONY : PartitionList/PartitionList.cpp.s
+
+PathSum/PathSum.o: PathSum/PathSum.cpp.o
+
+.PHONY : PathSum/PathSum.o
+
+# target to build an object file
+PathSum/PathSum.cpp.o:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/PathSum/PathSum.cpp.o
+.PHONY : PathSum/PathSum.cpp.o
+
+PathSum/PathSum.i: PathSum/PathSum.cpp.i
+
+.PHONY : PathSum/PathSum.i
+
+# target to preprocess a source file
+PathSum/PathSum.cpp.i:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/PathSum/PathSum.cpp.i
+.PHONY : PathSum/PathSum.cpp.i
+
+PathSum/PathSum.s: PathSum/PathSum.cpp.s
+
+.PHONY : PathSum/PathSum.s
+
+# target to generate assembly for a file
+PathSum/PathSum.cpp.s:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/PathSum/PathSum.cpp.s
+.PHONY : PathSum/PathSum.cpp.s
+
+PathSumII/PathSumII.o: PathSumII/PathSumII.cpp.o
+
+.PHONY : PathSumII/PathSumII.o
+
+# target to build an object file
+PathSumII/PathSumII.cpp.o:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/PathSumII/PathSumII.cpp.o
+.PHONY : PathSumII/PathSumII.cpp.o
+
+PathSumII/PathSumII.i: PathSumII/PathSumII.cpp.i
+
+.PHONY : PathSumII/PathSumII.i
+
+# target to preprocess a source file
+PathSumII/PathSumII.cpp.i:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/PathSumII/PathSumII.cpp.i
+.PHONY : PathSumII/PathSumII.cpp.i
+
+PathSumII/PathSumII.s: PathSumII/PathSumII.cpp.s
+
+.PHONY : PathSumII/PathSumII.s
+
+# target to generate assembly for a file
+PathSumII/PathSumII.cpp.s:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/PathSumII/PathSumII.cpp.s
+.PHONY : PathSumII/PathSumII.cpp.s
 
 PermutationSequence/PermutationSequence.o: PermutationSequence/PermutationSequence.cpp.o
 
@@ -2460,6 +2622,9 @@ help:
 	@echo "... AddTwoNumbers/AddTwoNumbers.o"
 	@echo "... AddTwoNumbers/AddTwoNumbers.i"
 	@echo "... AddTwoNumbers/AddTwoNumbers.s"
+	@echo "... BalancedBinaryTree/BalancedBinaryTree.o"
+	@echo "... BalancedBinaryTree/BalancedBinaryTree.i"
+	@echo "... BalancedBinaryTree/BalancedBinaryTree.s"
 	@echo "... BinaryTreeInorderTraversal/BinaryTreeInorderTraversal.o"
 	@echo "... BinaryTreeInorderTraversal/BinaryTreeInorderTraversal.i"
 	@echo "... BinaryTreeInorderTraversal/BinaryTreeInorderTraversal.s"
@@ -2490,6 +2655,9 @@ help:
 	@echo "... ConvertSortedArrayToBinarySearchTree/ConvertSortedArrayToBinarySearchTree.o"
 	@echo "... ConvertSortedArrayToBinarySearchTree/ConvertSortedArrayToBinarySearchTree.i"
 	@echo "... ConvertSortedArrayToBinarySearchTree/ConvertSortedArrayToBinarySearchTree.s"
+	@echo "... ConvertSortedListToBinarySearchTree/ConvertSortedListToBinarySearchTree.o"
+	@echo "... ConvertSortedListToBinarySearchTree/ConvertSortedListToBinarySearchTree.i"
+	@echo "... ConvertSortedListToBinarySearchTree/ConvertSortedListToBinarySearchTree.s"
 	@echo "... CountAndSay/CountAndSay.o"
 	@echo "... CountAndSay/CountAndSay.i"
 	@echo "... CountAndSay/CountAndSay.s"
@@ -2505,6 +2673,9 @@ help:
 	@echo "... FirstMissingPositive/FirstMissingPositive.o"
 	@echo "... FirstMissingPositive/FirstMissingPositive.i"
 	@echo "... FirstMissingPositive/FirstMissingPositive.s"
+	@echo "... FlattenBinaryTreeToLinkedList/FlattenBinaryTreeToLinkedList.o"
+	@echo "... FlattenBinaryTreeToLinkedList/FlattenBinaryTreeToLinkedList.i"
+	@echo "... FlattenBinaryTreeToLinkedList/FlattenBinaryTreeToLinkedList.s"
 	@echo "... GrayCode/GrayCode.o"
 	@echo "... GrayCode/GrayCode.i"
 	@echo "... GrayCode/GrayCode.s"
@@ -2553,6 +2724,9 @@ help:
 	@echo "... MergeSortedLists/MergeSortedLists.o"
 	@echo "... MergeSortedLists/MergeSortedLists.i"
 	@echo "... MergeSortedLists/MergeSortedLists.s"
+	@echo "... MinimumDepthOfBinaryTree/MinimumDepthOfBinaryTree.o"
+	@echo "... MinimumDepthOfBinaryTree/MinimumDepthOfBinaryTree.i"
+	@echo "... MinimumDepthOfBinaryTree/MinimumDepthOfBinaryTree.s"
 	@echo "... MinimumPathSum/MinimumPathSum.o"
 	@echo "... MinimumPathSum/MinimumPathSum.i"
 	@echo "... MinimumPathSum/MinimumPathSum.s"
@@ -2577,6 +2751,12 @@ help:
 	@echo "... PartitionList/PartitionList.o"
 	@echo "... PartitionList/PartitionList.i"
 	@echo "... PartitionList/PartitionList.s"
+	@echo "... PathSum/PathSum.o"
+	@echo "... PathSum/PathSum.i"
+	@echo "... PathSum/PathSum.s"
+	@echo "... PathSumII/PathSumII.o"
+	@echo "... PathSumII/PathSumII.i"
+	@echo "... PathSumII/PathSumII.s"
 	@echo "... PermutationSequence/PermutationSequence.o"
 	@echo "... PermutationSequence/PermutationSequence.i"
 	@echo "... PermutationSequence/PermutationSequence.s"

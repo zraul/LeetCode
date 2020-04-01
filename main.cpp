@@ -3,31 +3,36 @@
 //#include "PalindromeNumber/PalindromeNumber.h"
 //#include "RegularExpressionMatching/RegularExpressionMatching.h"
 
-#include "BinaryTreeLevelOrderTraversalII/BinaryTreeLevelOrderTraversalII.h"
+#include "FlattenBinaryTreeToLinkedList/FlattenBinaryTreeToLinkedList.h"
 
 int main()
 {
-    TreeNode l1(3);
-    TreeNode l2(9);
-    TreeNode l3(20);
-    TreeNode l4(15);
-    TreeNode l5(7);
+//    TreeNode l1(3);
+//    TreeNode l2(9);
+//    TreeNode l3(20);
+//    TreeNode l4(15);
+//    TreeNode l5(7);
+//
+//    l1.left = &l2;
+//    l1.right = &l3;
+//    l3.left = &l4;
+//    l3.right = &l5;
+
+    TreeNode l1(1);
+    TreeNode l2(2);
+    TreeNode l3(5);
+    TreeNode l4(3);
+    TreeNode l5(4);
+    TreeNode l6(5);
 
     l1.left = &l2;
     l1.right = &l3;
-    l3.left = &l4;
-    l3.right = &l5;
+    l2.left = &l4;
+    l3.left = &l5;
+    l3.right = &l6;
 
-    BinaryTreeLevelOrderTraversalII *b = new BinaryTreeLevelOrderTraversalII();
-    std::vector<std::vector<int>> v = b->levelOrderBottom(&l1);
-
-    for (int i = 0; i < v.size(); ++i) {
-        for (int j = 0; j < v[i].size(); ++j) {
-            std::cout<<v[i][j]<<",";
-        }
-
-        std::cout<<std::endl;
-    }
+    FlattenBinaryTreeToLinkedList* p = new FlattenBinaryTreeToLinkedList();
+    p->flatten(&l1);
 }
 
 

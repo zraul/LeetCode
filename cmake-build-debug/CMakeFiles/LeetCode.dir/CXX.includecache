@@ -6,29 +6,17 @@
 
 #IncludeRegexTransform: 
 
-/Volumes/ZWHD/github/LeetCode/BinaryTreeLevelOrderTraversalII/BinaryTreeLevelOrderTraversalII.cpp
-BinaryTreeLevelOrderTraversalII.h
-/Volumes/ZWHD/github/LeetCode/BinaryTreeLevelOrderTraversalII/BinaryTreeLevelOrderTraversalII.h
+/Volumes/ZWHD/github/LeetCode/FlattenBinaryTreeToLinkedList/FlattenBinaryTreeToLinkedList.cpp
+FlattenBinaryTreeToLinkedList.h
+/Volumes/ZWHD/github/LeetCode/FlattenBinaryTreeToLinkedList/FlattenBinaryTreeToLinkedList.h
 
-/Volumes/ZWHD/github/LeetCode/BinaryTreeLevelOrderTraversalII/BinaryTreeLevelOrderTraversalII.h
-iostream
--
-vector
--
-queue
--
-
-/Volumes/ZWHD/github/LeetCode/ConstructBinaryTreeFromInorderAndPostorderTraversal/ConstructBinaryTreeFromInorderAndPostorderTraversal.cpp
-ConstructBinaryTreeFromInorderAndPostorderTraversal.h
-/Volumes/ZWHD/github/LeetCode/ConstructBinaryTreeFromInorderAndPostorderTraversal/ConstructBinaryTreeFromInorderAndPostorderTraversal.h
-
-/Volumes/ZWHD/github/LeetCode/ConstructBinaryTreeFromInorderAndPostorderTraversal/ConstructBinaryTreeFromInorderAndPostorderTraversal.h
+/Volumes/ZWHD/github/LeetCode/FlattenBinaryTreeToLinkedList/FlattenBinaryTreeToLinkedList.h
 iostream
 -
 vector
 -
 
 /Volumes/ZWHD/github/LeetCode/main.cpp
-BinaryTreeLevelOrderTraversalII/BinaryTreeLevelOrderTraversalII.h
-/Volumes/ZWHD/github/LeetCode/BinaryTreeLevelOrderTraversalII/BinaryTreeLevelOrderTraversalII.h
+FlattenBinaryTreeToLinkedList/FlattenBinaryTreeToLinkedList.h
+/Volumes/ZWHD/github/LeetCode/FlattenBinaryTreeToLinkedList/FlattenBinaryTreeToLinkedList.h
 

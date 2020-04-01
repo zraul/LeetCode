@@ -12,12 +12,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6572f727-0fe8-4c92-80bd-b9f70d0e5706" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/BinaryTreeLevelOrderTraversalII/BinaryTreeLevelOrderTraversalII.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BinaryTreeLevelOrderTraversalII/BinaryTreeLevelOrderTraversalII.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConstructBinaryTreeFromInorderAndPostorderTraversal/ConstructBinaryTreeFromInorderAndPostorderTraversal.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConstructBinaryTreeFromInorderAndPostorderTraversal/ConstructBinaryTreeFromInorderAndPostorderTraversal.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConvertSortedArrayToBinarySearchTree/ConvertSortedArrayToBinarySearchTree.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConvertSortedArrayToBinarySearchTree/ConvertSortedArrayToBinarySearchTree.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BalancedBinaryTree/BalancedBinaryTree.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BalancedBinaryTree/BalancedBinaryTree.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConvertSortedListToBinarySearchTree/ConvertSortedListToBinarySearchTree.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConvertSortedListToBinarySearchTree/ConvertSortedListToBinarySearchTree.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FlattenBinaryTreeToLinkedList/FlattenBinaryTreeToLinkedList.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FlattenBinaryTreeToLinkedList/FlattenBinaryTreeToLinkedList.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MinimumDepthOfBinaryTree/MinimumDepthOfBinaryTree.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MinimumDepthOfBinaryTree/MinimumDepthOfBinaryTree.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PathSum/PathSum.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PathSum/PathSum.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PathSumII/PathSumII.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PathSumII/PathSumII.h" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LeetCode.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LeetCode.dir/CXX.includecache" afterDir="false" />
@@ -269,7 +275,10 @@
       <workItem from="1585269673969" duration="358000" />
       <workItem from="1585270079522" duration="44000" />
       <workItem from="1585270131560" duration="9512000" />
-      <workItem from="1585530400596" duration="3515000" />
+      <workItem from="1585530400596" duration="3842000" />
+      <workItem from="1585641614049" duration="2540000" />
+      <workItem from="1585645230572" duration="2455000" />
+      <workItem from="1585705829779" duration="3880000" />
     </task>
     <servers />
   </component>
@@ -661,6 +670,21 @@
           <url>file://$PROJECT_DIR$/BinaryTreeLevelOrderTraversalII/BinaryTreeLevelOrderTraversalII.cpp</url>
           <line>7</line>
           <option name="timeStamp" value="91" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/BalancedBinaryTree/BalancedBinaryTree.cpp</url>
+          <line>11</line>
+          <option name="timeStamp" value="92" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/PathSumII/PathSumII.cpp</url>
+          <line>18</line>
+          <option name="timeStamp" value="93" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/FlattenBinaryTreeToLinkedList/FlattenBinaryTreeToLinkedList.cpp</url>
+          <line>7</line>
+          <option name="timeStamp" value="95" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

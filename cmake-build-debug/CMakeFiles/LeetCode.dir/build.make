@@ -1175,6 +1175,84 @@ CMakeFiles/LeetCode.dir/ConvertSortedArrayToBinarySearchTree/ConvertSortedArrayT
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/ConvertSortedArrayToBinarySearchTree/ConvertSortedArrayToBinarySearchTree.cpp.s"
 	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Volumes/ZWHD/github/LeetCode/ConvertSortedArrayToBinarySearchTree/ConvertSortedArrayToBinarySearchTree.cpp -o CMakeFiles/LeetCode.dir/ConvertSortedArrayToBinarySearchTree/ConvertSortedArrayToBinarySearchTree.cpp.s
 
+CMakeFiles/LeetCode.dir/ConvertSortedListToBinarySearchTree/ConvertSortedListToBinarySearchTree.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/ConvertSortedListToBinarySearchTree/ConvertSortedListToBinarySearchTree.cpp.o: ../ConvertSortedListToBinarySearchTree/ConvertSortedListToBinarySearchTree.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Volumes/ZWHD/github/LeetCode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_87) "Building CXX object CMakeFiles/LeetCode.dir/ConvertSortedListToBinarySearchTree/ConvertSortedListToBinarySearchTree.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/LeetCode.dir/ConvertSortedListToBinarySearchTree/ConvertSortedListToBinarySearchTree.cpp.o -c /Volumes/ZWHD/github/LeetCode/ConvertSortedListToBinarySearchTree/ConvertSortedListToBinarySearchTree.cpp
+
+CMakeFiles/LeetCode.dir/ConvertSortedListToBinarySearchTree/ConvertSortedListToBinarySearchTree.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/ConvertSortedListToBinarySearchTree/ConvertSortedListToBinarySearchTree.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Volumes/ZWHD/github/LeetCode/ConvertSortedListToBinarySearchTree/ConvertSortedListToBinarySearchTree.cpp > CMakeFiles/LeetCode.dir/ConvertSortedListToBinarySearchTree/ConvertSortedListToBinarySearchTree.cpp.i
+
+CMakeFiles/LeetCode.dir/ConvertSortedListToBinarySearchTree/ConvertSortedListToBinarySearchTree.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/ConvertSortedListToBinarySearchTree/ConvertSortedListToBinarySearchTree.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Volumes/ZWHD/github/LeetCode/ConvertSortedListToBinarySearchTree/ConvertSortedListToBinarySearchTree.cpp -o CMakeFiles/LeetCode.dir/ConvertSortedListToBinarySearchTree/ConvertSortedListToBinarySearchTree.cpp.s
+
+CMakeFiles/LeetCode.dir/BalancedBinaryTree/BalancedBinaryTree.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/BalancedBinaryTree/BalancedBinaryTree.cpp.o: ../BalancedBinaryTree/BalancedBinaryTree.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Volumes/ZWHD/github/LeetCode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_88) "Building CXX object CMakeFiles/LeetCode.dir/BalancedBinaryTree/BalancedBinaryTree.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/LeetCode.dir/BalancedBinaryTree/BalancedBinaryTree.cpp.o -c /Volumes/ZWHD/github/LeetCode/BalancedBinaryTree/BalancedBinaryTree.cpp
+
+CMakeFiles/LeetCode.dir/BalancedBinaryTree/BalancedBinaryTree.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/BalancedBinaryTree/BalancedBinaryTree.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Volumes/ZWHD/github/LeetCode/BalancedBinaryTree/BalancedBinaryTree.cpp > CMakeFiles/LeetCode.dir/BalancedBinaryTree/BalancedBinaryTree.cpp.i
+
+CMakeFiles/LeetCode.dir/BalancedBinaryTree/BalancedBinaryTree.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/BalancedBinaryTree/BalancedBinaryTree.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Volumes/ZWHD/github/LeetCode/BalancedBinaryTree/BalancedBinaryTree.cpp -o CMakeFiles/LeetCode.dir/BalancedBinaryTree/BalancedBinaryTree.cpp.s
+
+CMakeFiles/LeetCode.dir/MinimumDepthOfBinaryTree/MinimumDepthOfBinaryTree.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/MinimumDepthOfBinaryTree/MinimumDepthOfBinaryTree.cpp.o: ../MinimumDepthOfBinaryTree/MinimumDepthOfBinaryTree.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Volumes/ZWHD/github/LeetCode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_89) "Building CXX object CMakeFiles/LeetCode.dir/MinimumDepthOfBinaryTree/MinimumDepthOfBinaryTree.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/LeetCode.dir/MinimumDepthOfBinaryTree/MinimumDepthOfBinaryTree.cpp.o -c /Volumes/ZWHD/github/LeetCode/MinimumDepthOfBinaryTree/MinimumDepthOfBinaryTree.cpp
+
+CMakeFiles/LeetCode.dir/MinimumDepthOfBinaryTree/MinimumDepthOfBinaryTree.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/MinimumDepthOfBinaryTree/MinimumDepthOfBinaryTree.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Volumes/ZWHD/github/LeetCode/MinimumDepthOfBinaryTree/MinimumDepthOfBinaryTree.cpp > CMakeFiles/LeetCode.dir/MinimumDepthOfBinaryTree/MinimumDepthOfBinaryTree.cpp.i
+
+CMakeFiles/LeetCode.dir/MinimumDepthOfBinaryTree/MinimumDepthOfBinaryTree.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/MinimumDepthOfBinaryTree/MinimumDepthOfBinaryTree.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Volumes/ZWHD/github/LeetCode/MinimumDepthOfBinaryTree/MinimumDepthOfBinaryTree.cpp -o CMakeFiles/LeetCode.dir/MinimumDepthOfBinaryTree/MinimumDepthOfBinaryTree.cpp.s
+
+CMakeFiles/LeetCode.dir/PathSum/PathSum.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/PathSum/PathSum.cpp.o: ../PathSum/PathSum.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Volumes/ZWHD/github/LeetCode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_90) "Building CXX object CMakeFiles/LeetCode.dir/PathSum/PathSum.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/LeetCode.dir/PathSum/PathSum.cpp.o -c /Volumes/ZWHD/github/LeetCode/PathSum/PathSum.cpp
+
+CMakeFiles/LeetCode.dir/PathSum/PathSum.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/PathSum/PathSum.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Volumes/ZWHD/github/LeetCode/PathSum/PathSum.cpp > CMakeFiles/LeetCode.dir/PathSum/PathSum.cpp.i
+
+CMakeFiles/LeetCode.dir/PathSum/PathSum.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/PathSum/PathSum.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Volumes/ZWHD/github/LeetCode/PathSum/PathSum.cpp -o CMakeFiles/LeetCode.dir/PathSum/PathSum.cpp.s
+
+CMakeFiles/LeetCode.dir/PathSumII/PathSumII.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/PathSumII/PathSumII.cpp.o: ../PathSumII/PathSumII.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Volumes/ZWHD/github/LeetCode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_91) "Building CXX object CMakeFiles/LeetCode.dir/PathSumII/PathSumII.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/LeetCode.dir/PathSumII/PathSumII.cpp.o -c /Volumes/ZWHD/github/LeetCode/PathSumII/PathSumII.cpp
+
+CMakeFiles/LeetCode.dir/PathSumII/PathSumII.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/PathSumII/PathSumII.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Volumes/ZWHD/github/LeetCode/PathSumII/PathSumII.cpp > CMakeFiles/LeetCode.dir/PathSumII/PathSumII.cpp.i
+
+CMakeFiles/LeetCode.dir/PathSumII/PathSumII.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/PathSumII/PathSumII.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Volumes/ZWHD/github/LeetCode/PathSumII/PathSumII.cpp -o CMakeFiles/LeetCode.dir/PathSumII/PathSumII.cpp.s
+
+CMakeFiles/LeetCode.dir/FlattenBinaryTreeToLinkedList/FlattenBinaryTreeToLinkedList.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/FlattenBinaryTreeToLinkedList/FlattenBinaryTreeToLinkedList.cpp.o: ../FlattenBinaryTreeToLinkedList/FlattenBinaryTreeToLinkedList.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Volumes/ZWHD/github/LeetCode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_92) "Building CXX object CMakeFiles/LeetCode.dir/FlattenBinaryTreeToLinkedList/FlattenBinaryTreeToLinkedList.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/LeetCode.dir/FlattenBinaryTreeToLinkedList/FlattenBinaryTreeToLinkedList.cpp.o -c /Volumes/ZWHD/github/LeetCode/FlattenBinaryTreeToLinkedList/FlattenBinaryTreeToLinkedList.cpp
+
+CMakeFiles/LeetCode.dir/FlattenBinaryTreeToLinkedList/FlattenBinaryTreeToLinkedList.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/FlattenBinaryTreeToLinkedList/FlattenBinaryTreeToLinkedList.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Volumes/ZWHD/github/LeetCode/FlattenBinaryTreeToLinkedList/FlattenBinaryTreeToLinkedList.cpp > CMakeFiles/LeetCode.dir/FlattenBinaryTreeToLinkedList/FlattenBinaryTreeToLinkedList.cpp.i
+
+CMakeFiles/LeetCode.dir/FlattenBinaryTreeToLinkedList/FlattenBinaryTreeToLinkedList.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/FlattenBinaryTreeToLinkedList/FlattenBinaryTreeToLinkedList.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Volumes/ZWHD/github/LeetCode/FlattenBinaryTreeToLinkedList/FlattenBinaryTreeToLinkedList.cpp -o CMakeFiles/LeetCode.dir/FlattenBinaryTreeToLinkedList/FlattenBinaryTreeToLinkedList.cpp.s
+
 # Object files for target LeetCode
 LeetCode_OBJECTS = \
 "CMakeFiles/LeetCode.dir/AddTwoNumbers/AddTwoNumbers.cpp.o" \
@@ -1262,7 +1340,13 @@ LeetCode_OBJECTS = \
 "CMakeFiles/LeetCode.dir/ConstructBinaryTreeFromPreorderAndInorderTraversal/ConstructBinaryTreeFromPreorderAndInorderTraversal.cpp.o" \
 "CMakeFiles/LeetCode.dir/ConstructBinaryTreeFromInorderAndPostorderTraversal/ConstructBinaryTreeFromInorderAndPostorderTraversal.cpp.o" \
 "CMakeFiles/LeetCode.dir/BinaryTreeLevelOrderTraversalII/BinaryTreeLevelOrderTraversalII.cpp.o" \
-"CMakeFiles/LeetCode.dir/ConvertSortedArrayToBinarySearchTree/ConvertSortedArrayToBinarySearchTree.cpp.o"
+"CMakeFiles/LeetCode.dir/ConvertSortedArrayToBinarySearchTree/ConvertSortedArrayToBinarySearchTree.cpp.o" \
+"CMakeFiles/LeetCode.dir/ConvertSortedListToBinarySearchTree/ConvertSortedListToBinarySearchTree.cpp.o" \
+"CMakeFiles/LeetCode.dir/BalancedBinaryTree/BalancedBinaryTree.cpp.o" \
+"CMakeFiles/LeetCode.dir/MinimumDepthOfBinaryTree/MinimumDepthOfBinaryTree.cpp.o" \
+"CMakeFiles/LeetCode.dir/PathSum/PathSum.cpp.o" \
+"CMakeFiles/LeetCode.dir/PathSumII/PathSumII.cpp.o" \
+"CMakeFiles/LeetCode.dir/FlattenBinaryTreeToLinkedList/FlattenBinaryTreeToLinkedList.cpp.o"
 
 # External object files for target LeetCode
 LeetCode_EXTERNAL_OBJECTS =
@@ -1353,9 +1437,15 @@ LeetCode: CMakeFiles/LeetCode.dir/ConstructBinaryTreeFromPreorderAndInorderTrave
 LeetCode: CMakeFiles/LeetCode.dir/ConstructBinaryTreeFromInorderAndPostorderTraversal/ConstructBinaryTreeFromInorderAndPostorderTraversal.cpp.o
 LeetCode: CMakeFiles/LeetCode.dir/BinaryTreeLevelOrderTraversalII/BinaryTreeLevelOrderTraversalII.cpp.o
 LeetCode: CMakeFiles/LeetCode.dir/ConvertSortedArrayToBinarySearchTree/ConvertSortedArrayToBinarySearchTree.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/ConvertSortedListToBinarySearchTree/ConvertSortedListToBinarySearchTree.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/BalancedBinaryTree/BalancedBinaryTree.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/MinimumDepthOfBinaryTree/MinimumDepthOfBinaryTree.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/PathSum/PathSum.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/PathSumII/PathSumII.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/FlattenBinaryTreeToLinkedList/FlattenBinaryTreeToLinkedList.cpp.o
 LeetCode: CMakeFiles/LeetCode.dir/build.make
 LeetCode: CMakeFiles/LeetCode.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Volumes/ZWHD/github/LeetCode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_87) "Linking CXX executable LeetCode"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Volumes/ZWHD/github/LeetCode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_93) "Linking CXX executable LeetCode"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/LeetCode.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
