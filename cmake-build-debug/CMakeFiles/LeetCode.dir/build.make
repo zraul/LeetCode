@@ -1253,6 +1253,45 @@ CMakeFiles/LeetCode.dir/FlattenBinaryTreeToLinkedList/FlattenBinaryTreeToLinkedL
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/FlattenBinaryTreeToLinkedList/FlattenBinaryTreeToLinkedList.cpp.s"
 	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Volumes/ZWHD/github/LeetCode/FlattenBinaryTreeToLinkedList/FlattenBinaryTreeToLinkedList.cpp -o CMakeFiles/LeetCode.dir/FlattenBinaryTreeToLinkedList/FlattenBinaryTreeToLinkedList.cpp.s
 
+CMakeFiles/LeetCode.dir/DistinctSubsequences/DistinctSubsequences.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/DistinctSubsequences/DistinctSubsequences.cpp.o: ../DistinctSubsequences/DistinctSubsequences.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Volumes/ZWHD/github/LeetCode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_93) "Building CXX object CMakeFiles/LeetCode.dir/DistinctSubsequences/DistinctSubsequences.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/LeetCode.dir/DistinctSubsequences/DistinctSubsequences.cpp.o -c /Volumes/ZWHD/github/LeetCode/DistinctSubsequences/DistinctSubsequences.cpp
+
+CMakeFiles/LeetCode.dir/DistinctSubsequences/DistinctSubsequences.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/DistinctSubsequences/DistinctSubsequences.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Volumes/ZWHD/github/LeetCode/DistinctSubsequences/DistinctSubsequences.cpp > CMakeFiles/LeetCode.dir/DistinctSubsequences/DistinctSubsequences.cpp.i
+
+CMakeFiles/LeetCode.dir/DistinctSubsequences/DistinctSubsequences.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/DistinctSubsequences/DistinctSubsequences.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Volumes/ZWHD/github/LeetCode/DistinctSubsequences/DistinctSubsequences.cpp -o CMakeFiles/LeetCode.dir/DistinctSubsequences/DistinctSubsequences.cpp.s
+
+CMakeFiles/LeetCode.dir/PopulatingNextRightPointersInEachNode/PopulatingNextRightPointersInEachNode.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/PopulatingNextRightPointersInEachNode/PopulatingNextRightPointersInEachNode.cpp.o: ../PopulatingNextRightPointersInEachNode/PopulatingNextRightPointersInEachNode.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Volumes/ZWHD/github/LeetCode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_94) "Building CXX object CMakeFiles/LeetCode.dir/PopulatingNextRightPointersInEachNode/PopulatingNextRightPointersInEachNode.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/LeetCode.dir/PopulatingNextRightPointersInEachNode/PopulatingNextRightPointersInEachNode.cpp.o -c /Volumes/ZWHD/github/LeetCode/PopulatingNextRightPointersInEachNode/PopulatingNextRightPointersInEachNode.cpp
+
+CMakeFiles/LeetCode.dir/PopulatingNextRightPointersInEachNode/PopulatingNextRightPointersInEachNode.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/PopulatingNextRightPointersInEachNode/PopulatingNextRightPointersInEachNode.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Volumes/ZWHD/github/LeetCode/PopulatingNextRightPointersInEachNode/PopulatingNextRightPointersInEachNode.cpp > CMakeFiles/LeetCode.dir/PopulatingNextRightPointersInEachNode/PopulatingNextRightPointersInEachNode.cpp.i
+
+CMakeFiles/LeetCode.dir/PopulatingNextRightPointersInEachNode/PopulatingNextRightPointersInEachNode.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/PopulatingNextRightPointersInEachNode/PopulatingNextRightPointersInEachNode.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Volumes/ZWHD/github/LeetCode/PopulatingNextRightPointersInEachNode/PopulatingNextRightPointersInEachNode.cpp -o CMakeFiles/LeetCode.dir/PopulatingNextRightPointersInEachNode/PopulatingNextRightPointersInEachNode.cpp.s
+
+CMakeFiles/LeetCode.dir/PopulatingNextRightPointersInEachNodeII/PopulatingNextRightPointersInEachNodeII.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/PopulatingNextRightPointersInEachNodeII/PopulatingNextRightPointersInEachNodeII.cpp.o: ../PopulatingNextRightPointersInEachNodeII/PopulatingNextRightPointersInEachNodeII.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Volumes/ZWHD/github/LeetCode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_95) "Building CXX object CMakeFiles/LeetCode.dir/PopulatingNextRightPointersInEachNodeII/PopulatingNextRightPointersInEachNodeII.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/LeetCode.dir/PopulatingNextRightPointersInEachNodeII/PopulatingNextRightPointersInEachNodeII.cpp.o -c /Volumes/ZWHD/github/LeetCode/PopulatingNextRightPointersInEachNodeII/PopulatingNextRightPointersInEachNodeII.cpp
+
+CMakeFiles/LeetCode.dir/PopulatingNextRightPointersInEachNodeII/PopulatingNextRightPointersInEachNodeII.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/PopulatingNextRightPointersInEachNodeII/PopulatingNextRightPointersInEachNodeII.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Volumes/ZWHD/github/LeetCode/PopulatingNextRightPointersInEachNodeII/PopulatingNextRightPointersInEachNodeII.cpp > CMakeFiles/LeetCode.dir/PopulatingNextRightPointersInEachNodeII/PopulatingNextRightPointersInEachNodeII.cpp.i
+
+CMakeFiles/LeetCode.dir/PopulatingNextRightPointersInEachNodeII/PopulatingNextRightPointersInEachNodeII.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/PopulatingNextRightPointersInEachNodeII/PopulatingNextRightPointersInEachNodeII.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Volumes/ZWHD/github/LeetCode/PopulatingNextRightPointersInEachNodeII/PopulatingNextRightPointersInEachNodeII.cpp -o CMakeFiles/LeetCode.dir/PopulatingNextRightPointersInEachNodeII/PopulatingNextRightPointersInEachNodeII.cpp.s
+
 # Object files for target LeetCode
 LeetCode_OBJECTS = \
 "CMakeFiles/LeetCode.dir/AddTwoNumbers/AddTwoNumbers.cpp.o" \
@@ -1346,7 +1385,10 @@ LeetCode_OBJECTS = \
 "CMakeFiles/LeetCode.dir/MinimumDepthOfBinaryTree/MinimumDepthOfBinaryTree.cpp.o" \
 "CMakeFiles/LeetCode.dir/PathSum/PathSum.cpp.o" \
 "CMakeFiles/LeetCode.dir/PathSumII/PathSumII.cpp.o" \
-"CMakeFiles/LeetCode.dir/FlattenBinaryTreeToLinkedList/FlattenBinaryTreeToLinkedList.cpp.o"
+"CMakeFiles/LeetCode.dir/FlattenBinaryTreeToLinkedList/FlattenBinaryTreeToLinkedList.cpp.o" \
+"CMakeFiles/LeetCode.dir/DistinctSubsequences/DistinctSubsequences.cpp.o" \
+"CMakeFiles/LeetCode.dir/PopulatingNextRightPointersInEachNode/PopulatingNextRightPointersInEachNode.cpp.o" \
+"CMakeFiles/LeetCode.dir/PopulatingNextRightPointersInEachNodeII/PopulatingNextRightPointersInEachNodeII.cpp.o"
 
 # External object files for target LeetCode
 LeetCode_EXTERNAL_OBJECTS =
@@ -1443,9 +1485,12 @@ LeetCode: CMakeFiles/LeetCode.dir/MinimumDepthOfBinaryTree/MinimumDepthOfBinaryT
 LeetCode: CMakeFiles/LeetCode.dir/PathSum/PathSum.cpp.o
 LeetCode: CMakeFiles/LeetCode.dir/PathSumII/PathSumII.cpp.o
 LeetCode: CMakeFiles/LeetCode.dir/FlattenBinaryTreeToLinkedList/FlattenBinaryTreeToLinkedList.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/DistinctSubsequences/DistinctSubsequences.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/PopulatingNextRightPointersInEachNode/PopulatingNextRightPointersInEachNode.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/PopulatingNextRightPointersInEachNodeII/PopulatingNextRightPointersInEachNodeII.cpp.o
 LeetCode: CMakeFiles/LeetCode.dir/build.make
 LeetCode: CMakeFiles/LeetCode.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Volumes/ZWHD/github/LeetCode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_93) "Linking CXX executable LeetCode"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Volumes/ZWHD/github/LeetCode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_96) "Linking CXX executable LeetCode"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/LeetCode.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

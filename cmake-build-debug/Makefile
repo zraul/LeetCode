@@ -555,6 +555,33 @@ DecodeWays/DecodeWays.cpp.s:
 	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/DecodeWays/DecodeWays.cpp.s
 .PHONY : DecodeWays/DecodeWays.cpp.s
 
+DistinctSubsequences/DistinctSubsequences.o: DistinctSubsequences/DistinctSubsequences.cpp.o
+
+.PHONY : DistinctSubsequences/DistinctSubsequences.o
+
+# target to build an object file
+DistinctSubsequences/DistinctSubsequences.cpp.o:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/DistinctSubsequences/DistinctSubsequences.cpp.o
+.PHONY : DistinctSubsequences/DistinctSubsequences.cpp.o
+
+DistinctSubsequences/DistinctSubsequences.i: DistinctSubsequences/DistinctSubsequences.cpp.i
+
+.PHONY : DistinctSubsequences/DistinctSubsequences.i
+
+# target to preprocess a source file
+DistinctSubsequences/DistinctSubsequences.cpp.i:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/DistinctSubsequences/DistinctSubsequences.cpp.i
+.PHONY : DistinctSubsequences/DistinctSubsequences.cpp.i
+
+DistinctSubsequences/DistinctSubsequences.s: DistinctSubsequences/DistinctSubsequences.cpp.s
+
+.PHONY : DistinctSubsequences/DistinctSubsequences.s
+
+# target to generate assembly for a file
+DistinctSubsequences/DistinctSubsequences.cpp.s:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/DistinctSubsequences/DistinctSubsequences.cpp.s
+.PHONY : DistinctSubsequences/DistinctSubsequences.cpp.s
+
 DistributeCandiesToPeople/DistributeCandiesToPeople.o: DistributeCandiesToPeople/DistributeCandiesToPeople.cpp.o
 
 .PHONY : DistributeCandiesToPeople/DistributeCandiesToPeople.o
@@ -1499,6 +1526,60 @@ PlusOne/PlusOne.s: PlusOne/PlusOne.cpp.s
 PlusOne/PlusOne.cpp.s:
 	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/PlusOne/PlusOne.cpp.s
 .PHONY : PlusOne/PlusOne.cpp.s
+
+PopulatingNextRightPointersInEachNode/PopulatingNextRightPointersInEachNode.o: PopulatingNextRightPointersInEachNode/PopulatingNextRightPointersInEachNode.cpp.o
+
+.PHONY : PopulatingNextRightPointersInEachNode/PopulatingNextRightPointersInEachNode.o
+
+# target to build an object file
+PopulatingNextRightPointersInEachNode/PopulatingNextRightPointersInEachNode.cpp.o:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/PopulatingNextRightPointersInEachNode/PopulatingNextRightPointersInEachNode.cpp.o
+.PHONY : PopulatingNextRightPointersInEachNode/PopulatingNextRightPointersInEachNode.cpp.o
+
+PopulatingNextRightPointersInEachNode/PopulatingNextRightPointersInEachNode.i: PopulatingNextRightPointersInEachNode/PopulatingNextRightPointersInEachNode.cpp.i
+
+.PHONY : PopulatingNextRightPointersInEachNode/PopulatingNextRightPointersInEachNode.i
+
+# target to preprocess a source file
+PopulatingNextRightPointersInEachNode/PopulatingNextRightPointersInEachNode.cpp.i:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/PopulatingNextRightPointersInEachNode/PopulatingNextRightPointersInEachNode.cpp.i
+.PHONY : PopulatingNextRightPointersInEachNode/PopulatingNextRightPointersInEachNode.cpp.i
+
+PopulatingNextRightPointersInEachNode/PopulatingNextRightPointersInEachNode.s: PopulatingNextRightPointersInEachNode/PopulatingNextRightPointersInEachNode.cpp.s
+
+.PHONY : PopulatingNextRightPointersInEachNode/PopulatingNextRightPointersInEachNode.s
+
+# target to generate assembly for a file
+PopulatingNextRightPointersInEachNode/PopulatingNextRightPointersInEachNode.cpp.s:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/PopulatingNextRightPointersInEachNode/PopulatingNextRightPointersInEachNode.cpp.s
+.PHONY : PopulatingNextRightPointersInEachNode/PopulatingNextRightPointersInEachNode.cpp.s
+
+PopulatingNextRightPointersInEachNodeII/PopulatingNextRightPointersInEachNodeII.o: PopulatingNextRightPointersInEachNodeII/PopulatingNextRightPointersInEachNodeII.cpp.o
+
+.PHONY : PopulatingNextRightPointersInEachNodeII/PopulatingNextRightPointersInEachNodeII.o
+
+# target to build an object file
+PopulatingNextRightPointersInEachNodeII/PopulatingNextRightPointersInEachNodeII.cpp.o:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/PopulatingNextRightPointersInEachNodeII/PopulatingNextRightPointersInEachNodeII.cpp.o
+.PHONY : PopulatingNextRightPointersInEachNodeII/PopulatingNextRightPointersInEachNodeII.cpp.o
+
+PopulatingNextRightPointersInEachNodeII/PopulatingNextRightPointersInEachNodeII.i: PopulatingNextRightPointersInEachNodeII/PopulatingNextRightPointersInEachNodeII.cpp.i
+
+.PHONY : PopulatingNextRightPointersInEachNodeII/PopulatingNextRightPointersInEachNodeII.i
+
+# target to preprocess a source file
+PopulatingNextRightPointersInEachNodeII/PopulatingNextRightPointersInEachNodeII.cpp.i:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/PopulatingNextRightPointersInEachNodeII/PopulatingNextRightPointersInEachNodeII.cpp.i
+.PHONY : PopulatingNextRightPointersInEachNodeII/PopulatingNextRightPointersInEachNodeII.cpp.i
+
+PopulatingNextRightPointersInEachNodeII/PopulatingNextRightPointersInEachNodeII.s: PopulatingNextRightPointersInEachNodeII/PopulatingNextRightPointersInEachNodeII.cpp.s
+
+.PHONY : PopulatingNextRightPointersInEachNodeII/PopulatingNextRightPointersInEachNodeII.s
+
+# target to generate assembly for a file
+PopulatingNextRightPointersInEachNodeII/PopulatingNextRightPointersInEachNodeII.cpp.s:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/PopulatingNextRightPointersInEachNodeII/PopulatingNextRightPointersInEachNodeII.cpp.s
+.PHONY : PopulatingNextRightPointersInEachNodeII/PopulatingNextRightPointersInEachNodeII.cpp.s
 
 Powxn/Powxn.o: Powxn/Powxn.cpp.o
 
@@ -2664,6 +2745,9 @@ help:
 	@echo "... DecodeWays/DecodeWays.o"
 	@echo "... DecodeWays/DecodeWays.i"
 	@echo "... DecodeWays/DecodeWays.s"
+	@echo "... DistinctSubsequences/DistinctSubsequences.o"
+	@echo "... DistinctSubsequences/DistinctSubsequences.i"
+	@echo "... DistinctSubsequences/DistinctSubsequences.s"
 	@echo "... DistributeCandiesToPeople/DistributeCandiesToPeople.o"
 	@echo "... DistributeCandiesToPeople/DistributeCandiesToPeople.i"
 	@echo "... DistributeCandiesToPeople/DistributeCandiesToPeople.s"
@@ -2769,6 +2853,12 @@ help:
 	@echo "... PlusOne/PlusOne.o"
 	@echo "... PlusOne/PlusOne.i"
 	@echo "... PlusOne/PlusOne.s"
+	@echo "... PopulatingNextRightPointersInEachNode/PopulatingNextRightPointersInEachNode.o"
+	@echo "... PopulatingNextRightPointersInEachNode/PopulatingNextRightPointersInEachNode.i"
+	@echo "... PopulatingNextRightPointersInEachNode/PopulatingNextRightPointersInEachNode.s"
+	@echo "... PopulatingNextRightPointersInEachNodeII/PopulatingNextRightPointersInEachNodeII.o"
+	@echo "... PopulatingNextRightPointersInEachNodeII/PopulatingNextRightPointersInEachNodeII.i"
+	@echo "... PopulatingNextRightPointersInEachNodeII/PopulatingNextRightPointersInEachNodeII.s"
 	@echo "... Powxn/Powxn.o"
 	@echo "... Powxn/Powxn.i"
 	@echo "... Powxn/Powxn.s"

@@ -202,6 +202,12 @@
 		<Unit filename="/Volumes/ZWHD/github/LeetCode/DecodeWays/DecodeWays.h">
 			<Option target="LeetCode"/>
 		</Unit>
+		<Unit filename="/Volumes/ZWHD/github/LeetCode/DistinctSubsequences/DistinctSubsequences.cpp">
+			<Option target="LeetCode"/>
+		</Unit>
+		<Unit filename="/Volumes/ZWHD/github/LeetCode/DistinctSubsequences/DistinctSubsequences.h">
+			<Option target="LeetCode"/>
+		</Unit>
 		<Unit filename="/Volumes/ZWHD/github/LeetCode/DistributeCandiesToPeople/DistributeCandiesToPeople.cpp">
 			<Option target="LeetCode"/>
 		</Unit>
@@ -410,6 +416,18 @@
 			<Option target="LeetCode"/>
 		</Unit>
 		<Unit filename="/Volumes/ZWHD/github/LeetCode/PlusOne/PlusOne.h">
+			<Option target="LeetCode"/>
+		</Unit>
+		<Unit filename="/Volumes/ZWHD/github/LeetCode/PopulatingNextRightPointersInEachNode/PopulatingNextRightPointersInEachNode.cpp">
+			<Option target="LeetCode"/>
+		</Unit>
+		<Unit filename="/Volumes/ZWHD/github/LeetCode/PopulatingNextRightPointersInEachNode/PopulatingNextRightPointersInEachNode.h">
+			<Option target="LeetCode"/>
+		</Unit>
+		<Unit filename="/Volumes/ZWHD/github/LeetCode/PopulatingNextRightPointersInEachNodeII/PopulatingNextRightPointersInEachNodeII.cpp">
+			<Option target="LeetCode"/>
+		</Unit>
+		<Unit filename="/Volumes/ZWHD/github/LeetCode/PopulatingNextRightPointersInEachNodeII/PopulatingNextRightPointersInEachNodeII.h">
 			<Option target="LeetCode"/>
 		</Unit>
 		<Unit filename="/Volumes/ZWHD/github/LeetCode/Powxn/Powxn.cpp">

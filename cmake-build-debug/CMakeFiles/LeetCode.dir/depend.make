@@ -50,6 +50,9 @@ CMakeFiles/LeetCode.dir/CountAndSay/CountAndSay.cpp.o: ../CountAndSay/CountAndSa
 CMakeFiles/LeetCode.dir/DecodeWays/DecodeWays.cpp.o: ../DecodeWays/DecodeWays.cpp
 CMakeFiles/LeetCode.dir/DecodeWays/DecodeWays.cpp.o: ../DecodeWays/DecodeWays.h
 
+CMakeFiles/LeetCode.dir/DistinctSubsequences/DistinctSubsequences.cpp.o: ../DistinctSubsequences/DistinctSubsequences.cpp
+CMakeFiles/LeetCode.dir/DistinctSubsequences/DistinctSubsequences.cpp.o: ../DistinctSubsequences/DistinctSubsequences.h
+
 CMakeFiles/LeetCode.dir/DistributeCandiesToPeople/DistributeCandiesToPeople.cpp.o: ../DistributeCandiesToPeople/DistributeCandiesToPeople.cpp
 CMakeFiles/LeetCode.dir/DistributeCandiesToPeople/DistributeCandiesToPeople.cpp.o: ../DistributeCandiesToPeople/DistributeCandiesToPeople.h
 
@@ -159,6 +162,12 @@ CMakeFiles/LeetCode.dir/PermutationsII/PermutationsII.cpp.o: ../PermutationsII/P
 
 CMakeFiles/LeetCode.dir/PlusOne/PlusOne.cpp.o: ../PlusOne/PlusOne.cpp
 CMakeFiles/LeetCode.dir/PlusOne/PlusOne.cpp.o: ../PlusOne/PlusOne.h
+
+CMakeFiles/LeetCode.dir/PopulatingNextRightPointersInEachNode/PopulatingNextRightPointersInEachNode.cpp.o: ../PopulatingNextRightPointersInEachNode/PopulatingNextRightPointersInEachNode.cpp
+CMakeFiles/LeetCode.dir/PopulatingNextRightPointersInEachNode/PopulatingNextRightPointersInEachNode.cpp.o: ../PopulatingNextRightPointersInEachNode/PopulatingNextRightPointersInEachNode.h
+
+CMakeFiles/LeetCode.dir/PopulatingNextRightPointersInEachNodeII/PopulatingNextRightPointersInEachNodeII.cpp.o: ../PopulatingNextRightPointersInEachNodeII/PopulatingNextRightPointersInEachNodeII.cpp
+CMakeFiles/LeetCode.dir/PopulatingNextRightPointersInEachNodeII/PopulatingNextRightPointersInEachNodeII.cpp.o: ../PopulatingNextRightPointersInEachNodeII/PopulatingNextRightPointersInEachNodeII.h
 
 CMakeFiles/LeetCode.dir/Powxn/Powxn.cpp.o: ../Powxn/Powxn.cpp
 CMakeFiles/LeetCode.dir/Powxn/Powxn.cpp.o: ../Powxn/Powxn.h
@@ -285,6 +294,6 @@ CMakeFiles/LeetCode.dir/ZigZag/ZigZag.cpp.o: ../ZigZag/ZigZag.cpp
 CMakeFiles/LeetCode.dir/ZigZag/ZigZag.cpp.o: ../ZigZag/ZigZag.h
 CMakeFiles/LeetCode.dir/ZigZag/ZigZag.cpp.o: ../common.h
 
-CMakeFiles/LeetCode.dir/main.cpp.o: ../FlattenBinaryTreeToLinkedList/FlattenBinaryTreeToLinkedList.h
+CMakeFiles/LeetCode.dir/main.cpp.o: ../PopulatingNextRightPointersInEachNodeII/PopulatingNextRightPointersInEachNodeII.h
 CMakeFiles/LeetCode.dir/main.cpp.o: ../main.cpp
 

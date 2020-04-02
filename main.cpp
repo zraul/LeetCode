@@ -3,36 +3,20 @@
 //#include "PalindromeNumber/PalindromeNumber.h"
 //#include "RegularExpressionMatching/RegularExpressionMatching.h"
 
-#include "FlattenBinaryTreeToLinkedList/FlattenBinaryTreeToLinkedList.h"
+#include "PopulatingNextRightPointersInEachNodeII/PopulatingNextRightPointersInEachNodeII.h"
 
 int main()
 {
-//    TreeNode l1(3);
-//    TreeNode l2(9);
-//    TreeNode l3(20);
-//    TreeNode l4(15);
-//    TreeNode l5(7);
-//
-//    l1.left = &l2;
-//    l1.right = &l3;
-//    l3.left = &l4;
-//    l3.right = &l5;
+    Node* n2 = new Node(4);
+    Node* n3 = new Node(5);
+    Node* n4 = new Node(7);
+    Node* n5 = new Node(2, n2, n3, NULL);
+    Node* n6 = new Node(3, NULL, n4,NULL);
+    Node* n1 = new Node(1, n5, n6, NULL);
 
-    TreeNode l1(1);
-    TreeNode l2(2);
-    TreeNode l3(5);
-    TreeNode l4(3);
-    TreeNode l5(4);
-    TreeNode l6(5);
-
-    l1.left = &l2;
-    l1.right = &l3;
-    l2.left = &l4;
-    l3.left = &l5;
-    l3.right = &l6;
-
-    FlattenBinaryTreeToLinkedList* p = new FlattenBinaryTreeToLinkedList();
-    p->flatten(&l1);
+    PopulatingNextRightPointersInEachNodeII* p = new PopulatingNextRightPointersInEachNodeII();
+    Node* nn = p->connect(n1);
+    std::cout<<"dddddd"<<std::endl;
 }
 
 

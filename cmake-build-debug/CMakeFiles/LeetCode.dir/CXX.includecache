@@ -6,17 +6,13 @@
 
 #IncludeRegexTransform: 
 
-/Volumes/ZWHD/github/LeetCode/FlattenBinaryTreeToLinkedList/FlattenBinaryTreeToLinkedList.cpp
-FlattenBinaryTreeToLinkedList.h
-/Volumes/ZWHD/github/LeetCode/FlattenBinaryTreeToLinkedList/FlattenBinaryTreeToLinkedList.h
-
-/Volumes/ZWHD/github/LeetCode/FlattenBinaryTreeToLinkedList/FlattenBinaryTreeToLinkedList.h
+/Volumes/ZWHD/github/LeetCode/PopulatingNextRightPointersInEachNodeII/PopulatingNextRightPointersInEachNodeII.h
 iostream
 -
 vector
 -
 
 /Volumes/ZWHD/github/LeetCode/main.cpp
-FlattenBinaryTreeToLinkedList/FlattenBinaryTreeToLinkedList.h
-/Volumes/ZWHD/github/LeetCode/FlattenBinaryTreeToLinkedList/FlattenBinaryTreeToLinkedList.h
+PopulatingNextRightPointersInEachNodeII/PopulatingNextRightPointersInEachNodeII.h
+/Volumes/ZWHD/github/LeetCode/PopulatingNextRightPointersInEachNodeII/PopulatingNextRightPointersInEachNodeII.h
 

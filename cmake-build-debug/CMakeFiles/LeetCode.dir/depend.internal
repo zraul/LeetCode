@@ -50,6 +50,9 @@ CMakeFiles/LeetCode.dir/CountAndSay/CountAndSay.cpp.o
 CMakeFiles/LeetCode.dir/DecodeWays/DecodeWays.cpp.o
  /Volumes/ZWHD/github/LeetCode/DecodeWays/DecodeWays.cpp
  /Volumes/ZWHD/github/LeetCode/DecodeWays/DecodeWays.h
+CMakeFiles/LeetCode.dir/DistinctSubsequences/DistinctSubsequences.cpp.o
+ /Volumes/ZWHD/github/LeetCode/DistinctSubsequences/DistinctSubsequences.cpp
+ /Volumes/ZWHD/github/LeetCode/DistinctSubsequences/DistinctSubsequences.h
 CMakeFiles/LeetCode.dir/DistributeCandiesToPeople/DistributeCandiesToPeople.cpp.o
  /Volumes/ZWHD/github/LeetCode/DistributeCandiesToPeople/DistributeCandiesToPeople.cpp
  /Volumes/ZWHD/github/LeetCode/DistributeCandiesToPeople/DistributeCandiesToPeople.h
@@ -160,6 +163,12 @@ CMakeFiles/LeetCode.dir/PermutationsII/PermutationsII.cpp.o
 CMakeFiles/LeetCode.dir/PlusOne/PlusOne.cpp.o
  /Volumes/ZWHD/github/LeetCode/PlusOne/PlusOne.cpp
  /Volumes/ZWHD/github/LeetCode/PlusOne/PlusOne.h
+CMakeFiles/LeetCode.dir/PopulatingNextRightPointersInEachNode/PopulatingNextRightPointersInEachNode.cpp.o
+ /Volumes/ZWHD/github/LeetCode/PopulatingNextRightPointersInEachNode/PopulatingNextRightPointersInEachNode.cpp
+ /Volumes/ZWHD/github/LeetCode/PopulatingNextRightPointersInEachNode/PopulatingNextRightPointersInEachNode.h
+CMakeFiles/LeetCode.dir/PopulatingNextRightPointersInEachNodeII/PopulatingNextRightPointersInEachNodeII.cpp.o
+ /Volumes/ZWHD/github/LeetCode/PopulatingNextRightPointersInEachNodeII/PopulatingNextRightPointersInEachNodeII.cpp
+ /Volumes/ZWHD/github/LeetCode/PopulatingNextRightPointersInEachNodeII/PopulatingNextRightPointersInEachNodeII.h
 CMakeFiles/LeetCode.dir/Powxn/Powxn.cpp.o
  /Volumes/ZWHD/github/LeetCode/Powxn/Powxn.cpp
  /Volumes/ZWHD/github/LeetCode/Powxn/Powxn.h
@@ -286,5 +295,5 @@ CMakeFiles/LeetCode.dir/ZigZag/ZigZag.cpp.o
  /Volumes/ZWHD/github/LeetCode/ZigZag/ZigZag.h
  /Volumes/ZWHD/github/LeetCode/common.h
 CMakeFiles/LeetCode.dir/main.cpp.o
- /Volumes/ZWHD/github/LeetCode/FlattenBinaryTreeToLinkedList/FlattenBinaryTreeToLinkedList.h
+ /Volumes/ZWHD/github/LeetCode/PopulatingNextRightPointersInEachNodeII/PopulatingNextRightPointersInEachNodeII.h
  /Volumes/ZWHD/github/LeetCode/main.cpp
