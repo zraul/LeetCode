@@ -145,6 +145,12 @@ CMakeFiles/LeetCode.dir/PalindromeNumber/PalindromeNumber.cpp.o
 CMakeFiles/LeetCode.dir/PartitionList/PartitionList.cpp.o
  /Volumes/ZWHD/github/LeetCode/PartitionList/PartitionList.cpp
  /Volumes/ZWHD/github/LeetCode/PartitionList/PartitionList.h
+CMakeFiles/LeetCode.dir/PascalsTriangle/PascalsTriangle.cpp.o
+ /Volumes/ZWHD/github/LeetCode/PascalsTriangle/PascalsTriangle.cpp
+ /Volumes/ZWHD/github/LeetCode/PascalsTriangle/PascalsTriangle.h
+CMakeFiles/LeetCode.dir/PascalsTriangleII/PascalsTriangleII.cpp.o
+ /Volumes/ZWHD/github/LeetCode/PascalsTriangleII/PascalsTriangleII.cpp
+ /Volumes/ZWHD/github/LeetCode/PascalsTriangleII/PascalsTriangleII.h
 CMakeFiles/LeetCode.dir/PathSum/PathSum.cpp.o
  /Volumes/ZWHD/github/LeetCode/PathSum/PathSum.cpp
  /Volumes/ZWHD/github/LeetCode/PathSum/PathSum.h
@@ -259,6 +265,9 @@ CMakeFiles/LeetCode.dir/TextJustification/TextJustification.cpp.o
 CMakeFiles/LeetCode.dir/TrappingRainWater/TrappingRainWater.cpp.o
  /Volumes/ZWHD/github/LeetCode/TrappingRainWater/TrappingRainWater.cpp
  /Volumes/ZWHD/github/LeetCode/TrappingRainWater/TrappingRainWater.h
+CMakeFiles/LeetCode.dir/Triangle/Triangle.cpp.o
+ /Volumes/ZWHD/github/LeetCode/Triangle/Triangle.cpp
+ /Volumes/ZWHD/github/LeetCode/Triangle/Triangle.h
 CMakeFiles/LeetCode.dir/Two-Sum/twosum.cpp.o
  /Volumes/ZWHD/github/LeetCode/Two-Sum/twosum.cpp
  /Volumes/ZWHD/github/LeetCode/Two-Sum/twosum.h
@@ -295,5 +304,5 @@ CMakeFiles/LeetCode.dir/ZigZag/ZigZag.cpp.o
  /Volumes/ZWHD/github/LeetCode/ZigZag/ZigZag.h
  /Volumes/ZWHD/github/LeetCode/common.h
 CMakeFiles/LeetCode.dir/main.cpp.o
- /Volumes/ZWHD/github/LeetCode/PopulatingNextRightPointersInEachNodeII/PopulatingNextRightPointersInEachNodeII.h
+ /Volumes/ZWHD/github/LeetCode/Triangle/Triangle.h
  /Volumes/ZWHD/github/LeetCode/main.cpp

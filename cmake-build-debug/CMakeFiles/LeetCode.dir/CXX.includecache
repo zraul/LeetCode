@@ -6,13 +6,17 @@
 
 #IncludeRegexTransform: 
 
-/Volumes/ZWHD/github/LeetCode/PopulatingNextRightPointersInEachNodeII/PopulatingNextRightPointersInEachNodeII.h
+/Volumes/ZWHD/github/LeetCode/Triangle/Triangle.cpp
+Triangle.h
+/Volumes/ZWHD/github/LeetCode/Triangle/Triangle.h
+
+/Volumes/ZWHD/github/LeetCode/Triangle/Triangle.h
 iostream
 -
 vector
 -
 
 /Volumes/ZWHD/github/LeetCode/main.cpp
-PopulatingNextRightPointersInEachNodeII/PopulatingNextRightPointersInEachNodeII.h
-/Volumes/ZWHD/github/LeetCode/PopulatingNextRightPointersInEachNodeII/PopulatingNextRightPointersInEachNodeII.h
+Triangle/Triangle.h
+/Volumes/ZWHD/github/LeetCode/Triangle/Triangle.h
 

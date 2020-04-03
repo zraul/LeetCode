@@ -1365,6 +1365,60 @@ PartitionList/PartitionList.cpp.s:
 	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/PartitionList/PartitionList.cpp.s
 .PHONY : PartitionList/PartitionList.cpp.s
 
+PascalsTriangle/PascalsTriangle.o: PascalsTriangle/PascalsTriangle.cpp.o
+
+.PHONY : PascalsTriangle/PascalsTriangle.o
+
+# target to build an object file
+PascalsTriangle/PascalsTriangle.cpp.o:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/PascalsTriangle/PascalsTriangle.cpp.o
+.PHONY : PascalsTriangle/PascalsTriangle.cpp.o
+
+PascalsTriangle/PascalsTriangle.i: PascalsTriangle/PascalsTriangle.cpp.i
+
+.PHONY : PascalsTriangle/PascalsTriangle.i
+
+# target to preprocess a source file
+PascalsTriangle/PascalsTriangle.cpp.i:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/PascalsTriangle/PascalsTriangle.cpp.i
+.PHONY : PascalsTriangle/PascalsTriangle.cpp.i
+
+PascalsTriangle/PascalsTriangle.s: PascalsTriangle/PascalsTriangle.cpp.s
+
+.PHONY : PascalsTriangle/PascalsTriangle.s
+
+# target to generate assembly for a file
+PascalsTriangle/PascalsTriangle.cpp.s:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/PascalsTriangle/PascalsTriangle.cpp.s
+.PHONY : PascalsTriangle/PascalsTriangle.cpp.s
+
+PascalsTriangleII/PascalsTriangleII.o: PascalsTriangleII/PascalsTriangleII.cpp.o
+
+.PHONY : PascalsTriangleII/PascalsTriangleII.o
+
+# target to build an object file
+PascalsTriangleII/PascalsTriangleII.cpp.o:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/PascalsTriangleII/PascalsTriangleII.cpp.o
+.PHONY : PascalsTriangleII/PascalsTriangleII.cpp.o
+
+PascalsTriangleII/PascalsTriangleII.i: PascalsTriangleII/PascalsTriangleII.cpp.i
+
+.PHONY : PascalsTriangleII/PascalsTriangleII.i
+
+# target to preprocess a source file
+PascalsTriangleII/PascalsTriangleII.cpp.i:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/PascalsTriangleII/PascalsTriangleII.cpp.i
+.PHONY : PascalsTriangleII/PascalsTriangleII.cpp.i
+
+PascalsTriangleII/PascalsTriangleII.s: PascalsTriangleII/PascalsTriangleII.cpp.s
+
+.PHONY : PascalsTriangleII/PascalsTriangleII.s
+
+# target to generate assembly for a file
+PascalsTriangleII/PascalsTriangleII.cpp.s:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/PascalsTriangleII/PascalsTriangleII.cpp.s
+.PHONY : PascalsTriangleII/PascalsTriangleII.cpp.s
+
 PathSum/PathSum.o: PathSum/PathSum.cpp.o
 
 .PHONY : PathSum/PathSum.o
@@ -2364,6 +2418,33 @@ TrappingRainWater/TrappingRainWater.cpp.s:
 	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/TrappingRainWater/TrappingRainWater.cpp.s
 .PHONY : TrappingRainWater/TrappingRainWater.cpp.s
 
+Triangle/Triangle.o: Triangle/Triangle.cpp.o
+
+.PHONY : Triangle/Triangle.o
+
+# target to build an object file
+Triangle/Triangle.cpp.o:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Triangle/Triangle.cpp.o
+.PHONY : Triangle/Triangle.cpp.o
+
+Triangle/Triangle.i: Triangle/Triangle.cpp.i
+
+.PHONY : Triangle/Triangle.i
+
+# target to preprocess a source file
+Triangle/Triangle.cpp.i:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Triangle/Triangle.cpp.i
+.PHONY : Triangle/Triangle.cpp.i
+
+Triangle/Triangle.s: Triangle/Triangle.cpp.s
+
+.PHONY : Triangle/Triangle.s
+
+# target to generate assembly for a file
+Triangle/Triangle.cpp.s:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Triangle/Triangle.cpp.s
+.PHONY : Triangle/Triangle.cpp.s
+
 Two-Sum/twosum.o: Two-Sum/twosum.cpp.o
 
 .PHONY : Two-Sum/twosum.o
@@ -2835,6 +2916,12 @@ help:
 	@echo "... PartitionList/PartitionList.o"
 	@echo "... PartitionList/PartitionList.i"
 	@echo "... PartitionList/PartitionList.s"
+	@echo "... PascalsTriangle/PascalsTriangle.o"
+	@echo "... PascalsTriangle/PascalsTriangle.i"
+	@echo "... PascalsTriangle/PascalsTriangle.s"
+	@echo "... PascalsTriangleII/PascalsTriangleII.o"
+	@echo "... PascalsTriangleII/PascalsTriangleII.i"
+	@echo "... PascalsTriangleII/PascalsTriangleII.s"
 	@echo "... PathSum/PathSum.o"
 	@echo "... PathSum/PathSum.i"
 	@echo "... PathSum/PathSum.s"
@@ -2946,6 +3033,9 @@ help:
 	@echo "... TrappingRainWater/TrappingRainWater.o"
 	@echo "... TrappingRainWater/TrappingRainWater.i"
 	@echo "... TrappingRainWater/TrappingRainWater.s"
+	@echo "... Triangle/Triangle.o"
+	@echo "... Triangle/Triangle.i"
+	@echo "... Triangle/Triangle.s"
 	@echo "... Two-Sum/twosum.o"
 	@echo "... Two-Sum/twosum.i"
 	@echo "... Two-Sum/twosum.s"

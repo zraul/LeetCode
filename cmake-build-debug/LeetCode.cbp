@@ -382,6 +382,18 @@
 		<Unit filename="/Volumes/ZWHD/github/LeetCode/PartitionList/PartitionList.h">
 			<Option target="LeetCode"/>
 		</Unit>
+		<Unit filename="/Volumes/ZWHD/github/LeetCode/PascalsTriangle/PascalsTriangle.cpp">
+			<Option target="LeetCode"/>
+		</Unit>
+		<Unit filename="/Volumes/ZWHD/github/LeetCode/PascalsTriangle/PascalsTriangle.h">
+			<Option target="LeetCode"/>
+		</Unit>
+		<Unit filename="/Volumes/ZWHD/github/LeetCode/PascalsTriangleII/PascalsTriangleII.cpp">
+			<Option target="LeetCode"/>
+		</Unit>
+		<Unit filename="/Volumes/ZWHD/github/LeetCode/PascalsTriangleII/PascalsTriangleII.h">
+			<Option target="LeetCode"/>
+		</Unit>
 		<Unit filename="/Volumes/ZWHD/github/LeetCode/PathSum/PathSum.cpp">
 			<Option target="LeetCode"/>
 		</Unit>
@@ -602,6 +614,12 @@
 			<Option target="LeetCode"/>
 		</Unit>
 		<Unit filename="/Volumes/ZWHD/github/LeetCode/TrappingRainWater/TrappingRainWater.h">
+			<Option target="LeetCode"/>
+		</Unit>
+		<Unit filename="/Volumes/ZWHD/github/LeetCode/Triangle/Triangle.cpp">
+			<Option target="LeetCode"/>
+		</Unit>
+		<Unit filename="/Volumes/ZWHD/github/LeetCode/Triangle/Triangle.h">
 			<Option target="LeetCode"/>
 		</Unit>
 		<Unit filename="/Volumes/ZWHD/github/LeetCode/Two-Sum/twosum.cpp">

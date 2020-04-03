@@ -3,20 +3,13 @@
 //#include "PalindromeNumber/PalindromeNumber.h"
 //#include "RegularExpressionMatching/RegularExpressionMatching.h"
 
-#include "PopulatingNextRightPointersInEachNodeII/PopulatingNextRightPointersInEachNodeII.h"
+#include "Triangle/Triangle.h"
 
 int main()
 {
-    Node* n2 = new Node(4);
-    Node* n3 = new Node(5);
-    Node* n4 = new Node(7);
-    Node* n5 = new Node(2, n2, n3, NULL);
-    Node* n6 = new Node(3, NULL, n4,NULL);
-    Node* n1 = new Node(1, n5, n6, NULL);
-
-    PopulatingNextRightPointersInEachNodeII* p = new PopulatingNextRightPointersInEachNodeII();
-    Node* nn = p->connect(n1);
-    std::cout<<"dddddd"<<std::endl;
+    Triangle* t = new Triangle();
+    std::vector<std::vector<int>> r = {{2}, {3, 4}, {6, 5, 7}, {4, 1, 8, 3}};
+    std::cout<<t->minimumTotal(r)<<std::endl;
 }
 
 

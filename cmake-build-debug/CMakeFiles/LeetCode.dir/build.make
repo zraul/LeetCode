@@ -1292,6 +1292,45 @@ CMakeFiles/LeetCode.dir/PopulatingNextRightPointersInEachNodeII/PopulatingNextRi
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/PopulatingNextRightPointersInEachNodeII/PopulatingNextRightPointersInEachNodeII.cpp.s"
 	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Volumes/ZWHD/github/LeetCode/PopulatingNextRightPointersInEachNodeII/PopulatingNextRightPointersInEachNodeII.cpp -o CMakeFiles/LeetCode.dir/PopulatingNextRightPointersInEachNodeII/PopulatingNextRightPointersInEachNodeII.cpp.s
 
+CMakeFiles/LeetCode.dir/PascalsTriangle/PascalsTriangle.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/PascalsTriangle/PascalsTriangle.cpp.o: ../PascalsTriangle/PascalsTriangle.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Volumes/ZWHD/github/LeetCode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_96) "Building CXX object CMakeFiles/LeetCode.dir/PascalsTriangle/PascalsTriangle.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/LeetCode.dir/PascalsTriangle/PascalsTriangle.cpp.o -c /Volumes/ZWHD/github/LeetCode/PascalsTriangle/PascalsTriangle.cpp
+
+CMakeFiles/LeetCode.dir/PascalsTriangle/PascalsTriangle.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/PascalsTriangle/PascalsTriangle.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Volumes/ZWHD/github/LeetCode/PascalsTriangle/PascalsTriangle.cpp > CMakeFiles/LeetCode.dir/PascalsTriangle/PascalsTriangle.cpp.i
+
+CMakeFiles/LeetCode.dir/PascalsTriangle/PascalsTriangle.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/PascalsTriangle/PascalsTriangle.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Volumes/ZWHD/github/LeetCode/PascalsTriangle/PascalsTriangle.cpp -o CMakeFiles/LeetCode.dir/PascalsTriangle/PascalsTriangle.cpp.s
+
+CMakeFiles/LeetCode.dir/PascalsTriangleII/PascalsTriangleII.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/PascalsTriangleII/PascalsTriangleII.cpp.o: ../PascalsTriangleII/PascalsTriangleII.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Volumes/ZWHD/github/LeetCode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_97) "Building CXX object CMakeFiles/LeetCode.dir/PascalsTriangleII/PascalsTriangleII.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/LeetCode.dir/PascalsTriangleII/PascalsTriangleII.cpp.o -c /Volumes/ZWHD/github/LeetCode/PascalsTriangleII/PascalsTriangleII.cpp
+
+CMakeFiles/LeetCode.dir/PascalsTriangleII/PascalsTriangleII.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/PascalsTriangleII/PascalsTriangleII.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Volumes/ZWHD/github/LeetCode/PascalsTriangleII/PascalsTriangleII.cpp > CMakeFiles/LeetCode.dir/PascalsTriangleII/PascalsTriangleII.cpp.i
+
+CMakeFiles/LeetCode.dir/PascalsTriangleII/PascalsTriangleII.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/PascalsTriangleII/PascalsTriangleII.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Volumes/ZWHD/github/LeetCode/PascalsTriangleII/PascalsTriangleII.cpp -o CMakeFiles/LeetCode.dir/PascalsTriangleII/PascalsTriangleII.cpp.s
+
+CMakeFiles/LeetCode.dir/Triangle/Triangle.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/Triangle/Triangle.cpp.o: ../Triangle/Triangle.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Volumes/ZWHD/github/LeetCode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_98) "Building CXX object CMakeFiles/LeetCode.dir/Triangle/Triangle.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/LeetCode.dir/Triangle/Triangle.cpp.o -c /Volumes/ZWHD/github/LeetCode/Triangle/Triangle.cpp
+
+CMakeFiles/LeetCode.dir/Triangle/Triangle.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/Triangle/Triangle.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Volumes/ZWHD/github/LeetCode/Triangle/Triangle.cpp > CMakeFiles/LeetCode.dir/Triangle/Triangle.cpp.i
+
+CMakeFiles/LeetCode.dir/Triangle/Triangle.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Triangle/Triangle.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Volumes/ZWHD/github/LeetCode/Triangle/Triangle.cpp -o CMakeFiles/LeetCode.dir/Triangle/Triangle.cpp.s
+
 # Object files for target LeetCode
 LeetCode_OBJECTS = \
 "CMakeFiles/LeetCode.dir/AddTwoNumbers/AddTwoNumbers.cpp.o" \
@@ -1388,7 +1427,10 @@ LeetCode_OBJECTS = \
 "CMakeFiles/LeetCode.dir/FlattenBinaryTreeToLinkedList/FlattenBinaryTreeToLinkedList.cpp.o" \
 "CMakeFiles/LeetCode.dir/DistinctSubsequences/DistinctSubsequences.cpp.o" \
 "CMakeFiles/LeetCode.dir/PopulatingNextRightPointersInEachNode/PopulatingNextRightPointersInEachNode.cpp.o" \
-"CMakeFiles/LeetCode.dir/PopulatingNextRightPointersInEachNodeII/PopulatingNextRightPointersInEachNodeII.cpp.o"
+"CMakeFiles/LeetCode.dir/PopulatingNextRightPointersInEachNodeII/PopulatingNextRightPointersInEachNodeII.cpp.o" \
+"CMakeFiles/LeetCode.dir/PascalsTriangle/PascalsTriangle.cpp.o" \
+"CMakeFiles/LeetCode.dir/PascalsTriangleII/PascalsTriangleII.cpp.o" \
+"CMakeFiles/LeetCode.dir/Triangle/Triangle.cpp.o"
 
 # External object files for target LeetCode
 LeetCode_EXTERNAL_OBJECTS =
@@ -1488,9 +1530,12 @@ LeetCode: CMakeFiles/LeetCode.dir/FlattenBinaryTreeToLinkedList/FlattenBinaryTre
 LeetCode: CMakeFiles/LeetCode.dir/DistinctSubsequences/DistinctSubsequences.cpp.o
 LeetCode: CMakeFiles/LeetCode.dir/PopulatingNextRightPointersInEachNode/PopulatingNextRightPointersInEachNode.cpp.o
 LeetCode: CMakeFiles/LeetCode.dir/PopulatingNextRightPointersInEachNodeII/PopulatingNextRightPointersInEachNodeII.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/PascalsTriangle/PascalsTriangle.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/PascalsTriangleII/PascalsTriangleII.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/Triangle/Triangle.cpp.o
 LeetCode: CMakeFiles/LeetCode.dir/build.make
 LeetCode: CMakeFiles/LeetCode.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Volumes/ZWHD/github/LeetCode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_96) "Linking CXX executable LeetCode"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Volumes/ZWHD/github/LeetCode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_99) "Linking CXX executable LeetCode"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/LeetCode.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
