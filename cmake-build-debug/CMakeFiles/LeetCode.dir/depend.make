@@ -11,6 +11,15 @@ CMakeFiles/LeetCode.dir/AddTwoNumbers/AddTwoNumbers.cpp.o: ../common.h
 CMakeFiles/LeetCode.dir/BalancedBinaryTree/BalancedBinaryTree.cpp.o: ../BalancedBinaryTree/BalancedBinaryTree.cpp
 CMakeFiles/LeetCode.dir/BalancedBinaryTree/BalancedBinaryTree.cpp.o: ../BalancedBinaryTree/BalancedBinaryTree.h
 
+CMakeFiles/LeetCode.dir/BestTimeToBuyAndSellStock/BestTimeToBuyAndSellStock.cpp.o: ../BestTimeToBuyAndSellStock/BestTimeToBuyAndSellStock.cpp
+CMakeFiles/LeetCode.dir/BestTimeToBuyAndSellStock/BestTimeToBuyAndSellStock.cpp.o: ../BestTimeToBuyAndSellStock/BestTimeToBuyAndSellStock.h
+
+CMakeFiles/LeetCode.dir/BestTimeToBuyAndSellStockII/BestTimeToBuyAndSellStockII.cpp.o: ../BestTimeToBuyAndSellStockII/BestTimeToBuyAndSellStockII.cpp
+CMakeFiles/LeetCode.dir/BestTimeToBuyAndSellStockII/BestTimeToBuyAndSellStockII.cpp.o: ../BestTimeToBuyAndSellStockII/BestTimeToBuyAndSellStockII.h
+
+CMakeFiles/LeetCode.dir/BestTimeToBuyAndSellStockIII/BestTimeToBuyAndSellStockIII.cpp.o: ../BestTimeToBuyAndSellStockIII/BestTimeToBuyAndSellStockIII.cpp
+CMakeFiles/LeetCode.dir/BestTimeToBuyAndSellStockIII/BestTimeToBuyAndSellStockIII.cpp.o: ../BestTimeToBuyAndSellStockIII/BestTimeToBuyAndSellStockIII.h
+
 CMakeFiles/LeetCode.dir/BinaryTreeInorderTraversal/BinaryTreeInorderTraversal.cpp.o: ../BinaryTreeInorderTraversal/BinaryTreeInorderTraversal.cpp
 CMakeFiles/LeetCode.dir/BinaryTreeInorderTraversal/BinaryTreeInorderTraversal.cpp.o: ../BinaryTreeInorderTraversal/BinaryTreeInorderTraversal.h
 
@@ -303,6 +312,6 @@ CMakeFiles/LeetCode.dir/ZigZag/ZigZag.cpp.o: ../ZigZag/ZigZag.cpp
 CMakeFiles/LeetCode.dir/ZigZag/ZigZag.cpp.o: ../ZigZag/ZigZag.h
 CMakeFiles/LeetCode.dir/ZigZag/ZigZag.cpp.o: ../common.h
 
-CMakeFiles/LeetCode.dir/main.cpp.o: ../Triangle/Triangle.h
+CMakeFiles/LeetCode.dir/main.cpp.o: ../BestTimeToBuyAndSellStockIII/BestTimeToBuyAndSellStockIII.h
 CMakeFiles/LeetCode.dir/main.cpp.o: ../main.cpp
 

@@ -6,17 +6,13 @@
 
 #IncludeRegexTransform: 
 
-/Volumes/ZWHD/github/LeetCode/Triangle/Triangle.cpp
-Triangle.h
-/Volumes/ZWHD/github/LeetCode/Triangle/Triangle.h
+/Volumes/ZWHD/github/LeetCode/BestTimeToBuyAndSellStockIII/BestTimeToBuyAndSellStockIII.cpp
+BestTimeToBuyAndSellStockIII.h
+/Volumes/ZWHD/github/LeetCode/BestTimeToBuyAndSellStockIII/BestTimeToBuyAndSellStockIII.h
 
-/Volumes/ZWHD/github/LeetCode/Triangle/Triangle.h
+/Volumes/ZWHD/github/LeetCode/BestTimeToBuyAndSellStockIII/BestTimeToBuyAndSellStockIII.h
 iostream
 -
 vector
 -
-
-/Volumes/ZWHD/github/LeetCode/main.cpp
-Triangle/Triangle.h
-/Volumes/ZWHD/github/LeetCode/Triangle/Triangle.h
 

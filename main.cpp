@@ -3,13 +3,14 @@
 //#include "PalindromeNumber/PalindromeNumber.h"
 //#include "RegularExpressionMatching/RegularExpressionMatching.h"
 
-#include "Triangle/Triangle.h"
+#include "BestTimeToBuyAndSellStockIII/BestTimeToBuyAndSellStockIII.h"
 
 int main()
 {
-    Triangle* t = new Triangle();
-    std::vector<std::vector<int>> r = {{2}, {3, 4}, {6, 5, 7}, {4, 1, 8, 3}};
-    std::cout<<t->minimumTotal(r)<<std::endl;
+    BestTimeToBuyAndSellStockIII *b = new BestTimeToBuyAndSellStockIII();
+    std::vector<int> prices = {3,3,5,0,0,3,1,4};
+
+    std::cout<<b->maxProfit(prices)<<std::endl;
 }
 
 

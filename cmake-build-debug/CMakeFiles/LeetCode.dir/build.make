@@ -1331,6 +1331,45 @@ CMakeFiles/LeetCode.dir/Triangle/Triangle.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Triangle/Triangle.cpp.s"
 	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Volumes/ZWHD/github/LeetCode/Triangle/Triangle.cpp -o CMakeFiles/LeetCode.dir/Triangle/Triangle.cpp.s
 
+CMakeFiles/LeetCode.dir/BestTimeToBuyAndSellStock/BestTimeToBuyAndSellStock.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/BestTimeToBuyAndSellStock/BestTimeToBuyAndSellStock.cpp.o: ../BestTimeToBuyAndSellStock/BestTimeToBuyAndSellStock.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Volumes/ZWHD/github/LeetCode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_99) "Building CXX object CMakeFiles/LeetCode.dir/BestTimeToBuyAndSellStock/BestTimeToBuyAndSellStock.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/LeetCode.dir/BestTimeToBuyAndSellStock/BestTimeToBuyAndSellStock.cpp.o -c /Volumes/ZWHD/github/LeetCode/BestTimeToBuyAndSellStock/BestTimeToBuyAndSellStock.cpp
+
+CMakeFiles/LeetCode.dir/BestTimeToBuyAndSellStock/BestTimeToBuyAndSellStock.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/BestTimeToBuyAndSellStock/BestTimeToBuyAndSellStock.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Volumes/ZWHD/github/LeetCode/BestTimeToBuyAndSellStock/BestTimeToBuyAndSellStock.cpp > CMakeFiles/LeetCode.dir/BestTimeToBuyAndSellStock/BestTimeToBuyAndSellStock.cpp.i
+
+CMakeFiles/LeetCode.dir/BestTimeToBuyAndSellStock/BestTimeToBuyAndSellStock.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/BestTimeToBuyAndSellStock/BestTimeToBuyAndSellStock.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Volumes/ZWHD/github/LeetCode/BestTimeToBuyAndSellStock/BestTimeToBuyAndSellStock.cpp -o CMakeFiles/LeetCode.dir/BestTimeToBuyAndSellStock/BestTimeToBuyAndSellStock.cpp.s
+
+CMakeFiles/LeetCode.dir/BestTimeToBuyAndSellStockII/BestTimeToBuyAndSellStockII.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/BestTimeToBuyAndSellStockII/BestTimeToBuyAndSellStockII.cpp.o: ../BestTimeToBuyAndSellStockII/BestTimeToBuyAndSellStockII.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Volumes/ZWHD/github/LeetCode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_100) "Building CXX object CMakeFiles/LeetCode.dir/BestTimeToBuyAndSellStockII/BestTimeToBuyAndSellStockII.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/LeetCode.dir/BestTimeToBuyAndSellStockII/BestTimeToBuyAndSellStockII.cpp.o -c /Volumes/ZWHD/github/LeetCode/BestTimeToBuyAndSellStockII/BestTimeToBuyAndSellStockII.cpp
+
+CMakeFiles/LeetCode.dir/BestTimeToBuyAndSellStockII/BestTimeToBuyAndSellStockII.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/BestTimeToBuyAndSellStockII/BestTimeToBuyAndSellStockII.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Volumes/ZWHD/github/LeetCode/BestTimeToBuyAndSellStockII/BestTimeToBuyAndSellStockII.cpp > CMakeFiles/LeetCode.dir/BestTimeToBuyAndSellStockII/BestTimeToBuyAndSellStockII.cpp.i
+
+CMakeFiles/LeetCode.dir/BestTimeToBuyAndSellStockII/BestTimeToBuyAndSellStockII.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/BestTimeToBuyAndSellStockII/BestTimeToBuyAndSellStockII.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Volumes/ZWHD/github/LeetCode/BestTimeToBuyAndSellStockII/BestTimeToBuyAndSellStockII.cpp -o CMakeFiles/LeetCode.dir/BestTimeToBuyAndSellStockII/BestTimeToBuyAndSellStockII.cpp.s
+
+CMakeFiles/LeetCode.dir/BestTimeToBuyAndSellStockIII/BestTimeToBuyAndSellStockIII.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/BestTimeToBuyAndSellStockIII/BestTimeToBuyAndSellStockIII.cpp.o: ../BestTimeToBuyAndSellStockIII/BestTimeToBuyAndSellStockIII.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Volumes/ZWHD/github/LeetCode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_101) "Building CXX object CMakeFiles/LeetCode.dir/BestTimeToBuyAndSellStockIII/BestTimeToBuyAndSellStockIII.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/LeetCode.dir/BestTimeToBuyAndSellStockIII/BestTimeToBuyAndSellStockIII.cpp.o -c /Volumes/ZWHD/github/LeetCode/BestTimeToBuyAndSellStockIII/BestTimeToBuyAndSellStockIII.cpp
+
+CMakeFiles/LeetCode.dir/BestTimeToBuyAndSellStockIII/BestTimeToBuyAndSellStockIII.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/BestTimeToBuyAndSellStockIII/BestTimeToBuyAndSellStockIII.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Volumes/ZWHD/github/LeetCode/BestTimeToBuyAndSellStockIII/BestTimeToBuyAndSellStockIII.cpp > CMakeFiles/LeetCode.dir/BestTimeToBuyAndSellStockIII/BestTimeToBuyAndSellStockIII.cpp.i
+
+CMakeFiles/LeetCode.dir/BestTimeToBuyAndSellStockIII/BestTimeToBuyAndSellStockIII.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/BestTimeToBuyAndSellStockIII/BestTimeToBuyAndSellStockIII.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Volumes/ZWHD/github/LeetCode/BestTimeToBuyAndSellStockIII/BestTimeToBuyAndSellStockIII.cpp -o CMakeFiles/LeetCode.dir/BestTimeToBuyAndSellStockIII/BestTimeToBuyAndSellStockIII.cpp.s
+
 # Object files for target LeetCode
 LeetCode_OBJECTS = \
 "CMakeFiles/LeetCode.dir/AddTwoNumbers/AddTwoNumbers.cpp.o" \
@@ -1430,7 +1469,10 @@ LeetCode_OBJECTS = \
 "CMakeFiles/LeetCode.dir/PopulatingNextRightPointersInEachNodeII/PopulatingNextRightPointersInEachNodeII.cpp.o" \
 "CMakeFiles/LeetCode.dir/PascalsTriangle/PascalsTriangle.cpp.o" \
 "CMakeFiles/LeetCode.dir/PascalsTriangleII/PascalsTriangleII.cpp.o" \
-"CMakeFiles/LeetCode.dir/Triangle/Triangle.cpp.o"
+"CMakeFiles/LeetCode.dir/Triangle/Triangle.cpp.o" \
+"CMakeFiles/LeetCode.dir/BestTimeToBuyAndSellStock/BestTimeToBuyAndSellStock.cpp.o" \
+"CMakeFiles/LeetCode.dir/BestTimeToBuyAndSellStockII/BestTimeToBuyAndSellStockII.cpp.o" \
+"CMakeFiles/LeetCode.dir/BestTimeToBuyAndSellStockIII/BestTimeToBuyAndSellStockIII.cpp.o"
 
 # External object files for target LeetCode
 LeetCode_EXTERNAL_OBJECTS =
@@ -1533,9 +1575,12 @@ LeetCode: CMakeFiles/LeetCode.dir/PopulatingNextRightPointersInEachNodeII/Popula
 LeetCode: CMakeFiles/LeetCode.dir/PascalsTriangle/PascalsTriangle.cpp.o
 LeetCode: CMakeFiles/LeetCode.dir/PascalsTriangleII/PascalsTriangleII.cpp.o
 LeetCode: CMakeFiles/LeetCode.dir/Triangle/Triangle.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/BestTimeToBuyAndSellStock/BestTimeToBuyAndSellStock.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/BestTimeToBuyAndSellStockII/BestTimeToBuyAndSellStockII.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/BestTimeToBuyAndSellStockIII/BestTimeToBuyAndSellStockIII.cpp.o
 LeetCode: CMakeFiles/LeetCode.dir/build.make
 LeetCode: CMakeFiles/LeetCode.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Volumes/ZWHD/github/LeetCode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_99) "Linking CXX executable LeetCode"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Volumes/ZWHD/github/LeetCode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_102) "Linking CXX executable LeetCode"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/LeetCode.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

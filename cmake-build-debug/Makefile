@@ -204,6 +204,87 @@ BalancedBinaryTree/BalancedBinaryTree.cpp.s:
 	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/BalancedBinaryTree/BalancedBinaryTree.cpp.s
 .PHONY : BalancedBinaryTree/BalancedBinaryTree.cpp.s
 
+BestTimeToBuyAndSellStock/BestTimeToBuyAndSellStock.o: BestTimeToBuyAndSellStock/BestTimeToBuyAndSellStock.cpp.o
+
+.PHONY : BestTimeToBuyAndSellStock/BestTimeToBuyAndSellStock.o
+
+# target to build an object file
+BestTimeToBuyAndSellStock/BestTimeToBuyAndSellStock.cpp.o:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/BestTimeToBuyAndSellStock/BestTimeToBuyAndSellStock.cpp.o
+.PHONY : BestTimeToBuyAndSellStock/BestTimeToBuyAndSellStock.cpp.o
+
+BestTimeToBuyAndSellStock/BestTimeToBuyAndSellStock.i: BestTimeToBuyAndSellStock/BestTimeToBuyAndSellStock.cpp.i
+
+.PHONY : BestTimeToBuyAndSellStock/BestTimeToBuyAndSellStock.i
+
+# target to preprocess a source file
+BestTimeToBuyAndSellStock/BestTimeToBuyAndSellStock.cpp.i:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/BestTimeToBuyAndSellStock/BestTimeToBuyAndSellStock.cpp.i
+.PHONY : BestTimeToBuyAndSellStock/BestTimeToBuyAndSellStock.cpp.i
+
+BestTimeToBuyAndSellStock/BestTimeToBuyAndSellStock.s: BestTimeToBuyAndSellStock/BestTimeToBuyAndSellStock.cpp.s
+
+.PHONY : BestTimeToBuyAndSellStock/BestTimeToBuyAndSellStock.s
+
+# target to generate assembly for a file
+BestTimeToBuyAndSellStock/BestTimeToBuyAndSellStock.cpp.s:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/BestTimeToBuyAndSellStock/BestTimeToBuyAndSellStock.cpp.s
+.PHONY : BestTimeToBuyAndSellStock/BestTimeToBuyAndSellStock.cpp.s
+
+BestTimeToBuyAndSellStockII/BestTimeToBuyAndSellStockII.o: BestTimeToBuyAndSellStockII/BestTimeToBuyAndSellStockII.cpp.o
+
+.PHONY : BestTimeToBuyAndSellStockII/BestTimeToBuyAndSellStockII.o
+
+# target to build an object file
+BestTimeToBuyAndSellStockII/BestTimeToBuyAndSellStockII.cpp.o:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/BestTimeToBuyAndSellStockII/BestTimeToBuyAndSellStockII.cpp.o
+.PHONY : BestTimeToBuyAndSellStockII/BestTimeToBuyAndSellStockII.cpp.o
+
+BestTimeToBuyAndSellStockII/BestTimeToBuyAndSellStockII.i: BestTimeToBuyAndSellStockII/BestTimeToBuyAndSellStockII.cpp.i
+
+.PHONY : BestTimeToBuyAndSellStockII/BestTimeToBuyAndSellStockII.i
+
+# target to preprocess a source file
+BestTimeToBuyAndSellStockII/BestTimeToBuyAndSellStockII.cpp.i:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/BestTimeToBuyAndSellStockII/BestTimeToBuyAndSellStockII.cpp.i
+.PHONY : BestTimeToBuyAndSellStockII/BestTimeToBuyAndSellStockII.cpp.i
+
+BestTimeToBuyAndSellStockII/BestTimeToBuyAndSellStockII.s: BestTimeToBuyAndSellStockII/BestTimeToBuyAndSellStockII.cpp.s
+
+.PHONY : BestTimeToBuyAndSellStockII/BestTimeToBuyAndSellStockII.s
+
+# target to generate assembly for a file
+BestTimeToBuyAndSellStockII/BestTimeToBuyAndSellStockII.cpp.s:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/BestTimeToBuyAndSellStockII/BestTimeToBuyAndSellStockII.cpp.s
+.PHONY : BestTimeToBuyAndSellStockII/BestTimeToBuyAndSellStockII.cpp.s
+
+BestTimeToBuyAndSellStockIII/BestTimeToBuyAndSellStockIII.o: BestTimeToBuyAndSellStockIII/BestTimeToBuyAndSellStockIII.cpp.o
+
+.PHONY : BestTimeToBuyAndSellStockIII/BestTimeToBuyAndSellStockIII.o
+
+# target to build an object file
+BestTimeToBuyAndSellStockIII/BestTimeToBuyAndSellStockIII.cpp.o:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/BestTimeToBuyAndSellStockIII/BestTimeToBuyAndSellStockIII.cpp.o
+.PHONY : BestTimeToBuyAndSellStockIII/BestTimeToBuyAndSellStockIII.cpp.o
+
+BestTimeToBuyAndSellStockIII/BestTimeToBuyAndSellStockIII.i: BestTimeToBuyAndSellStockIII/BestTimeToBuyAndSellStockIII.cpp.i
+
+.PHONY : BestTimeToBuyAndSellStockIII/BestTimeToBuyAndSellStockIII.i
+
+# target to preprocess a source file
+BestTimeToBuyAndSellStockIII/BestTimeToBuyAndSellStockIII.cpp.i:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/BestTimeToBuyAndSellStockIII/BestTimeToBuyAndSellStockIII.cpp.i
+.PHONY : BestTimeToBuyAndSellStockIII/BestTimeToBuyAndSellStockIII.cpp.i
+
+BestTimeToBuyAndSellStockIII/BestTimeToBuyAndSellStockIII.s: BestTimeToBuyAndSellStockIII/BestTimeToBuyAndSellStockIII.cpp.s
+
+.PHONY : BestTimeToBuyAndSellStockIII/BestTimeToBuyAndSellStockIII.s
+
+# target to generate assembly for a file
+BestTimeToBuyAndSellStockIII/BestTimeToBuyAndSellStockIII.cpp.s:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/BestTimeToBuyAndSellStockIII/BestTimeToBuyAndSellStockIII.cpp.s
+.PHONY : BestTimeToBuyAndSellStockIII/BestTimeToBuyAndSellStockIII.cpp.s
+
 BinaryTreeInorderTraversal/BinaryTreeInorderTraversal.o: BinaryTreeInorderTraversal/BinaryTreeInorderTraversal.cpp.o
 
 .PHONY : BinaryTreeInorderTraversal/BinaryTreeInorderTraversal.o
@@ -2787,6 +2868,15 @@ help:
 	@echo "... BalancedBinaryTree/BalancedBinaryTree.o"
 	@echo "... BalancedBinaryTree/BalancedBinaryTree.i"
 	@echo "... BalancedBinaryTree/BalancedBinaryTree.s"
+	@echo "... BestTimeToBuyAndSellStock/BestTimeToBuyAndSellStock.o"
+	@echo "... BestTimeToBuyAndSellStock/BestTimeToBuyAndSellStock.i"
+	@echo "... BestTimeToBuyAndSellStock/BestTimeToBuyAndSellStock.s"
+	@echo "... BestTimeToBuyAndSellStockII/BestTimeToBuyAndSellStockII.o"
+	@echo "... BestTimeToBuyAndSellStockII/BestTimeToBuyAndSellStockII.i"
+	@echo "... BestTimeToBuyAndSellStockII/BestTimeToBuyAndSellStockII.s"
+	@echo "... BestTimeToBuyAndSellStockIII/BestTimeToBuyAndSellStockIII.o"
+	@echo "... BestTimeToBuyAndSellStockIII/BestTimeToBuyAndSellStockIII.i"
+	@echo "... BestTimeToBuyAndSellStockIII/BestTimeToBuyAndSellStockIII.s"
 	@echo "... BinaryTreeInorderTraversal/BinaryTreeInorderTraversal.o"
 	@echo "... BinaryTreeInorderTraversal/BinaryTreeInorderTraversal.i"
 	@echo "... BinaryTreeInorderTraversal/BinaryTreeInorderTraversal.s"
