@@ -3,23 +3,12 @@
 //#include "PalindromeNumber/PalindromeNumber.h"
 //#include "RegularExpressionMatching/RegularExpressionMatching.h"
 
-#include "SumRootToLeafNumbers/SumRootToLeafNumbers.h"
+#include "PalindromePartitioningII/PalindromePartitioningII.h"
 
 int main()
 {
-    SumRootToLeafNumbers* s = new SumRootToLeafNumbers();
-    TreeNode l1(4);
-    TreeNode l2(9);
-    TreeNode l3(5);
-    TreeNode l4(1);
-    TreeNode l5(0);
-
-    l1.left = &l2;
-    l1.right = &l5;
-    l2.left = &l3;
-    l2.right = &l4;
-
-    std::cout<<s->sumNumbers(&l1)<<std::endl;
+    PalindromePartitioningII* p = new PalindromePartitioningII();
+    std::cout<<p->minCut("aab")<<std::endl;
 }
 
 

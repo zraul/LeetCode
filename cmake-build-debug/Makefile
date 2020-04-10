@@ -1473,6 +1473,60 @@ PalindromeNumber/PalindromeNumber.cpp.s:
 	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/PalindromeNumber/PalindromeNumber.cpp.s
 .PHONY : PalindromeNumber/PalindromeNumber.cpp.s
 
+PalindromePartitioning/PalindromePartitioning.o: PalindromePartitioning/PalindromePartitioning.cpp.o
+
+.PHONY : PalindromePartitioning/PalindromePartitioning.o
+
+# target to build an object file
+PalindromePartitioning/PalindromePartitioning.cpp.o:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/PalindromePartitioning/PalindromePartitioning.cpp.o
+.PHONY : PalindromePartitioning/PalindromePartitioning.cpp.o
+
+PalindromePartitioning/PalindromePartitioning.i: PalindromePartitioning/PalindromePartitioning.cpp.i
+
+.PHONY : PalindromePartitioning/PalindromePartitioning.i
+
+# target to preprocess a source file
+PalindromePartitioning/PalindromePartitioning.cpp.i:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/PalindromePartitioning/PalindromePartitioning.cpp.i
+.PHONY : PalindromePartitioning/PalindromePartitioning.cpp.i
+
+PalindromePartitioning/PalindromePartitioning.s: PalindromePartitioning/PalindromePartitioning.cpp.s
+
+.PHONY : PalindromePartitioning/PalindromePartitioning.s
+
+# target to generate assembly for a file
+PalindromePartitioning/PalindromePartitioning.cpp.s:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/PalindromePartitioning/PalindromePartitioning.cpp.s
+.PHONY : PalindromePartitioning/PalindromePartitioning.cpp.s
+
+PalindromePartitioningII/PalindromePartitioningII.o: PalindromePartitioningII/PalindromePartitioningII.cpp.o
+
+.PHONY : PalindromePartitioningII/PalindromePartitioningII.o
+
+# target to build an object file
+PalindromePartitioningII/PalindromePartitioningII.cpp.o:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/PalindromePartitioningII/PalindromePartitioningII.cpp.o
+.PHONY : PalindromePartitioningII/PalindromePartitioningII.cpp.o
+
+PalindromePartitioningII/PalindromePartitioningII.i: PalindromePartitioningII/PalindromePartitioningII.cpp.i
+
+.PHONY : PalindromePartitioningII/PalindromePartitioningII.i
+
+# target to preprocess a source file
+PalindromePartitioningII/PalindromePartitioningII.cpp.i:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/PalindromePartitioningII/PalindromePartitioningII.cpp.i
+.PHONY : PalindromePartitioningII/PalindromePartitioningII.cpp.i
+
+PalindromePartitioningII/PalindromePartitioningII.s: PalindromePartitioningII/PalindromePartitioningII.cpp.s
+
+.PHONY : PalindromePartitioningII/PalindromePartitioningII.s
+
+# target to generate assembly for a file
+PalindromePartitioningII/PalindromePartitioningII.cpp.s:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/PalindromePartitioningII/PalindromePartitioningII.cpp.s
+.PHONY : PalindromePartitioningII/PalindromePartitioningII.cpp.s
+
 PartitionList/PartitionList.o: PartitionList/PartitionList.cpp.o
 
 .PHONY : PartitionList/PartitionList.o
@@ -2499,6 +2553,33 @@ SumRootToLeafNumbers/SumRootToLeafNumbers.cpp.s:
 	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/SumRootToLeafNumbers/SumRootToLeafNumbers.cpp.s
 .PHONY : SumRootToLeafNumbers/SumRootToLeafNumbers.cpp.s
 
+SurroundedRegions/SurroundedRegions.o: SurroundedRegions/SurroundedRegions.cpp.o
+
+.PHONY : SurroundedRegions/SurroundedRegions.o
+
+# target to build an object file
+SurroundedRegions/SurroundedRegions.cpp.o:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/SurroundedRegions/SurroundedRegions.cpp.o
+.PHONY : SurroundedRegions/SurroundedRegions.cpp.o
+
+SurroundedRegions/SurroundedRegions.i: SurroundedRegions/SurroundedRegions.cpp.i
+
+.PHONY : SurroundedRegions/SurroundedRegions.i
+
+# target to preprocess a source file
+SurroundedRegions/SurroundedRegions.cpp.i:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/SurroundedRegions/SurroundedRegions.cpp.i
+.PHONY : SurroundedRegions/SurroundedRegions.cpp.i
+
+SurroundedRegions/SurroundedRegions.s: SurroundedRegions/SurroundedRegions.cpp.s
+
+.PHONY : SurroundedRegions/SurroundedRegions.s
+
+# target to generate assembly for a file
+SurroundedRegions/SurroundedRegions.cpp.s:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/SurroundedRegions/SurroundedRegions.cpp.s
+.PHONY : SurroundedRegions/SurroundedRegions.cpp.s
+
 SymmetricTree/SymmetricTree.o: SymmetricTree/SymmetricTree.cpp.o
 
 .PHONY : SymmetricTree/SymmetricTree.o
@@ -3171,6 +3252,12 @@ help:
 	@echo "... PalindromeNumber/PalindromeNumber.o"
 	@echo "... PalindromeNumber/PalindromeNumber.i"
 	@echo "... PalindromeNumber/PalindromeNumber.s"
+	@echo "... PalindromePartitioning/PalindromePartitioning.o"
+	@echo "... PalindromePartitioning/PalindromePartitioning.i"
+	@echo "... PalindromePartitioning/PalindromePartitioning.s"
+	@echo "... PalindromePartitioningII/PalindromePartitioningII.o"
+	@echo "... PalindromePartitioningII/PalindromePartitioningII.i"
+	@echo "... PalindromePartitioningII/PalindromePartitioningII.s"
 	@echo "... PartitionList/PartitionList.o"
 	@echo "... PartitionList/PartitionList.i"
 	@echo "... PartitionList/PartitionList.s"
@@ -3285,6 +3372,9 @@ help:
 	@echo "... SumRootToLeafNumbers/SumRootToLeafNumbers.o"
 	@echo "... SumRootToLeafNumbers/SumRootToLeafNumbers.i"
 	@echo "... SumRootToLeafNumbers/SumRootToLeafNumbers.s"
+	@echo "... SurroundedRegions/SurroundedRegions.o"
+	@echo "... SurroundedRegions/SurroundedRegions.i"
+	@echo "... SurroundedRegions/SurroundedRegions.s"
 	@echo "... SymmetricTree/SymmetricTree.o"
 	@echo "... SymmetricTree/SymmetricTree.i"
 	@echo "... SymmetricTree/SymmetricTree.s"

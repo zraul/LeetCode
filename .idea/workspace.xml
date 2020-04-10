@@ -12,18 +12,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6572f727-0fe8-4c92-80bd-b9f70d0e5706" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/BinaryTreeMaximumPathSum/BinaryTreeMaximumPathSum.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BinaryTreeMaximumPathSum/BinaryTreeMaximumPathSum.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LongestConsecutiveSequence/LongestConsecutiveSequence.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LongestConsecutiveSequence/LongestConsecutiveSequence.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SumRootToLeafNumbers/SumRootToLeafNumbers.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SumRootToLeafNumbers/SumRootToLeafNumbers.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ValidPalindrome/ValidPalindrome.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ValidPalindrome/ValidPalindrome.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WordLadder/WordLadder.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WordLadder/WordLadder.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WordLadderII/WordLadderII.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WordLadderII/WordLadderII.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PalindromePartitioning/PalindromePartitioning.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PalindromePartitioning/PalindromePartitioning.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PalindromePartitioningII/PalindromePartitioningII.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PalindromePartitioningII/PalindromePartitioningII.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SurroundedRegions/SurroundedRegions.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SurroundedRegions/SurroundedRegions.h" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LeetCode.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LeetCode.dir/CXX.includecache" afterDir="false" />
@@ -282,7 +276,8 @@
       <workItem from="1586224564498" duration="4802000" />
       <workItem from="1586306683830" duration="601000" />
       <workItem from="1586311445863" duration="8847000" />
-      <workItem from="1586413275603" duration="5448000" />
+      <workItem from="1586413275603" duration="5780000" />
+      <workItem from="1586479671044" duration="5711000" />
     </task>
     <servers />
   </component>
@@ -729,6 +724,31 @@
           <url>file://$PROJECT_DIR$/SumRootToLeafNumbers/SumRootToLeafNumbers.cpp</url>
           <line>17</line>
           <option name="timeStamp" value="112" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/SurroundedRegions/SurroundedRegions.cpp</url>
+          <line>13</line>
+          <option name="timeStamp" value="114" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/SurroundedRegions/SurroundedRegions.cpp</url>
+          <line>45</line>
+          <option name="timeStamp" value="115" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/PalindromePartitioning/PalindromePartitioning.cpp</url>
+          <line>20</line>
+          <option name="timeStamp" value="116" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/PalindromePartitioning/PalindromePartitioning.cpp</url>
+          <line>36</line>
+          <option name="timeStamp" value="117" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/PalindromePartitioningII/PalindromePartitioningII.cpp</url>
+          <line>7</line>
+          <option name="timeStamp" value="118" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

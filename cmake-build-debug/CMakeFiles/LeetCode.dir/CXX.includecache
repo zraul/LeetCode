@@ -6,31 +6,13 @@
 
 #IncludeRegexTransform: 
 
-/Volumes/ZWHD/github/LeetCode/LongestConsecutiveSequence/LongestConsecutiveSequence.cpp
-LongestConsecutiveSequence.h
-/Volumes/ZWHD/github/LeetCode/LongestConsecutiveSequence/LongestConsecutiveSequence.h
+/Volumes/ZWHD/github/LeetCode/PalindromePartitioningII/PalindromePartitioningII.cpp
+PalindromePartitioningII.h
+/Volumes/ZWHD/github/LeetCode/PalindromePartitioningII/PalindromePartitioningII.h
 
-/Volumes/ZWHD/github/LeetCode/LongestConsecutiveSequence/LongestConsecutiveSequence.h
+/Volumes/ZWHD/github/LeetCode/PalindromePartitioningII/PalindromePartitioningII.h
 iostream
 -
 vector
 -
-unordered_map
--
-unordered_set
--
-
-/Volumes/ZWHD/github/LeetCode/SumRootToLeafNumbers/SumRootToLeafNumbers.cpp
-SumRootToLeafNumbers.h
-/Volumes/ZWHD/github/LeetCode/SumRootToLeafNumbers/SumRootToLeafNumbers.h
-
-/Volumes/ZWHD/github/LeetCode/SumRootToLeafNumbers/SumRootToLeafNumbers.h
-iostream
--
-vector
--
-
-/Volumes/ZWHD/github/LeetCode/main.cpp
-SumRootToLeafNumbers/SumRootToLeafNumbers.h
-/Volumes/ZWHD/github/LeetCode/SumRootToLeafNumbers/SumRootToLeafNumbers.h
 

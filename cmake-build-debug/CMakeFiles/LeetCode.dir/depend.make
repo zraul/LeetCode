@@ -157,6 +157,12 @@ CMakeFiles/LeetCode.dir/PalindromeNumber/PalindromeNumber.cpp.o: ../PalindromeNu
 CMakeFiles/LeetCode.dir/PalindromeNumber/PalindromeNumber.cpp.o: ../PalindromeNumber/PalindromeNumber.h
 CMakeFiles/LeetCode.dir/PalindromeNumber/PalindromeNumber.cpp.o: ../common.h
 
+CMakeFiles/LeetCode.dir/PalindromePartitioning/PalindromePartitioning.cpp.o: ../PalindromePartitioning/PalindromePartitioning.cpp
+CMakeFiles/LeetCode.dir/PalindromePartitioning/PalindromePartitioning.cpp.o: ../PalindromePartitioning/PalindromePartitioning.h
+
+CMakeFiles/LeetCode.dir/PalindromePartitioningII/PalindromePartitioningII.cpp.o: ../PalindromePartitioningII/PalindromePartitioningII.cpp
+CMakeFiles/LeetCode.dir/PalindromePartitioningII/PalindromePartitioningII.cpp.o: ../PalindromePartitioningII/PalindromePartitioningII.h
+
 CMakeFiles/LeetCode.dir/PartitionList/PartitionList.cpp.o: ../PartitionList/PartitionList.cpp
 CMakeFiles/LeetCode.dir/PartitionList/PartitionList.cpp.o: ../PartitionList/PartitionList.h
 
@@ -274,6 +280,9 @@ CMakeFiles/LeetCode.dir/SudokuSolver/SudokuSolver.cpp.o: ../SudokuSolver/SudokuS
 CMakeFiles/LeetCode.dir/SumRootToLeafNumbers/SumRootToLeafNumbers.cpp.o: ../SumRootToLeafNumbers/SumRootToLeafNumbers.cpp
 CMakeFiles/LeetCode.dir/SumRootToLeafNumbers/SumRootToLeafNumbers.cpp.o: ../SumRootToLeafNumbers/SumRootToLeafNumbers.h
 
+CMakeFiles/LeetCode.dir/SurroundedRegions/SurroundedRegions.cpp.o: ../SurroundedRegions/SurroundedRegions.cpp
+CMakeFiles/LeetCode.dir/SurroundedRegions/SurroundedRegions.cpp.o: ../SurroundedRegions/SurroundedRegions.h
+
 CMakeFiles/LeetCode.dir/SymmetricTree/SymmetricTree.cpp.o: ../SymmetricTree/SymmetricTree.cpp
 CMakeFiles/LeetCode.dir/SymmetricTree/SymmetricTree.cpp.o: ../SymmetricTree/SymmetricTree.h
 
@@ -330,6 +339,6 @@ CMakeFiles/LeetCode.dir/ZigZag/ZigZag.cpp.o: ../ZigZag/ZigZag.cpp
 CMakeFiles/LeetCode.dir/ZigZag/ZigZag.cpp.o: ../ZigZag/ZigZag.h
 CMakeFiles/LeetCode.dir/ZigZag/ZigZag.cpp.o: ../common.h
 
-CMakeFiles/LeetCode.dir/main.cpp.o: ../SumRootToLeafNumbers/SumRootToLeafNumbers.h
+CMakeFiles/LeetCode.dir/main.cpp.o: ../PalindromePartitioningII/PalindromePartitioningII.h
 CMakeFiles/LeetCode.dir/main.cpp.o: ../main.cpp
 
