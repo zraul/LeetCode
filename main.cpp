@@ -3,12 +3,13 @@
 //#include "PalindromeNumber/PalindromeNumber.h"
 //#include "RegularExpressionMatching/RegularExpressionMatching.h"
 
-#include "PalindromePartitioningII/PalindromePartitioningII.h"
+#include "Candy/Candy.h"
 
 int main()
 {
-    PalindromePartitioningII* p = new PalindromePartitioningII();
-    std::cout<<p->minCut("aab")<<std::endl;
+    Candy* g = new Candy();
+    std::vector<int> gas = {1, 0, 2};
+    std::cout<<g->candy(gas)<<std::endl;
 }
 
 

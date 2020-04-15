@@ -420,6 +420,33 @@ BinaryTreeZigzagLevelOrderTraversal/BinaryTreeZigzagLevelOrderTraversal.cpp.s:
 	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/BinaryTreeZigzagLevelOrderTraversal/BinaryTreeZigzagLevelOrderTraversal.cpp.s
 .PHONY : BinaryTreeZigzagLevelOrderTraversal/BinaryTreeZigzagLevelOrderTraversal.cpp.s
 
+Candy/Candy.o: Candy/Candy.cpp.o
+
+.PHONY : Candy/Candy.o
+
+# target to build an object file
+Candy/Candy.cpp.o:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Candy/Candy.cpp.o
+.PHONY : Candy/Candy.cpp.o
+
+Candy/Candy.i: Candy/Candy.cpp.i
+
+.PHONY : Candy/Candy.i
+
+# target to preprocess a source file
+Candy/Candy.cpp.i:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Candy/Candy.cpp.i
+.PHONY : Candy/Candy.cpp.i
+
+Candy/Candy.s: Candy/Candy.cpp.s
+
+.PHONY : Candy/Candy.s
+
+# target to generate assembly for a file
+Candy/Candy.cpp.s:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Candy/Candy.cpp.s
+.PHONY : Candy/Candy.cpp.s
+
 ClimbingStairs/ClimbingStairs.o: ClimbingStairs/ClimbingStairs.cpp.o
 
 .PHONY : ClimbingStairs/ClimbingStairs.o
@@ -446,6 +473,33 @@ ClimbingStairs/ClimbingStairs.s: ClimbingStairs/ClimbingStairs.cpp.s
 ClimbingStairs/ClimbingStairs.cpp.s:
 	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/ClimbingStairs/ClimbingStairs.cpp.s
 .PHONY : ClimbingStairs/ClimbingStairs.cpp.s
+
+CloneGraph/CloneGraph.o: CloneGraph/CloneGraph.cpp.o
+
+.PHONY : CloneGraph/CloneGraph.o
+
+# target to build an object file
+CloneGraph/CloneGraph.cpp.o:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/CloneGraph/CloneGraph.cpp.o
+.PHONY : CloneGraph/CloneGraph.cpp.o
+
+CloneGraph/CloneGraph.i: CloneGraph/CloneGraph.cpp.i
+
+.PHONY : CloneGraph/CloneGraph.i
+
+# target to preprocess a source file
+CloneGraph/CloneGraph.cpp.i:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/CloneGraph/CloneGraph.cpp.i
+.PHONY : CloneGraph/CloneGraph.cpp.i
+
+CloneGraph/CloneGraph.s: CloneGraph/CloneGraph.cpp.s
+
+.PHONY : CloneGraph/CloneGraph.s
+
+# target to generate assembly for a file
+CloneGraph/CloneGraph.cpp.s:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/CloneGraph/CloneGraph.cpp.s
+.PHONY : CloneGraph/CloneGraph.cpp.s
 
 CombinationSum/CombinationSum.o: CombinationSum/CombinationSum.cpp.o
 
@@ -797,6 +851,33 @@ FlattenBinaryTreeToLinkedList/FlattenBinaryTreeToLinkedList.s: FlattenBinaryTree
 FlattenBinaryTreeToLinkedList/FlattenBinaryTreeToLinkedList.cpp.s:
 	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/FlattenBinaryTreeToLinkedList/FlattenBinaryTreeToLinkedList.cpp.s
 .PHONY : FlattenBinaryTreeToLinkedList/FlattenBinaryTreeToLinkedList.cpp.s
+
+GasStation/GasStation.o: GasStation/GasStation.cpp.o
+
+.PHONY : GasStation/GasStation.o
+
+# target to build an object file
+GasStation/GasStation.cpp.o:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/GasStation/GasStation.cpp.o
+.PHONY : GasStation/GasStation.cpp.o
+
+GasStation/GasStation.i: GasStation/GasStation.cpp.i
+
+.PHONY : GasStation/GasStation.i
+
+# target to preprocess a source file
+GasStation/GasStation.cpp.i:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/GasStation/GasStation.cpp.i
+.PHONY : GasStation/GasStation.cpp.i
+
+GasStation/GasStation.s: GasStation/GasStation.cpp.s
+
+.PHONY : GasStation/GasStation.s
+
+# target to generate assembly for a file
+GasStation/GasStation.cpp.s:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/GasStation/GasStation.cpp.s
+.PHONY : GasStation/GasStation.cpp.s
 
 GrayCode/GrayCode.o: GrayCode/GrayCode.cpp.o
 
@@ -3135,9 +3216,15 @@ help:
 	@echo "... BinaryTreeZigzagLevelOrderTraversal/BinaryTreeZigzagLevelOrderTraversal.o"
 	@echo "... BinaryTreeZigzagLevelOrderTraversal/BinaryTreeZigzagLevelOrderTraversal.i"
 	@echo "... BinaryTreeZigzagLevelOrderTraversal/BinaryTreeZigzagLevelOrderTraversal.s"
+	@echo "... Candy/Candy.o"
+	@echo "... Candy/Candy.i"
+	@echo "... Candy/Candy.s"
 	@echo "... ClimbingStairs/ClimbingStairs.o"
 	@echo "... ClimbingStairs/ClimbingStairs.i"
 	@echo "... ClimbingStairs/ClimbingStairs.s"
+	@echo "... CloneGraph/CloneGraph.o"
+	@echo "... CloneGraph/CloneGraph.i"
+	@echo "... CloneGraph/CloneGraph.s"
 	@echo "... CombinationSum/CombinationSum.o"
 	@echo "... CombinationSum/CombinationSum.i"
 	@echo "... CombinationSum/CombinationSum.s"
@@ -3177,6 +3264,9 @@ help:
 	@echo "... FlattenBinaryTreeToLinkedList/FlattenBinaryTreeToLinkedList.o"
 	@echo "... FlattenBinaryTreeToLinkedList/FlattenBinaryTreeToLinkedList.i"
 	@echo "... FlattenBinaryTreeToLinkedList/FlattenBinaryTreeToLinkedList.s"
+	@echo "... GasStation/GasStation.o"
+	@echo "... GasStation/GasStation.i"
+	@echo "... GasStation/GasStation.s"
 	@echo "... GrayCode/GrayCode.o"
 	@echo "... GrayCode/GrayCode.i"
 	@echo "... GrayCode/GrayCode.s"

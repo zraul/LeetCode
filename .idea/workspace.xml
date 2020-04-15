@@ -12,12 +12,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6572f727-0fe8-4c92-80bd-b9f70d0e5706" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/PalindromePartitioning/PalindromePartitioning.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PalindromePartitioning/PalindromePartitioning.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PalindromePartitioningII/PalindromePartitioningII.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PalindromePartitioningII/PalindromePartitioningII.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SurroundedRegions/SurroundedRegions.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SurroundedRegions/SurroundedRegions.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Candy/Candy.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Candy/Candy.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CloneGraph/CloneGraph.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CloneGraph/CloneGraph.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GasStation/GasStation.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GasStation/GasStation.h" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LeetCode.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LeetCode.dir/CXX.includecache" afterDir="false" />
@@ -277,7 +277,8 @@
       <workItem from="1586306683830" duration="601000" />
       <workItem from="1586311445863" duration="8847000" />
       <workItem from="1586413275603" duration="5780000" />
-      <workItem from="1586479671044" duration="5711000" />
+      <workItem from="1586479671044" duration="5774000" />
+      <workItem from="1586921165840" duration="4492000" />
     </task>
     <servers />
   </component>
@@ -749,6 +750,11 @@
           <url>file://$PROJECT_DIR$/PalindromePartitioningII/PalindromePartitioningII.cpp</url>
           <line>7</line>
           <option name="timeStamp" value="118" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/GasStation/GasStation.cpp</url>
+          <line>7</line>
+          <option name="timeStamp" value="119" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

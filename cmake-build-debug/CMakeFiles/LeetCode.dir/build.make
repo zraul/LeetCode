@@ -1487,6 +1487,45 @@ CMakeFiles/LeetCode.dir/PalindromePartitioningII/PalindromePartitioningII.cpp.s:
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/PalindromePartitioningII/PalindromePartitioningII.cpp.s"
 	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Volumes/ZWHD/github/LeetCode/PalindromePartitioningII/PalindromePartitioningII.cpp -o CMakeFiles/LeetCode.dir/PalindromePartitioningII/PalindromePartitioningII.cpp.s
 
+CMakeFiles/LeetCode.dir/CloneGraph/CloneGraph.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/CloneGraph/CloneGraph.cpp.o: ../CloneGraph/CloneGraph.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Volumes/ZWHD/github/LeetCode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_111) "Building CXX object CMakeFiles/LeetCode.dir/CloneGraph/CloneGraph.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/LeetCode.dir/CloneGraph/CloneGraph.cpp.o -c /Volumes/ZWHD/github/LeetCode/CloneGraph/CloneGraph.cpp
+
+CMakeFiles/LeetCode.dir/CloneGraph/CloneGraph.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/CloneGraph/CloneGraph.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Volumes/ZWHD/github/LeetCode/CloneGraph/CloneGraph.cpp > CMakeFiles/LeetCode.dir/CloneGraph/CloneGraph.cpp.i
+
+CMakeFiles/LeetCode.dir/CloneGraph/CloneGraph.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/CloneGraph/CloneGraph.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Volumes/ZWHD/github/LeetCode/CloneGraph/CloneGraph.cpp -o CMakeFiles/LeetCode.dir/CloneGraph/CloneGraph.cpp.s
+
+CMakeFiles/LeetCode.dir/GasStation/GasStation.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/GasStation/GasStation.cpp.o: ../GasStation/GasStation.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Volumes/ZWHD/github/LeetCode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_112) "Building CXX object CMakeFiles/LeetCode.dir/GasStation/GasStation.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/LeetCode.dir/GasStation/GasStation.cpp.o -c /Volumes/ZWHD/github/LeetCode/GasStation/GasStation.cpp
+
+CMakeFiles/LeetCode.dir/GasStation/GasStation.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/GasStation/GasStation.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Volumes/ZWHD/github/LeetCode/GasStation/GasStation.cpp > CMakeFiles/LeetCode.dir/GasStation/GasStation.cpp.i
+
+CMakeFiles/LeetCode.dir/GasStation/GasStation.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/GasStation/GasStation.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Volumes/ZWHD/github/LeetCode/GasStation/GasStation.cpp -o CMakeFiles/LeetCode.dir/GasStation/GasStation.cpp.s
+
+CMakeFiles/LeetCode.dir/Candy/Candy.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/Candy/Candy.cpp.o: ../Candy/Candy.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Volumes/ZWHD/github/LeetCode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_113) "Building CXX object CMakeFiles/LeetCode.dir/Candy/Candy.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/LeetCode.dir/Candy/Candy.cpp.o -c /Volumes/ZWHD/github/LeetCode/Candy/Candy.cpp
+
+CMakeFiles/LeetCode.dir/Candy/Candy.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/Candy/Candy.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Volumes/ZWHD/github/LeetCode/Candy/Candy.cpp > CMakeFiles/LeetCode.dir/Candy/Candy.cpp.i
+
+CMakeFiles/LeetCode.dir/Candy/Candy.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Candy/Candy.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Volumes/ZWHD/github/LeetCode/Candy/Candy.cpp -o CMakeFiles/LeetCode.dir/Candy/Candy.cpp.s
+
 # Object files for target LeetCode
 LeetCode_OBJECTS = \
 "CMakeFiles/LeetCode.dir/AddTwoNumbers/AddTwoNumbers.cpp.o" \
@@ -1598,7 +1637,10 @@ LeetCode_OBJECTS = \
 "CMakeFiles/LeetCode.dir/SumRootToLeafNumbers/SumRootToLeafNumbers.cpp.o" \
 "CMakeFiles/LeetCode.dir/SurroundedRegions/SurroundedRegions.cpp.o" \
 "CMakeFiles/LeetCode.dir/PalindromePartitioning/PalindromePartitioning.cpp.o" \
-"CMakeFiles/LeetCode.dir/PalindromePartitioningII/PalindromePartitioningII.cpp.o"
+"CMakeFiles/LeetCode.dir/PalindromePartitioningII/PalindromePartitioningII.cpp.o" \
+"CMakeFiles/LeetCode.dir/CloneGraph/CloneGraph.cpp.o" \
+"CMakeFiles/LeetCode.dir/GasStation/GasStation.cpp.o" \
+"CMakeFiles/LeetCode.dir/Candy/Candy.cpp.o"
 
 # External object files for target LeetCode
 LeetCode_EXTERNAL_OBJECTS =
@@ -1713,9 +1755,12 @@ LeetCode: CMakeFiles/LeetCode.dir/SumRootToLeafNumbers/SumRootToLeafNumbers.cpp.
 LeetCode: CMakeFiles/LeetCode.dir/SurroundedRegions/SurroundedRegions.cpp.o
 LeetCode: CMakeFiles/LeetCode.dir/PalindromePartitioning/PalindromePartitioning.cpp.o
 LeetCode: CMakeFiles/LeetCode.dir/PalindromePartitioningII/PalindromePartitioningII.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/CloneGraph/CloneGraph.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/GasStation/GasStation.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/Candy/Candy.cpp.o
 LeetCode: CMakeFiles/LeetCode.dir/build.make
 LeetCode: CMakeFiles/LeetCode.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Volumes/ZWHD/github/LeetCode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_111) "Linking CXX executable LeetCode"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Volumes/ZWHD/github/LeetCode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_114) "Linking CXX executable LeetCode"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/LeetCode.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

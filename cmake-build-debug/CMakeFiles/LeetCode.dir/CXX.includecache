@@ -6,13 +6,13 @@
 
 #IncludeRegexTransform: 
 
-/Volumes/ZWHD/github/LeetCode/PalindromePartitioningII/PalindromePartitioningII.cpp
-PalindromePartitioningII.h
-/Volumes/ZWHD/github/LeetCode/PalindromePartitioningII/PalindromePartitioningII.h
-
-/Volumes/ZWHD/github/LeetCode/PalindromePartitioningII/PalindromePartitioningII.h
+/Volumes/ZWHD/github/LeetCode/Candy/Candy.h
 iostream
 -
 vector
 -
+
+/Volumes/ZWHD/github/LeetCode/main.cpp
+Candy/Candy.h
+/Volumes/ZWHD/github/LeetCode/Candy/Candy.h
 
