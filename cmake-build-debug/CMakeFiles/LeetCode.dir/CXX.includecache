@@ -6,13 +6,13 @@
 
 #IncludeRegexTransform: 
 
-/Volumes/ZWHD/github/LeetCode/Candy/Candy.h
+/Volumes/ZWHD/github/LeetCode/SingleNumberII/SingleNumberII.h
 iostream
 -
 vector
 -
 
 /Volumes/ZWHD/github/LeetCode/main.cpp
-Candy/Candy.h
-/Volumes/ZWHD/github/LeetCode/Candy/Candy.h
+SingleNumberII/SingleNumberII.h
+/Volumes/ZWHD/github/LeetCode/SingleNumberII/SingleNumberII.h
 

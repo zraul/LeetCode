@@ -265,6 +265,12 @@ CMakeFiles/LeetCode.dir/SetMatrixZeroes/SetMatrixZeroes.cpp.o: ../SetMatrixZeroe
 CMakeFiles/LeetCode.dir/SimplifyPath/SimplifyPath.cpp.o: ../SimplifyPath/SimplifyPath.cpp
 CMakeFiles/LeetCode.dir/SimplifyPath/SimplifyPath.cpp.o: ../SimplifyPath/SimplifyPath.h
 
+CMakeFiles/LeetCode.dir/SingleNumber/SingleNumber.cpp.o: ../SingleNumber/SingleNumber.cpp
+CMakeFiles/LeetCode.dir/SingleNumber/SingleNumber.cpp.o: ../SingleNumber/SingleNumber.h
+
+CMakeFiles/LeetCode.dir/SingleNumberII/SingleNumberII.cpp.o: ../SingleNumberII/SingleNumberII.cpp
+CMakeFiles/LeetCode.dir/SingleNumberII/SingleNumberII.cpp.o: ../SingleNumberII/SingleNumberII.h
+
 CMakeFiles/LeetCode.dir/SortColors/SortColors.cpp.o: ../SortColors/SortColors.cpp
 CMakeFiles/LeetCode.dir/SortColors/SortColors.cpp.o: ../SortColors/SortColors.h
 
@@ -348,6 +354,6 @@ CMakeFiles/LeetCode.dir/ZigZag/ZigZag.cpp.o: ../ZigZag/ZigZag.cpp
 CMakeFiles/LeetCode.dir/ZigZag/ZigZag.cpp.o: ../ZigZag/ZigZag.h
 CMakeFiles/LeetCode.dir/ZigZag/ZigZag.cpp.o: ../common.h
 
-CMakeFiles/LeetCode.dir/main.cpp.o: ../Candy/Candy.h
+CMakeFiles/LeetCode.dir/main.cpp.o: ../SingleNumberII/SingleNumberII.h
 CMakeFiles/LeetCode.dir/main.cpp.o: ../main.cpp
 

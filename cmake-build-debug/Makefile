@@ -663,6 +663,33 @@ ConvertSortedListToBinarySearchTree/ConvertSortedListToBinarySearchTree.cpp.s:
 	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/ConvertSortedListToBinarySearchTree/ConvertSortedListToBinarySearchTree.cpp.s
 .PHONY : ConvertSortedListToBinarySearchTree/ConvertSortedListToBinarySearchTree.cpp.s
 
+CopyListWithRandomPointer/CopyListWithRandomPointer.o: CopyListWithRandomPointer/CopyListWithRandomPointer.cpp.o
+
+.PHONY : CopyListWithRandomPointer/CopyListWithRandomPointer.o
+
+# target to build an object file
+CopyListWithRandomPointer/CopyListWithRandomPointer.cpp.o:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/CopyListWithRandomPointer/CopyListWithRandomPointer.cpp.o
+.PHONY : CopyListWithRandomPointer/CopyListWithRandomPointer.cpp.o
+
+CopyListWithRandomPointer/CopyListWithRandomPointer.i: CopyListWithRandomPointer/CopyListWithRandomPointer.cpp.i
+
+.PHONY : CopyListWithRandomPointer/CopyListWithRandomPointer.i
+
+# target to preprocess a source file
+CopyListWithRandomPointer/CopyListWithRandomPointer.cpp.i:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/CopyListWithRandomPointer/CopyListWithRandomPointer.cpp.i
+.PHONY : CopyListWithRandomPointer/CopyListWithRandomPointer.cpp.i
+
+CopyListWithRandomPointer/CopyListWithRandomPointer.s: CopyListWithRandomPointer/CopyListWithRandomPointer.cpp.s
+
+.PHONY : CopyListWithRandomPointer/CopyListWithRandomPointer.s
+
+# target to generate assembly for a file
+CopyListWithRandomPointer/CopyListWithRandomPointer.cpp.s:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/CopyListWithRandomPointer/CopyListWithRandomPointer.cpp.s
+.PHONY : CopyListWithRandomPointer/CopyListWithRandomPointer.cpp.s
+
 CountAndSay/CountAndSay.o: CountAndSay/CountAndSay.cpp.o
 
 .PHONY : CountAndSay/CountAndSay.o
@@ -2418,6 +2445,60 @@ SimplifyPath/SimplifyPath.cpp.s:
 	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/SimplifyPath/SimplifyPath.cpp.s
 .PHONY : SimplifyPath/SimplifyPath.cpp.s
 
+SingleNumber/SingleNumber.o: SingleNumber/SingleNumber.cpp.o
+
+.PHONY : SingleNumber/SingleNumber.o
+
+# target to build an object file
+SingleNumber/SingleNumber.cpp.o:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/SingleNumber/SingleNumber.cpp.o
+.PHONY : SingleNumber/SingleNumber.cpp.o
+
+SingleNumber/SingleNumber.i: SingleNumber/SingleNumber.cpp.i
+
+.PHONY : SingleNumber/SingleNumber.i
+
+# target to preprocess a source file
+SingleNumber/SingleNumber.cpp.i:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/SingleNumber/SingleNumber.cpp.i
+.PHONY : SingleNumber/SingleNumber.cpp.i
+
+SingleNumber/SingleNumber.s: SingleNumber/SingleNumber.cpp.s
+
+.PHONY : SingleNumber/SingleNumber.s
+
+# target to generate assembly for a file
+SingleNumber/SingleNumber.cpp.s:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/SingleNumber/SingleNumber.cpp.s
+.PHONY : SingleNumber/SingleNumber.cpp.s
+
+SingleNumberII/SingleNumberII.o: SingleNumberII/SingleNumberII.cpp.o
+
+.PHONY : SingleNumberII/SingleNumberII.o
+
+# target to build an object file
+SingleNumberII/SingleNumberII.cpp.o:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/SingleNumberII/SingleNumberII.cpp.o
+.PHONY : SingleNumberII/SingleNumberII.cpp.o
+
+SingleNumberII/SingleNumberII.i: SingleNumberII/SingleNumberII.cpp.i
+
+.PHONY : SingleNumberII/SingleNumberII.i
+
+# target to preprocess a source file
+SingleNumberII/SingleNumberII.cpp.i:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/SingleNumberII/SingleNumberII.cpp.i
+.PHONY : SingleNumberII/SingleNumberII.cpp.i
+
+SingleNumberII/SingleNumberII.s: SingleNumberII/SingleNumberII.cpp.s
+
+.PHONY : SingleNumberII/SingleNumberII.s
+
+# target to generate assembly for a file
+SingleNumberII/SingleNumberII.cpp.s:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/SingleNumberII/SingleNumberII.cpp.s
+.PHONY : SingleNumberII/SingleNumberII.cpp.s
+
 SortColors/SortColors.o: SortColors/SortColors.cpp.o
 
 .PHONY : SortColors/SortColors.o
@@ -3243,6 +3324,9 @@ help:
 	@echo "... ConvertSortedListToBinarySearchTree/ConvertSortedListToBinarySearchTree.o"
 	@echo "... ConvertSortedListToBinarySearchTree/ConvertSortedListToBinarySearchTree.i"
 	@echo "... ConvertSortedListToBinarySearchTree/ConvertSortedListToBinarySearchTree.s"
+	@echo "... CopyListWithRandomPointer/CopyListWithRandomPointer.o"
+	@echo "... CopyListWithRandomPointer/CopyListWithRandomPointer.i"
+	@echo "... CopyListWithRandomPointer/CopyListWithRandomPointer.s"
 	@echo "... CountAndSay/CountAndSay.o"
 	@echo "... CountAndSay/CountAndSay.i"
 	@echo "... CountAndSay/CountAndSay.s"
@@ -3438,6 +3522,12 @@ help:
 	@echo "... SimplifyPath/SimplifyPath.o"
 	@echo "... SimplifyPath/SimplifyPath.i"
 	@echo "... SimplifyPath/SimplifyPath.s"
+	@echo "... SingleNumber/SingleNumber.o"
+	@echo "... SingleNumber/SingleNumber.i"
+	@echo "... SingleNumber/SingleNumber.s"
+	@echo "... SingleNumberII/SingleNumberII.o"
+	@echo "... SingleNumberII/SingleNumberII.i"
+	@echo "... SingleNumberII/SingleNumberII.s"
 	@echo "... SortColors/SortColors.o"
 	@echo "... SortColors/SortColors.i"
 	@echo "... SortColors/SortColors.s"

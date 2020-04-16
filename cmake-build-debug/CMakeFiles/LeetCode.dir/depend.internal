@@ -265,6 +265,12 @@ CMakeFiles/LeetCode.dir/SetMatrixZeroes/SetMatrixZeroes.cpp.o
 CMakeFiles/LeetCode.dir/SimplifyPath/SimplifyPath.cpp.o
  /Volumes/ZWHD/github/LeetCode/SimplifyPath/SimplifyPath.cpp
  /Volumes/ZWHD/github/LeetCode/SimplifyPath/SimplifyPath.h
+CMakeFiles/LeetCode.dir/SingleNumber/SingleNumber.cpp.o
+ /Volumes/ZWHD/github/LeetCode/SingleNumber/SingleNumber.cpp
+ /Volumes/ZWHD/github/LeetCode/SingleNumber/SingleNumber.h
+CMakeFiles/LeetCode.dir/SingleNumberII/SingleNumberII.cpp.o
+ /Volumes/ZWHD/github/LeetCode/SingleNumberII/SingleNumberII.cpp
+ /Volumes/ZWHD/github/LeetCode/SingleNumberII/SingleNumberII.h
 CMakeFiles/LeetCode.dir/SortColors/SortColors.cpp.o
  /Volumes/ZWHD/github/LeetCode/SortColors/SortColors.cpp
  /Volumes/ZWHD/github/LeetCode/SortColors/SortColors.h
@@ -349,5 +355,5 @@ CMakeFiles/LeetCode.dir/ZigZag/ZigZag.cpp.o
  /Volumes/ZWHD/github/LeetCode/ZigZag/ZigZag.h
  /Volumes/ZWHD/github/LeetCode/common.h
 CMakeFiles/LeetCode.dir/main.cpp.o
- /Volumes/ZWHD/github/LeetCode/Candy/Candy.h
+ /Volumes/ZWHD/github/LeetCode/SingleNumberII/SingleNumberII.h
  /Volumes/ZWHD/github/LeetCode/main.cpp

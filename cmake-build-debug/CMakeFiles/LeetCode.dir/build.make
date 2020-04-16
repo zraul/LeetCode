@@ -1526,6 +1526,45 @@ CMakeFiles/LeetCode.dir/Candy/Candy.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/Candy/Candy.cpp.s"
 	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Volumes/ZWHD/github/LeetCode/Candy/Candy.cpp -o CMakeFiles/LeetCode.dir/Candy/Candy.cpp.s
 
+CMakeFiles/LeetCode.dir/SingleNumber/SingleNumber.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/SingleNumber/SingleNumber.cpp.o: ../SingleNumber/SingleNumber.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Volumes/ZWHD/github/LeetCode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_114) "Building CXX object CMakeFiles/LeetCode.dir/SingleNumber/SingleNumber.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/LeetCode.dir/SingleNumber/SingleNumber.cpp.o -c /Volumes/ZWHD/github/LeetCode/SingleNumber/SingleNumber.cpp
+
+CMakeFiles/LeetCode.dir/SingleNumber/SingleNumber.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/SingleNumber/SingleNumber.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Volumes/ZWHD/github/LeetCode/SingleNumber/SingleNumber.cpp > CMakeFiles/LeetCode.dir/SingleNumber/SingleNumber.cpp.i
+
+CMakeFiles/LeetCode.dir/SingleNumber/SingleNumber.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/SingleNumber/SingleNumber.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Volumes/ZWHD/github/LeetCode/SingleNumber/SingleNumber.cpp -o CMakeFiles/LeetCode.dir/SingleNumber/SingleNumber.cpp.s
+
+CMakeFiles/LeetCode.dir/SingleNumberII/SingleNumberII.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/SingleNumberII/SingleNumberII.cpp.o: ../SingleNumberII/SingleNumberII.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Volumes/ZWHD/github/LeetCode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_115) "Building CXX object CMakeFiles/LeetCode.dir/SingleNumberII/SingleNumberII.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/LeetCode.dir/SingleNumberII/SingleNumberII.cpp.o -c /Volumes/ZWHD/github/LeetCode/SingleNumberII/SingleNumberII.cpp
+
+CMakeFiles/LeetCode.dir/SingleNumberII/SingleNumberII.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/SingleNumberII/SingleNumberII.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Volumes/ZWHD/github/LeetCode/SingleNumberII/SingleNumberII.cpp > CMakeFiles/LeetCode.dir/SingleNumberII/SingleNumberII.cpp.i
+
+CMakeFiles/LeetCode.dir/SingleNumberII/SingleNumberII.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/SingleNumberII/SingleNumberII.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Volumes/ZWHD/github/LeetCode/SingleNumberII/SingleNumberII.cpp -o CMakeFiles/LeetCode.dir/SingleNumberII/SingleNumberII.cpp.s
+
+CMakeFiles/LeetCode.dir/CopyListWithRandomPointer/CopyListWithRandomPointer.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/CopyListWithRandomPointer/CopyListWithRandomPointer.cpp.o: ../CopyListWithRandomPointer/CopyListWithRandomPointer.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Volumes/ZWHD/github/LeetCode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_116) "Building CXX object CMakeFiles/LeetCode.dir/CopyListWithRandomPointer/CopyListWithRandomPointer.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/LeetCode.dir/CopyListWithRandomPointer/CopyListWithRandomPointer.cpp.o -c /Volumes/ZWHD/github/LeetCode/CopyListWithRandomPointer/CopyListWithRandomPointer.cpp
+
+CMakeFiles/LeetCode.dir/CopyListWithRandomPointer/CopyListWithRandomPointer.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/CopyListWithRandomPointer/CopyListWithRandomPointer.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Volumes/ZWHD/github/LeetCode/CopyListWithRandomPointer/CopyListWithRandomPointer.cpp > CMakeFiles/LeetCode.dir/CopyListWithRandomPointer/CopyListWithRandomPointer.cpp.i
+
+CMakeFiles/LeetCode.dir/CopyListWithRandomPointer/CopyListWithRandomPointer.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/CopyListWithRandomPointer/CopyListWithRandomPointer.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Volumes/ZWHD/github/LeetCode/CopyListWithRandomPointer/CopyListWithRandomPointer.cpp -o CMakeFiles/LeetCode.dir/CopyListWithRandomPointer/CopyListWithRandomPointer.cpp.s
+
 # Object files for target LeetCode
 LeetCode_OBJECTS = \
 "CMakeFiles/LeetCode.dir/AddTwoNumbers/AddTwoNumbers.cpp.o" \
@@ -1640,7 +1679,10 @@ LeetCode_OBJECTS = \
 "CMakeFiles/LeetCode.dir/PalindromePartitioningII/PalindromePartitioningII.cpp.o" \
 "CMakeFiles/LeetCode.dir/CloneGraph/CloneGraph.cpp.o" \
 "CMakeFiles/LeetCode.dir/GasStation/GasStation.cpp.o" \
-"CMakeFiles/LeetCode.dir/Candy/Candy.cpp.o"
+"CMakeFiles/LeetCode.dir/Candy/Candy.cpp.o" \
+"CMakeFiles/LeetCode.dir/SingleNumber/SingleNumber.cpp.o" \
+"CMakeFiles/LeetCode.dir/SingleNumberII/SingleNumberII.cpp.o" \
+"CMakeFiles/LeetCode.dir/CopyListWithRandomPointer/CopyListWithRandomPointer.cpp.o"
 
 # External object files for target LeetCode
 LeetCode_EXTERNAL_OBJECTS =
@@ -1758,9 +1800,12 @@ LeetCode: CMakeFiles/LeetCode.dir/PalindromePartitioningII/PalindromePartitionin
 LeetCode: CMakeFiles/LeetCode.dir/CloneGraph/CloneGraph.cpp.o
 LeetCode: CMakeFiles/LeetCode.dir/GasStation/GasStation.cpp.o
 LeetCode: CMakeFiles/LeetCode.dir/Candy/Candy.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/SingleNumber/SingleNumber.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/SingleNumberII/SingleNumberII.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/CopyListWithRandomPointer/CopyListWithRandomPointer.cpp.o
 LeetCode: CMakeFiles/LeetCode.dir/build.make
 LeetCode: CMakeFiles/LeetCode.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Volumes/ZWHD/github/LeetCode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_114) "Linking CXX executable LeetCode"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Volumes/ZWHD/github/LeetCode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_117) "Linking CXX executable LeetCode"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/LeetCode.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

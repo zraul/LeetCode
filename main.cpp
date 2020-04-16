@@ -3,13 +3,13 @@
 //#include "PalindromeNumber/PalindromeNumber.h"
 //#include "RegularExpressionMatching/RegularExpressionMatching.h"
 
-#include "Candy/Candy.h"
+#include "SingleNumberII/SingleNumberII.h"
 
 int main()
 {
-    Candy* g = new Candy();
-    std::vector<int> gas = {1, 0, 2};
-    std::cout<<g->candy(gas)<<std::endl;
+    SingleNumberII* s = new SingleNumberII();
+    std::vector<int> gas = {2, 2, 3, 2};
+    std::cout<<s->singleNumber(gas)<<std::endl;
 }
 
 

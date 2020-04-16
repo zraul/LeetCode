@@ -226,6 +226,12 @@
 		<Unit filename="/Volumes/ZWHD/github/LeetCode/ConvertSortedListToBinarySearchTree/ConvertSortedListToBinarySearchTree.h">
 			<Option target="LeetCode"/>
 		</Unit>
+		<Unit filename="/Volumes/ZWHD/github/LeetCode/CopyListWithRandomPointer/CopyListWithRandomPointer.cpp">
+			<Option target="LeetCode"/>
+		</Unit>
+		<Unit filename="/Volumes/ZWHD/github/LeetCode/CopyListWithRandomPointer/CopyListWithRandomPointer.h">
+			<Option target="LeetCode"/>
+		</Unit>
 		<Unit filename="/Volumes/ZWHD/github/LeetCode/CountAndSay/CountAndSay.cpp">
 			<Option target="LeetCode"/>
 		</Unit>
@@ -614,6 +620,18 @@
 			<Option target="LeetCode"/>
 		</Unit>
 		<Unit filename="/Volumes/ZWHD/github/LeetCode/SimplifyPath/SimplifyPath.h">
+			<Option target="LeetCode"/>
+		</Unit>
+		<Unit filename="/Volumes/ZWHD/github/LeetCode/SingleNumber/SingleNumber.cpp">
+			<Option target="LeetCode"/>
+		</Unit>
+		<Unit filename="/Volumes/ZWHD/github/LeetCode/SingleNumber/SingleNumber.h">
+			<Option target="LeetCode"/>
+		</Unit>
+		<Unit filename="/Volumes/ZWHD/github/LeetCode/SingleNumberII/SingleNumberII.cpp">
+			<Option target="LeetCode"/>
+		</Unit>
+		<Unit filename="/Volumes/ZWHD/github/LeetCode/SingleNumberII/SingleNumberII.h">
 			<Option target="LeetCode"/>
 		</Unit>
 		<Unit filename="/Volumes/ZWHD/github/LeetCode/SortColors/SortColors.cpp">
