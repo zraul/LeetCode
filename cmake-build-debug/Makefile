@@ -1122,6 +1122,33 @@ LengthOfLastWord/LengthOfLastWord.cpp.s:
 	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/LengthOfLastWord/LengthOfLastWord.cpp.s
 .PHONY : LengthOfLastWord/LengthOfLastWord.cpp.s
 
+LinkedListCycle/LinkedListCycle.o: LinkedListCycle/LinkedListCycle.cpp.o
+
+.PHONY : LinkedListCycle/LinkedListCycle.o
+
+# target to build an object file
+LinkedListCycle/LinkedListCycle.cpp.o:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/LinkedListCycle/LinkedListCycle.cpp.o
+.PHONY : LinkedListCycle/LinkedListCycle.cpp.o
+
+LinkedListCycle/LinkedListCycle.i: LinkedListCycle/LinkedListCycle.cpp.i
+
+.PHONY : LinkedListCycle/LinkedListCycle.i
+
+# target to preprocess a source file
+LinkedListCycle/LinkedListCycle.cpp.i:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/LinkedListCycle/LinkedListCycle.cpp.i
+.PHONY : LinkedListCycle/LinkedListCycle.cpp.i
+
+LinkedListCycle/LinkedListCycle.s: LinkedListCycle/LinkedListCycle.cpp.s
+
+.PHONY : LinkedListCycle/LinkedListCycle.s
+
+# target to generate assembly for a file
+LinkedListCycle/LinkedListCycle.cpp.s:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/LinkedListCycle/LinkedListCycle.cpp.s
+.PHONY : LinkedListCycle/LinkedListCycle.cpp.s
+
 LongestConsecutiveSequence/LongestConsecutiveSequence.o: LongestConsecutiveSequence/LongestConsecutiveSequence.cpp.o
 
 .PHONY : LongestConsecutiveSequence/LongestConsecutiveSequence.o
@@ -3120,6 +3147,60 @@ WildcardMatching/WildcardMatching.cpp.s:
 	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/WildcardMatching/WildcardMatching.cpp.s
 .PHONY : WildcardMatching/WildcardMatching.cpp.s
 
+WordBreak/WordBreak.o: WordBreak/WordBreak.cpp.o
+
+.PHONY : WordBreak/WordBreak.o
+
+# target to build an object file
+WordBreak/WordBreak.cpp.o:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/WordBreak/WordBreak.cpp.o
+.PHONY : WordBreak/WordBreak.cpp.o
+
+WordBreak/WordBreak.i: WordBreak/WordBreak.cpp.i
+
+.PHONY : WordBreak/WordBreak.i
+
+# target to preprocess a source file
+WordBreak/WordBreak.cpp.i:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/WordBreak/WordBreak.cpp.i
+.PHONY : WordBreak/WordBreak.cpp.i
+
+WordBreak/WordBreak.s: WordBreak/WordBreak.cpp.s
+
+.PHONY : WordBreak/WordBreak.s
+
+# target to generate assembly for a file
+WordBreak/WordBreak.cpp.s:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/WordBreak/WordBreak.cpp.s
+.PHONY : WordBreak/WordBreak.cpp.s
+
+WordBreakII/WordBreakII.o: WordBreakII/WordBreakII.cpp.o
+
+.PHONY : WordBreakII/WordBreakII.o
+
+# target to build an object file
+WordBreakII/WordBreakII.cpp.o:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/WordBreakII/WordBreakII.cpp.o
+.PHONY : WordBreakII/WordBreakII.cpp.o
+
+WordBreakII/WordBreakII.i: WordBreakII/WordBreakII.cpp.i
+
+.PHONY : WordBreakII/WordBreakII.i
+
+# target to preprocess a source file
+WordBreakII/WordBreakII.cpp.i:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/WordBreakII/WordBreakII.cpp.i
+.PHONY : WordBreakII/WordBreakII.cpp.i
+
+WordBreakII/WordBreakII.s: WordBreakII/WordBreakII.cpp.s
+
+.PHONY : WordBreakII/WordBreakII.s
+
+# target to generate assembly for a file
+WordBreakII/WordBreakII.cpp.s:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/WordBreakII/WordBreakII.cpp.s
+.PHONY : WordBreakII/WordBreakII.cpp.s
+
 WordLadder/WordLadder.o: WordLadder/WordLadder.cpp.o
 
 .PHONY : WordLadder/WordLadder.o
@@ -3375,6 +3456,9 @@ help:
 	@echo "... LengthOfLastWord/LengthOfLastWord.o"
 	@echo "... LengthOfLastWord/LengthOfLastWord.i"
 	@echo "... LengthOfLastWord/LengthOfLastWord.s"
+	@echo "... LinkedListCycle/LinkedListCycle.o"
+	@echo "... LinkedListCycle/LinkedListCycle.i"
+	@echo "... LinkedListCycle/LinkedListCycle.s"
 	@echo "... LongestConsecutiveSequence/LongestConsecutiveSequence.o"
 	@echo "... LongestConsecutiveSequence/LongestConsecutiveSequence.i"
 	@echo "... LongestConsecutiveSequence/LongestConsecutiveSequence.s"
@@ -3597,6 +3681,12 @@ help:
 	@echo "... WildcardMatching/WildcardMatching.o"
 	@echo "... WildcardMatching/WildcardMatching.i"
 	@echo "... WildcardMatching/WildcardMatching.s"
+	@echo "... WordBreak/WordBreak.o"
+	@echo "... WordBreak/WordBreak.i"
+	@echo "... WordBreak/WordBreak.s"
+	@echo "... WordBreakII/WordBreakII.o"
+	@echo "... WordBreakII/WordBreakII.i"
+	@echo "... WordBreakII/WordBreakII.s"
 	@echo "... WordLadder/WordLadder.o"
 	@echo "... WordLadder/WordLadder.i"
 	@echo "... WordLadder/WordLadder.s"

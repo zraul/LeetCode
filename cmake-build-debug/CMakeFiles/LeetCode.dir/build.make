@@ -1565,6 +1565,45 @@ CMakeFiles/LeetCode.dir/CopyListWithRandomPointer/CopyListWithRandomPointer.cpp.
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/CopyListWithRandomPointer/CopyListWithRandomPointer.cpp.s"
 	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Volumes/ZWHD/github/LeetCode/CopyListWithRandomPointer/CopyListWithRandomPointer.cpp -o CMakeFiles/LeetCode.dir/CopyListWithRandomPointer/CopyListWithRandomPointer.cpp.s
 
+CMakeFiles/LeetCode.dir/WordBreak/WordBreak.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/WordBreak/WordBreak.cpp.o: ../WordBreak/WordBreak.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Volumes/ZWHD/github/LeetCode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_117) "Building CXX object CMakeFiles/LeetCode.dir/WordBreak/WordBreak.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/LeetCode.dir/WordBreak/WordBreak.cpp.o -c /Volumes/ZWHD/github/LeetCode/WordBreak/WordBreak.cpp
+
+CMakeFiles/LeetCode.dir/WordBreak/WordBreak.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/WordBreak/WordBreak.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Volumes/ZWHD/github/LeetCode/WordBreak/WordBreak.cpp > CMakeFiles/LeetCode.dir/WordBreak/WordBreak.cpp.i
+
+CMakeFiles/LeetCode.dir/WordBreak/WordBreak.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/WordBreak/WordBreak.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Volumes/ZWHD/github/LeetCode/WordBreak/WordBreak.cpp -o CMakeFiles/LeetCode.dir/WordBreak/WordBreak.cpp.s
+
+CMakeFiles/LeetCode.dir/WordBreakII/WordBreakII.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/WordBreakII/WordBreakII.cpp.o: ../WordBreakII/WordBreakII.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Volumes/ZWHD/github/LeetCode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_118) "Building CXX object CMakeFiles/LeetCode.dir/WordBreakII/WordBreakII.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/LeetCode.dir/WordBreakII/WordBreakII.cpp.o -c /Volumes/ZWHD/github/LeetCode/WordBreakII/WordBreakII.cpp
+
+CMakeFiles/LeetCode.dir/WordBreakII/WordBreakII.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/WordBreakII/WordBreakII.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Volumes/ZWHD/github/LeetCode/WordBreakII/WordBreakII.cpp > CMakeFiles/LeetCode.dir/WordBreakII/WordBreakII.cpp.i
+
+CMakeFiles/LeetCode.dir/WordBreakII/WordBreakII.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/WordBreakII/WordBreakII.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Volumes/ZWHD/github/LeetCode/WordBreakII/WordBreakII.cpp -o CMakeFiles/LeetCode.dir/WordBreakII/WordBreakII.cpp.s
+
+CMakeFiles/LeetCode.dir/LinkedListCycle/LinkedListCycle.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/LinkedListCycle/LinkedListCycle.cpp.o: ../LinkedListCycle/LinkedListCycle.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Volumes/ZWHD/github/LeetCode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_119) "Building CXX object CMakeFiles/LeetCode.dir/LinkedListCycle/LinkedListCycle.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/LeetCode.dir/LinkedListCycle/LinkedListCycle.cpp.o -c /Volumes/ZWHD/github/LeetCode/LinkedListCycle/LinkedListCycle.cpp
+
+CMakeFiles/LeetCode.dir/LinkedListCycle/LinkedListCycle.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/LinkedListCycle/LinkedListCycle.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Volumes/ZWHD/github/LeetCode/LinkedListCycle/LinkedListCycle.cpp > CMakeFiles/LeetCode.dir/LinkedListCycle/LinkedListCycle.cpp.i
+
+CMakeFiles/LeetCode.dir/LinkedListCycle/LinkedListCycle.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/LinkedListCycle/LinkedListCycle.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Volumes/ZWHD/github/LeetCode/LinkedListCycle/LinkedListCycle.cpp -o CMakeFiles/LeetCode.dir/LinkedListCycle/LinkedListCycle.cpp.s
+
 # Object files for target LeetCode
 LeetCode_OBJECTS = \
 "CMakeFiles/LeetCode.dir/AddTwoNumbers/AddTwoNumbers.cpp.o" \
@@ -1682,7 +1721,10 @@ LeetCode_OBJECTS = \
 "CMakeFiles/LeetCode.dir/Candy/Candy.cpp.o" \
 "CMakeFiles/LeetCode.dir/SingleNumber/SingleNumber.cpp.o" \
 "CMakeFiles/LeetCode.dir/SingleNumberII/SingleNumberII.cpp.o" \
-"CMakeFiles/LeetCode.dir/CopyListWithRandomPointer/CopyListWithRandomPointer.cpp.o"
+"CMakeFiles/LeetCode.dir/CopyListWithRandomPointer/CopyListWithRandomPointer.cpp.o" \
+"CMakeFiles/LeetCode.dir/WordBreak/WordBreak.cpp.o" \
+"CMakeFiles/LeetCode.dir/WordBreakII/WordBreakII.cpp.o" \
+"CMakeFiles/LeetCode.dir/LinkedListCycle/LinkedListCycle.cpp.o"
 
 # External object files for target LeetCode
 LeetCode_EXTERNAL_OBJECTS =
@@ -1803,9 +1845,12 @@ LeetCode: CMakeFiles/LeetCode.dir/Candy/Candy.cpp.o
 LeetCode: CMakeFiles/LeetCode.dir/SingleNumber/SingleNumber.cpp.o
 LeetCode: CMakeFiles/LeetCode.dir/SingleNumberII/SingleNumberII.cpp.o
 LeetCode: CMakeFiles/LeetCode.dir/CopyListWithRandomPointer/CopyListWithRandomPointer.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/WordBreak/WordBreak.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/WordBreakII/WordBreakII.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/LinkedListCycle/LinkedListCycle.cpp.o
 LeetCode: CMakeFiles/LeetCode.dir/build.make
 LeetCode: CMakeFiles/LeetCode.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Volumes/ZWHD/github/LeetCode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_117) "Linking CXX executable LeetCode"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Volumes/ZWHD/github/LeetCode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_120) "Linking CXX executable LeetCode"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/LeetCode.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

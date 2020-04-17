@@ -12,12 +12,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6572f727-0fe8-4c92-80bd-b9f70d0e5706" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/CopyListWithRandomPointer/CopyListWithRandomPointer.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CopyListWithRandomPointer/CopyListWithRandomPointer.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SingleNumber/SingleNumber.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SingleNumber/SingleNumber.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SingleNumberII/SingleNumberII.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SingleNumberII/SingleNumberII.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LinkedListCycle/LinkedListCycle.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LinkedListCycle/LinkedListCycle.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WordBreak/WordBreak.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WordBreak/WordBreak.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WordBreakII/WordBreakII.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WordBreakII/WordBreakII.h" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LeetCode.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LeetCode.dir/CXX.includecache" afterDir="false" />
@@ -279,7 +279,8 @@
       <workItem from="1586413275603" duration="5780000" />
       <workItem from="1586479671044" duration="5774000" />
       <workItem from="1586921165840" duration="5467000" />
-      <workItem from="1586998346839" duration="3771000" />
+      <workItem from="1586998346839" duration="4168000" />
+      <workItem from="1587084338043" duration="4780000" />
     </task>
     <servers />
   </component>
@@ -761,6 +762,16 @@
           <url>file://$PROJECT_DIR$/SingleNumber/SingleNumber.cpp</url>
           <line>7</line>
           <option name="timeStamp" value="120" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/LinkedListCycle/LinkedListCycle.cpp</url>
+          <line>7</line>
+          <option name="timeStamp" value="123" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/WordBreakII/WordBreakII.cpp</url>
+          <line>7</line>
+          <option name="timeStamp" value="124" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

@@ -3,13 +3,29 @@
 //#include "PalindromeNumber/PalindromeNumber.h"
 //#include "RegularExpressionMatching/RegularExpressionMatching.h"
 
-#include "SingleNumberII/SingleNumberII.h"
+//#include "WordBreakII/WordBreakII.h"
+#include "LinkedListCycle/LinkedListCycle.h"
 
 int main()
 {
-    SingleNumberII* s = new SingleNumberII();
-    std::vector<int> gas = {2, 2, 3, 2};
-    std::cout<<s->singleNumber(gas)<<std::endl;
+//    WordBreakII* w = new WordBreakII();
+//    vector<string> wordDict = {"apple", "pen", "applepen", "pine", "pineapple"};
+//    vector<string> r = w->wordBreak("pineapplepenapple", wordDict);
+//    for (int i = 0; i < r.size(); ++i) {
+//        std::cout<<r[i]<<std::endl;
+//    }
+    LinkedListCycle* l = new LinkedListCycle();
+    ListNode l1(3);
+    ListNode l2(2);
+    ListNode l3(0);
+    ListNode l4(4);
+
+    l1.next = &l2;
+    l2.next = &l3;
+    l3.next = &l4;
+    l4.next = &l2;
+
+    std::cout<<l->hasCycle(&l1)<<std::endl;
 }
 
 
