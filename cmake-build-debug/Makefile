@@ -393,6 +393,33 @@ BinaryTreeMaximumPathSum/BinaryTreeMaximumPathSum.cpp.s:
 	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/BinaryTreeMaximumPathSum/BinaryTreeMaximumPathSum.cpp.s
 .PHONY : BinaryTreeMaximumPathSum/BinaryTreeMaximumPathSum.cpp.s
 
+BinaryTreePreorderTraversal/BinaryTreePreorderTraversal.o: BinaryTreePreorderTraversal/BinaryTreePreorderTraversal.cpp.o
+
+.PHONY : BinaryTreePreorderTraversal/BinaryTreePreorderTraversal.o
+
+# target to build an object file
+BinaryTreePreorderTraversal/BinaryTreePreorderTraversal.cpp.o:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/BinaryTreePreorderTraversal/BinaryTreePreorderTraversal.cpp.o
+.PHONY : BinaryTreePreorderTraversal/BinaryTreePreorderTraversal.cpp.o
+
+BinaryTreePreorderTraversal/BinaryTreePreorderTraversal.i: BinaryTreePreorderTraversal/BinaryTreePreorderTraversal.cpp.i
+
+.PHONY : BinaryTreePreorderTraversal/BinaryTreePreorderTraversal.i
+
+# target to preprocess a source file
+BinaryTreePreorderTraversal/BinaryTreePreorderTraversal.cpp.i:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/BinaryTreePreorderTraversal/BinaryTreePreorderTraversal.cpp.i
+.PHONY : BinaryTreePreorderTraversal/BinaryTreePreorderTraversal.cpp.i
+
+BinaryTreePreorderTraversal/BinaryTreePreorderTraversal.s: BinaryTreePreorderTraversal/BinaryTreePreorderTraversal.cpp.s
+
+.PHONY : BinaryTreePreorderTraversal/BinaryTreePreorderTraversal.s
+
+# target to generate assembly for a file
+BinaryTreePreorderTraversal/BinaryTreePreorderTraversal.cpp.s:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/BinaryTreePreorderTraversal/BinaryTreePreorderTraversal.cpp.s
+.PHONY : BinaryTreePreorderTraversal/BinaryTreePreorderTraversal.cpp.s
+
 BinaryTreeZigzagLevelOrderTraversal/BinaryTreeZigzagLevelOrderTraversal.o: BinaryTreeZigzagLevelOrderTraversal/BinaryTreeZigzagLevelOrderTraversal.cpp.o
 
 .PHONY : BinaryTreeZigzagLevelOrderTraversal/BinaryTreeZigzagLevelOrderTraversal.o
@@ -1148,6 +1175,33 @@ LinkedListCycle/LinkedListCycle.s: LinkedListCycle/LinkedListCycle.cpp.s
 LinkedListCycle/LinkedListCycle.cpp.s:
 	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/LinkedListCycle/LinkedListCycle.cpp.s
 .PHONY : LinkedListCycle/LinkedListCycle.cpp.s
+
+LinkedListCycleII/LinkedListCycleII.o: LinkedListCycleII/LinkedListCycleII.cpp.o
+
+.PHONY : LinkedListCycleII/LinkedListCycleII.o
+
+# target to build an object file
+LinkedListCycleII/LinkedListCycleII.cpp.o:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/LinkedListCycleII/LinkedListCycleII.cpp.o
+.PHONY : LinkedListCycleII/LinkedListCycleII.cpp.o
+
+LinkedListCycleII/LinkedListCycleII.i: LinkedListCycleII/LinkedListCycleII.cpp.i
+
+.PHONY : LinkedListCycleII/LinkedListCycleII.i
+
+# target to preprocess a source file
+LinkedListCycleII/LinkedListCycleII.cpp.i:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/LinkedListCycleII/LinkedListCycleII.cpp.i
+.PHONY : LinkedListCycleII/LinkedListCycleII.cpp.i
+
+LinkedListCycleII/LinkedListCycleII.s: LinkedListCycleII/LinkedListCycleII.cpp.s
+
+.PHONY : LinkedListCycleII/LinkedListCycleII.s
+
+# target to generate assembly for a file
+LinkedListCycleII/LinkedListCycleII.cpp.s:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/LinkedListCycleII/LinkedListCycleII.cpp.s
+.PHONY : LinkedListCycleII/LinkedListCycleII.cpp.s
 
 LongestConsecutiveSequence/LongestConsecutiveSequence.o: LongestConsecutiveSequence/LongestConsecutiveSequence.cpp.o
 
@@ -2147,6 +2201,33 @@ RemoveDuplicatesII/RemoveDuplicatesII.s: RemoveDuplicatesII/RemoveDuplicatesII.c
 RemoveDuplicatesII/RemoveDuplicatesII.cpp.s:
 	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/RemoveDuplicatesII/RemoveDuplicatesII.cpp.s
 .PHONY : RemoveDuplicatesII/RemoveDuplicatesII.cpp.s
+
+ReorderList/ReorderList.o: ReorderList/ReorderList.cpp.o
+
+.PHONY : ReorderList/ReorderList.o
+
+# target to build an object file
+ReorderList/ReorderList.cpp.o:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/ReorderList/ReorderList.cpp.o
+.PHONY : ReorderList/ReorderList.cpp.o
+
+ReorderList/ReorderList.i: ReorderList/ReorderList.cpp.i
+
+.PHONY : ReorderList/ReorderList.i
+
+# target to preprocess a source file
+ReorderList/ReorderList.cpp.i:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/ReorderList/ReorderList.cpp.i
+.PHONY : ReorderList/ReorderList.cpp.i
+
+ReorderList/ReorderList.s: ReorderList/ReorderList.cpp.s
+
+.PHONY : ReorderList/ReorderList.s
+
+# target to generate assembly for a file
+ReorderList/ReorderList.cpp.s:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/ReorderList/ReorderList.cpp.s
+.PHONY : ReorderList/ReorderList.cpp.s
 
 RestoreIPAddresses/RestoreIPAddresses.o: RestoreIPAddresses/RestoreIPAddresses.cpp.o
 
@@ -3375,6 +3456,9 @@ help:
 	@echo "... BinaryTreeMaximumPathSum/BinaryTreeMaximumPathSum.o"
 	@echo "... BinaryTreeMaximumPathSum/BinaryTreeMaximumPathSum.i"
 	@echo "... BinaryTreeMaximumPathSum/BinaryTreeMaximumPathSum.s"
+	@echo "... BinaryTreePreorderTraversal/BinaryTreePreorderTraversal.o"
+	@echo "... BinaryTreePreorderTraversal/BinaryTreePreorderTraversal.i"
+	@echo "... BinaryTreePreorderTraversal/BinaryTreePreorderTraversal.s"
 	@echo "... BinaryTreeZigzagLevelOrderTraversal/BinaryTreeZigzagLevelOrderTraversal.o"
 	@echo "... BinaryTreeZigzagLevelOrderTraversal/BinaryTreeZigzagLevelOrderTraversal.i"
 	@echo "... BinaryTreeZigzagLevelOrderTraversal/BinaryTreeZigzagLevelOrderTraversal.s"
@@ -3459,6 +3543,9 @@ help:
 	@echo "... LinkedListCycle/LinkedListCycle.o"
 	@echo "... LinkedListCycle/LinkedListCycle.i"
 	@echo "... LinkedListCycle/LinkedListCycle.s"
+	@echo "... LinkedListCycleII/LinkedListCycleII.o"
+	@echo "... LinkedListCycleII/LinkedListCycleII.i"
+	@echo "... LinkedListCycleII/LinkedListCycleII.s"
 	@echo "... LongestConsecutiveSequence/LongestConsecutiveSequence.o"
 	@echo "... LongestConsecutiveSequence/LongestConsecutiveSequence.i"
 	@echo "... LongestConsecutiveSequence/LongestConsecutiveSequence.s"
@@ -3570,6 +3657,9 @@ help:
 	@echo "... RemoveDuplicatesII/RemoveDuplicatesII.o"
 	@echo "... RemoveDuplicatesII/RemoveDuplicatesII.i"
 	@echo "... RemoveDuplicatesII/RemoveDuplicatesII.s"
+	@echo "... ReorderList/ReorderList.o"
+	@echo "... ReorderList/ReorderList.i"
+	@echo "... ReorderList/ReorderList.s"
 	@echo "... RestoreIPAddresses/RestoreIPAddresses.o"
 	@echo "... RestoreIPAddresses/RestoreIPAddresses.i"
 	@echo "... RestoreIPAddresses/RestoreIPAddresses.s"

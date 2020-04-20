@@ -6,17 +6,19 @@
 
 #IncludeRegexTransform: 
 
-/Volumes/ZWHD/github/LeetCode/LinkedListCycle/LinkedListCycle.cpp
-LinkedListCycle.h
-/Volumes/ZWHD/github/LeetCode/LinkedListCycle/LinkedListCycle.h
+/Volumes/ZWHD/github/LeetCode/BinaryTreePreorderTraversal/BinaryTreePreorderTraversal.cpp
+BinaryTreePreorderTraversal.h
+/Volumes/ZWHD/github/LeetCode/BinaryTreePreorderTraversal/BinaryTreePreorderTraversal.h
 
-/Volumes/ZWHD/github/LeetCode/LinkedListCycle/LinkedListCycle.h
+/Volumes/ZWHD/github/LeetCode/BinaryTreePreorderTraversal/BinaryTreePreorderTraversal.h
 iostream
 -
 vector
 -
+stack
+-
 
 /Volumes/ZWHD/github/LeetCode/main.cpp
-LinkedListCycle/LinkedListCycle.h
-/Volumes/ZWHD/github/LeetCode/LinkedListCycle/LinkedListCycle.h
+BinaryTreePreorderTraversal/BinaryTreePreorderTraversal.h
+/Volumes/ZWHD/github/LeetCode/BinaryTreePreorderTraversal/BinaryTreePreorderTraversal.h
 
