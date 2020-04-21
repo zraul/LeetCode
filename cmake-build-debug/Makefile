@@ -393,6 +393,33 @@ BinaryTreeMaximumPathSum/BinaryTreeMaximumPathSum.cpp.s:
 	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/BinaryTreeMaximumPathSum/BinaryTreeMaximumPathSum.cpp.s
 .PHONY : BinaryTreeMaximumPathSum/BinaryTreeMaximumPathSum.cpp.s
 
+BinaryTreePostorderTraversal/BinaryTreePostorderTraversal.o: BinaryTreePostorderTraversal/BinaryTreePostorderTraversal.cpp.o
+
+.PHONY : BinaryTreePostorderTraversal/BinaryTreePostorderTraversal.o
+
+# target to build an object file
+BinaryTreePostorderTraversal/BinaryTreePostorderTraversal.cpp.o:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/BinaryTreePostorderTraversal/BinaryTreePostorderTraversal.cpp.o
+.PHONY : BinaryTreePostorderTraversal/BinaryTreePostorderTraversal.cpp.o
+
+BinaryTreePostorderTraversal/BinaryTreePostorderTraversal.i: BinaryTreePostorderTraversal/BinaryTreePostorderTraversal.cpp.i
+
+.PHONY : BinaryTreePostorderTraversal/BinaryTreePostorderTraversal.i
+
+# target to preprocess a source file
+BinaryTreePostorderTraversal/BinaryTreePostorderTraversal.cpp.i:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/BinaryTreePostorderTraversal/BinaryTreePostorderTraversal.cpp.i
+.PHONY : BinaryTreePostorderTraversal/BinaryTreePostorderTraversal.cpp.i
+
+BinaryTreePostorderTraversal/BinaryTreePostorderTraversal.s: BinaryTreePostorderTraversal/BinaryTreePostorderTraversal.cpp.s
+
+.PHONY : BinaryTreePostorderTraversal/BinaryTreePostorderTraversal.s
+
+# target to generate assembly for a file
+BinaryTreePostorderTraversal/BinaryTreePostorderTraversal.cpp.s:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/BinaryTreePostorderTraversal/BinaryTreePostorderTraversal.cpp.s
+.PHONY : BinaryTreePostorderTraversal/BinaryTreePostorderTraversal.cpp.s
+
 BinaryTreePreorderTraversal/BinaryTreePreorderTraversal.o: BinaryTreePreorderTraversal/BinaryTreePreorderTraversal.cpp.o
 
 .PHONY : BinaryTreePreorderTraversal/BinaryTreePreorderTraversal.o
@@ -1014,6 +1041,33 @@ InsertInterval/InsertInterval.cpp.s:
 	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/InsertInterval/InsertInterval.cpp.s
 .PHONY : InsertInterval/InsertInterval.cpp.s
 
+InsertionSortList/InsertionSortList.o: InsertionSortList/InsertionSortList.cpp.o
+
+.PHONY : InsertionSortList/InsertionSortList.o
+
+# target to build an object file
+InsertionSortList/InsertionSortList.cpp.o:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/InsertionSortList/InsertionSortList.cpp.o
+.PHONY : InsertionSortList/InsertionSortList.cpp.o
+
+InsertionSortList/InsertionSortList.i: InsertionSortList/InsertionSortList.cpp.i
+
+.PHONY : InsertionSortList/InsertionSortList.i
+
+# target to preprocess a source file
+InsertionSortList/InsertionSortList.cpp.i:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/InsertionSortList/InsertionSortList.cpp.i
+.PHONY : InsertionSortList/InsertionSortList.cpp.i
+
+InsertionSortList/InsertionSortList.s: InsertionSortList/InsertionSortList.cpp.s
+
+.PHONY : InsertionSortList/InsertionSortList.s
+
+# target to generate assembly for a file
+InsertionSortList/InsertionSortList.cpp.s:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/InsertionSortList/InsertionSortList.cpp.s
+.PHONY : InsertionSortList/InsertionSortList.cpp.s
+
 InterleavingString/InterleavingString.o: InterleavingString/InterleavingString.cpp.o
 
 .PHONY : InterleavingString/InterleavingString.o
@@ -1094,6 +1148,33 @@ JumpGame2/JumpGame2.s: JumpGame2/JumpGame2.cpp.s
 JumpGame2/JumpGame2.cpp.s:
 	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/JumpGame2/JumpGame2.cpp.s
 .PHONY : JumpGame2/JumpGame2.cpp.s
+
+LRUCache/LRUCache.o: LRUCache/LRUCache.cpp.o
+
+.PHONY : LRUCache/LRUCache.o
+
+# target to build an object file
+LRUCache/LRUCache.cpp.o:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/LRUCache/LRUCache.cpp.o
+.PHONY : LRUCache/LRUCache.cpp.o
+
+LRUCache/LRUCache.i: LRUCache/LRUCache.cpp.i
+
+.PHONY : LRUCache/LRUCache.i
+
+# target to preprocess a source file
+LRUCache/LRUCache.cpp.i:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/LRUCache/LRUCache.cpp.i
+.PHONY : LRUCache/LRUCache.cpp.i
+
+LRUCache/LRUCache.s: LRUCache/LRUCache.cpp.s
+
+.PHONY : LRUCache/LRUCache.s
+
+# target to generate assembly for a file
+LRUCache/LRUCache.cpp.s:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/LRUCache/LRUCache.cpp.s
+.PHONY : LRUCache/LRUCache.cpp.s
 
 LargestRectangleInHistogram/LargestRectangleInHistogram.o: LargestRectangleInHistogram/LargestRectangleInHistogram.cpp.o
 
@@ -3456,6 +3537,9 @@ help:
 	@echo "... BinaryTreeMaximumPathSum/BinaryTreeMaximumPathSum.o"
 	@echo "... BinaryTreeMaximumPathSum/BinaryTreeMaximumPathSum.i"
 	@echo "... BinaryTreeMaximumPathSum/BinaryTreeMaximumPathSum.s"
+	@echo "... BinaryTreePostorderTraversal/BinaryTreePostorderTraversal.o"
+	@echo "... BinaryTreePostorderTraversal/BinaryTreePostorderTraversal.i"
+	@echo "... BinaryTreePostorderTraversal/BinaryTreePostorderTraversal.s"
 	@echo "... BinaryTreePreorderTraversal/BinaryTreePreorderTraversal.o"
 	@echo "... BinaryTreePreorderTraversal/BinaryTreePreorderTraversal.i"
 	@echo "... BinaryTreePreorderTraversal/BinaryTreePreorderTraversal.s"
@@ -3525,6 +3609,9 @@ help:
 	@echo "... InsertInterval/InsertInterval.o"
 	@echo "... InsertInterval/InsertInterval.i"
 	@echo "... InsertInterval/InsertInterval.s"
+	@echo "... InsertionSortList/InsertionSortList.o"
+	@echo "... InsertionSortList/InsertionSortList.i"
+	@echo "... InsertionSortList/InsertionSortList.s"
 	@echo "... InterleavingString/InterleavingString.o"
 	@echo "... InterleavingString/InterleavingString.i"
 	@echo "... InterleavingString/InterleavingString.s"
@@ -3534,6 +3621,9 @@ help:
 	@echo "... JumpGame2/JumpGame2.o"
 	@echo "... JumpGame2/JumpGame2.i"
 	@echo "... JumpGame2/JumpGame2.s"
+	@echo "... LRUCache/LRUCache.o"
+	@echo "... LRUCache/LRUCache.i"
+	@echo "... LRUCache/LRUCache.s"
 	@echo "... LargestRectangleInHistogram/LargestRectangleInHistogram.o"
 	@echo "... LargestRectangleInHistogram/LargestRectangleInHistogram.i"
 	@echo "... LargestRectangleInHistogram/LargestRectangleInHistogram.s"

@@ -6,19 +6,29 @@
 
 #IncludeRegexTransform: 
 
-/Volumes/ZWHD/github/LeetCode/BinaryTreePreorderTraversal/BinaryTreePreorderTraversal.cpp
-BinaryTreePreorderTraversal.h
-/Volumes/ZWHD/github/LeetCode/BinaryTreePreorderTraversal/BinaryTreePreorderTraversal.h
+/Volumes/ZWHD/github/LeetCode/InsertionSortList/InsertionSortList.cpp
+InsertionSortList.h
+/Volumes/ZWHD/github/LeetCode/InsertionSortList/InsertionSortList.h
 
-/Volumes/ZWHD/github/LeetCode/BinaryTreePreorderTraversal/BinaryTreePreorderTraversal.h
+/Volumes/ZWHD/github/LeetCode/InsertionSortList/InsertionSortList.h
 iostream
 -
 vector
 -
-stack
+
+/Volumes/ZWHD/github/LeetCode/LRUCache/LRUCache.cpp
+LRUCache.h
+/Volumes/ZWHD/github/LeetCode/LRUCache/LRUCache.h
+
+/Volumes/ZWHD/github/LeetCode/LRUCache/LRUCache.h
+iostream
+-
+unordered_map
+-
+list
 -
 
 /Volumes/ZWHD/github/LeetCode/main.cpp
-BinaryTreePreorderTraversal/BinaryTreePreorderTraversal.h
-/Volumes/ZWHD/github/LeetCode/BinaryTreePreorderTraversal/BinaryTreePreorderTraversal.h
+InsertionSortList/InsertionSortList.h
+/Volumes/ZWHD/github/LeetCode/InsertionSortList/InsertionSortList.h
 

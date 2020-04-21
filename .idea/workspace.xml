@@ -12,12 +12,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6572f727-0fe8-4c92-80bd-b9f70d0e5706" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/BinaryTreePreorderTraversal/BinaryTreePreorderTraversal.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BinaryTreePreorderTraversal/BinaryTreePreorderTraversal.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinkedListCycleII/LinkedListCycleII.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinkedListCycleII/LinkedListCycleII.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ReorderList/ReorderList.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ReorderList/ReorderList.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BinaryTreePostorderTraversal/BinaryTreePostorderTraversal.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BinaryTreePostorderTraversal/BinaryTreePostorderTraversal.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/InsertionSortList/InsertionSortList.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/InsertionSortList/InsertionSortList.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LRUCache/LRUCache.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LRUCache/LRUCache.h" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LeetCode.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LeetCode.dir/CXX.includecache" afterDir="false" />
@@ -281,7 +281,8 @@
       <workItem from="1586921165840" duration="5467000" />
       <workItem from="1586998346839" duration="4168000" />
       <workItem from="1587084338043" duration="5718000" />
-      <workItem from="1587365041629" duration="4526000" />
+      <workItem from="1587365041629" duration="4655000" />
+      <workItem from="1587429409125" duration="5280000" />
     </task>
     <servers />
   </component>
@@ -793,6 +794,16 @@
           <url>file://$PROJECT_DIR$/BinaryTreePreorderTraversal/BinaryTreePreorderTraversal.cpp</url>
           <line>11</line>
           <option name="timeStamp" value="128" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/BinaryTreePostorderTraversal/BinaryTreePostorderTraversal.cpp</url>
+          <line>10</line>
+          <option name="timeStamp" value="129" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/InsertionSortList/InsertionSortList.cpp</url>
+          <line>7</line>
+          <option name="timeStamp" value="130" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

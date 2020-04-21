@@ -166,6 +166,12 @@
 		<Unit filename="/Volumes/ZWHD/github/LeetCode/BinaryTreeMaximumPathSum/BinaryTreeMaximumPathSum.h">
 			<Option target="LeetCode"/>
 		</Unit>
+		<Unit filename="/Volumes/ZWHD/github/LeetCode/BinaryTreePostorderTraversal/BinaryTreePostorderTraversal.cpp">
+			<Option target="LeetCode"/>
+		</Unit>
+		<Unit filename="/Volumes/ZWHD/github/LeetCode/BinaryTreePostorderTraversal/BinaryTreePostorderTraversal.h">
+			<Option target="LeetCode"/>
+		</Unit>
 		<Unit filename="/Volumes/ZWHD/github/LeetCode/BinaryTreePreorderTraversal/BinaryTreePreorderTraversal.cpp">
 			<Option target="LeetCode"/>
 		</Unit>
@@ -304,6 +310,12 @@
 		<Unit filename="/Volumes/ZWHD/github/LeetCode/InsertInterval/InsertInterval.h">
 			<Option target="LeetCode"/>
 		</Unit>
+		<Unit filename="/Volumes/ZWHD/github/LeetCode/InsertionSortList/InsertionSortList.cpp">
+			<Option target="LeetCode"/>
+		</Unit>
+		<Unit filename="/Volumes/ZWHD/github/LeetCode/InsertionSortList/InsertionSortList.h">
+			<Option target="LeetCode"/>
+		</Unit>
 		<Unit filename="/Volumes/ZWHD/github/LeetCode/InterleavingString/InterleavingString.cpp">
 			<Option target="LeetCode"/>
 		</Unit>
@@ -320,6 +332,12 @@
 			<Option target="LeetCode"/>
 		</Unit>
 		<Unit filename="/Volumes/ZWHD/github/LeetCode/JumpGame2/JumpGame2.h">
+			<Option target="LeetCode"/>
+		</Unit>
+		<Unit filename="/Volumes/ZWHD/github/LeetCode/LRUCache/LRUCache.cpp">
+			<Option target="LeetCode"/>
+		</Unit>
+		<Unit filename="/Volumes/ZWHD/github/LeetCode/LRUCache/LRUCache.h">
 			<Option target="LeetCode"/>
 		</Unit>
 		<Unit filename="/Volumes/ZWHD/github/LeetCode/LargestRectangleInHistogram/LargestRectangleInHistogram.cpp">

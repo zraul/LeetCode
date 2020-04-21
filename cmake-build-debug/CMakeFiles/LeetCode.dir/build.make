@@ -1643,6 +1643,45 @@ CMakeFiles/LeetCode.dir/BinaryTreePreorderTraversal/BinaryTreePreorderTraversal.
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/BinaryTreePreorderTraversal/BinaryTreePreorderTraversal.cpp.s"
 	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Volumes/ZWHD/github/LeetCode/BinaryTreePreorderTraversal/BinaryTreePreorderTraversal.cpp -o CMakeFiles/LeetCode.dir/BinaryTreePreorderTraversal/BinaryTreePreorderTraversal.cpp.s
 
+CMakeFiles/LeetCode.dir/BinaryTreePostorderTraversal/BinaryTreePostorderTraversal.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/BinaryTreePostorderTraversal/BinaryTreePostorderTraversal.cpp.o: ../BinaryTreePostorderTraversal/BinaryTreePostorderTraversal.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Volumes/ZWHD/github/LeetCode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_123) "Building CXX object CMakeFiles/LeetCode.dir/BinaryTreePostorderTraversal/BinaryTreePostorderTraversal.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/LeetCode.dir/BinaryTreePostorderTraversal/BinaryTreePostorderTraversal.cpp.o -c /Volumes/ZWHD/github/LeetCode/BinaryTreePostorderTraversal/BinaryTreePostorderTraversal.cpp
+
+CMakeFiles/LeetCode.dir/BinaryTreePostorderTraversal/BinaryTreePostorderTraversal.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/BinaryTreePostorderTraversal/BinaryTreePostorderTraversal.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Volumes/ZWHD/github/LeetCode/BinaryTreePostorderTraversal/BinaryTreePostorderTraversal.cpp > CMakeFiles/LeetCode.dir/BinaryTreePostorderTraversal/BinaryTreePostorderTraversal.cpp.i
+
+CMakeFiles/LeetCode.dir/BinaryTreePostorderTraversal/BinaryTreePostorderTraversal.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/BinaryTreePostorderTraversal/BinaryTreePostorderTraversal.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Volumes/ZWHD/github/LeetCode/BinaryTreePostorderTraversal/BinaryTreePostorderTraversal.cpp -o CMakeFiles/LeetCode.dir/BinaryTreePostorderTraversal/BinaryTreePostorderTraversal.cpp.s
+
+CMakeFiles/LeetCode.dir/LRUCache/LRUCache.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/LRUCache/LRUCache.cpp.o: ../LRUCache/LRUCache.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Volumes/ZWHD/github/LeetCode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_124) "Building CXX object CMakeFiles/LeetCode.dir/LRUCache/LRUCache.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/LeetCode.dir/LRUCache/LRUCache.cpp.o -c /Volumes/ZWHD/github/LeetCode/LRUCache/LRUCache.cpp
+
+CMakeFiles/LeetCode.dir/LRUCache/LRUCache.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/LRUCache/LRUCache.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Volumes/ZWHD/github/LeetCode/LRUCache/LRUCache.cpp > CMakeFiles/LeetCode.dir/LRUCache/LRUCache.cpp.i
+
+CMakeFiles/LeetCode.dir/LRUCache/LRUCache.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/LRUCache/LRUCache.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Volumes/ZWHD/github/LeetCode/LRUCache/LRUCache.cpp -o CMakeFiles/LeetCode.dir/LRUCache/LRUCache.cpp.s
+
+CMakeFiles/LeetCode.dir/InsertionSortList/InsertionSortList.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/InsertionSortList/InsertionSortList.cpp.o: ../InsertionSortList/InsertionSortList.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Volumes/ZWHD/github/LeetCode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_125) "Building CXX object CMakeFiles/LeetCode.dir/InsertionSortList/InsertionSortList.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/LeetCode.dir/InsertionSortList/InsertionSortList.cpp.o -c /Volumes/ZWHD/github/LeetCode/InsertionSortList/InsertionSortList.cpp
+
+CMakeFiles/LeetCode.dir/InsertionSortList/InsertionSortList.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/InsertionSortList/InsertionSortList.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Volumes/ZWHD/github/LeetCode/InsertionSortList/InsertionSortList.cpp > CMakeFiles/LeetCode.dir/InsertionSortList/InsertionSortList.cpp.i
+
+CMakeFiles/LeetCode.dir/InsertionSortList/InsertionSortList.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/InsertionSortList/InsertionSortList.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Volumes/ZWHD/github/LeetCode/InsertionSortList/InsertionSortList.cpp -o CMakeFiles/LeetCode.dir/InsertionSortList/InsertionSortList.cpp.s
+
 # Object files for target LeetCode
 LeetCode_OBJECTS = \
 "CMakeFiles/LeetCode.dir/AddTwoNumbers/AddTwoNumbers.cpp.o" \
@@ -1766,7 +1805,10 @@ LeetCode_OBJECTS = \
 "CMakeFiles/LeetCode.dir/LinkedListCycle/LinkedListCycle.cpp.o" \
 "CMakeFiles/LeetCode.dir/LinkedListCycleII/LinkedListCycleII.cpp.o" \
 "CMakeFiles/LeetCode.dir/ReorderList/ReorderList.cpp.o" \
-"CMakeFiles/LeetCode.dir/BinaryTreePreorderTraversal/BinaryTreePreorderTraversal.cpp.o"
+"CMakeFiles/LeetCode.dir/BinaryTreePreorderTraversal/BinaryTreePreorderTraversal.cpp.o" \
+"CMakeFiles/LeetCode.dir/BinaryTreePostorderTraversal/BinaryTreePostorderTraversal.cpp.o" \
+"CMakeFiles/LeetCode.dir/LRUCache/LRUCache.cpp.o" \
+"CMakeFiles/LeetCode.dir/InsertionSortList/InsertionSortList.cpp.o"
 
 # External object files for target LeetCode
 LeetCode_EXTERNAL_OBJECTS =
@@ -1893,9 +1935,12 @@ LeetCode: CMakeFiles/LeetCode.dir/LinkedListCycle/LinkedListCycle.cpp.o
 LeetCode: CMakeFiles/LeetCode.dir/LinkedListCycleII/LinkedListCycleII.cpp.o
 LeetCode: CMakeFiles/LeetCode.dir/ReorderList/ReorderList.cpp.o
 LeetCode: CMakeFiles/LeetCode.dir/BinaryTreePreorderTraversal/BinaryTreePreorderTraversal.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/BinaryTreePostorderTraversal/BinaryTreePostorderTraversal.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/LRUCache/LRUCache.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/InsertionSortList/InsertionSortList.cpp.o
 LeetCode: CMakeFiles/LeetCode.dir/build.make
 LeetCode: CMakeFiles/LeetCode.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Volumes/ZWHD/github/LeetCode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_123) "Linking CXX executable LeetCode"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Volumes/ZWHD/github/LeetCode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_126) "Linking CXX executable LeetCode"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/LeetCode.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

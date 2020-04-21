@@ -32,6 +32,9 @@ CMakeFiles/LeetCode.dir/BinaryTreeLevelOrderTraversalII/BinaryTreeLevelOrderTrav
 CMakeFiles/LeetCode.dir/BinaryTreeMaximumPathSum/BinaryTreeMaximumPathSum.cpp.o: ../BinaryTreeMaximumPathSum/BinaryTreeMaximumPathSum.cpp
 CMakeFiles/LeetCode.dir/BinaryTreeMaximumPathSum/BinaryTreeMaximumPathSum.cpp.o: ../BinaryTreeMaximumPathSum/BinaryTreeMaximumPathSum.h
 
+CMakeFiles/LeetCode.dir/BinaryTreePostorderTraversal/BinaryTreePostorderTraversal.cpp.o: ../BinaryTreePostorderTraversal/BinaryTreePostorderTraversal.cpp
+CMakeFiles/LeetCode.dir/BinaryTreePostorderTraversal/BinaryTreePostorderTraversal.cpp.o: ../BinaryTreePostorderTraversal/BinaryTreePostorderTraversal.h
+
 CMakeFiles/LeetCode.dir/BinaryTreePreorderTraversal/BinaryTreePreorderTraversal.cpp.o: ../BinaryTreePreorderTraversal/BinaryTreePreorderTraversal.cpp
 CMakeFiles/LeetCode.dir/BinaryTreePreorderTraversal/BinaryTreePreorderTraversal.cpp.o: ../BinaryTreePreorderTraversal/BinaryTreePreorderTraversal.h
 
@@ -101,6 +104,9 @@ CMakeFiles/LeetCode.dir/GroupAnagrams/GroupAnagrams.cpp.o: ../GroupAnagrams/Grou
 CMakeFiles/LeetCode.dir/InsertInterval/InsertInterval.cpp.o: ../InsertInterval/InsertInterval.cpp
 CMakeFiles/LeetCode.dir/InsertInterval/InsertInterval.cpp.o: ../InsertInterval/InsertInterval.h
 
+CMakeFiles/LeetCode.dir/InsertionSortList/InsertionSortList.cpp.o: ../InsertionSortList/InsertionSortList.cpp
+CMakeFiles/LeetCode.dir/InsertionSortList/InsertionSortList.cpp.o: ../InsertionSortList/InsertionSortList.h
+
 CMakeFiles/LeetCode.dir/InterleavingString/InterleavingString.cpp.o: ../InterleavingString/InterleavingString.cpp
 CMakeFiles/LeetCode.dir/InterleavingString/InterleavingString.cpp.o: ../InterleavingString/InterleavingString.h
 
@@ -109,6 +115,9 @@ CMakeFiles/LeetCode.dir/JumpGame/JumpGame.cpp.o: ../JumpGame/JumpGame.h
 
 CMakeFiles/LeetCode.dir/JumpGame2/JumpGame2.cpp.o: ../JumpGame2/JumpGame2.cpp
 CMakeFiles/LeetCode.dir/JumpGame2/JumpGame2.cpp.o: ../JumpGame2/JumpGame2.h
+
+CMakeFiles/LeetCode.dir/LRUCache/LRUCache.cpp.o: ../LRUCache/LRUCache.cpp
+CMakeFiles/LeetCode.dir/LRUCache/LRUCache.cpp.o: ../LRUCache/LRUCache.h
 
 CMakeFiles/LeetCode.dir/LargestRectangleInHistogram/LargestRectangleInHistogram.cpp.o: ../LargestRectangleInHistogram/LargestRectangleInHistogram.cpp
 CMakeFiles/LeetCode.dir/LargestRectangleInHistogram/LargestRectangleInHistogram.cpp.o: ../LargestRectangleInHistogram/LargestRectangleInHistogram.h
@@ -375,6 +384,6 @@ CMakeFiles/LeetCode.dir/ZigZag/ZigZag.cpp.o: ../ZigZag/ZigZag.cpp
 CMakeFiles/LeetCode.dir/ZigZag/ZigZag.cpp.o: ../ZigZag/ZigZag.h
 CMakeFiles/LeetCode.dir/ZigZag/ZigZag.cpp.o: ../common.h
 
-CMakeFiles/LeetCode.dir/main.cpp.o: ../BinaryTreePreorderTraversal/BinaryTreePreorderTraversal.h
+CMakeFiles/LeetCode.dir/main.cpp.o: ../InsertionSortList/InsertionSortList.h
 CMakeFiles/LeetCode.dir/main.cpp.o: ../main.cpp
 

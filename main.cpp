@@ -3,8 +3,8 @@
 //#include "PalindromeNumber/PalindromeNumber.h"
 //#include "RegularExpressionMatching/RegularExpressionMatching.h"
 
-//#include "WordBreakII/WordBreakII.h"
-#include "BinaryTreePreorderTraversal/BinaryTreePreorderTraversal.h"
+//#include "InsertionSortList/InsertionSortList.h"
+#include "InsertionSortList/InsertionSortList.h"
 
 int main()
 {
@@ -14,20 +14,20 @@ int main()
 //    for (int i = 0; i < r.size(); ++i) {
 //        std::cout<<r[i]<<std::endl;
 //    }
-    BinaryTreePreorderTraversal *b = new BinaryTreePreorderTraversal();
-    TreeNode t1(1);
-    TreeNode t2(2);
-    TreeNode t3(3);
+    InsertionSortList *s = new InsertionSortList();
 
-    t1.right = &t2;
-    t2.left = &t3;
+    ListNode l1(-1);
+    ListNode l2(5);
+    ListNode l3(3);
+    ListNode l4(4);
+    ListNode l5(0);
 
-    vector<int> v = b->preorderTraversal(&t1);
-    for (int i = 0; i < v.size(); ++i) {
-        std::cout<<v[i]<<",";
-    }
+    l1.next = &l2;
+    l2.next = &l3;
+    l3.next = &l4;
+    l4.next = &l5;
 
-    std::cout<<std::endl;
+    s->insertionSortList(&l1);
 }
 
 
