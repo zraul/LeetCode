@@ -86,6 +86,9 @@ CMakeFiles/LeetCode.dir/DistributeCandiesToPeople/DistributeCandiesToPeople.cpp.
 CMakeFiles/LeetCode.dir/EditDistance/EditDistance.cpp.o: ../EditDistance/EditDistance.cpp
 CMakeFiles/LeetCode.dir/EditDistance/EditDistance.cpp.o: ../EditDistance/EditDistance.h
 
+CMakeFiles/LeetCode.dir/EvaluateReversePolishNotation/EvaluateReversePolishNotation.cpp.o: ../EvaluateReversePolishNotation/EvaluateReversePolishNotation.cpp
+CMakeFiles/LeetCode.dir/EvaluateReversePolishNotation/EvaluateReversePolishNotation.cpp.o: ../EvaluateReversePolishNotation/EvaluateReversePolishNotation.h
+
 CMakeFiles/LeetCode.dir/FirstMissingPositive/FirstMissingPositive.cpp.o: ../FirstMissingPositive/FirstMissingPositive.cpp
 CMakeFiles/LeetCode.dir/FirstMissingPositive/FirstMissingPositive.cpp.o: ../FirstMissingPositive/FirstMissingPositive.h
 
@@ -137,6 +140,9 @@ CMakeFiles/LeetCode.dir/LongestConsecutiveSequence/LongestConsecutiveSequence.cp
 CMakeFiles/LeetCode.dir/LongestSubString/LongestSubString.cpp.o: ../LongestSubString/LongestSubString.cpp
 CMakeFiles/LeetCode.dir/LongestSubString/LongestSubString.cpp.o: ../LongestSubString/LongestSubString.h
 CMakeFiles/LeetCode.dir/LongestSubString/LongestSubString.cpp.o: ../common.h
+
+CMakeFiles/LeetCode.dir/MaxPointsOnALine/MaxPointsOnALine.cpp.o: ../MaxPointsOnALine/MaxPointsOnALine.cpp
+CMakeFiles/LeetCode.dir/MaxPointsOnALine/MaxPointsOnALine.cpp.o: ../MaxPointsOnALine/MaxPointsOnALine.h
 
 CMakeFiles/LeetCode.dir/MaximalRectangle/MaximalRectangle.cpp.o: ../MaximalRectangle/MaximalRectangle.cpp
 CMakeFiles/LeetCode.dir/MaximalRectangle/MaximalRectangle.cpp.o: ../MaximalRectangle/MaximalRectangle.h
@@ -298,6 +304,9 @@ CMakeFiles/LeetCode.dir/SingleNumberII/SingleNumberII.cpp.o: ../SingleNumberII/S
 CMakeFiles/LeetCode.dir/SortColors/SortColors.cpp.o: ../SortColors/SortColors.cpp
 CMakeFiles/LeetCode.dir/SortColors/SortColors.cpp.o: ../SortColors/SortColors.h
 
+CMakeFiles/LeetCode.dir/SortList/SortList.cpp.o: ../SortList/SortList.cpp
+CMakeFiles/LeetCode.dir/SortList/SortList.cpp.o: ../SortList/SortList.h
+
 CMakeFiles/LeetCode.dir/SpiralMatrixII/SpiralMatrixII.cpp.o: ../SpiralMatrixII/SpiralMatrixII.cpp
 CMakeFiles/LeetCode.dir/SpiralMatrixII/SpiralMatrixII.cpp.o: ../SpiralMatrixII/SpiralMatrixII.h
 
@@ -384,6 +393,6 @@ CMakeFiles/LeetCode.dir/ZigZag/ZigZag.cpp.o: ../ZigZag/ZigZag.cpp
 CMakeFiles/LeetCode.dir/ZigZag/ZigZag.cpp.o: ../ZigZag/ZigZag.h
 CMakeFiles/LeetCode.dir/ZigZag/ZigZag.cpp.o: ../common.h
 
-CMakeFiles/LeetCode.dir/main.cpp.o: ../InsertionSortList/InsertionSortList.h
+CMakeFiles/LeetCode.dir/main.cpp.o: ../EvaluateReversePolishNotation/EvaluateReversePolishNotation.h
 CMakeFiles/LeetCode.dir/main.cpp.o: ../main.cpp
 

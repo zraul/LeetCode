@@ -879,6 +879,33 @@ EditDistance/EditDistance.cpp.s:
 	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/EditDistance/EditDistance.cpp.s
 .PHONY : EditDistance/EditDistance.cpp.s
 
+EvaluateReversePolishNotation/EvaluateReversePolishNotation.o: EvaluateReversePolishNotation/EvaluateReversePolishNotation.cpp.o
+
+.PHONY : EvaluateReversePolishNotation/EvaluateReversePolishNotation.o
+
+# target to build an object file
+EvaluateReversePolishNotation/EvaluateReversePolishNotation.cpp.o:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/EvaluateReversePolishNotation/EvaluateReversePolishNotation.cpp.o
+.PHONY : EvaluateReversePolishNotation/EvaluateReversePolishNotation.cpp.o
+
+EvaluateReversePolishNotation/EvaluateReversePolishNotation.i: EvaluateReversePolishNotation/EvaluateReversePolishNotation.cpp.i
+
+.PHONY : EvaluateReversePolishNotation/EvaluateReversePolishNotation.i
+
+# target to preprocess a source file
+EvaluateReversePolishNotation/EvaluateReversePolishNotation.cpp.i:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/EvaluateReversePolishNotation/EvaluateReversePolishNotation.cpp.i
+.PHONY : EvaluateReversePolishNotation/EvaluateReversePolishNotation.cpp.i
+
+EvaluateReversePolishNotation/EvaluateReversePolishNotation.s: EvaluateReversePolishNotation/EvaluateReversePolishNotation.cpp.s
+
+.PHONY : EvaluateReversePolishNotation/EvaluateReversePolishNotation.s
+
+# target to generate assembly for a file
+EvaluateReversePolishNotation/EvaluateReversePolishNotation.cpp.s:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/EvaluateReversePolishNotation/EvaluateReversePolishNotation.cpp.s
+.PHONY : EvaluateReversePolishNotation/EvaluateReversePolishNotation.cpp.s
+
 FirstMissingPositive/FirstMissingPositive.o: FirstMissingPositive/FirstMissingPositive.cpp.o
 
 .PHONY : FirstMissingPositive/FirstMissingPositive.o
@@ -1337,6 +1364,33 @@ LongestSubString/LongestSubString.s: LongestSubString/LongestSubString.cpp.s
 LongestSubString/LongestSubString.cpp.s:
 	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/LongestSubString/LongestSubString.cpp.s
 .PHONY : LongestSubString/LongestSubString.cpp.s
+
+MaxPointsOnALine/MaxPointsOnALine.o: MaxPointsOnALine/MaxPointsOnALine.cpp.o
+
+.PHONY : MaxPointsOnALine/MaxPointsOnALine.o
+
+# target to build an object file
+MaxPointsOnALine/MaxPointsOnALine.cpp.o:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/MaxPointsOnALine/MaxPointsOnALine.cpp.o
+.PHONY : MaxPointsOnALine/MaxPointsOnALine.cpp.o
+
+MaxPointsOnALine/MaxPointsOnALine.i: MaxPointsOnALine/MaxPointsOnALine.cpp.i
+
+.PHONY : MaxPointsOnALine/MaxPointsOnALine.i
+
+# target to preprocess a source file
+MaxPointsOnALine/MaxPointsOnALine.cpp.i:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/MaxPointsOnALine/MaxPointsOnALine.cpp.i
+.PHONY : MaxPointsOnALine/MaxPointsOnALine.cpp.i
+
+MaxPointsOnALine/MaxPointsOnALine.s: MaxPointsOnALine/MaxPointsOnALine.cpp.s
+
+.PHONY : MaxPointsOnALine/MaxPointsOnALine.s
+
+# target to generate assembly for a file
+MaxPointsOnALine/MaxPointsOnALine.cpp.s:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/MaxPointsOnALine/MaxPointsOnALine.cpp.s
+.PHONY : MaxPointsOnALine/MaxPointsOnALine.cpp.s
 
 MaximalRectangle/MaximalRectangle.o: MaximalRectangle/MaximalRectangle.cpp.o
 
@@ -2715,6 +2769,33 @@ SortColors/SortColors.cpp.s:
 	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/SortColors/SortColors.cpp.s
 .PHONY : SortColors/SortColors.cpp.s
 
+SortList/SortList.o: SortList/SortList.cpp.o
+
+.PHONY : SortList/SortList.o
+
+# target to build an object file
+SortList/SortList.cpp.o:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/SortList/SortList.cpp.o
+.PHONY : SortList/SortList.cpp.o
+
+SortList/SortList.i: SortList/SortList.cpp.i
+
+.PHONY : SortList/SortList.i
+
+# target to preprocess a source file
+SortList/SortList.cpp.i:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/SortList/SortList.cpp.i
+.PHONY : SortList/SortList.cpp.i
+
+SortList/SortList.s: SortList/SortList.cpp.s
+
+.PHONY : SortList/SortList.s
+
+# target to generate assembly for a file
+SortList/SortList.cpp.s:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/SortList/SortList.cpp.s
+.PHONY : SortList/SortList.cpp.s
+
 SpiralMatrixII/SpiralMatrixII.o: SpiralMatrixII/SpiralMatrixII.cpp.o
 
 .PHONY : SpiralMatrixII/SpiralMatrixII.o
@@ -3591,6 +3672,9 @@ help:
 	@echo "... EditDistance/EditDistance.o"
 	@echo "... EditDistance/EditDistance.i"
 	@echo "... EditDistance/EditDistance.s"
+	@echo "... EvaluateReversePolishNotation/EvaluateReversePolishNotation.o"
+	@echo "... EvaluateReversePolishNotation/EvaluateReversePolishNotation.i"
+	@echo "... EvaluateReversePolishNotation/EvaluateReversePolishNotation.s"
 	@echo "... FirstMissingPositive/FirstMissingPositive.o"
 	@echo "... FirstMissingPositive/FirstMissingPositive.i"
 	@echo "... FirstMissingPositive/FirstMissingPositive.s"
@@ -3642,6 +3726,9 @@ help:
 	@echo "... LongestSubString/LongestSubString.o"
 	@echo "... LongestSubString/LongestSubString.i"
 	@echo "... LongestSubString/LongestSubString.s"
+	@echo "... MaxPointsOnALine/MaxPointsOnALine.o"
+	@echo "... MaxPointsOnALine/MaxPointsOnALine.i"
+	@echo "... MaxPointsOnALine/MaxPointsOnALine.s"
 	@echo "... MaximalRectangle/MaximalRectangle.o"
 	@echo "... MaximalRectangle/MaximalRectangle.i"
 	@echo "... MaximalRectangle/MaximalRectangle.s"
@@ -3795,6 +3882,9 @@ help:
 	@echo "... SortColors/SortColors.o"
 	@echo "... SortColors/SortColors.i"
 	@echo "... SortColors/SortColors.s"
+	@echo "... SortList/SortList.o"
+	@echo "... SortList/SortList.i"
+	@echo "... SortList/SortList.s"
 	@echo "... SpiralMatrixII/SpiralMatrixII.o"
 	@echo "... SpiralMatrixII/SpiralMatrixII.i"
 	@echo "... SpiralMatrixII/SpiralMatrixII.s"

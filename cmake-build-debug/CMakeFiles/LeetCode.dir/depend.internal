@@ -86,6 +86,9 @@ CMakeFiles/LeetCode.dir/DistributeCandiesToPeople/DistributeCandiesToPeople.cpp.
 CMakeFiles/LeetCode.dir/EditDistance/EditDistance.cpp.o
  /Volumes/ZWHD/github/LeetCode/EditDistance/EditDistance.cpp
  /Volumes/ZWHD/github/LeetCode/EditDistance/EditDistance.h
+CMakeFiles/LeetCode.dir/EvaluateReversePolishNotation/EvaluateReversePolishNotation.cpp.o
+ /Volumes/ZWHD/github/LeetCode/EvaluateReversePolishNotation/EvaluateReversePolishNotation.cpp
+ /Volumes/ZWHD/github/LeetCode/EvaluateReversePolishNotation/EvaluateReversePolishNotation.h
 CMakeFiles/LeetCode.dir/FirstMissingPositive/FirstMissingPositive.cpp.o
  /Volumes/ZWHD/github/LeetCode/FirstMissingPositive/FirstMissingPositive.cpp
  /Volumes/ZWHD/github/LeetCode/FirstMissingPositive/FirstMissingPositive.h
@@ -138,6 +141,9 @@ CMakeFiles/LeetCode.dir/LongestSubString/LongestSubString.cpp.o
  /Volumes/ZWHD/github/LeetCode/LongestSubString/LongestSubString.cpp
  /Volumes/ZWHD/github/LeetCode/LongestSubString/LongestSubString.h
  /Volumes/ZWHD/github/LeetCode/common.h
+CMakeFiles/LeetCode.dir/MaxPointsOnALine/MaxPointsOnALine.cpp.o
+ /Volumes/ZWHD/github/LeetCode/MaxPointsOnALine/MaxPointsOnALine.cpp
+ /Volumes/ZWHD/github/LeetCode/MaxPointsOnALine/MaxPointsOnALine.h
 CMakeFiles/LeetCode.dir/MaximalRectangle/MaximalRectangle.cpp.o
  /Volumes/ZWHD/github/LeetCode/MaximalRectangle/MaximalRectangle.cpp
  /Volumes/ZWHD/github/LeetCode/MaximalRectangle/MaximalRectangle.h
@@ -298,6 +304,9 @@ CMakeFiles/LeetCode.dir/SingleNumberII/SingleNumberII.cpp.o
 CMakeFiles/LeetCode.dir/SortColors/SortColors.cpp.o
  /Volumes/ZWHD/github/LeetCode/SortColors/SortColors.cpp
  /Volumes/ZWHD/github/LeetCode/SortColors/SortColors.h
+CMakeFiles/LeetCode.dir/SortList/SortList.cpp.o
+ /Volumes/ZWHD/github/LeetCode/SortList/SortList.cpp
+ /Volumes/ZWHD/github/LeetCode/SortList/SortList.h
 CMakeFiles/LeetCode.dir/SpiralMatrixII/SpiralMatrixII.cpp.o
  /Volumes/ZWHD/github/LeetCode/SpiralMatrixII/SpiralMatrixII.cpp
  /Volumes/ZWHD/github/LeetCode/SpiralMatrixII/SpiralMatrixII.h
@@ -385,5 +394,5 @@ CMakeFiles/LeetCode.dir/ZigZag/ZigZag.cpp.o
  /Volumes/ZWHD/github/LeetCode/ZigZag/ZigZag.h
  /Volumes/ZWHD/github/LeetCode/common.h
 CMakeFiles/LeetCode.dir/main.cpp.o
- /Volumes/ZWHD/github/LeetCode/InsertionSortList/InsertionSortList.h
+ /Volumes/ZWHD/github/LeetCode/EvaluateReversePolishNotation/EvaluateReversePolishNotation.h
  /Volumes/ZWHD/github/LeetCode/main.cpp

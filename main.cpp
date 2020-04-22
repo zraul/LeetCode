@@ -4,7 +4,7 @@
 //#include "RegularExpressionMatching/RegularExpressionMatching.h"
 
 //#include "InsertionSortList/InsertionSortList.h"
-#include "InsertionSortList/InsertionSortList.h"
+#include "EvaluateReversePolishNotation/EvaluateReversePolishNotation.h"
 
 int main()
 {
@@ -14,20 +14,10 @@ int main()
 //    for (int i = 0; i < r.size(); ++i) {
 //        std::cout<<r[i]<<std::endl;
 //    }
-    InsertionSortList *s = new InsertionSortList();
+    EvaluateReversePolishNotation *m = new EvaluateReversePolishNotation();
 
-    ListNode l1(-1);
-    ListNode l2(5);
-    ListNode l3(3);
-    ListNode l4(4);
-    ListNode l5(0);
-
-    l1.next = &l2;
-    l2.next = &l3;
-    l3.next = &l4;
-    l4.next = &l5;
-
-    s->insertionSortList(&l1);
+    vector<string> tokens = {"10", "6", "9", "3", "+", "-11", "*", "/", "*", "17", "+", "5", "+"};
+    std::cout<<m->evalRPN(tokens)<<std::endl;
 }
 
 

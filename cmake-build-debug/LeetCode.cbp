@@ -274,6 +274,12 @@
 		<Unit filename="/Volumes/ZWHD/github/LeetCode/EditDistance/EditDistance.h">
 			<Option target="LeetCode"/>
 		</Unit>
+		<Unit filename="/Volumes/ZWHD/github/LeetCode/EvaluateReversePolishNotation/EvaluateReversePolishNotation.cpp">
+			<Option target="LeetCode"/>
+		</Unit>
+		<Unit filename="/Volumes/ZWHD/github/LeetCode/EvaluateReversePolishNotation/EvaluateReversePolishNotation.h">
+			<Option target="LeetCode"/>
+		</Unit>
 		<Unit filename="/Volumes/ZWHD/github/LeetCode/FirstMissingPositive/FirstMissingPositive.cpp">
 			<Option target="LeetCode"/>
 		</Unit>
@@ -374,6 +380,12 @@
 			<Option target="LeetCode"/>
 		</Unit>
 		<Unit filename="/Volumes/ZWHD/github/LeetCode/LongestSubString/LongestSubString.h">
+			<Option target="LeetCode"/>
+		</Unit>
+		<Unit filename="/Volumes/ZWHD/github/LeetCode/MaxPointsOnALine/MaxPointsOnALine.cpp">
+			<Option target="LeetCode"/>
+		</Unit>
+		<Unit filename="/Volumes/ZWHD/github/LeetCode/MaxPointsOnALine/MaxPointsOnALine.h">
 			<Option target="LeetCode"/>
 		</Unit>
 		<Unit filename="/Volumes/ZWHD/github/LeetCode/MaximalRectangle/MaximalRectangle.cpp">
@@ -680,6 +692,12 @@
 			<Option target="LeetCode"/>
 		</Unit>
 		<Unit filename="/Volumes/ZWHD/github/LeetCode/SortColors/SortColors.h">
+			<Option target="LeetCode"/>
+		</Unit>
+		<Unit filename="/Volumes/ZWHD/github/LeetCode/SortList/SortList.cpp">
+			<Option target="LeetCode"/>
+		</Unit>
+		<Unit filename="/Volumes/ZWHD/github/LeetCode/SortList/SortList.h">
 			<Option target="LeetCode"/>
 		</Unit>
 		<Unit filename="/Volumes/ZWHD/github/LeetCode/SpiralMatrixII/SpiralMatrixII.cpp">

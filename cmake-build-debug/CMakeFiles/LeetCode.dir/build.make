@@ -1682,6 +1682,45 @@ CMakeFiles/LeetCode.dir/InsertionSortList/InsertionSortList.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/InsertionSortList/InsertionSortList.cpp.s"
 	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Volumes/ZWHD/github/LeetCode/InsertionSortList/InsertionSortList.cpp -o CMakeFiles/LeetCode.dir/InsertionSortList/InsertionSortList.cpp.s
 
+CMakeFiles/LeetCode.dir/SortList/SortList.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/SortList/SortList.cpp.o: ../SortList/SortList.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Volumes/ZWHD/github/LeetCode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_126) "Building CXX object CMakeFiles/LeetCode.dir/SortList/SortList.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/LeetCode.dir/SortList/SortList.cpp.o -c /Volumes/ZWHD/github/LeetCode/SortList/SortList.cpp
+
+CMakeFiles/LeetCode.dir/SortList/SortList.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/SortList/SortList.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Volumes/ZWHD/github/LeetCode/SortList/SortList.cpp > CMakeFiles/LeetCode.dir/SortList/SortList.cpp.i
+
+CMakeFiles/LeetCode.dir/SortList/SortList.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/SortList/SortList.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Volumes/ZWHD/github/LeetCode/SortList/SortList.cpp -o CMakeFiles/LeetCode.dir/SortList/SortList.cpp.s
+
+CMakeFiles/LeetCode.dir/MaxPointsOnALine/MaxPointsOnALine.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/MaxPointsOnALine/MaxPointsOnALine.cpp.o: ../MaxPointsOnALine/MaxPointsOnALine.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Volumes/ZWHD/github/LeetCode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_127) "Building CXX object CMakeFiles/LeetCode.dir/MaxPointsOnALine/MaxPointsOnALine.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/LeetCode.dir/MaxPointsOnALine/MaxPointsOnALine.cpp.o -c /Volumes/ZWHD/github/LeetCode/MaxPointsOnALine/MaxPointsOnALine.cpp
+
+CMakeFiles/LeetCode.dir/MaxPointsOnALine/MaxPointsOnALine.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/MaxPointsOnALine/MaxPointsOnALine.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Volumes/ZWHD/github/LeetCode/MaxPointsOnALine/MaxPointsOnALine.cpp > CMakeFiles/LeetCode.dir/MaxPointsOnALine/MaxPointsOnALine.cpp.i
+
+CMakeFiles/LeetCode.dir/MaxPointsOnALine/MaxPointsOnALine.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/MaxPointsOnALine/MaxPointsOnALine.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Volumes/ZWHD/github/LeetCode/MaxPointsOnALine/MaxPointsOnALine.cpp -o CMakeFiles/LeetCode.dir/MaxPointsOnALine/MaxPointsOnALine.cpp.s
+
+CMakeFiles/LeetCode.dir/EvaluateReversePolishNotation/EvaluateReversePolishNotation.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/EvaluateReversePolishNotation/EvaluateReversePolishNotation.cpp.o: ../EvaluateReversePolishNotation/EvaluateReversePolishNotation.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Volumes/ZWHD/github/LeetCode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_128) "Building CXX object CMakeFiles/LeetCode.dir/EvaluateReversePolishNotation/EvaluateReversePolishNotation.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/LeetCode.dir/EvaluateReversePolishNotation/EvaluateReversePolishNotation.cpp.o -c /Volumes/ZWHD/github/LeetCode/EvaluateReversePolishNotation/EvaluateReversePolishNotation.cpp
+
+CMakeFiles/LeetCode.dir/EvaluateReversePolishNotation/EvaluateReversePolishNotation.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/EvaluateReversePolishNotation/EvaluateReversePolishNotation.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Volumes/ZWHD/github/LeetCode/EvaluateReversePolishNotation/EvaluateReversePolishNotation.cpp > CMakeFiles/LeetCode.dir/EvaluateReversePolishNotation/EvaluateReversePolishNotation.cpp.i
+
+CMakeFiles/LeetCode.dir/EvaluateReversePolishNotation/EvaluateReversePolishNotation.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/EvaluateReversePolishNotation/EvaluateReversePolishNotation.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Volumes/ZWHD/github/LeetCode/EvaluateReversePolishNotation/EvaluateReversePolishNotation.cpp -o CMakeFiles/LeetCode.dir/EvaluateReversePolishNotation/EvaluateReversePolishNotation.cpp.s
+
 # Object files for target LeetCode
 LeetCode_OBJECTS = \
 "CMakeFiles/LeetCode.dir/AddTwoNumbers/AddTwoNumbers.cpp.o" \
@@ -1808,7 +1847,10 @@ LeetCode_OBJECTS = \
 "CMakeFiles/LeetCode.dir/BinaryTreePreorderTraversal/BinaryTreePreorderTraversal.cpp.o" \
 "CMakeFiles/LeetCode.dir/BinaryTreePostorderTraversal/BinaryTreePostorderTraversal.cpp.o" \
 "CMakeFiles/LeetCode.dir/LRUCache/LRUCache.cpp.o" \
-"CMakeFiles/LeetCode.dir/InsertionSortList/InsertionSortList.cpp.o"
+"CMakeFiles/LeetCode.dir/InsertionSortList/InsertionSortList.cpp.o" \
+"CMakeFiles/LeetCode.dir/SortList/SortList.cpp.o" \
+"CMakeFiles/LeetCode.dir/MaxPointsOnALine/MaxPointsOnALine.cpp.o" \
+"CMakeFiles/LeetCode.dir/EvaluateReversePolishNotation/EvaluateReversePolishNotation.cpp.o"
 
 # External object files for target LeetCode
 LeetCode_EXTERNAL_OBJECTS =
@@ -1938,9 +1980,12 @@ LeetCode: CMakeFiles/LeetCode.dir/BinaryTreePreorderTraversal/BinaryTreePreorder
 LeetCode: CMakeFiles/LeetCode.dir/BinaryTreePostorderTraversal/BinaryTreePostorderTraversal.cpp.o
 LeetCode: CMakeFiles/LeetCode.dir/LRUCache/LRUCache.cpp.o
 LeetCode: CMakeFiles/LeetCode.dir/InsertionSortList/InsertionSortList.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/SortList/SortList.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/MaxPointsOnALine/MaxPointsOnALine.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/EvaluateReversePolishNotation/EvaluateReversePolishNotation.cpp.o
 LeetCode: CMakeFiles/LeetCode.dir/build.make
 LeetCode: CMakeFiles/LeetCode.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Volumes/ZWHD/github/LeetCode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_126) "Linking CXX executable LeetCode"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Volumes/ZWHD/github/LeetCode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_129) "Linking CXX executable LeetCode"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/LeetCode.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

@@ -6,29 +6,21 @@
 
 #IncludeRegexTransform: 
 
-/Volumes/ZWHD/github/LeetCode/InsertionSortList/InsertionSortList.cpp
-InsertionSortList.h
-/Volumes/ZWHD/github/LeetCode/InsertionSortList/InsertionSortList.h
+/Volumes/ZWHD/github/LeetCode/EvaluateReversePolishNotation/EvaluateReversePolishNotation.cpp
+EvaluateReversePolishNotation.h
+/Volumes/ZWHD/github/LeetCode/EvaluateReversePolishNotation/EvaluateReversePolishNotation.h
 
-/Volumes/ZWHD/github/LeetCode/InsertionSortList/InsertionSortList.h
+/Volumes/ZWHD/github/LeetCode/EvaluateReversePolishNotation/EvaluateReversePolishNotation.h
 iostream
 -
 vector
 -
-
-/Volumes/ZWHD/github/LeetCode/LRUCache/LRUCache.cpp
-LRUCache.h
-/Volumes/ZWHD/github/LeetCode/LRUCache/LRUCache.h
-
-/Volumes/ZWHD/github/LeetCode/LRUCache/LRUCache.h
-iostream
--
 unordered_map
 -
-list
+stack
 -
 
 /Volumes/ZWHD/github/LeetCode/main.cpp
-InsertionSortList/InsertionSortList.h
-/Volumes/ZWHD/github/LeetCode/InsertionSortList/InsertionSortList.h
+EvaluateReversePolishNotation/EvaluateReversePolishNotation.h
+/Volumes/ZWHD/github/LeetCode/EvaluateReversePolishNotation/EvaluateReversePolishNotation.h
 
