@@ -906,6 +906,33 @@ EvaluateReversePolishNotation/EvaluateReversePolishNotation.cpp.s:
 	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/EvaluateReversePolishNotation/EvaluateReversePolishNotation.cpp.s
 .PHONY : EvaluateReversePolishNotation/EvaluateReversePolishNotation.cpp.s
 
+FindMinimumInRotatedSortedArray/FindMinimumInRotatedSortedArray.o: FindMinimumInRotatedSortedArray/FindMinimumInRotatedSortedArray.cpp.o
+
+.PHONY : FindMinimumInRotatedSortedArray/FindMinimumInRotatedSortedArray.o
+
+# target to build an object file
+FindMinimumInRotatedSortedArray/FindMinimumInRotatedSortedArray.cpp.o:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/FindMinimumInRotatedSortedArray/FindMinimumInRotatedSortedArray.cpp.o
+.PHONY : FindMinimumInRotatedSortedArray/FindMinimumInRotatedSortedArray.cpp.o
+
+FindMinimumInRotatedSortedArray/FindMinimumInRotatedSortedArray.i: FindMinimumInRotatedSortedArray/FindMinimumInRotatedSortedArray.cpp.i
+
+.PHONY : FindMinimumInRotatedSortedArray/FindMinimumInRotatedSortedArray.i
+
+# target to preprocess a source file
+FindMinimumInRotatedSortedArray/FindMinimumInRotatedSortedArray.cpp.i:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/FindMinimumInRotatedSortedArray/FindMinimumInRotatedSortedArray.cpp.i
+.PHONY : FindMinimumInRotatedSortedArray/FindMinimumInRotatedSortedArray.cpp.i
+
+FindMinimumInRotatedSortedArray/FindMinimumInRotatedSortedArray.s: FindMinimumInRotatedSortedArray/FindMinimumInRotatedSortedArray.cpp.s
+
+.PHONY : FindMinimumInRotatedSortedArray/FindMinimumInRotatedSortedArray.s
+
+# target to generate assembly for a file
+FindMinimumInRotatedSortedArray/FindMinimumInRotatedSortedArray.cpp.s:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/FindMinimumInRotatedSortedArray/FindMinimumInRotatedSortedArray.cpp.s
+.PHONY : FindMinimumInRotatedSortedArray/FindMinimumInRotatedSortedArray.cpp.s
+
 FirstMissingPositive/FirstMissingPositive.o: FirstMissingPositive/FirstMissingPositive.cpp.o
 
 .PHONY : FirstMissingPositive/FirstMissingPositive.o
@@ -1445,6 +1472,33 @@ MaximumDepthofBinaryTree/MaximumDepthofBinaryTree.s: MaximumDepthofBinaryTree/Ma
 MaximumDepthofBinaryTree/MaximumDepthofBinaryTree.cpp.s:
 	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/MaximumDepthofBinaryTree/MaximumDepthofBinaryTree.cpp.s
 .PHONY : MaximumDepthofBinaryTree/MaximumDepthofBinaryTree.cpp.s
+
+MaximumProductSubarray/MaximumProductSubarray.o: MaximumProductSubarray/MaximumProductSubarray.cpp.o
+
+.PHONY : MaximumProductSubarray/MaximumProductSubarray.o
+
+# target to build an object file
+MaximumProductSubarray/MaximumProductSubarray.cpp.o:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/MaximumProductSubarray/MaximumProductSubarray.cpp.o
+.PHONY : MaximumProductSubarray/MaximumProductSubarray.cpp.o
+
+MaximumProductSubarray/MaximumProductSubarray.i: MaximumProductSubarray/MaximumProductSubarray.cpp.i
+
+.PHONY : MaximumProductSubarray/MaximumProductSubarray.i
+
+# target to preprocess a source file
+MaximumProductSubarray/MaximumProductSubarray.cpp.i:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/MaximumProductSubarray/MaximumProductSubarray.cpp.i
+.PHONY : MaximumProductSubarray/MaximumProductSubarray.cpp.i
+
+MaximumProductSubarray/MaximumProductSubarray.s: MaximumProductSubarray/MaximumProductSubarray.cpp.s
+
+.PHONY : MaximumProductSubarray/MaximumProductSubarray.s
+
+# target to generate assembly for a file
+MaximumProductSubarray/MaximumProductSubarray.cpp.s:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/MaximumProductSubarray/MaximumProductSubarray.cpp.s
+.PHONY : MaximumProductSubarray/MaximumProductSubarray.cpp.s
 
 MaximumSubarray/MaximumSubarray.o: MaximumSubarray/MaximumSubarray.cpp.o
 
@@ -2444,6 +2498,33 @@ ReverseLinkedListII/ReverseLinkedListII.s: ReverseLinkedListII/ReverseLinkedList
 ReverseLinkedListII/ReverseLinkedListII.cpp.s:
 	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/ReverseLinkedListII/ReverseLinkedListII.cpp.s
 .PHONY : ReverseLinkedListII/ReverseLinkedListII.cpp.s
+
+ReverseWordsInAString/ReverseWordsInAString.o: ReverseWordsInAString/ReverseWordsInAString.cpp.o
+
+.PHONY : ReverseWordsInAString/ReverseWordsInAString.o
+
+# target to build an object file
+ReverseWordsInAString/ReverseWordsInAString.cpp.o:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/ReverseWordsInAString/ReverseWordsInAString.cpp.o
+.PHONY : ReverseWordsInAString/ReverseWordsInAString.cpp.o
+
+ReverseWordsInAString/ReverseWordsInAString.i: ReverseWordsInAString/ReverseWordsInAString.cpp.i
+
+.PHONY : ReverseWordsInAString/ReverseWordsInAString.i
+
+# target to preprocess a source file
+ReverseWordsInAString/ReverseWordsInAString.cpp.i:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/ReverseWordsInAString/ReverseWordsInAString.cpp.i
+.PHONY : ReverseWordsInAString/ReverseWordsInAString.cpp.i
+
+ReverseWordsInAString/ReverseWordsInAString.s: ReverseWordsInAString/ReverseWordsInAString.cpp.s
+
+.PHONY : ReverseWordsInAString/ReverseWordsInAString.s
+
+# target to generate assembly for a file
+ReverseWordsInAString/ReverseWordsInAString.cpp.s:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/ReverseWordsInAString/ReverseWordsInAString.cpp.s
+.PHONY : ReverseWordsInAString/ReverseWordsInAString.cpp.s
 
 RotateImage/RotateImage.o: RotateImage/RotateImage.cpp.o
 
@@ -3675,6 +3756,9 @@ help:
 	@echo "... EvaluateReversePolishNotation/EvaluateReversePolishNotation.o"
 	@echo "... EvaluateReversePolishNotation/EvaluateReversePolishNotation.i"
 	@echo "... EvaluateReversePolishNotation/EvaluateReversePolishNotation.s"
+	@echo "... FindMinimumInRotatedSortedArray/FindMinimumInRotatedSortedArray.o"
+	@echo "... FindMinimumInRotatedSortedArray/FindMinimumInRotatedSortedArray.i"
+	@echo "... FindMinimumInRotatedSortedArray/FindMinimumInRotatedSortedArray.s"
 	@echo "... FirstMissingPositive/FirstMissingPositive.o"
 	@echo "... FirstMissingPositive/FirstMissingPositive.i"
 	@echo "... FirstMissingPositive/FirstMissingPositive.s"
@@ -3735,6 +3819,9 @@ help:
 	@echo "... MaximumDepthofBinaryTree/MaximumDepthofBinaryTree.o"
 	@echo "... MaximumDepthofBinaryTree/MaximumDepthofBinaryTree.i"
 	@echo "... MaximumDepthofBinaryTree/MaximumDepthofBinaryTree.s"
+	@echo "... MaximumProductSubarray/MaximumProductSubarray.o"
+	@echo "... MaximumProductSubarray/MaximumProductSubarray.i"
+	@echo "... MaximumProductSubarray/MaximumProductSubarray.s"
 	@echo "... MaximumSubarray/MaximumSubarray.o"
 	@echo "... MaximumSubarray/MaximumSubarray.i"
 	@echo "... MaximumSubarray/MaximumSubarray.s"
@@ -3846,6 +3933,9 @@ help:
 	@echo "... ReverseLinkedListII/ReverseLinkedListII.o"
 	@echo "... ReverseLinkedListII/ReverseLinkedListII.i"
 	@echo "... ReverseLinkedListII/ReverseLinkedListII.s"
+	@echo "... ReverseWordsInAString/ReverseWordsInAString.o"
+	@echo "... ReverseWordsInAString/ReverseWordsInAString.i"
+	@echo "... ReverseWordsInAString/ReverseWordsInAString.s"
 	@echo "... RotateImage/RotateImage.o"
 	@echo "... RotateImage/RotateImage.i"
 	@echo "... RotateImage/RotateImage.s"

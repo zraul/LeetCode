@@ -280,6 +280,12 @@
 		<Unit filename="/Volumes/ZWHD/github/LeetCode/EvaluateReversePolishNotation/EvaluateReversePolishNotation.h">
 			<Option target="LeetCode"/>
 		</Unit>
+		<Unit filename="/Volumes/ZWHD/github/LeetCode/FindMinimumInRotatedSortedArray/FindMinimumInRotatedSortedArray.cpp">
+			<Option target="LeetCode"/>
+		</Unit>
+		<Unit filename="/Volumes/ZWHD/github/LeetCode/FindMinimumInRotatedSortedArray/FindMinimumInRotatedSortedArray.h">
+			<Option target="LeetCode"/>
+		</Unit>
 		<Unit filename="/Volumes/ZWHD/github/LeetCode/FirstMissingPositive/FirstMissingPositive.cpp">
 			<Option target="LeetCode"/>
 		</Unit>
@@ -398,6 +404,12 @@
 			<Option target="LeetCode"/>
 		</Unit>
 		<Unit filename="/Volumes/ZWHD/github/LeetCode/MaximumDepthofBinaryTree/MaximumDepthofBinaryTree.h">
+			<Option target="LeetCode"/>
+		</Unit>
+		<Unit filename="/Volumes/ZWHD/github/LeetCode/MaximumProductSubarray/MaximumProductSubarray.cpp">
+			<Option target="LeetCode"/>
+		</Unit>
+		<Unit filename="/Volumes/ZWHD/github/LeetCode/MaximumProductSubarray/MaximumProductSubarray.h">
 			<Option target="LeetCode"/>
 		</Unit>
 		<Unit filename="/Volumes/ZWHD/github/LeetCode/MaximumSubarray/MaximumSubarray.cpp">
@@ -620,6 +632,12 @@
 			<Option target="LeetCode"/>
 		</Unit>
 		<Unit filename="/Volumes/ZWHD/github/LeetCode/ReverseLinkedListII/ReverseLinkedListII.h">
+			<Option target="LeetCode"/>
+		</Unit>
+		<Unit filename="/Volumes/ZWHD/github/LeetCode/ReverseWordsInAString/ReverseWordsInAString.cpp">
+			<Option target="LeetCode"/>
+		</Unit>
+		<Unit filename="/Volumes/ZWHD/github/LeetCode/ReverseWordsInAString/ReverseWordsInAString.h">
 			<Option target="LeetCode"/>
 		</Unit>
 		<Unit filename="/Volumes/ZWHD/github/LeetCode/RotateImage/RotateImage.cpp">

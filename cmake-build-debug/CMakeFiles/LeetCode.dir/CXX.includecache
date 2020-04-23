@@ -6,21 +6,11 @@
 
 #IncludeRegexTransform: 
 
-/Volumes/ZWHD/github/LeetCode/EvaluateReversePolishNotation/EvaluateReversePolishNotation.cpp
-EvaluateReversePolishNotation.h
-/Volumes/ZWHD/github/LeetCode/EvaluateReversePolishNotation/EvaluateReversePolishNotation.h
-
-/Volumes/ZWHD/github/LeetCode/EvaluateReversePolishNotation/EvaluateReversePolishNotation.h
+/Volumes/ZWHD/github/LeetCode/ReverseWordsInAString/ReverseWordsInAString.h
 iostream
--
-vector
--
-unordered_map
--
-stack
 -
 
 /Volumes/ZWHD/github/LeetCode/main.cpp
-EvaluateReversePolishNotation/EvaluateReversePolishNotation.h
-/Volumes/ZWHD/github/LeetCode/EvaluateReversePolishNotation/EvaluateReversePolishNotation.h
+ReverseWordsInAString/ReverseWordsInAString.h
+/Volumes/ZWHD/github/LeetCode/ReverseWordsInAString/ReverseWordsInAString.h
 

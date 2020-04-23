@@ -4,20 +4,13 @@
 //#include "RegularExpressionMatching/RegularExpressionMatching.h"
 
 //#include "InsertionSortList/InsertionSortList.h"
-#include "EvaluateReversePolishNotation/EvaluateReversePolishNotation.h"
+#include "ReverseWordsInAString/ReverseWordsInAString.h"
 
 int main()
 {
-//    WordBreakII* w = new WordBreakII();
-//    vector<string> wordDict = {"apple", "pen", "applepen", "pine", "pineapple"};
-//    vector<string> r = w->wordBreak("pineapplepenapple", wordDict);
-//    for (int i = 0; i < r.size(); ++i) {
-//        std::cout<<r[i]<<std::endl;
-//    }
-    EvaluateReversePolishNotation *m = new EvaluateReversePolishNotation();
+    ReverseWordsInAString *m = new ReverseWordsInAString();
 
-    vector<string> tokens = {"10", "6", "9", "3", "+", "-11", "*", "/", "*", "17", "+", "5", "+"};
-    std::cout<<m->evalRPN(tokens)<<std::endl;
+    std::cout<<m->reverseWords("the sky is blue")<<std::endl;
 }
 
 
