@@ -6,11 +6,15 @@
 
 #IncludeRegexTransform: 
 
-/Volumes/ZWHD/github/LeetCode/ReverseWordsInAString/ReverseWordsInAString.h
+/Volumes/ZWHD/github/LeetCode/CompareVersionNumbers/CompareVersionNumbers.cpp
+CompareVersionNumbers.h
+/Volumes/ZWHD/github/LeetCode/CompareVersionNumbers/CompareVersionNumbers.h
+
+/Volumes/ZWHD/github/LeetCode/CompareVersionNumbers/CompareVersionNumbers.h
 iostream
 -
 
 /Volumes/ZWHD/github/LeetCode/main.cpp
-ReverseWordsInAString/ReverseWordsInAString.h
-/Volumes/ZWHD/github/LeetCode/ReverseWordsInAString/ReverseWordsInAString.h
+CompareVersionNumbers/CompareVersionNumbers.h
+/Volumes/ZWHD/github/LeetCode/CompareVersionNumbers/CompareVersionNumbers.h
 

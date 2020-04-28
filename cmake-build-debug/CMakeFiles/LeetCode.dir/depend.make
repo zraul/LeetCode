@@ -56,6 +56,9 @@ CMakeFiles/LeetCode.dir/CombinationSum/CombinationSum.cpp.o: ../CombinationSum/C
 CMakeFiles/LeetCode.dir/Combinations/Combinations.cpp.o: ../Combinations/Combinations.cpp
 CMakeFiles/LeetCode.dir/Combinations/Combinations.cpp.o: ../Combinations/Combinations.h
 
+CMakeFiles/LeetCode.dir/CompareVersionNumbers/CompareVersionNumbers.cpp.o: ../CompareVersionNumbers/CompareVersionNumbers.cpp
+CMakeFiles/LeetCode.dir/CompareVersionNumbers/CompareVersionNumbers.cpp.o: ../CompareVersionNumbers/CompareVersionNumbers.h
+
 CMakeFiles/LeetCode.dir/ConstructBinaryTreeFromInorderAndPostorderTraversal/ConstructBinaryTreeFromInorderAndPostorderTraversal.cpp.o: ../ConstructBinaryTreeFromInorderAndPostorderTraversal/ConstructBinaryTreeFromInorderAndPostorderTraversal.cpp
 CMakeFiles/LeetCode.dir/ConstructBinaryTreeFromInorderAndPostorderTraversal/ConstructBinaryTreeFromInorderAndPostorderTraversal.cpp.o: ../ConstructBinaryTreeFromInorderAndPostorderTraversal/ConstructBinaryTreeFromInorderAndPostorderTraversal.h
 
@@ -92,6 +95,12 @@ CMakeFiles/LeetCode.dir/EvaluateReversePolishNotation/EvaluateReversePolishNotat
 CMakeFiles/LeetCode.dir/FindMinimumInRotatedSortedArray/FindMinimumInRotatedSortedArray.cpp.o: ../FindMinimumInRotatedSortedArray/FindMinimumInRotatedSortedArray.cpp
 CMakeFiles/LeetCode.dir/FindMinimumInRotatedSortedArray/FindMinimumInRotatedSortedArray.cpp.o: ../FindMinimumInRotatedSortedArray/FindMinimumInRotatedSortedArray.h
 
+CMakeFiles/LeetCode.dir/FindMinimumInRotatedSortedArrayII/FindMinimumInRotatedSortedArrayII.cpp.o: ../FindMinimumInRotatedSortedArrayII/FindMinimumInRotatedSortedArrayII.cpp
+CMakeFiles/LeetCode.dir/FindMinimumInRotatedSortedArrayII/FindMinimumInRotatedSortedArrayII.cpp.o: ../FindMinimumInRotatedSortedArrayII/FindMinimumInRotatedSortedArrayII.h
+
+CMakeFiles/LeetCode.dir/FindPeakElement/FindPeakElement.cpp.o: ../FindPeakElement/FindPeakElement.cpp
+CMakeFiles/LeetCode.dir/FindPeakElement/FindPeakElement.cpp.o: ../FindPeakElement/FindPeakElement.h
+
 CMakeFiles/LeetCode.dir/FirstMissingPositive/FirstMissingPositive.cpp.o: ../FirstMissingPositive/FirstMissingPositive.cpp
 CMakeFiles/LeetCode.dir/FirstMissingPositive/FirstMissingPositive.cpp.o: ../FirstMissingPositive/FirstMissingPositive.h
 
@@ -115,6 +124,9 @@ CMakeFiles/LeetCode.dir/InsertionSortList/InsertionSortList.cpp.o: ../InsertionS
 
 CMakeFiles/LeetCode.dir/InterleavingString/InterleavingString.cpp.o: ../InterleavingString/InterleavingString.cpp
 CMakeFiles/LeetCode.dir/InterleavingString/InterleavingString.cpp.o: ../InterleavingString/InterleavingString.h
+
+CMakeFiles/LeetCode.dir/IntersectionOfTwoLinkedLists/IntersectionOfTwoLinkedLists.cpp.o: ../IntersectionOfTwoLinkedLists/IntersectionOfTwoLinkedLists.cpp
+CMakeFiles/LeetCode.dir/IntersectionOfTwoLinkedLists/IntersectionOfTwoLinkedLists.cpp.o: ../IntersectionOfTwoLinkedLists/IntersectionOfTwoLinkedLists.h
 
 CMakeFiles/LeetCode.dir/JumpGame/JumpGame.cpp.o: ../JumpGame/JumpGame.cpp
 CMakeFiles/LeetCode.dir/JumpGame/JumpGame.cpp.o: ../JumpGame/JumpGame.h
@@ -153,6 +165,9 @@ CMakeFiles/LeetCode.dir/MaximalRectangle/MaximalRectangle.cpp.o: ../MaximalRecta
 CMakeFiles/LeetCode.dir/MaximumDepthofBinaryTree/MaximumDepthofBinaryTree.cpp.o: ../MaximumDepthofBinaryTree/MaximumDepthofBinaryTree.cpp
 CMakeFiles/LeetCode.dir/MaximumDepthofBinaryTree/MaximumDepthofBinaryTree.cpp.o: ../MaximumDepthofBinaryTree/MaximumDepthofBinaryTree.h
 
+CMakeFiles/LeetCode.dir/MaximumGap/MaximumGap.cpp.o: ../MaximumGap/MaximumGap.cpp
+CMakeFiles/LeetCode.dir/MaximumGap/MaximumGap.cpp.o: ../MaximumGap/MaximumGap.h
+
 CMakeFiles/LeetCode.dir/MaximumProductSubarray/MaximumProductSubarray.cpp.o: ../MaximumProductSubarray/MaximumProductSubarray.cpp
 CMakeFiles/LeetCode.dir/MaximumProductSubarray/MaximumProductSubarray.cpp.o: ../MaximumProductSubarray/MaximumProductSubarray.h
 
@@ -172,6 +187,9 @@ CMakeFiles/LeetCode.dir/MergeSortedArray/MergeSortedArray.cpp.o: ../MergeSortedA
 CMakeFiles/LeetCode.dir/MergeSortedLists/MergeSortedLists.cpp.o: ../MergeSortedLists/MergeSortedLists.cpp
 CMakeFiles/LeetCode.dir/MergeSortedLists/MergeSortedLists.cpp.o: ../MergeSortedLists/MergeSortedLists.h
 CMakeFiles/LeetCode.dir/MergeSortedLists/MergeSortedLists.cpp.o: ../common.h
+
+CMakeFiles/LeetCode.dir/MinStack/MinStack.cpp.o: ../MinStack/MinStack.cpp
+CMakeFiles/LeetCode.dir/MinStack/MinStack.cpp.o: ../MinStack/MinStack.h
 
 CMakeFiles/LeetCode.dir/MinimumDepthOfBinaryTree/MinimumDepthOfBinaryTree.cpp.o: ../MinimumDepthOfBinaryTree/MinimumDepthOfBinaryTree.cpp
 CMakeFiles/LeetCode.dir/MinimumDepthOfBinaryTree/MinimumDepthOfBinaryTree.cpp.o: ../MinimumDepthOfBinaryTree/MinimumDepthOfBinaryTree.h
@@ -402,6 +420,6 @@ CMakeFiles/LeetCode.dir/ZigZag/ZigZag.cpp.o: ../ZigZag/ZigZag.cpp
 CMakeFiles/LeetCode.dir/ZigZag/ZigZag.cpp.o: ../ZigZag/ZigZag.h
 CMakeFiles/LeetCode.dir/ZigZag/ZigZag.cpp.o: ../common.h
 
-CMakeFiles/LeetCode.dir/main.cpp.o: ../ReverseWordsInAString/ReverseWordsInAString.h
+CMakeFiles/LeetCode.dir/main.cpp.o: ../CompareVersionNumbers/CompareVersionNumbers.h
 CMakeFiles/LeetCode.dir/main.cpp.o: ../main.cpp
 

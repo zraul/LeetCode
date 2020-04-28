@@ -609,6 +609,33 @@ Combinations/Combinations.cpp.s:
 	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Combinations/Combinations.cpp.s
 .PHONY : Combinations/Combinations.cpp.s
 
+CompareVersionNumbers/CompareVersionNumbers.o: CompareVersionNumbers/CompareVersionNumbers.cpp.o
+
+.PHONY : CompareVersionNumbers/CompareVersionNumbers.o
+
+# target to build an object file
+CompareVersionNumbers/CompareVersionNumbers.cpp.o:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/CompareVersionNumbers/CompareVersionNumbers.cpp.o
+.PHONY : CompareVersionNumbers/CompareVersionNumbers.cpp.o
+
+CompareVersionNumbers/CompareVersionNumbers.i: CompareVersionNumbers/CompareVersionNumbers.cpp.i
+
+.PHONY : CompareVersionNumbers/CompareVersionNumbers.i
+
+# target to preprocess a source file
+CompareVersionNumbers/CompareVersionNumbers.cpp.i:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/CompareVersionNumbers/CompareVersionNumbers.cpp.i
+.PHONY : CompareVersionNumbers/CompareVersionNumbers.cpp.i
+
+CompareVersionNumbers/CompareVersionNumbers.s: CompareVersionNumbers/CompareVersionNumbers.cpp.s
+
+.PHONY : CompareVersionNumbers/CompareVersionNumbers.s
+
+# target to generate assembly for a file
+CompareVersionNumbers/CompareVersionNumbers.cpp.s:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/CompareVersionNumbers/CompareVersionNumbers.cpp.s
+.PHONY : CompareVersionNumbers/CompareVersionNumbers.cpp.s
+
 ConstructBinaryTreeFromInorderAndPostorderTraversal/ConstructBinaryTreeFromInorderAndPostorderTraversal.o: ConstructBinaryTreeFromInorderAndPostorderTraversal/ConstructBinaryTreeFromInorderAndPostorderTraversal.cpp.o
 
 .PHONY : ConstructBinaryTreeFromInorderAndPostorderTraversal/ConstructBinaryTreeFromInorderAndPostorderTraversal.o
@@ -933,6 +960,60 @@ FindMinimumInRotatedSortedArray/FindMinimumInRotatedSortedArray.cpp.s:
 	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/FindMinimumInRotatedSortedArray/FindMinimumInRotatedSortedArray.cpp.s
 .PHONY : FindMinimumInRotatedSortedArray/FindMinimumInRotatedSortedArray.cpp.s
 
+FindMinimumInRotatedSortedArrayII/FindMinimumInRotatedSortedArrayII.o: FindMinimumInRotatedSortedArrayII/FindMinimumInRotatedSortedArrayII.cpp.o
+
+.PHONY : FindMinimumInRotatedSortedArrayII/FindMinimumInRotatedSortedArrayII.o
+
+# target to build an object file
+FindMinimumInRotatedSortedArrayII/FindMinimumInRotatedSortedArrayII.cpp.o:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/FindMinimumInRotatedSortedArrayII/FindMinimumInRotatedSortedArrayII.cpp.o
+.PHONY : FindMinimumInRotatedSortedArrayII/FindMinimumInRotatedSortedArrayII.cpp.o
+
+FindMinimumInRotatedSortedArrayII/FindMinimumInRotatedSortedArrayII.i: FindMinimumInRotatedSortedArrayII/FindMinimumInRotatedSortedArrayII.cpp.i
+
+.PHONY : FindMinimumInRotatedSortedArrayII/FindMinimumInRotatedSortedArrayII.i
+
+# target to preprocess a source file
+FindMinimumInRotatedSortedArrayII/FindMinimumInRotatedSortedArrayII.cpp.i:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/FindMinimumInRotatedSortedArrayII/FindMinimumInRotatedSortedArrayII.cpp.i
+.PHONY : FindMinimumInRotatedSortedArrayII/FindMinimumInRotatedSortedArrayII.cpp.i
+
+FindMinimumInRotatedSortedArrayII/FindMinimumInRotatedSortedArrayII.s: FindMinimumInRotatedSortedArrayII/FindMinimumInRotatedSortedArrayII.cpp.s
+
+.PHONY : FindMinimumInRotatedSortedArrayII/FindMinimumInRotatedSortedArrayII.s
+
+# target to generate assembly for a file
+FindMinimumInRotatedSortedArrayII/FindMinimumInRotatedSortedArrayII.cpp.s:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/FindMinimumInRotatedSortedArrayII/FindMinimumInRotatedSortedArrayII.cpp.s
+.PHONY : FindMinimumInRotatedSortedArrayII/FindMinimumInRotatedSortedArrayII.cpp.s
+
+FindPeakElement/FindPeakElement.o: FindPeakElement/FindPeakElement.cpp.o
+
+.PHONY : FindPeakElement/FindPeakElement.o
+
+# target to build an object file
+FindPeakElement/FindPeakElement.cpp.o:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/FindPeakElement/FindPeakElement.cpp.o
+.PHONY : FindPeakElement/FindPeakElement.cpp.o
+
+FindPeakElement/FindPeakElement.i: FindPeakElement/FindPeakElement.cpp.i
+
+.PHONY : FindPeakElement/FindPeakElement.i
+
+# target to preprocess a source file
+FindPeakElement/FindPeakElement.cpp.i:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/FindPeakElement/FindPeakElement.cpp.i
+.PHONY : FindPeakElement/FindPeakElement.cpp.i
+
+FindPeakElement/FindPeakElement.s: FindPeakElement/FindPeakElement.cpp.s
+
+.PHONY : FindPeakElement/FindPeakElement.s
+
+# target to generate assembly for a file
+FindPeakElement/FindPeakElement.cpp.s:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/FindPeakElement/FindPeakElement.cpp.s
+.PHONY : FindPeakElement/FindPeakElement.cpp.s
+
 FirstMissingPositive/FirstMissingPositive.o: FirstMissingPositive/FirstMissingPositive.cpp.o
 
 .PHONY : FirstMissingPositive/FirstMissingPositive.o
@@ -1148,6 +1229,33 @@ InterleavingString/InterleavingString.s: InterleavingString/InterleavingString.c
 InterleavingString/InterleavingString.cpp.s:
 	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/InterleavingString/InterleavingString.cpp.s
 .PHONY : InterleavingString/InterleavingString.cpp.s
+
+IntersectionOfTwoLinkedLists/IntersectionOfTwoLinkedLists.o: IntersectionOfTwoLinkedLists/IntersectionOfTwoLinkedLists.cpp.o
+
+.PHONY : IntersectionOfTwoLinkedLists/IntersectionOfTwoLinkedLists.o
+
+# target to build an object file
+IntersectionOfTwoLinkedLists/IntersectionOfTwoLinkedLists.cpp.o:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/IntersectionOfTwoLinkedLists/IntersectionOfTwoLinkedLists.cpp.o
+.PHONY : IntersectionOfTwoLinkedLists/IntersectionOfTwoLinkedLists.cpp.o
+
+IntersectionOfTwoLinkedLists/IntersectionOfTwoLinkedLists.i: IntersectionOfTwoLinkedLists/IntersectionOfTwoLinkedLists.cpp.i
+
+.PHONY : IntersectionOfTwoLinkedLists/IntersectionOfTwoLinkedLists.i
+
+# target to preprocess a source file
+IntersectionOfTwoLinkedLists/IntersectionOfTwoLinkedLists.cpp.i:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/IntersectionOfTwoLinkedLists/IntersectionOfTwoLinkedLists.cpp.i
+.PHONY : IntersectionOfTwoLinkedLists/IntersectionOfTwoLinkedLists.cpp.i
+
+IntersectionOfTwoLinkedLists/IntersectionOfTwoLinkedLists.s: IntersectionOfTwoLinkedLists/IntersectionOfTwoLinkedLists.cpp.s
+
+.PHONY : IntersectionOfTwoLinkedLists/IntersectionOfTwoLinkedLists.s
+
+# target to generate assembly for a file
+IntersectionOfTwoLinkedLists/IntersectionOfTwoLinkedLists.cpp.s:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/IntersectionOfTwoLinkedLists/IntersectionOfTwoLinkedLists.cpp.s
+.PHONY : IntersectionOfTwoLinkedLists/IntersectionOfTwoLinkedLists.cpp.s
 
 JumpGame/JumpGame.o: JumpGame/JumpGame.cpp.o
 
@@ -1473,6 +1581,33 @@ MaximumDepthofBinaryTree/MaximumDepthofBinaryTree.cpp.s:
 	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/MaximumDepthofBinaryTree/MaximumDepthofBinaryTree.cpp.s
 .PHONY : MaximumDepthofBinaryTree/MaximumDepthofBinaryTree.cpp.s
 
+MaximumGap/MaximumGap.o: MaximumGap/MaximumGap.cpp.o
+
+.PHONY : MaximumGap/MaximumGap.o
+
+# target to build an object file
+MaximumGap/MaximumGap.cpp.o:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/MaximumGap/MaximumGap.cpp.o
+.PHONY : MaximumGap/MaximumGap.cpp.o
+
+MaximumGap/MaximumGap.i: MaximumGap/MaximumGap.cpp.i
+
+.PHONY : MaximumGap/MaximumGap.i
+
+# target to preprocess a source file
+MaximumGap/MaximumGap.cpp.i:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/MaximumGap/MaximumGap.cpp.i
+.PHONY : MaximumGap/MaximumGap.cpp.i
+
+MaximumGap/MaximumGap.s: MaximumGap/MaximumGap.cpp.s
+
+.PHONY : MaximumGap/MaximumGap.s
+
+# target to generate assembly for a file
+MaximumGap/MaximumGap.cpp.s:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/MaximumGap/MaximumGap.cpp.s
+.PHONY : MaximumGap/MaximumGap.cpp.s
+
 MaximumProductSubarray/MaximumProductSubarray.o: MaximumProductSubarray/MaximumProductSubarray.cpp.o
 
 .PHONY : MaximumProductSubarray/MaximumProductSubarray.o
@@ -1634,6 +1769,33 @@ MergeSortedLists/MergeSortedLists.s: MergeSortedLists/MergeSortedLists.cpp.s
 MergeSortedLists/MergeSortedLists.cpp.s:
 	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/MergeSortedLists/MergeSortedLists.cpp.s
 .PHONY : MergeSortedLists/MergeSortedLists.cpp.s
+
+MinStack/MinStack.o: MinStack/MinStack.cpp.o
+
+.PHONY : MinStack/MinStack.o
+
+# target to build an object file
+MinStack/MinStack.cpp.o:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/MinStack/MinStack.cpp.o
+.PHONY : MinStack/MinStack.cpp.o
+
+MinStack/MinStack.i: MinStack/MinStack.cpp.i
+
+.PHONY : MinStack/MinStack.i
+
+# target to preprocess a source file
+MinStack/MinStack.cpp.i:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/MinStack/MinStack.cpp.i
+.PHONY : MinStack/MinStack.cpp.i
+
+MinStack/MinStack.s: MinStack/MinStack.cpp.s
+
+.PHONY : MinStack/MinStack.s
+
+# target to generate assembly for a file
+MinStack/MinStack.cpp.s:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/MinStack/MinStack.cpp.s
+.PHONY : MinStack/MinStack.cpp.s
 
 MinimumDepthOfBinaryTree/MinimumDepthOfBinaryTree.o: MinimumDepthOfBinaryTree/MinimumDepthOfBinaryTree.cpp.o
 
@@ -3723,6 +3885,9 @@ help:
 	@echo "... Combinations/Combinations.o"
 	@echo "... Combinations/Combinations.i"
 	@echo "... Combinations/Combinations.s"
+	@echo "... CompareVersionNumbers/CompareVersionNumbers.o"
+	@echo "... CompareVersionNumbers/CompareVersionNumbers.i"
+	@echo "... CompareVersionNumbers/CompareVersionNumbers.s"
 	@echo "... ConstructBinaryTreeFromInorderAndPostorderTraversal/ConstructBinaryTreeFromInorderAndPostorderTraversal.o"
 	@echo "... ConstructBinaryTreeFromInorderAndPostorderTraversal/ConstructBinaryTreeFromInorderAndPostorderTraversal.i"
 	@echo "... ConstructBinaryTreeFromInorderAndPostorderTraversal/ConstructBinaryTreeFromInorderAndPostorderTraversal.s"
@@ -3759,6 +3924,12 @@ help:
 	@echo "... FindMinimumInRotatedSortedArray/FindMinimumInRotatedSortedArray.o"
 	@echo "... FindMinimumInRotatedSortedArray/FindMinimumInRotatedSortedArray.i"
 	@echo "... FindMinimumInRotatedSortedArray/FindMinimumInRotatedSortedArray.s"
+	@echo "... FindMinimumInRotatedSortedArrayII/FindMinimumInRotatedSortedArrayII.o"
+	@echo "... FindMinimumInRotatedSortedArrayII/FindMinimumInRotatedSortedArrayII.i"
+	@echo "... FindMinimumInRotatedSortedArrayII/FindMinimumInRotatedSortedArrayII.s"
+	@echo "... FindPeakElement/FindPeakElement.o"
+	@echo "... FindPeakElement/FindPeakElement.i"
+	@echo "... FindPeakElement/FindPeakElement.s"
 	@echo "... FirstMissingPositive/FirstMissingPositive.o"
 	@echo "... FirstMissingPositive/FirstMissingPositive.i"
 	@echo "... FirstMissingPositive/FirstMissingPositive.s"
@@ -3783,6 +3954,9 @@ help:
 	@echo "... InterleavingString/InterleavingString.o"
 	@echo "... InterleavingString/InterleavingString.i"
 	@echo "... InterleavingString/InterleavingString.s"
+	@echo "... IntersectionOfTwoLinkedLists/IntersectionOfTwoLinkedLists.o"
+	@echo "... IntersectionOfTwoLinkedLists/IntersectionOfTwoLinkedLists.i"
+	@echo "... IntersectionOfTwoLinkedLists/IntersectionOfTwoLinkedLists.s"
 	@echo "... JumpGame/JumpGame.o"
 	@echo "... JumpGame/JumpGame.i"
 	@echo "... JumpGame/JumpGame.s"
@@ -3819,6 +3993,9 @@ help:
 	@echo "... MaximumDepthofBinaryTree/MaximumDepthofBinaryTree.o"
 	@echo "... MaximumDepthofBinaryTree/MaximumDepthofBinaryTree.i"
 	@echo "... MaximumDepthofBinaryTree/MaximumDepthofBinaryTree.s"
+	@echo "... MaximumGap/MaximumGap.o"
+	@echo "... MaximumGap/MaximumGap.i"
+	@echo "... MaximumGap/MaximumGap.s"
 	@echo "... MaximumProductSubarray/MaximumProductSubarray.o"
 	@echo "... MaximumProductSubarray/MaximumProductSubarray.i"
 	@echo "... MaximumProductSubarray/MaximumProductSubarray.s"
@@ -3837,6 +4014,9 @@ help:
 	@echo "... MergeSortedLists/MergeSortedLists.o"
 	@echo "... MergeSortedLists/MergeSortedLists.i"
 	@echo "... MergeSortedLists/MergeSortedLists.s"
+	@echo "... MinStack/MinStack.o"
+	@echo "... MinStack/MinStack.i"
+	@echo "... MinStack/MinStack.s"
 	@echo "... MinimumDepthOfBinaryTree/MinimumDepthOfBinaryTree.o"
 	@echo "... MinimumDepthOfBinaryTree/MinimumDepthOfBinaryTree.i"
 	@echo "... MinimumDepthOfBinaryTree/MinimumDepthOfBinaryTree.s"

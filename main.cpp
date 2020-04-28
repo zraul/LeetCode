@@ -4,13 +4,13 @@
 //#include "RegularExpressionMatching/RegularExpressionMatching.h"
 
 //#include "InsertionSortList/InsertionSortList.h"
-#include "ReverseWordsInAString/ReverseWordsInAString.h"
+#include "CompareVersionNumbers/CompareVersionNumbers.h"
 
 int main()
 {
-    ReverseWordsInAString *m = new ReverseWordsInAString();
+    CompareVersionNumbers *m = new CompareVersionNumbers();
 
-    std::cout<<m->reverseWords("the sky is blue")<<std::endl;
+    std::cout<<m->compareVersion("7.5.2.4", "7.5.3")<<std::endl;
 }
 
 

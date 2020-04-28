@@ -12,12 +12,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6572f727-0fe8-4c92-80bd-b9f70d0e5706" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/FindMinimumInRotatedSortedArray/FindMinimumInRotatedSortedArray.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FindMinimumInRotatedSortedArray/FindMinimumInRotatedSortedArray.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MaximumProductSubarray/MaximumProductSubarray.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MaximumProductSubarray/MaximumProductSubarray.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ReverseWordsInAString/ReverseWordsInAString.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ReverseWordsInAString/ReverseWordsInAString.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CompareVersionNumbers/CompareVersionNumbers.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CompareVersionNumbers/CompareVersionNumbers.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FindMinimumInRotatedSortedArrayII/FindMinimumInRotatedSortedArrayII.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FindMinimumInRotatedSortedArrayII/FindMinimumInRotatedSortedArrayII.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FindPeakElement/FindPeakElement.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FindPeakElement/FindPeakElement.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IntersectionOfTwoLinkedLists/IntersectionOfTwoLinkedLists.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IntersectionOfTwoLinkedLists/IntersectionOfTwoLinkedLists.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MaximumGap/MaximumGap.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MaximumGap/MaximumGap.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MinStack/MinStack.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MinStack/MinStack.h" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LeetCode.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LeetCode.dir/CXX.includecache" afterDir="false" />
@@ -284,7 +290,9 @@
       <workItem from="1587365041629" duration="4655000" />
       <workItem from="1587429409125" duration="6759000" />
       <workItem from="1587516581966" duration="6078000" />
-      <workItem from="1587603279791" duration="5049000" />
+      <workItem from="1587603279791" duration="5221000" />
+      <workItem from="1587956084897" duration="4520000" />
+      <workItem from="1588036740201" duration="5864000" />
     </task>
     <servers />
   </component>
@@ -831,6 +839,16 @@
           <url>file://$PROJECT_DIR$/ReverseWordsInAString/ReverseWordsInAString.cpp</url>
           <line>7</line>
           <option name="timeStamp" value="138" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/IntersectionOfTwoLinkedLists/IntersectionOfTwoLinkedLists.cpp</url>
+          <line>8</line>
+          <option name="timeStamp" value="139" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/CompareVersionNumbers/CompareVersionNumbers.cpp</url>
+          <line>7</line>
+          <option name="timeStamp" value="140" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

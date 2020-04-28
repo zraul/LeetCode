@@ -1760,6 +1760,84 @@ CMakeFiles/LeetCode.dir/FindMinimumInRotatedSortedArray/FindMinimumInRotatedSort
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/FindMinimumInRotatedSortedArray/FindMinimumInRotatedSortedArray.cpp.s"
 	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Volumes/ZWHD/github/LeetCode/FindMinimumInRotatedSortedArray/FindMinimumInRotatedSortedArray.cpp -o CMakeFiles/LeetCode.dir/FindMinimumInRotatedSortedArray/FindMinimumInRotatedSortedArray.cpp.s
 
+CMakeFiles/LeetCode.dir/FindMinimumInRotatedSortedArrayII/FindMinimumInRotatedSortedArrayII.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/FindMinimumInRotatedSortedArrayII/FindMinimumInRotatedSortedArrayII.cpp.o: ../FindMinimumInRotatedSortedArrayII/FindMinimumInRotatedSortedArrayII.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Volumes/ZWHD/github/LeetCode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_132) "Building CXX object CMakeFiles/LeetCode.dir/FindMinimumInRotatedSortedArrayII/FindMinimumInRotatedSortedArrayII.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/LeetCode.dir/FindMinimumInRotatedSortedArrayII/FindMinimumInRotatedSortedArrayII.cpp.o -c /Volumes/ZWHD/github/LeetCode/FindMinimumInRotatedSortedArrayII/FindMinimumInRotatedSortedArrayII.cpp
+
+CMakeFiles/LeetCode.dir/FindMinimumInRotatedSortedArrayII/FindMinimumInRotatedSortedArrayII.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/FindMinimumInRotatedSortedArrayII/FindMinimumInRotatedSortedArrayII.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Volumes/ZWHD/github/LeetCode/FindMinimumInRotatedSortedArrayII/FindMinimumInRotatedSortedArrayII.cpp > CMakeFiles/LeetCode.dir/FindMinimumInRotatedSortedArrayII/FindMinimumInRotatedSortedArrayII.cpp.i
+
+CMakeFiles/LeetCode.dir/FindMinimumInRotatedSortedArrayII/FindMinimumInRotatedSortedArrayII.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/FindMinimumInRotatedSortedArrayII/FindMinimumInRotatedSortedArrayII.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Volumes/ZWHD/github/LeetCode/FindMinimumInRotatedSortedArrayII/FindMinimumInRotatedSortedArrayII.cpp -o CMakeFiles/LeetCode.dir/FindMinimumInRotatedSortedArrayII/FindMinimumInRotatedSortedArrayII.cpp.s
+
+CMakeFiles/LeetCode.dir/MinStack/MinStack.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/MinStack/MinStack.cpp.o: ../MinStack/MinStack.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Volumes/ZWHD/github/LeetCode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_133) "Building CXX object CMakeFiles/LeetCode.dir/MinStack/MinStack.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/LeetCode.dir/MinStack/MinStack.cpp.o -c /Volumes/ZWHD/github/LeetCode/MinStack/MinStack.cpp
+
+CMakeFiles/LeetCode.dir/MinStack/MinStack.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/MinStack/MinStack.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Volumes/ZWHD/github/LeetCode/MinStack/MinStack.cpp > CMakeFiles/LeetCode.dir/MinStack/MinStack.cpp.i
+
+CMakeFiles/LeetCode.dir/MinStack/MinStack.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/MinStack/MinStack.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Volumes/ZWHD/github/LeetCode/MinStack/MinStack.cpp -o CMakeFiles/LeetCode.dir/MinStack/MinStack.cpp.s
+
+CMakeFiles/LeetCode.dir/IntersectionOfTwoLinkedLists/IntersectionOfTwoLinkedLists.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/IntersectionOfTwoLinkedLists/IntersectionOfTwoLinkedLists.cpp.o: ../IntersectionOfTwoLinkedLists/IntersectionOfTwoLinkedLists.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Volumes/ZWHD/github/LeetCode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_134) "Building CXX object CMakeFiles/LeetCode.dir/IntersectionOfTwoLinkedLists/IntersectionOfTwoLinkedLists.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/LeetCode.dir/IntersectionOfTwoLinkedLists/IntersectionOfTwoLinkedLists.cpp.o -c /Volumes/ZWHD/github/LeetCode/IntersectionOfTwoLinkedLists/IntersectionOfTwoLinkedLists.cpp
+
+CMakeFiles/LeetCode.dir/IntersectionOfTwoLinkedLists/IntersectionOfTwoLinkedLists.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/IntersectionOfTwoLinkedLists/IntersectionOfTwoLinkedLists.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Volumes/ZWHD/github/LeetCode/IntersectionOfTwoLinkedLists/IntersectionOfTwoLinkedLists.cpp > CMakeFiles/LeetCode.dir/IntersectionOfTwoLinkedLists/IntersectionOfTwoLinkedLists.cpp.i
+
+CMakeFiles/LeetCode.dir/IntersectionOfTwoLinkedLists/IntersectionOfTwoLinkedLists.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/IntersectionOfTwoLinkedLists/IntersectionOfTwoLinkedLists.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Volumes/ZWHD/github/LeetCode/IntersectionOfTwoLinkedLists/IntersectionOfTwoLinkedLists.cpp -o CMakeFiles/LeetCode.dir/IntersectionOfTwoLinkedLists/IntersectionOfTwoLinkedLists.cpp.s
+
+CMakeFiles/LeetCode.dir/FindPeakElement/FindPeakElement.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/FindPeakElement/FindPeakElement.cpp.o: ../FindPeakElement/FindPeakElement.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Volumes/ZWHD/github/LeetCode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_135) "Building CXX object CMakeFiles/LeetCode.dir/FindPeakElement/FindPeakElement.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/LeetCode.dir/FindPeakElement/FindPeakElement.cpp.o -c /Volumes/ZWHD/github/LeetCode/FindPeakElement/FindPeakElement.cpp
+
+CMakeFiles/LeetCode.dir/FindPeakElement/FindPeakElement.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/FindPeakElement/FindPeakElement.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Volumes/ZWHD/github/LeetCode/FindPeakElement/FindPeakElement.cpp > CMakeFiles/LeetCode.dir/FindPeakElement/FindPeakElement.cpp.i
+
+CMakeFiles/LeetCode.dir/FindPeakElement/FindPeakElement.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/FindPeakElement/FindPeakElement.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Volumes/ZWHD/github/LeetCode/FindPeakElement/FindPeakElement.cpp -o CMakeFiles/LeetCode.dir/FindPeakElement/FindPeakElement.cpp.s
+
+CMakeFiles/LeetCode.dir/MaximumGap/MaximumGap.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/MaximumGap/MaximumGap.cpp.o: ../MaximumGap/MaximumGap.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Volumes/ZWHD/github/LeetCode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_136) "Building CXX object CMakeFiles/LeetCode.dir/MaximumGap/MaximumGap.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/LeetCode.dir/MaximumGap/MaximumGap.cpp.o -c /Volumes/ZWHD/github/LeetCode/MaximumGap/MaximumGap.cpp
+
+CMakeFiles/LeetCode.dir/MaximumGap/MaximumGap.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/MaximumGap/MaximumGap.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Volumes/ZWHD/github/LeetCode/MaximumGap/MaximumGap.cpp > CMakeFiles/LeetCode.dir/MaximumGap/MaximumGap.cpp.i
+
+CMakeFiles/LeetCode.dir/MaximumGap/MaximumGap.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/MaximumGap/MaximumGap.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Volumes/ZWHD/github/LeetCode/MaximumGap/MaximumGap.cpp -o CMakeFiles/LeetCode.dir/MaximumGap/MaximumGap.cpp.s
+
+CMakeFiles/LeetCode.dir/CompareVersionNumbers/CompareVersionNumbers.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/CompareVersionNumbers/CompareVersionNumbers.cpp.o: ../CompareVersionNumbers/CompareVersionNumbers.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Volumes/ZWHD/github/LeetCode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_137) "Building CXX object CMakeFiles/LeetCode.dir/CompareVersionNumbers/CompareVersionNumbers.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/LeetCode.dir/CompareVersionNumbers/CompareVersionNumbers.cpp.o -c /Volumes/ZWHD/github/LeetCode/CompareVersionNumbers/CompareVersionNumbers.cpp
+
+CMakeFiles/LeetCode.dir/CompareVersionNumbers/CompareVersionNumbers.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/CompareVersionNumbers/CompareVersionNumbers.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Volumes/ZWHD/github/LeetCode/CompareVersionNumbers/CompareVersionNumbers.cpp > CMakeFiles/LeetCode.dir/CompareVersionNumbers/CompareVersionNumbers.cpp.i
+
+CMakeFiles/LeetCode.dir/CompareVersionNumbers/CompareVersionNumbers.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/CompareVersionNumbers/CompareVersionNumbers.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Volumes/ZWHD/github/LeetCode/CompareVersionNumbers/CompareVersionNumbers.cpp -o CMakeFiles/LeetCode.dir/CompareVersionNumbers/CompareVersionNumbers.cpp.s
+
 # Object files for target LeetCode
 LeetCode_OBJECTS = \
 "CMakeFiles/LeetCode.dir/AddTwoNumbers/AddTwoNumbers.cpp.o" \
@@ -1892,7 +1970,13 @@ LeetCode_OBJECTS = \
 "CMakeFiles/LeetCode.dir/EvaluateReversePolishNotation/EvaluateReversePolishNotation.cpp.o" \
 "CMakeFiles/LeetCode.dir/ReverseWordsInAString/ReverseWordsInAString.cpp.o" \
 "CMakeFiles/LeetCode.dir/MaximumProductSubarray/MaximumProductSubarray.cpp.o" \
-"CMakeFiles/LeetCode.dir/FindMinimumInRotatedSortedArray/FindMinimumInRotatedSortedArray.cpp.o"
+"CMakeFiles/LeetCode.dir/FindMinimumInRotatedSortedArray/FindMinimumInRotatedSortedArray.cpp.o" \
+"CMakeFiles/LeetCode.dir/FindMinimumInRotatedSortedArrayII/FindMinimumInRotatedSortedArrayII.cpp.o" \
+"CMakeFiles/LeetCode.dir/MinStack/MinStack.cpp.o" \
+"CMakeFiles/LeetCode.dir/IntersectionOfTwoLinkedLists/IntersectionOfTwoLinkedLists.cpp.o" \
+"CMakeFiles/LeetCode.dir/FindPeakElement/FindPeakElement.cpp.o" \
+"CMakeFiles/LeetCode.dir/MaximumGap/MaximumGap.cpp.o" \
+"CMakeFiles/LeetCode.dir/CompareVersionNumbers/CompareVersionNumbers.cpp.o"
 
 # External object files for target LeetCode
 LeetCode_EXTERNAL_OBJECTS =
@@ -2028,9 +2112,15 @@ LeetCode: CMakeFiles/LeetCode.dir/EvaluateReversePolishNotation/EvaluateReverseP
 LeetCode: CMakeFiles/LeetCode.dir/ReverseWordsInAString/ReverseWordsInAString.cpp.o
 LeetCode: CMakeFiles/LeetCode.dir/MaximumProductSubarray/MaximumProductSubarray.cpp.o
 LeetCode: CMakeFiles/LeetCode.dir/FindMinimumInRotatedSortedArray/FindMinimumInRotatedSortedArray.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/FindMinimumInRotatedSortedArrayII/FindMinimumInRotatedSortedArrayII.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/MinStack/MinStack.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/IntersectionOfTwoLinkedLists/IntersectionOfTwoLinkedLists.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/FindPeakElement/FindPeakElement.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/MaximumGap/MaximumGap.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/CompareVersionNumbers/CompareVersionNumbers.cpp.o
 LeetCode: CMakeFiles/LeetCode.dir/build.make
 LeetCode: CMakeFiles/LeetCode.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Volumes/ZWHD/github/LeetCode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_132) "Linking CXX executable LeetCode"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Volumes/ZWHD/github/LeetCode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_138) "Linking CXX executable LeetCode"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/LeetCode.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

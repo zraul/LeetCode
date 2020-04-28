@@ -214,6 +214,12 @@
 		<Unit filename="/Volumes/ZWHD/github/LeetCode/Combinations/Combinations.h">
 			<Option target="LeetCode"/>
 		</Unit>
+		<Unit filename="/Volumes/ZWHD/github/LeetCode/CompareVersionNumbers/CompareVersionNumbers.cpp">
+			<Option target="LeetCode"/>
+		</Unit>
+		<Unit filename="/Volumes/ZWHD/github/LeetCode/CompareVersionNumbers/CompareVersionNumbers.h">
+			<Option target="LeetCode"/>
+		</Unit>
 		<Unit filename="/Volumes/ZWHD/github/LeetCode/ConstructBinaryTreeFromInorderAndPostorderTraversal/ConstructBinaryTreeFromInorderAndPostorderTraversal.cpp">
 			<Option target="LeetCode"/>
 		</Unit>
@@ -286,6 +292,18 @@
 		<Unit filename="/Volumes/ZWHD/github/LeetCode/FindMinimumInRotatedSortedArray/FindMinimumInRotatedSortedArray.h">
 			<Option target="LeetCode"/>
 		</Unit>
+		<Unit filename="/Volumes/ZWHD/github/LeetCode/FindMinimumInRotatedSortedArrayII/FindMinimumInRotatedSortedArrayII.cpp">
+			<Option target="LeetCode"/>
+		</Unit>
+		<Unit filename="/Volumes/ZWHD/github/LeetCode/FindMinimumInRotatedSortedArrayII/FindMinimumInRotatedSortedArrayII.h">
+			<Option target="LeetCode"/>
+		</Unit>
+		<Unit filename="/Volumes/ZWHD/github/LeetCode/FindPeakElement/FindPeakElement.cpp">
+			<Option target="LeetCode"/>
+		</Unit>
+		<Unit filename="/Volumes/ZWHD/github/LeetCode/FindPeakElement/FindPeakElement.h">
+			<Option target="LeetCode"/>
+		</Unit>
 		<Unit filename="/Volumes/ZWHD/github/LeetCode/FirstMissingPositive/FirstMissingPositive.cpp">
 			<Option target="LeetCode"/>
 		</Unit>
@@ -332,6 +350,12 @@
 			<Option target="LeetCode"/>
 		</Unit>
 		<Unit filename="/Volumes/ZWHD/github/LeetCode/InterleavingString/InterleavingString.h">
+			<Option target="LeetCode"/>
+		</Unit>
+		<Unit filename="/Volumes/ZWHD/github/LeetCode/IntersectionOfTwoLinkedLists/IntersectionOfTwoLinkedLists.cpp">
+			<Option target="LeetCode"/>
+		</Unit>
+		<Unit filename="/Volumes/ZWHD/github/LeetCode/IntersectionOfTwoLinkedLists/IntersectionOfTwoLinkedLists.h">
 			<Option target="LeetCode"/>
 		</Unit>
 		<Unit filename="/Volumes/ZWHD/github/LeetCode/JumpGame/JumpGame.cpp">
@@ -406,6 +430,12 @@
 		<Unit filename="/Volumes/ZWHD/github/LeetCode/MaximumDepthofBinaryTree/MaximumDepthofBinaryTree.h">
 			<Option target="LeetCode"/>
 		</Unit>
+		<Unit filename="/Volumes/ZWHD/github/LeetCode/MaximumGap/MaximumGap.cpp">
+			<Option target="LeetCode"/>
+		</Unit>
+		<Unit filename="/Volumes/ZWHD/github/LeetCode/MaximumGap/MaximumGap.h">
+			<Option target="LeetCode"/>
+		</Unit>
 		<Unit filename="/Volumes/ZWHD/github/LeetCode/MaximumProductSubarray/MaximumProductSubarray.cpp">
 			<Option target="LeetCode"/>
 		</Unit>
@@ -440,6 +470,12 @@
 			<Option target="LeetCode"/>
 		</Unit>
 		<Unit filename="/Volumes/ZWHD/github/LeetCode/MergeSortedLists/MergeSortedLists.h">
+			<Option target="LeetCode"/>
+		</Unit>
+		<Unit filename="/Volumes/ZWHD/github/LeetCode/MinStack/MinStack.cpp">
+			<Option target="LeetCode"/>
+		</Unit>
+		<Unit filename="/Volumes/ZWHD/github/LeetCode/MinStack/MinStack.h">
 			<Option target="LeetCode"/>
 		</Unit>
 		<Unit filename="/Volumes/ZWHD/github/LeetCode/MinimumDepthOfBinaryTree/MinimumDepthOfBinaryTree.cpp">
