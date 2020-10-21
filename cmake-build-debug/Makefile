@@ -933,6 +933,33 @@ EvaluateReversePolishNotation/EvaluateReversePolishNotation.cpp.s:
 	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/EvaluateReversePolishNotation/EvaluateReversePolishNotation.cpp.s
 .PHONY : EvaluateReversePolishNotation/EvaluateReversePolishNotation.cpp.s
 
+ExcelSheetColumnTitle/ExcelSheetColumnTitle.o: ExcelSheetColumnTitle/ExcelSheetColumnTitle.cpp.o
+
+.PHONY : ExcelSheetColumnTitle/ExcelSheetColumnTitle.o
+
+# target to build an object file
+ExcelSheetColumnTitle/ExcelSheetColumnTitle.cpp.o:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/ExcelSheetColumnTitle/ExcelSheetColumnTitle.cpp.o
+.PHONY : ExcelSheetColumnTitle/ExcelSheetColumnTitle.cpp.o
+
+ExcelSheetColumnTitle/ExcelSheetColumnTitle.i: ExcelSheetColumnTitle/ExcelSheetColumnTitle.cpp.i
+
+.PHONY : ExcelSheetColumnTitle/ExcelSheetColumnTitle.i
+
+# target to preprocess a source file
+ExcelSheetColumnTitle/ExcelSheetColumnTitle.cpp.i:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/ExcelSheetColumnTitle/ExcelSheetColumnTitle.cpp.i
+.PHONY : ExcelSheetColumnTitle/ExcelSheetColumnTitle.cpp.i
+
+ExcelSheetColumnTitle/ExcelSheetColumnTitle.s: ExcelSheetColumnTitle/ExcelSheetColumnTitle.cpp.s
+
+.PHONY : ExcelSheetColumnTitle/ExcelSheetColumnTitle.s
+
+# target to generate assembly for a file
+ExcelSheetColumnTitle/ExcelSheetColumnTitle.cpp.s:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/ExcelSheetColumnTitle/ExcelSheetColumnTitle.cpp.s
+.PHONY : ExcelSheetColumnTitle/ExcelSheetColumnTitle.cpp.s
+
 FindMinimumInRotatedSortedArray/FindMinimumInRotatedSortedArray.o: FindMinimumInRotatedSortedArray/FindMinimumInRotatedSortedArray.cpp.o
 
 .PHONY : FindMinimumInRotatedSortedArray/FindMinimumInRotatedSortedArray.o
@@ -1067,6 +1094,33 @@ FlattenBinaryTreeToLinkedList/FlattenBinaryTreeToLinkedList.s: FlattenBinaryTree
 FlattenBinaryTreeToLinkedList/FlattenBinaryTreeToLinkedList.cpp.s:
 	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/FlattenBinaryTreeToLinkedList/FlattenBinaryTreeToLinkedList.cpp.s
 .PHONY : FlattenBinaryTreeToLinkedList/FlattenBinaryTreeToLinkedList.cpp.s
+
+FractionToRecurringDecimal/FractionToRecurringDecimal.o: FractionToRecurringDecimal/FractionToRecurringDecimal.cpp.o
+
+.PHONY : FractionToRecurringDecimal/FractionToRecurringDecimal.o
+
+# target to build an object file
+FractionToRecurringDecimal/FractionToRecurringDecimal.cpp.o:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/FractionToRecurringDecimal/FractionToRecurringDecimal.cpp.o
+.PHONY : FractionToRecurringDecimal/FractionToRecurringDecimal.cpp.o
+
+FractionToRecurringDecimal/FractionToRecurringDecimal.i: FractionToRecurringDecimal/FractionToRecurringDecimal.cpp.i
+
+.PHONY : FractionToRecurringDecimal/FractionToRecurringDecimal.i
+
+# target to preprocess a source file
+FractionToRecurringDecimal/FractionToRecurringDecimal.cpp.i:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/FractionToRecurringDecimal/FractionToRecurringDecimal.cpp.i
+.PHONY : FractionToRecurringDecimal/FractionToRecurringDecimal.cpp.i
+
+FractionToRecurringDecimal/FractionToRecurringDecimal.s: FractionToRecurringDecimal/FractionToRecurringDecimal.cpp.s
+
+.PHONY : FractionToRecurringDecimal/FractionToRecurringDecimal.s
+
+# target to generate assembly for a file
+FractionToRecurringDecimal/FractionToRecurringDecimal.cpp.s:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/FractionToRecurringDecimal/FractionToRecurringDecimal.cpp.s
+.PHONY : FractionToRecurringDecimal/FractionToRecurringDecimal.cpp.s
 
 GasStation/GasStation.o: GasStation/GasStation.cpp.o
 
@@ -1499,6 +1553,33 @@ LongestSubString/LongestSubString.s: LongestSubString/LongestSubString.cpp.s
 LongestSubString/LongestSubString.cpp.s:
 	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/LongestSubString/LongestSubString.cpp.s
 .PHONY : LongestSubString/LongestSubString.cpp.s
+
+MajorityElement/MajorityElement.o: MajorityElement/MajorityElement.cpp.o
+
+.PHONY : MajorityElement/MajorityElement.o
+
+# target to build an object file
+MajorityElement/MajorityElement.cpp.o:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/MajorityElement/MajorityElement.cpp.o
+.PHONY : MajorityElement/MajorityElement.cpp.o
+
+MajorityElement/MajorityElement.i: MajorityElement/MajorityElement.cpp.i
+
+.PHONY : MajorityElement/MajorityElement.i
+
+# target to preprocess a source file
+MajorityElement/MajorityElement.cpp.i:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/MajorityElement/MajorityElement.cpp.i
+.PHONY : MajorityElement/MajorityElement.cpp.i
+
+MajorityElement/MajorityElement.s: MajorityElement/MajorityElement.cpp.s
+
+.PHONY : MajorityElement/MajorityElement.s
+
+# target to generate assembly for a file
+MajorityElement/MajorityElement.cpp.s:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/MajorityElement/MajorityElement.cpp.s
+.PHONY : MajorityElement/MajorityElement.cpp.s
 
 MaxPointsOnALine/MaxPointsOnALine.o: MaxPointsOnALine/MaxPointsOnALine.cpp.o
 
@@ -3390,6 +3471,33 @@ Two-Sum/twosum.cpp.s:
 	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/Two-Sum/twosum.cpp.s
 .PHONY : Two-Sum/twosum.cpp.s
 
+TwoSumII/TwoSumII.o: TwoSumII/TwoSumII.cpp.o
+
+.PHONY : TwoSumII/TwoSumII.o
+
+# target to build an object file
+TwoSumII/TwoSumII.cpp.o:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/TwoSumII/TwoSumII.cpp.o
+.PHONY : TwoSumII/TwoSumII.cpp.o
+
+TwoSumII/TwoSumII.i: TwoSumII/TwoSumII.cpp.i
+
+.PHONY : TwoSumII/TwoSumII.i
+
+# target to preprocess a source file
+TwoSumII/TwoSumII.cpp.i:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/TwoSumII/TwoSumII.cpp.i
+.PHONY : TwoSumII/TwoSumII.cpp.i
+
+TwoSumII/TwoSumII.s: TwoSumII/TwoSumII.cpp.s
+
+.PHONY : TwoSumII/TwoSumII.s
+
+# target to generate assembly for a file
+TwoSumII/TwoSumII.cpp.s:
+	$(MAKE) -f CMakeFiles/LeetCode.dir/build.make CMakeFiles/LeetCode.dir/TwoSumII/TwoSumII.cpp.s
+.PHONY : TwoSumII/TwoSumII.cpp.s
+
 UniqueBinarySearchTrees/UniqueBinarySearchTrees.o: UniqueBinarySearchTrees/UniqueBinarySearchTrees.cpp.o
 
 .PHONY : UniqueBinarySearchTrees/UniqueBinarySearchTrees.o
@@ -3921,6 +4029,9 @@ help:
 	@echo "... EvaluateReversePolishNotation/EvaluateReversePolishNotation.o"
 	@echo "... EvaluateReversePolishNotation/EvaluateReversePolishNotation.i"
 	@echo "... EvaluateReversePolishNotation/EvaluateReversePolishNotation.s"
+	@echo "... ExcelSheetColumnTitle/ExcelSheetColumnTitle.o"
+	@echo "... ExcelSheetColumnTitle/ExcelSheetColumnTitle.i"
+	@echo "... ExcelSheetColumnTitle/ExcelSheetColumnTitle.s"
 	@echo "... FindMinimumInRotatedSortedArray/FindMinimumInRotatedSortedArray.o"
 	@echo "... FindMinimumInRotatedSortedArray/FindMinimumInRotatedSortedArray.i"
 	@echo "... FindMinimumInRotatedSortedArray/FindMinimumInRotatedSortedArray.s"
@@ -3936,6 +4047,9 @@ help:
 	@echo "... FlattenBinaryTreeToLinkedList/FlattenBinaryTreeToLinkedList.o"
 	@echo "... FlattenBinaryTreeToLinkedList/FlattenBinaryTreeToLinkedList.i"
 	@echo "... FlattenBinaryTreeToLinkedList/FlattenBinaryTreeToLinkedList.s"
+	@echo "... FractionToRecurringDecimal/FractionToRecurringDecimal.o"
+	@echo "... FractionToRecurringDecimal/FractionToRecurringDecimal.i"
+	@echo "... FractionToRecurringDecimal/FractionToRecurringDecimal.s"
 	@echo "... GasStation/GasStation.o"
 	@echo "... GasStation/GasStation.i"
 	@echo "... GasStation/GasStation.s"
@@ -3984,6 +4098,9 @@ help:
 	@echo "... LongestSubString/LongestSubString.o"
 	@echo "... LongestSubString/LongestSubString.i"
 	@echo "... LongestSubString/LongestSubString.s"
+	@echo "... MajorityElement/MajorityElement.o"
+	@echo "... MajorityElement/MajorityElement.i"
+	@echo "... MajorityElement/MajorityElement.s"
 	@echo "... MaxPointsOnALine/MaxPointsOnALine.o"
 	@echo "... MaxPointsOnALine/MaxPointsOnALine.i"
 	@echo "... MaxPointsOnALine/MaxPointsOnALine.s"
@@ -4194,6 +4311,9 @@ help:
 	@echo "... Two-Sum/twosum.o"
 	@echo "... Two-Sum/twosum.i"
 	@echo "... Two-Sum/twosum.s"
+	@echo "... TwoSumII/TwoSumII.o"
+	@echo "... TwoSumII/TwoSumII.i"
+	@echo "... TwoSumII/TwoSumII.s"
 	@echo "... UniqueBinarySearchTrees/UniqueBinarySearchTrees.o"
 	@echo "... UniqueBinarySearchTrees/UniqueBinarySearchTrees.i"
 	@echo "... UniqueBinarySearchTrees/UniqueBinarySearchTrees.s"

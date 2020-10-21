@@ -1838,6 +1838,58 @@ CMakeFiles/LeetCode.dir/CompareVersionNumbers/CompareVersionNumbers.cpp.s: cmake
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/CompareVersionNumbers/CompareVersionNumbers.cpp.s"
 	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Volumes/ZWHD/github/LeetCode/CompareVersionNumbers/CompareVersionNumbers.cpp -o CMakeFiles/LeetCode.dir/CompareVersionNumbers/CompareVersionNumbers.cpp.s
 
+CMakeFiles/LeetCode.dir/FractionToRecurringDecimal/FractionToRecurringDecimal.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/FractionToRecurringDecimal/FractionToRecurringDecimal.cpp.o: ../FractionToRecurringDecimal/FractionToRecurringDecimal.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Volumes/ZWHD/github/LeetCode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_138) "Building CXX object CMakeFiles/LeetCode.dir/FractionToRecurringDecimal/FractionToRecurringDecimal.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/LeetCode.dir/FractionToRecurringDecimal/FractionToRecurringDecimal.cpp.o -c /Volumes/ZWHD/github/LeetCode/FractionToRecurringDecimal/FractionToRecurringDecimal.cpp
+
+CMakeFiles/LeetCode.dir/FractionToRecurringDecimal/FractionToRecurringDecimal.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/FractionToRecurringDecimal/FractionToRecurringDecimal.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Volumes/ZWHD/github/LeetCode/FractionToRecurringDecimal/FractionToRecurringDecimal.cpp > CMakeFiles/LeetCode.dir/FractionToRecurringDecimal/FractionToRecurringDecimal.cpp.i
+
+CMakeFiles/LeetCode.dir/FractionToRecurringDecimal/FractionToRecurringDecimal.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/FractionToRecurringDecimal/FractionToRecurringDecimal.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Volumes/ZWHD/github/LeetCode/FractionToRecurringDecimal/FractionToRecurringDecimal.cpp -o CMakeFiles/LeetCode.dir/FractionToRecurringDecimal/FractionToRecurringDecimal.cpp.s
+
+CMakeFiles/LeetCode.dir/TwoSumII/TwoSumII.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/TwoSumII/TwoSumII.cpp.o: ../TwoSumII/TwoSumII.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Volumes/ZWHD/github/LeetCode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_139) "Building CXX object CMakeFiles/LeetCode.dir/TwoSumII/TwoSumII.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/LeetCode.dir/TwoSumII/TwoSumII.cpp.o -c /Volumes/ZWHD/github/LeetCode/TwoSumII/TwoSumII.cpp
+
+CMakeFiles/LeetCode.dir/TwoSumII/TwoSumII.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/TwoSumII/TwoSumII.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Volumes/ZWHD/github/LeetCode/TwoSumII/TwoSumII.cpp > CMakeFiles/LeetCode.dir/TwoSumII/TwoSumII.cpp.i
+
+CMakeFiles/LeetCode.dir/TwoSumII/TwoSumII.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/TwoSumII/TwoSumII.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Volumes/ZWHD/github/LeetCode/TwoSumII/TwoSumII.cpp -o CMakeFiles/LeetCode.dir/TwoSumII/TwoSumII.cpp.s
+
+CMakeFiles/LeetCode.dir/ExcelSheetColumnTitle/ExcelSheetColumnTitle.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/ExcelSheetColumnTitle/ExcelSheetColumnTitle.cpp.o: ../ExcelSheetColumnTitle/ExcelSheetColumnTitle.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Volumes/ZWHD/github/LeetCode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_140) "Building CXX object CMakeFiles/LeetCode.dir/ExcelSheetColumnTitle/ExcelSheetColumnTitle.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/LeetCode.dir/ExcelSheetColumnTitle/ExcelSheetColumnTitle.cpp.o -c /Volumes/ZWHD/github/LeetCode/ExcelSheetColumnTitle/ExcelSheetColumnTitle.cpp
+
+CMakeFiles/LeetCode.dir/ExcelSheetColumnTitle/ExcelSheetColumnTitle.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/ExcelSheetColumnTitle/ExcelSheetColumnTitle.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Volumes/ZWHD/github/LeetCode/ExcelSheetColumnTitle/ExcelSheetColumnTitle.cpp > CMakeFiles/LeetCode.dir/ExcelSheetColumnTitle/ExcelSheetColumnTitle.cpp.i
+
+CMakeFiles/LeetCode.dir/ExcelSheetColumnTitle/ExcelSheetColumnTitle.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/ExcelSheetColumnTitle/ExcelSheetColumnTitle.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Volumes/ZWHD/github/LeetCode/ExcelSheetColumnTitle/ExcelSheetColumnTitle.cpp -o CMakeFiles/LeetCode.dir/ExcelSheetColumnTitle/ExcelSheetColumnTitle.cpp.s
+
+CMakeFiles/LeetCode.dir/MajorityElement/MajorityElement.cpp.o: CMakeFiles/LeetCode.dir/flags.make
+CMakeFiles/LeetCode.dir/MajorityElement/MajorityElement.cpp.o: ../MajorityElement/MajorityElement.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Volumes/ZWHD/github/LeetCode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_141) "Building CXX object CMakeFiles/LeetCode.dir/MajorityElement/MajorityElement.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/LeetCode.dir/MajorityElement/MajorityElement.cpp.o -c /Volumes/ZWHD/github/LeetCode/MajorityElement/MajorityElement.cpp
+
+CMakeFiles/LeetCode.dir/MajorityElement/MajorityElement.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LeetCode.dir/MajorityElement/MajorityElement.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Volumes/ZWHD/github/LeetCode/MajorityElement/MajorityElement.cpp > CMakeFiles/LeetCode.dir/MajorityElement/MajorityElement.cpp.i
+
+CMakeFiles/LeetCode.dir/MajorityElement/MajorityElement.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LeetCode.dir/MajorityElement/MajorityElement.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Volumes/ZWHD/github/LeetCode/MajorityElement/MajorityElement.cpp -o CMakeFiles/LeetCode.dir/MajorityElement/MajorityElement.cpp.s
+
 # Object files for target LeetCode
 LeetCode_OBJECTS = \
 "CMakeFiles/LeetCode.dir/AddTwoNumbers/AddTwoNumbers.cpp.o" \
@@ -1976,7 +2028,11 @@ LeetCode_OBJECTS = \
 "CMakeFiles/LeetCode.dir/IntersectionOfTwoLinkedLists/IntersectionOfTwoLinkedLists.cpp.o" \
 "CMakeFiles/LeetCode.dir/FindPeakElement/FindPeakElement.cpp.o" \
 "CMakeFiles/LeetCode.dir/MaximumGap/MaximumGap.cpp.o" \
-"CMakeFiles/LeetCode.dir/CompareVersionNumbers/CompareVersionNumbers.cpp.o"
+"CMakeFiles/LeetCode.dir/CompareVersionNumbers/CompareVersionNumbers.cpp.o" \
+"CMakeFiles/LeetCode.dir/FractionToRecurringDecimal/FractionToRecurringDecimal.cpp.o" \
+"CMakeFiles/LeetCode.dir/TwoSumII/TwoSumII.cpp.o" \
+"CMakeFiles/LeetCode.dir/ExcelSheetColumnTitle/ExcelSheetColumnTitle.cpp.o" \
+"CMakeFiles/LeetCode.dir/MajorityElement/MajorityElement.cpp.o"
 
 # External object files for target LeetCode
 LeetCode_EXTERNAL_OBJECTS =
@@ -2118,9 +2174,13 @@ LeetCode: CMakeFiles/LeetCode.dir/IntersectionOfTwoLinkedLists/IntersectionOfTwo
 LeetCode: CMakeFiles/LeetCode.dir/FindPeakElement/FindPeakElement.cpp.o
 LeetCode: CMakeFiles/LeetCode.dir/MaximumGap/MaximumGap.cpp.o
 LeetCode: CMakeFiles/LeetCode.dir/CompareVersionNumbers/CompareVersionNumbers.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/FractionToRecurringDecimal/FractionToRecurringDecimal.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/TwoSumII/TwoSumII.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/ExcelSheetColumnTitle/ExcelSheetColumnTitle.cpp.o
+LeetCode: CMakeFiles/LeetCode.dir/MajorityElement/MajorityElement.cpp.o
 LeetCode: CMakeFiles/LeetCode.dir/build.make
 LeetCode: CMakeFiles/LeetCode.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Volumes/ZWHD/github/LeetCode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_138) "Linking CXX executable LeetCode"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Volumes/ZWHD/github/LeetCode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_142) "Linking CXX executable LeetCode"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/LeetCode.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

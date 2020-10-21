@@ -4,13 +4,16 @@
 //#include "RegularExpressionMatching/RegularExpressionMatching.h"
 
 //#include "InsertionSortList/InsertionSortList.h"
-#include "CompareVersionNumbers/CompareVersionNumbers.h"
+#include "MajorityElement/MajorityElement.h"
 
 int main()
 {
-    CompareVersionNumbers *m = new CompareVersionNumbers();
+    MajorityElement *m = new MajorityElement();
 
-    std::cout<<m->compareVersion("7.5.2.4", "7.5.3")<<std::endl;
+    std::vector<int> vc = {2, 2, 1, 1, 1, 2, 2};
+
+
+    std::cout<<m->majorityElement(vc)<<std::endl;
 }
 
 

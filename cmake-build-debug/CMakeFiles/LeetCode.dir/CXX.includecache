@@ -6,15 +6,17 @@
 
 #IncludeRegexTransform: 
 
-/Volumes/ZWHD/github/LeetCode/CompareVersionNumbers/CompareVersionNumbers.cpp
-CompareVersionNumbers.h
-/Volumes/ZWHD/github/LeetCode/CompareVersionNumbers/CompareVersionNumbers.h
+/Volumes/ZWHD/github/LeetCode/MajorityElement/MajorityElement.cpp
+MajorityElement.h
+/Volumes/ZWHD/github/LeetCode/MajorityElement/MajorityElement.h
 
-/Volumes/ZWHD/github/LeetCode/CompareVersionNumbers/CompareVersionNumbers.h
+/Volumes/ZWHD/github/LeetCode/MajorityElement/MajorityElement.h
 iostream
+-
+vector
 -
 
 /Volumes/ZWHD/github/LeetCode/main.cpp
-CompareVersionNumbers/CompareVersionNumbers.h
-/Volumes/ZWHD/github/LeetCode/CompareVersionNumbers/CompareVersionNumbers.h
+MajorityElement/MajorityElement.h
+/Volumes/ZWHD/github/LeetCode/MajorityElement/MajorityElement.h
 

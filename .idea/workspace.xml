@@ -12,18 +12,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6572f727-0fe8-4c92-80bd-b9f70d0e5706" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/CompareVersionNumbers/CompareVersionNumbers.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CompareVersionNumbers/CompareVersionNumbers.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FindMinimumInRotatedSortedArrayII/FindMinimumInRotatedSortedArrayII.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FindMinimumInRotatedSortedArrayII/FindMinimumInRotatedSortedArrayII.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FindPeakElement/FindPeakElement.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FindPeakElement/FindPeakElement.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IntersectionOfTwoLinkedLists/IntersectionOfTwoLinkedLists.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IntersectionOfTwoLinkedLists/IntersectionOfTwoLinkedLists.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MaximumGap/MaximumGap.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MaximumGap/MaximumGap.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MinStack/MinStack.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MinStack/MinStack.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExcelSheetColumnTitle/ExcelSheetColumnTitle.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExcelSheetColumnTitle/ExcelSheetColumnTitle.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FractionToRecurringDecimal/FractionToRecurringDecimal.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FractionToRecurringDecimal/FractionToRecurringDecimal.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MajorityElement/MajorityElement.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MajorityElement/MajorityElement.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TwoSumII/TwoSumII.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TwoSumII/TwoSumII.h" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LeetCode.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LeetCode.dir/CXX.includecache" afterDir="false" />
@@ -293,6 +289,10 @@
       <workItem from="1587603279791" duration="5221000" />
       <workItem from="1587956084897" duration="4520000" />
       <workItem from="1588036740201" duration="5864000" />
+      <workItem from="1588043604788" duration="126000" />
+      <workItem from="1588121118333" duration="4655000" />
+      <workItem from="1595377904900" duration="14000" />
+      <workItem from="1603263513678" duration="1497000" />
     </task>
     <servers />
   </component>
@@ -849,6 +849,16 @@
           <url>file://$PROJECT_DIR$/CompareVersionNumbers/CompareVersionNumbers.cpp</url>
           <line>7</line>
           <option name="timeStamp" value="140" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/FractionToRecurringDecimal/FractionToRecurringDecimal.cpp</url>
+          <line>7</line>
+          <option name="timeStamp" value="141" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/TwoSumII/TwoSumII.cpp</url>
+          <line>7</line>
+          <option name="timeStamp" value="142" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

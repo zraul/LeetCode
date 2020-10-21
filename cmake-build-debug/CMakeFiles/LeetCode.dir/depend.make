@@ -92,6 +92,9 @@ CMakeFiles/LeetCode.dir/EditDistance/EditDistance.cpp.o: ../EditDistance/EditDis
 CMakeFiles/LeetCode.dir/EvaluateReversePolishNotation/EvaluateReversePolishNotation.cpp.o: ../EvaluateReversePolishNotation/EvaluateReversePolishNotation.cpp
 CMakeFiles/LeetCode.dir/EvaluateReversePolishNotation/EvaluateReversePolishNotation.cpp.o: ../EvaluateReversePolishNotation/EvaluateReversePolishNotation.h
 
+CMakeFiles/LeetCode.dir/ExcelSheetColumnTitle/ExcelSheetColumnTitle.cpp.o: ../ExcelSheetColumnTitle/ExcelSheetColumnTitle.cpp
+CMakeFiles/LeetCode.dir/ExcelSheetColumnTitle/ExcelSheetColumnTitle.cpp.o: ../ExcelSheetColumnTitle/ExcelSheetColumnTitle.h
+
 CMakeFiles/LeetCode.dir/FindMinimumInRotatedSortedArray/FindMinimumInRotatedSortedArray.cpp.o: ../FindMinimumInRotatedSortedArray/FindMinimumInRotatedSortedArray.cpp
 CMakeFiles/LeetCode.dir/FindMinimumInRotatedSortedArray/FindMinimumInRotatedSortedArray.cpp.o: ../FindMinimumInRotatedSortedArray/FindMinimumInRotatedSortedArray.h
 
@@ -106,6 +109,9 @@ CMakeFiles/LeetCode.dir/FirstMissingPositive/FirstMissingPositive.cpp.o: ../Firs
 
 CMakeFiles/LeetCode.dir/FlattenBinaryTreeToLinkedList/FlattenBinaryTreeToLinkedList.cpp.o: ../FlattenBinaryTreeToLinkedList/FlattenBinaryTreeToLinkedList.cpp
 CMakeFiles/LeetCode.dir/FlattenBinaryTreeToLinkedList/FlattenBinaryTreeToLinkedList.cpp.o: ../FlattenBinaryTreeToLinkedList/FlattenBinaryTreeToLinkedList.h
+
+CMakeFiles/LeetCode.dir/FractionToRecurringDecimal/FractionToRecurringDecimal.cpp.o: ../FractionToRecurringDecimal/FractionToRecurringDecimal.cpp
+CMakeFiles/LeetCode.dir/FractionToRecurringDecimal/FractionToRecurringDecimal.cpp.o: ../FractionToRecurringDecimal/FractionToRecurringDecimal.h
 
 CMakeFiles/LeetCode.dir/GasStation/GasStation.cpp.o: ../GasStation/GasStation.cpp
 CMakeFiles/LeetCode.dir/GasStation/GasStation.cpp.o: ../GasStation/GasStation.h
@@ -155,6 +161,9 @@ CMakeFiles/LeetCode.dir/LongestConsecutiveSequence/LongestConsecutiveSequence.cp
 CMakeFiles/LeetCode.dir/LongestSubString/LongestSubString.cpp.o: ../LongestSubString/LongestSubString.cpp
 CMakeFiles/LeetCode.dir/LongestSubString/LongestSubString.cpp.o: ../LongestSubString/LongestSubString.h
 CMakeFiles/LeetCode.dir/LongestSubString/LongestSubString.cpp.o: ../common.h
+
+CMakeFiles/LeetCode.dir/MajorityElement/MajorityElement.cpp.o: ../MajorityElement/MajorityElement.cpp
+CMakeFiles/LeetCode.dir/MajorityElement/MajorityElement.cpp.o: ../MajorityElement/MajorityElement.h
 
 CMakeFiles/LeetCode.dir/MaxPointsOnALine/MaxPointsOnALine.cpp.o: ../MaxPointsOnALine/MaxPointsOnALine.cpp
 CMakeFiles/LeetCode.dir/MaxPointsOnALine/MaxPointsOnALine.cpp.o: ../MaxPointsOnALine/MaxPointsOnALine.h
@@ -374,6 +383,9 @@ CMakeFiles/LeetCode.dir/Two-Sum/twosum.cpp.o: ../Two-Sum/twosum.cpp
 CMakeFiles/LeetCode.dir/Two-Sum/twosum.cpp.o: ../Two-Sum/twosum.h
 CMakeFiles/LeetCode.dir/Two-Sum/twosum.cpp.o: ../common.h
 
+CMakeFiles/LeetCode.dir/TwoSumII/TwoSumII.cpp.o: ../TwoSumII/TwoSumII.cpp
+CMakeFiles/LeetCode.dir/TwoSumII/TwoSumII.cpp.o: ../TwoSumII/TwoSumII.h
+
 CMakeFiles/LeetCode.dir/UniqueBinarySearchTrees/UniqueBinarySearchTrees.cpp.o: ../UniqueBinarySearchTrees/UniqueBinarySearchTrees.cpp
 CMakeFiles/LeetCode.dir/UniqueBinarySearchTrees/UniqueBinarySearchTrees.cpp.o: ../UniqueBinarySearchTrees/UniqueBinarySearchTrees.h
 
@@ -420,6 +432,6 @@ CMakeFiles/LeetCode.dir/ZigZag/ZigZag.cpp.o: ../ZigZag/ZigZag.cpp
 CMakeFiles/LeetCode.dir/ZigZag/ZigZag.cpp.o: ../ZigZag/ZigZag.h
 CMakeFiles/LeetCode.dir/ZigZag/ZigZag.cpp.o: ../common.h
 
-CMakeFiles/LeetCode.dir/main.cpp.o: ../CompareVersionNumbers/CompareVersionNumbers.h
+CMakeFiles/LeetCode.dir/main.cpp.o: ../MajorityElement/MajorityElement.h
 CMakeFiles/LeetCode.dir/main.cpp.o: ../main.cpp
 
