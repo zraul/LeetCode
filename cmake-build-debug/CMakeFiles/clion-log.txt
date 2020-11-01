@@ -1,4 +1,4 @@
-/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /Volumes/ZWHD/github/LeetCode
+/home/wei/tools/clion-2020.2.3/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/wei/github/Leetcode
 -- Configuring done
 -- Generating done
--- Build files have been written to: /Volumes/ZWHD/github/LeetCode/cmake-build-debug
+-- Build files have been written to: /home/wei/github/Leetcode/cmake-build-debug

@@ -4,16 +4,13 @@
 //#include "RegularExpressionMatching/RegularExpressionMatching.h"
 
 //#include "InsertionSortList/InsertionSortList.h"
-#include "MajorityElement/MajorityElement.h"
+#include "ExcelSheetColumnNumber//ExcelSheetColumnNumber.h"
 
 int main()
 {
-    MajorityElement *m = new MajorityElement();
+    ExcelSheetColumnNumber *m = new ExcelSheetColumnNumber();
 
-    std::vector<int> vc = {2, 2, 1, 1, 1, 2, 2};
-
-
-    std::cout<<m->majorityElement(vc)<<std::endl;
+    std::cout<<m->titleToNumber("ZY")<<std::endl;
 }
 
 

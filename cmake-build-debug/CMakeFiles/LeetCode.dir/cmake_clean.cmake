@@ -29,6 +29,7 @@ file(REMOVE_RECURSE
   "CMakeFiles/LeetCode.dir/DistributeCandiesToPeople/DistributeCandiesToPeople.cpp.o"
   "CMakeFiles/LeetCode.dir/EditDistance/EditDistance.cpp.o"
   "CMakeFiles/LeetCode.dir/EvaluateReversePolishNotation/EvaluateReversePolishNotation.cpp.o"
+  "CMakeFiles/LeetCode.dir/ExcelSheetColumnNumber/ExcelSheetColumnNumber.cpp.o"
   "CMakeFiles/LeetCode.dir/ExcelSheetColumnTitle/ExcelSheetColumnTitle.cpp.o"
   "CMakeFiles/LeetCode.dir/FindMinimumInRotatedSortedArray/FindMinimumInRotatedSortedArray.cpp.o"
   "CMakeFiles/LeetCode.dir/FindMinimumInRotatedSortedArrayII/FindMinimumInRotatedSortedArrayII.cpp.o"

@@ -1,3 +1,3 @@
-/Volumes/ZWHD/github/LeetCode/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/Volumes/ZWHD/github/LeetCode/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Volumes/ZWHD/github/LeetCode/cmake-build-debug/CMakeFiles/LeetCode.dir
+/home/wei/github/Leetcode/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/wei/github/Leetcode/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/wei/github/Leetcode/cmake-build-debug/CMakeFiles/LeetCode.dir
